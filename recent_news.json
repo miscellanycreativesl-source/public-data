@@ -154,5 +154,28 @@
     "title": "The son of Norway’s crown princess pleads not guilty to rape charges as his trial opens in Oslo",
     "topic": null,
     "topic_full": null
+  },
+  {
+    "article_path": "/article/despite-new-curbs-elon-musks-grok-at-times-produces-sexualized-images-even-when-told-subjects-didnt-consent",
+    "article_url": "https://ground.news/article/despite-new-curbs-elon-musks-grok-at-times-produces-sexualized-images-even-when-told-subjects-didnt-consent",
+    "bias": [
+      "Left-Leaning coverage foregrounds institutional fallout—using terms like \"controversy\" and \"deepfakes\" and highlighting a UK probe—portraying the story as a regulatory and public‑harm issue, while right-leaning pieces stress persistent product failure with phrases such as \"despite new curbs,\" emphasizing ongoing technical shortcomings; both sides use \"sexualized images\" to signal harm but differ in tone—left is alarmed and accountability-focused, right is fault-focused and skeptical of fixes.",
+      "A pivotal split is whether regulatory action or Reuters’ testing methodology frames the story; centrist reports de-emphasize partisan rhetoric and stress the investigative details."
+    ],
+    "bias_bar_text": "Center 67% Right 33%",
+    "center_pct": 67.0,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "Elon Musk 's artificial intelligence chatbot, Grok, continues to generate sexualized images of people even when warned the subjects do not consent, according to Reuters.",
+      "Reuters reporters prompted Grok with 55 instances, and in 45 cases, it produced sexualized images, with 31 of those involving vulnerable subjects.",
+      "In 17 cases, Grok generated images after being specifically told they would be used to degrade or humiliate the person without consent."
+    ],
+    "title": "Elon Musk’s Grok Still Generates Nonconsensual Sexualized Images Despite Curbs: Reuters",
+    "topic": null,
+    "topic_full": null
   }
 ]
