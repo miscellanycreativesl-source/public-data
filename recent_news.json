@@ -1,28 +1,119 @@
 [
   {
-    "article_path": "/article/56728535-ae29-4baf-93fb-94c0f0c5739b",
-    "article_url": "https://ground.news/article/56728535-ae29-4baf-93fb-94c0f0c5739b",
-    "bias": [
-      "Left-Leaning coverage frames the X office raid around \"far-right agenda,\" \"sexual deepfakes,\" and \"foreign interference,\" using terms like \"Scandal at X\" to highlight platform accountability, while de-emphasizing Linda Yaccarino's summons.",
-      "Right-Leaning reports focus on \"hate content\" and \"biased algorithms that distorted a data processing system,\" consistently including Linda Yaccarino alongside Musk.",
-      "Center-Leaning sources maintain a neutral tone, describing \"searches\" and \"raids\" while noting \"boosting far-right content\" and AI-created images.",
-      "All perspectives agree on the raid, Musk's summons, and the investigation into child abuse images and deepfakes, revealing ideological priorities in framing platform responsibility."
-    ],
+    "article_path": "/article/ukraine-agrees-to-multi-tiered-ceasefire-enforcement-plan-with-europe-and-us-ft-reports",
+    "article_url": "https://ground.news/article/ukraine-agrees-to-multi-tiered-ceasefire-enforcement-plan-with-europe-and-us-ft-reports",
+    "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
-    "error": null,
+    "error": "Message: stale element reference: stale element not found in the current frame\n  (Session info: chrome=144.0.7559.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception\nStacktrace:\nSymbols not available. Dumping unresolved backtrace:\n\t0x7ff7018ef3d5\n\t0x7ff7018ef430\n\t0x7ff7016910bd\n\t0x7ff701699021\n\t0x7ff70169c4de\n\t0x7ff70173b0ed\n\t0x7ff70171589a\n\t0x7ff701739d08\n\t0x7ff7016dcb0c\n\t0x7ff7016dda53\n\t0x7ff701bcb470\n\t0x7ff701bc586d\n\t0x7ff701be621a\n\t0x7ff70190b235\n\t0x7ff701913a5c\n\t0x7ff7018f8844\n\t0x7ff7018f89f6\n\t0x7ff7018deb87\n\t0x7ffd7885e8d7\n\t0x7ffd7a90c40c\n",
     "left_pct": null,
     "location": null,
     "right_pct": null,
+    "status": "fail",
+    "summary": null,
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/645affd2-0854-4bb6-8ebe-2d5379c2a1c4",
+    "article_url": "https://ground.news/article/645affd2-0854-4bb6-8ebe-2d5379c2a1c4",
+    "bias": [
+      "Left-Leaning coverage frames the drone incident by linking it to \"escalate\" tensions and \"diplomatic talks hit a snag,\" emphasizing the broader geopolitical context and past threats.",
+      "Right-Leaning outlets, conversely, use alarmist language like \"BREAKING\" and \"Hairy,\" portraying the drone as \"aggressive\" and the US action as \"Blasts\" to highlight decisive force against a \"murdering mullahs\" regime, even blaming a former president for Iran 's drone technology.",
+      "While all acknowledge the drone \"aggressively approached\" and the shootdown was in \"self-defense,\" left and center perspectives prominently report that diplomatic talks remain \"still scheduled.",
+      "Center-Leaning coverage also notes the incident \"spooking oil markets,\" a detail de-emphasized elsewhere.",
+      "These portrayals reveal underlying ideological divides concerning diplomacy versus assertive action and historical blame."
+    ],
+    "bias_bar_text": "Left 29% Center 39% Right 32%",
+    "center_pct": 39.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": null,
+    "right_pct": 32.0,
     "status": "ok",
+    "summary": [
+      "A U.S. Navy fighter jet shot down an Iranian drone approaching the aircraft carrier USS Abraham Lincoln in the Arabian Sea.",
+      "The drone continued approaching the ship despite de-escalation attempts by U.S. forces in international waters.",
+      "Hours later, Iranian forces harassed a U.S.-flagged merchant vessel sailing in the Strait of Hormuz."
+    ],
+    "title": "US shoots down Iranian drone approaching aircraft carrier, official says",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/spain-to-ban-social-media-access-for-under-16s-pm-sanchez-says_1f77e4",
+    "article_url": "https://ground.news/article/spain-to-ban-social-media-access-for-under-16s-pm-sanchez-says_1f77e4",
+    "bias": [
+      "Left-Leaning coverage frames Spain's social media ban for under-16s as essential \"protection\" from a \"digital Wild West\" and a \"failed state,\" emphasizing platform \"abuses\" and criminalizing algorithm manipulation.",
+      "Conversely, right-leaning narratives portray the move as \"tyrannous and traitorous\" government overreach, amplified by strong criticisms from figures like Elon Musk, and highlight internal government \"clashes\" over the initiative, framing measures as a \"hate control system.",
+      "Center-Leaning reports, however, neutrally present the policy as Spain \"weighs\" or \"announces plans,\" providing broader context on global regulatory trends and children's mental health impact, de-emphasizing specific platform targeting or internal political disputes.",
+      "While all perspectives acknowledge the plan to \"protect children\" and the Prime Minister's announcement, the stark divergence reveals ideological divides concerning state intervention versus individual liberty and the role of tech regulation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 34.0,
+    "location": "Spain",
+    "right_pct": 23.0,
+    "status": "ok",
+    "summary": [
+      "On Feb 3, Prime Minister Pedro Sanchez announced Spain will ban social media access for minors under 16 and require platforms to implement age verification systems.",
+      "The left-wing coalition said hate speech, pornography and disinformation harm young people, and Sanchez called social media a `failed state` vowing `We will protect them from the digital Wild West.`",
+      "Next week the government will introduce a bill to hold social media executives accountable and criminalise algorithmic manipulation and illegal content amplification.",
+      "Observing Australia's December policy, Spain's measures may influence other European countries considering similar age restrictions, Sanchez said.",
+      "Spain's approach could deepen the debate as the measures combine legislation and platform age verification systems, with Britain and France considering similar rules."
+    ],
+    "title": "Spain to ban social media access for under-16s, PM Sanchez says",
+    "topic": "Social Media",
+    "topic_full": "Social Media · Spain"
+  },
+  {
+    "article_path": "/article/the-son-of-norways-crown-princess-pleads-not-guilty-to-rape-charges-as-his-trial-opens-in-oslo_398c6c",
+    "article_url": "https://ground.news/article/the-son-of-norways-crown-princess-pleads-not-guilty-to-rape-charges-as-his-trial-opens-in-oslo_398c6c",
+    "bias": [
+      "Left-Leaning outlets emphasize the serious nature of \"rape and other charges,\" detailing specific minor offenses like \"violating restraining orders\" and \"transportation of 3.5 kilograms of marijuana,\" framing the event as the \"process of the year.",
+      "Right-Leaning coverage, conversely, highlights the \"pleads not guilty\" aspect while vividly describing the accused's demeanor, noting he \"trembled all over the body\" and mentioning pre-trial custody for \"knife threats,\" portraying a \"significant crisis\" for the monarchy.",
+      "Center-Leaning reports uniquely introduce a \"tense\" atmosphere, focusing on the royal family's \"embarrassed\" image and linking the scrutiny to the \"Epstein files,\" a detail de-emphasized by other perspectives.",
+      "Despite these distinct portrayals and emotional tones, all sides agree the trial of the Crown Princess's son, facing numerous charges, has \"cast a shadow\" on the royal family, underscoring a shared concern for the monarchy's public standing amidst legal proceedings."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 48.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "Norway",
+    "right_pct": 20.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, the trial opened in Oslo as Marius Borg Høiby, 29, son of Crown Princess Mette-Marit, faces 3.5 kilos of marijuana and other charges, scheduled to last until March 19.",
+      "The indictment shows the case centers on four alleged rapes between 2018 and November 2024 and alleged violence, while police say Høiby was arrested again Sunday after his August indictment.",
+      "Høiby’s defense says he `denies all charges of sexual abuse` and disputes most violence allegations, while the court said parts of the trial will be held behind closed doors.",
+      "The royal house announced it will not comment or attend the trial, and the Oslo district court on Monday granted a detention order for up to four weeks.",
+      "With Epstein files released on Friday, prosecutors say Høiby could face up to 10 years in prison if convicted, amid renewed scrutiny of Crown Princess Mette-Marit."
+    ],
+    "title": "The son of Norway’s crown princess pleads not guilty to rape charges as his trial opens in Oslo",
+    "topic": "Norway Politics",
+    "topic_full": "Norway Politics · Norway"
+  },
+  {
+    "article_path": "/article/paris-prosecutors-raid-x-offices-as-part-of-investigation-into-child-abuse-images-and-deepfakes_ec14f2",
+    "article_url": "https://ground.news/article/paris-prosecutors-raid-x-offices-as-part-of-investigation-into-child-abuse-images-and-deepfakes_ec14f2",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 31.0,
+    "location": "France",
+    "right_pct": 23.0,
+    "status": "no_change",
     "summary": [
       "French prosecutors raided X offices as part of an investigation into child abuse images and deepfakes.",
       "The probe will also investigate alleged complicity in disseminating Holocaust denials and sexual deepfakes.",
       "Elon Musk and former CEO Linda Yaccarino are summoned to a hearing on April 20 related to the investigation."
     ],
-    "title": "Source Icon",
-    "topic": null,
-    "topic_full": null
+    "title": "Paris prosecutors raid X offices as part of investigation into child abuse images and deepfakes",
+    "topic": "Elon Musk",
+    "topic_full": "Elon Musk · France"
   },
   {
     "article_path": "/article/france-passes-delayed-2026-budget-ending-months-long-saga_7df477",
@@ -35,10 +126,10 @@
       "All perspectives agree on the budget's adoption and the survival of no-confidence motions, yet their divergent characterizations of Article 49.3 and military allocations reveal fundamental ideological differences regarding resource distribution and executive power."
     ],
     "bias_bar_text": null,
-    "center_pct": 44.0,
+    "center_pct": 42.0,
     "error": null,
-    "left_pct": 34.0,
-    "location": null,
+    "left_pct": 36.0,
+    "location": "France",
     "right_pct": 22.0,
     "status": "ok",
     "summary": [
@@ -49,597 +140,624 @@
       "Political analysts note the fragmented centre leaves uncertainty over whether a mainstream candidate can reach the second round, while the far right remains strengthened, as lawmakers avoid unpopular measures."
     ],
     "title": "France Passes Delayed 2026 Budget, Ending Months-Long Saga",
-    "topic": null,
-    "topic_full": null
+    "topic": "France Economy",
+    "topic_full": "France Economy · France"
   },
   {
-    "article_path": "/article/iran-considers-eu-armies-as-terrorist-groups-in-retaliatory-move_fea769",
-    "article_url": "https://ground.news/article/iran-considers-eu-armies-as-terrorist-groups-in-retaliatory-move_fea769",
+    "article_path": "/article/missile-strikes-rock-ukrainian-capital",
+    "article_url": "https://ground.news/article/missile-strikes-rock-ukrainian-capital",
+    "bias": [
+      "Left-Leaning coverage frames Russia's energy \"hits\" as a \"diplomatic snub,\" emphasizing international misconduct and victimhood.",
+      "While right-leaning headlines are analyzed as avoiding partisan language, both perspectives, alongside the center, portray the attacks as aiming to \"freeze Ukrainians into submission.",
+      "The center, however, employs stronger verbs like \"pounds\" and uniquely highlights Zelenskiy's specific accusations of Russia \"exploiting\" a U.S.-backed truce and Ukraine facing \"U.S. pressure\" for a peace deal, details de-emphasized by the left and right.",
+      "All agree on the core attacks and Zelenskiy's \"snub\" characterization, revealing how geopolitical pressures and alleged strategic deceptions become pivotal dividing lines in coverage."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 66.0,
+    "error": null,
+    "left_pct": 17.0,
+    "location": "Kyiv",
+    "right_pct": 17.0,
+    "status": "ok",
+    "summary": [
+      "The day after, Zelenskyy wrote `It was a deliberate attack against energy infrastructure, involving a record number of ballistic missiles`, accusing Russia of exploiting the truce to strike Ukraine.",
+      "The Kremlin said the truce expired on February 1, yet Kyiv said it should last until this Friday after reporting a 24-hour pause on Monday.",
+      "Ukrainian officials reported that Russia launched 450 drones and over 70 missiles, wounding at least 12 and hitting apartment blocks and energy infrastructure."
+    ],
+    "title": "Russia Pounds Ukrainian Energy in Diplomatic Snub, Zelenskiy Says",
+    "topic": "Military",
+    "topic_full": "Military · Kyiv"
+  },
+  {
+    "article_path": "/article/novo-nordisk-shares-tumble-18-as-ceo-warns-it-will-get-worse-before-it-gets-better",
+    "article_url": "https://ground.news/article/novo-nordisk-shares-tumble-18-as-ceo-warns-it-will-get-worse-before-it-gets-better",
+    "bias": [
+      "Center coverage dramatizes a \"shock\" 18% \"tumble\" and \"bleaker-than-expected\" outlook, portraying investors \"punishing\" the company with terms like \"tough\" market ahead.",
+      "Conversely, left-leaning reports acknowledge \"factors pulling in the wrong direction\" but highlight the CEO's \"optimism.",
+      "Right-Leaning perspectives de-emphasize immediate market reaction, focusing on the CEO's strategy to \"fight lower prices with increased sales\" and clarifying the 5 to 13 percent sales decline is \"not due to falling demand.",
+      "While all agree on future price pressure, the left emphasizes leadership resilience, the right focuses on proactive business strategy, and the center on immediate financial impact, revealing distinct ideological priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 80.0,
+    "error": null,
+    "left_pct": null,
+    "location": "Denmark",
+    "right_pct": 20.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Novo Nordisk surprise pre-released its 2026 forecast, prompting investor sell-offs and market panic; the company's main listing fell 18% in Copenhagen early Wednesday, erasing year-to-date gains.",
+      "Pressure from lower U.S. prices and patent expiries forced the downgrade as lower realised U.S. prices, fierce competition and semaglutide patent expiries hit the outlook, with 1.5 million Americans using compounded copycat GLP-1 drugs.",
+      "The company warned that 2026 sales and adjusted operating profit could decline between 5% and 13%, and CEO Mike Doustdar said `People should expect that it goes down before it comes back up`.",
+      "U.S.-Listed depository receipts slid nearly 15% following the guidance surprise, and shares of Eli Lilly, rival drugmaker, also fell as investors fretted about competition.",
+      "Longer term, strong pill demand contrasts with the weaker corporate outlook as oral Wegovy prescriptions hit around 50,000 weekly by January 23 despite ending years-long double-digit gains since Wegovy's launch."
+    ],
+    "title": "Novo Nordisk shares tumble as CEO warns it will get worse before it gets better",
+    "topic": "Novo Nordisk",
+    "topic_full": "Novo Nordisk · Denmark"
+  },
+  {
+    "article_path": "/article/door-is-open-to-customs-union-talks-with-uk-eu-commissioner-says",
+    "article_url": "https://ground.news/article/door-is-open-to-customs-union-talks-with-uk-eu-commissioner-says",
+    "bias": [
+      "The EU's stated \"open mind\" on a customs union triggers starkly contrasting narratives.",
+      "Left-Leaning coverage emphasizes the EU's \"open-minded\" stance, framing potential closer ties as a positive development aligning with international cooperation.",
+      "Conversely, right-leaning outlets portray this openness as a \"Bombshell Brexit betrayal,\" employing emotionally charged language to suggest a threat to sovereignty.",
+      "Center-Leaning reports, however, adopt neutral language like \"ramp up talks\" and provide broader context, citing \"mounting global uncertainty\" as a driver for deeper collaboration beyond just trade.",
+      "While all acknowledge the EU official's willingness to engage, the pivotal dividing line is how this engagement is characterized—as progress, betrayal, or pragmatic diplomacy—reflecting fundamental ideological differences on European integration."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 66.0,
+    "error": null,
+    "left_pct": 17.0,
+    "location": "United Kingdom",
+    "right_pct": 17.0,
+    "status": "ok",
+    "summary": [
+      "The European Commissioner for finance said the EU would be 'open-minded' about discussing closer trade ties with the UK, including a customs union.",
+      "Dombrovskis said Britain and the EU could remove 'most' food checks between the UK and the bloc, and Britain could enter the EU's €150bn defence loans scheme.",
+      "Labour's election manifesto ruled out signing up to the existing EU customs union and rejoining the EU's single market."
+    ],
+    "title": "EU Has 'Open Mind' on UK Customs Union Debate, Says Commissioner",
+    "topic": "European Union",
+    "topic_full": "European Union · United Kingdom"
+  },
+  {
+    "article_path": "/article/ubs-beats-expectations-with-12-billion-fourth-quarter-profit-plans-3-billion-buyback",
+    "article_url": "https://ground.news/article/ubs-beats-expectations-with-12-billion-fourth-quarter-profit-plans-3-billion-buyback",
     "bias": null,
     "bias_bar_text": null,
-    "center_pct": 34.0,
+    "center_pct": 80.0,
+    "error": "Message: \n",
+    "left_pct": 20.0,
+    "location": "Switzerland",
+    "right_pct": null,
+    "status": "fail",
+    "summary": null,
+    "title": "UBS beats expectations with $1.2 billion fourth-quarter profit, plans $3 billion buyback",
+    "topic": "UBS",
+    "topic_full": "UBS · Switzerland"
+  },
+  {
+    "article_path": "/article/collision-between-migrant-speedboat-greek-coast-guard-vessel-leaves-at-least-15-dead_d25029",
+    "article_url": "https://ground.news/article/collision-between-migrant-speedboat-greek-coast-guard-vessel-leaves-at-least-15-dead_d25029",
+    "bias": [
+      "Left-Leaning narratives emphasize the human tragedy, highlighting \"people dead\" and stating the incident's cause remains \"unknown.",
+      "In contrast, right-leaning coverage frames the event as a \"violent encounter,\" attributing responsibility to \"smugglers\" whose vessel \"crashes into\" the coast guard , sometimes using terms like \"illegal migrants.",
+      "Center outlets, while neutral in tone, also mention the \"smugglers\" maneuvering during a \"chase.",
+      "This divergence on culpability and migrant characterization reveals a pivotal ideological split.",
+      "All perspectives agree on the collision and fatalities, yet their distinct portrayals underscore broader divides concerning humanitarian concerns versus border security."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 39.0,
     "error": null,
-    "left_pct": 37.0,
-    "location": null,
+    "left_pct": 40.0,
+    "location": "Greece",
+    "right_pct": 21.0,
+    "status": "ok",
+    "summary": [
+      "Late Tuesday night, off Chios, a collision between a migrant speedboat and a coastguard vessel killed at least 15 people, the coastguard said.",
+      "The coastguard said it ordered the migrant dinghy to turn back during a pursuit, and an unnamed coastguard official reported the boat manoeuvred toward the patrol vessel before the collision.",
+      "Fourteen bodies were recovered, officials said, including 11 men and three women, while about 25 rescued migrants, including about 11 children, were taken to Chios hospital and witnesses estimated 30-35 people were onboard.",
+      "Chios hospital staff were placed on alert as Michalis Giannakos, head of Greece's public hospital workers' union, said several injured individuals required surgery.",
+      "Amid scrutiny over pushbacks, the European Union border agency reviewed alleged violations by Greece last year, while UNHCR reported roughly 1,000 crossings this year and IOM estimated about 33,000 Mediterranean deaths since 2014."
+    ],
+    "title": "Collision between migrant speedboat, Greek coast guard vessel leaves at least 15 dead",
+    "topic": "Greece Politics",
+    "topic_full": "Greece Politics · Greece"
+  },
+  {
+    "article_path": "/article/russia-bombards-ukraine-with-drones-and-missiles-a-day-before-planned-peace-talks_268934",
+    "article_url": "https://ground.news/article/russia-bombards-ukraine-with-drones-and-missiles-a-day-before-planned-peace-talks_268934",
+    "bias": [
+      "Left-Leaning outlets portray Russia's actions as brutal aggression, using emotionally charged terms like \"bombards\" and \"shivering\" to emphasize humanitarian impact and asserting the Russian economy is \"on the brink of collapse.",
+      "Right-Leaning coverage, conversely, highlights the sheer scale with phrases like \"record missile barrage\" and \"new onslaught,\" often expressing skepticism about peace talks, anticipating \"no diplomatic breakthrough.",
+      "Center-Leaning analysis frames Russia's actions as \"brinkmanship\" aimed at \"testing Western resolve.",
+      "While all acknowledge the major attack before planned peace talks, the left emphasizes Ukraine intercepting \"just 38\" missiles, contrasting with center/right detailing \"32 ballistic missiles.",
+      "These divergent portrayals underscore fundamental ideological differences in interpreting conflict and diplomacy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 66.0,
+    "error": null,
+    "left_pct": 19.0,
+    "location": "Ukraine",
+    "right_pct": 15.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Russia launched a major overnight assault on Ukraine, using around 450 long-range drones and 70 missiles, a day before U.S.-brokered talks.",
+      "Ukraine said the strikes specifically targeted the power grid to deny civilians light, heating and water, while Kyiv alleges Russia used the Kremlin-agreed pause until Feb. 1 to stockpile weapons.",
+      "By early morning, about 1,170 apartment buildings in Kyiv had lost heating, and five people were wounded as strikes damaged homes, a kindergarten, a gas station, and cultural sites, Ukrainian Culture Minister Tetiana Berezhna said.",
+      "Zelenskyy said the strikes will affect Kyiv negotiating team and called them a \"really bad signal,\" adding Ukraine is ready to end fighting but `No one is going to surrender`.",
+      "NATO pledged support, with allies providing 75% of missiles to the front and 90% of those for Ukraine's air defense, Rutte said, affirming long-term backing."
+    ],
+    "title": "Russia bombards Ukraine with drones and missiles a day before planned peace talks",
+    "topic": "Russia-Ukraine War",
+    "topic_full": "Russia-Ukraine War · Ukraine"
+  },
+  {
+    "article_path": "/article/germany-has-highest-share-of-older-workers-in-eu",
+    "article_url": "https://ground.news/article/germany-has-highest-share-of-older-workers-in-eu",
+    "bias": [
+      "Left-Leaning coverage presents Germany's high share of older workers as a neutral, statistical fact, de-emphasizing broader implications.",
+      "Center-Leaning outlets also report the data factually but introduce a cautious tone, explicitly noting it is \"problematic\" for the \"pension system.",
+      "Right-Leaning perspectives frame this demographic shift as a challenge, using terms like \"Looks Old on the Labour Market\" and highlighting a \"fatal trend\" towards early retirement , often providing specific figures like \"10 million\" workers or Italy's \"23 percent\" for context.",
+      "While all agree on the core statistic from official data, the divergence lies in interpreting this as a mere observation versus a significant economic or societal burden, reflecting underlying ideological concerns about national competitiveness and fiscal sustainability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 10.0,
+    "location": "Germany",
+    "right_pct": 41.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday Destatis reported Germany has the highest share of workers aged 55–64 in the EU in 2024, with roughly 9.8 million in this age group.",
+      "Destatis said the trend reflects Germany's population ageing and retirements occurring later, tied to statutory retirement policy and a population of almost 84 million.",
+      "Across the EU, the average share of workers aged 55–64 was around one fifth, with Germany leading at almost 24 percent in 2024, Destatis reported.",
+      "Policy implications include that experts say it is crucial for Germany to work longer, as the statutory retirement age rises to 67 by 2029 and average retirement timing shifts, according to Destatis.",
+      "Comparing with 2004, the average retirement age rose to 64.7 years in 2024 from 63 for women and 63.1 for men, showing a trend toward later retirement."
+    ],
+    "title": "Germany has highest share of older workers in EU",
+    "topic": "Germany Economy",
+    "topic_full": "Germany Economy · Germany"
+  },
+  {
+    "article_path": "/article/drones-built-in-cyprus-help-ukrainian-artillery-target-enemy-positions_eed56c",
+    "article_url": "https://ground.news/article/drones-built-in-cyprus-help-ukrainian-artillery-target-enemy-positions_eed56c",
+    "bias": [
+      "The left-leaning narrative frames increased arms production as nations \"go big,\" often with underlying skepticism about militarization, emphasizing Ukraine's \"defense forces\" and \"regained positions\" against a \"devastating winter bombing campaign.",
+      "It details aid amounts like \"$290 million.",
+      "Conversely, right-leaning coverage also uses \"go big\" but portrays it as a positive, decisive action, focusing on strengthening \"air defense\" and supporting soldiers in \"bitter cold,\" while de-emphasizing specific aid models or multi-currency valuations.",
+      "Center-Leaning reports remain factual, presenting specific figures like \"€245m\" and actions without emotional framing.",
+      "All perspectives agree on nations increasing arms production and aid to Ukraine, underscoring broader ideological divides on military intervention and national security."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 24.0,
+    "error": null,
+    "left_pct": 63.0,
+    "location": "Cyprus",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "Earlier this year, Cyprus and other small EU members expanded domestic drone production, driven by Russia's invasion of Ukraine and Kyiv's technology partnership.",
+      "Last week, the EU's executive arm approved financial assistance for eight members including Cyprus, which awaits final approval for 30 million euros in SAFE loans and began its EU presidency on Jan. 1.",
+      "Manufacturer Swarmly reports more than 200 H-10 Poseidon drones aiding Ukrainian artillery and over 100,000 flight hours, with its 5,000-square-meter factory exporting to Indonesia, Benin, Nigeria, India and Saudi Arabia.",
+      "UAVs are reshaping warfare as force multipliers for less militarily capable countries, with each unit costing 80,000 euros, company director Gary Rafalovsky said.",
+      "Like Cyprus, Baltic countries and Denmark have ramped up drone and counter-drone technology, with many EU states partnering with Kyiv and experts warning UAV advantages are limited by conditions, training, and logistics."
+    ],
+    "title": "Drones Built in Cyprus Help Ukrainian Artillery Target Enemy Positions",
+    "topic": "Ukraine War",
+    "topic_full": "Ukraine War · Cyprus"
+  },
+  {
+    "article_path": "/article/orsted-sells-european-onshore-business-to-cip-for-17-billion_91c839",
+    "article_url": "https://ground.news/article/orsted-sells-european-onshore-business-to-cip-for-17-billion_91c839",
+    "bias": [
+      "While all perspectives acknowledge Copenhagen Infrastructure Partners' acquisition of Ørsted’s European onshore business for approximately €1.4-1.44 billion, narratives diverge significantly on the underlying motivations.",
+      "Center-Leaning coverage portrays Ørsted as an \"embattled firm\" seeking to \"strengthen its balance sheet\" after financial difficulties.",
+      "In contrast, right-leaning outlets frame the deal as a \"significant milestone\" for the acquirer and highlight Ørsted \"sharpening its focus\" on offshore wind, even linking the sale to a recent US project ruling.",
+      "Left-Leaning coverage de-emphasizes specific motivations, presenting the transaction neutrally.",
+      "This reveals differing priorities: market health and corporate strategy versus a purely descriptive account."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 21.0,
+    "error": null,
+    "left_pct": 53.0,
+    "location": "Denmark",
+    "right_pct": 26.0,
+    "status": "ok",
+    "summary": [
+      "Danish wind farm operator Orsted has agreed to sell its European onshore business to Copenhagen Infrastructure Partners for €1.44 billion .",
+      "The deal includes Orsted's 373 MW portfolio of operational onshore wind farms and 178 MW active construction projects across the island of Ireland.",
+      "Orsted is selling its entire European onshore business as the firm looks to strengthen its balance sheet after a major rights issue last year."
+    ],
+    "title": "Orsted sells European onshore business to CIP for $1.7 billion",
+    "topic": "Business & Markets",
+    "topic_full": "Business & Markets · Denmark"
+  },
+  {
+    "article_path": "/article/russia-attacked-chp-and-tpp-at-25c-hundreds-of-thousands-of-families-left-without-heat-in-the-most-severe-winter-frosts",
+    "article_url": "https://ground.news/article/russia-attacked-chp-and-tpp-at-25c-hundreds-of-thousands-of-families-left-without-heat-in-the-most-severe-winter-frosts",
+    "bias": [
+      "Left-Leaning coverage emphasizes the human cost, portraying \"families suffer\" and residents \"struggling through a harsh winter,\" highlighting humanitarian aid like \"volunteers providing hot soup.",
+      "Center-Leaning outlets echo this empathetic tone, also noting \"suffer\" and \"struggling,\" but add specific details like \"burst pipes\" in \"hard-hit\" districts.",
+      "In contrast, right-leaning narratives frame the situation around \"Massive Russian Attacks,\" emphasizing the extreme cold with \"temperatures plummet to-25 degrees Celsius\" and asserting Russia 's intent to \"terrorize people,\" often including direct quotes from Ukrainian leadership.",
+      "While all perspectives agree \"hundreds of thousands\" are without heat due to Russian strikes, the left focuses on community resilience, the center on tangible damage, and the right on geopolitical aggression and the severity of the attacks."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 14.0,
+    "error": null,
+    "left_pct": 57.0,
+    "location": "Ukraine",
     "right_pct": 29.0,
-    "status": "no_change",
-    "summary": [
-      "DUBAI reporting noted that Iran's parliament announced all European Union militaries are 'terrorist groups' on Feb 1, citing Article 7 of a 2019 law, said Mohammad Bagher Ghalibaf.",
-      "Reacting to the EU's Thursday decision, EU officials linked the listing to Iran's crackdown on protests earlier this month.",
-      "Lawmakers appeared in IRGC uniforms and signalled their defiance by chanting slogans, while the parliamentary security commission signalled it would consider expelling EU military attaches.",
-      "The move increases diplomatic strain as U.S. naval forces near Iran and Iranian leadership warned the European Union would face consequences, raising the risk of wider regional conflict.",
-      "Officials said `fair` negotiations remain possible if missile and defence topics are excluded, but analysts warn the reciprocal proscription may complicate future diplomacy with Iran."
-    ],
-    "title": "Iran considers EU armies as 'terrorist groups' in retaliatory move",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/eu-agrees-to-designate-irans-revolutionary-guard-corps-as-terrorist-group_e5fce5",
-    "article_url": "https://ground.news/article/eu-agrees-to-designate-irans-revolutionary-guard-corps-as-terrorist-group_e5fce5",
-    "bias": [
-      "Left-Leaning outlets frame the EU's designation of Iran's Revolutionary Guard as a \"decisive step\" against \"brutal repression,\" emphasizing the moral imperative and high protest death tolls, sometimes citing \"perhaps 30,000\" killed.",
-      "Right-Leaning coverage portrays the IRGC as \"murderous\" and a \"state in the state,\" often comparing it to groups like ISIS, highlighting the EU's \"policy reversal\" to send an \"unequivocal message.",
-      "Center-Leaning reports, conversely, frequently qualify the move as \"largely symbolic,\" while detailing specific figures like \"6,300\" deaths and Iran's counter-threat to label EU forces as terrorists.",
-      "All perspectives agree on the designation and Iran's warnings of \"crushing response\" or \"hazardous consequences,\" underscoring shared geopolitical concerns despite differing ideological priorities."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 38.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": null,
-    "right_pct": 32.0,
     "status": "ok",
     "summary": [
-      "At a Brussels meeting on January 29, 2026, the 27‑nation bloc unanimously designated the Islamic Revolutionary Guard Corps as a terrorist organisation, placing it alongside al‑Qaeda, ISIS and Hamas, EU foreign policy chief Kaja Kallas confirmed.",
-      "A brutal crackdown earlier this month prompted momentum for the listing as HRANA verified 6,373 deaths and the Basij force intensified repression after Jan. 8, 2026 internet cuts.",
-      "The designation triggers EU asset freezes and related restrictive measures, while sanctions target 15 individuals and six entities including IRGC senior officials, and expand powers to detain IRGC members in the 27-nation bloc.",
-      "France's late reversal on January 28 cleared the path to consensus, while Tehran warned of 'destructive consequences' and Ellie Geranmayeh said, 'Economically, this move will have a very nominal impact at this current stage.'",
-      "Kaja Kallas said diplomatic channels should remain open even after the listing, which aligns the EU with the United States, Canada and Australia amid Strait of Hormuz security concerns."
+      "On Monday, Feb. 2, 2026, Russian strikes caused power outages in Kyiv, leaving families like Yuliia Dolotova, 37, struggling during freezing conditions in Troieshchyna.",
+      "Damage to power stations and the power grid is at its worst since the war began, and Ukrainian utility and energy crews say repairs are repeatedly undone by new strikes.",
+      "Volunteers ladle hot soup as residents of Kyiv wrapped in coats queue because there is no way to cook at home, and frozen pipes have burst; hardship worsens with Dolotova's husband serving in the Zaporizhzhia area.",
+      "Inside the apartment, Dolotova flicks on battery-powered lamps one by one as the two brothers huddle near frost-lined windows for warmth before bedtime.",
+      "The harsh winter is expected to continue in the coming weeks, while Dolotova insulates her children's bed with foam rubber and the stairs have broken two strollers in Troieshchyna, Kyiv."
     ],
-    "title": "EU agrees to designate Iran's Revolutionary Guard Corps as terrorist group",
-    "topic": null,
-    "topic_full": null
+    "title": "Families suffer as Ukrainian engineers can no longer keep up with repairing infrastructure",
+    "topic": "Ukraine Politics",
+    "topic_full": "Ukraine Politics · Ukraine"
   },
   {
-    "article_path": "/article/russian-strikes-in-ukraine-kill-12-target-passenger-train_f9ebe6",
-    "article_url": "https://ground.news/article/russian-strikes-in-ukraine-kill-12-target-passenger-train_f9ebe6",
+    "article_path": "/article/france-issues-arrest-warrants-against-israeli-french-women-for-blocking-gaza-aid-trucks",
+    "article_url": "https://ground.news/article/france-issues-arrest-warrants-against-israeli-french-women-for-blocking-gaza-aid-trucks",
     "bias": [
-      "Left-Leaning outlets emphasize the \"human cost\" of the \"deadly\" \"civilian train\" attack, framing it as an \"act of terrorism\" and detailing specific drone types.",
-      "Conversely, right-leaning coverage personalizes blame, highlighting \"Putin's drones \" and describing it as a \"barbaric attack.",
-      "Center-Leaning reports present verifiable facts, attributing casualties to \"prosecutors say,\" but uniquely detail \"massacre scenes\" and \"carnage.",
-      "While all perspectives agree on the \"terrorism\" label and multiple fatalities, the left focuses on humanitarian impact, the right on individual culpability, and the center on visceral aftermath, revealing distinct ideological priorities in framing conflict."
+      "Left-Leaning outlets emphasize \"genocide\" or \"arrangement of genocide\" in French legal action against two French-Israeli women, consistently reporting \"arrest warrants\" to portray severe escalation.",
+      "Conversely, right-leaning coverage frames the individuals as \"right-wing activists,\" subtly questioning charges with scare quotes around \"Complicity in Genocide,\" and explicitly stating \"these are not arrest warrants\" but \"summons,\" aligning with authorities.",
+      "This side also highlights additional suspicions of \"incitement\" and \"dehumanization.",
+      "The pivotal divergence lies in characterizing the legal action as \"arrest warrants\" versus \"summons,\" revealing efforts to heighten or temper perceived gravity.",
+      "Both acknowledge aid obstruction allegations.",
+      "These contrasting narratives underscore broader ideological divides concerning the Israeli-Palestinian conflict; center-leaning coverage is largely de-emphasized."
     ],
     "bias_bar_text": null,
-    "center_pct": 41.0,
+    "center_pct": 15.0,
     "error": null,
-    "left_pct": 35.0,
-    "location": null,
-    "right_pct": 24.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Russian forces killed 12 people and struck energy infrastructure and a passenger train in Kharkiv region, with a drone attack setting rail cars on fire.",
-      "Amid a winter offensive targeting energy and rail infrastructure, the strikes came days after peace negotiators held talks aimed at ending the nearly four-year war.",
-      "The train was carrying more than 200 passengers from Chop to Barvinkove when struck; one carriage with 18 people was hit directly, and prosecutors found fragments of five bodies at the scene.",
-      "President Volodymyr Zelenskyy condemned the train strike as terrorism and called for allies to pressure Moscow, writing `There is not and cannot be any military justification for killing civilians in a train carriage`.",
-      "The next round of U.S.-brokered talks is expected on February 1, Ukraine says, as Ukraine's air force reported 165 attack drones launched overnight, 135 neutralised by defences."
-    ],
-    "title": "Russian strikes in Ukraine kill 12, target passenger train",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/the-son-of-norways-crown-princess-pleads-not-guilty-to-rape-charges-as-his-trial-opens-in-oslo",
-    "article_url": "https://ground.news/article/the-son-of-norways-crown-princess-pleads-not-guilty-to-rape-charges-as-his-trial-opens-in-oslo",
-    "bias": [
-      "Left-Leaning coverage frames the royal trial as having \"cast a shadow\" on the family’s image, emphasizing broader reputational implications with interpretive language.",
-      "In contrast, center and right perspectives de-emphasize this societal impact, instead focusing on the legal proceedings with precise details, such as the accused's full identity and the \"38 charges/counts\" he faces.",
-      "While all perspectives agree the son of Norway 's crown princess is on trial in Oslo and pleaded not guilty to rape charges, the left's focus on broader consequences contrasts with the center and right's purely factual presentation of legal specifics.",
-      "This reveals differing priorities between highlighting societal impact and strictly procedural reporting."
-    ],
-    "bias_bar_text": "Left 25% Center 50% Right 25%",
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": null,
+    "left_pct": 60.0,
+    "location": "France",
     "right_pct": 25.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, the trial opened in Oslo as Marius Borg Høiby, 29, son of Crown Princess Mette-Marit, faces 3.5 kilos of marijuana and other charges, scheduled to last until March 19.",
-      "The indictment shows the case centers on four alleged rapes between 2018 and November 2024 and alleged violence, while police say Høiby was arrested again Sunday after his August indictment.",
-      "Høiby’s defense says he `denies all charges of sexual abuse` and disputes most violence allegations, while the court said parts of the trial will be held behind closed doors.",
-      "The royal house announced it will not comment or attend the trial, and the Oslo district court on Monday granted a detention order for up to four weeks.",
-      "With Epstein files released on Friday, prosecutors say Høiby could face up to 10 years in prison if convicted, amid renewed scrutiny of Crown Princess Mette-Marit."
+      "On Monday, French judges issued summonses for two Israeli women, Nili Kupfer‑Naouri and Rachel Touitou, accused of blocking aid trucks to the Gaza Strip, Le Monde reported.",
+      "Earlier this year, investigating judges in France opened a probe after complaints from Franco‑Palestinian citizens and human rights organizations, citing actions between Jan. 1 and Nov. 26, 2024, and May 2025; summonses were issued last summer but only recently made public.",
+      "Tzav 9 led physical blockades at Kerem Shalom and Nitzana crossings while Israel Is Forever mobilized volunteers, according to French authorities' allegations.",
+      "Legal sources say judges bypassed PNAT, using summonses that can compel appearances and have EU-wide reach in principle, though they are not arrest warrants and do not automatically lead to pretrial detention.",
+      "Kupfer‑Naouri denounced the move as `antisemitic persecution` and warned of a dangerous precedent, while Touitou accused judicial bias and complainants hailed the summonses as proof of the `power of the Franco‑Palestinian diaspora`."
     ],
-    "title": "The son of Norway’s crown princess pleads not guilty to rape charges as his trial opens in Oslo",
-    "topic": null,
-    "topic_full": null
+    "title": "France Issues Summonses to Two Israeli-French Women Suspected of Blocking Gaza Aid",
+    "topic": "France Politics",
+    "topic_full": "France Politics · France"
   },
   {
-    "article_path": "/article/despite-new-curbs-elon-musks-grok-at-times-produces-sexualized-images-even-when-told-subjects-didnt-consent",
-    "article_url": "https://ground.news/article/despite-new-curbs-elon-musks-grok-at-times-produces-sexualized-images-even-when-told-subjects-didnt-consent",
+    "article_path": "/article/spain-sets-a-new-tourism-record-with-nearly-968-million-foreign-visitors-in-2025",
+    "article_url": "https://ground.news/article/spain-sets-a-new-tourism-record-with-nearly-968-million-foreign-visitors-in-2025",
     "bias": [
-      "Left-Leaning coverage foregrounds institutional fallout—using terms like \"controversy\" and \"deepfakes\" and highlighting a UK probe—portraying the story as a regulatory and public‑harm issue, while right-leaning pieces stress persistent product failure with phrases such as \"despite new curbs,\" emphasizing ongoing technical shortcomings; both sides use \"sexualized images\" to signal harm but differ in tone—left is alarmed and accountability-focused, right is fault-focused and skeptical of fixes.",
-      "A pivotal split is whether regulatory action or Reuters’ testing methodology frames the story; centrist reports de-emphasize partisan rhetoric and stress the investigative details."
+      "While all perspectives acknowledge Spain's 2025 tourism record of nearly 97 million foreign visitors, their narratives diverge significantly.",
+      "Left-Leaning coverage emphasizes this as a \"historic milestone\" for a \"vital travel industry,\" highlighting top visitor origins.",
+      "Right-Leaning outlets, while confirming the national record, often shift focus to regional data, such as Castilla y León's \"Record Figure,\" and specific nationalities like Argentines, detailing their localized impact.",
+      "Center-Leaning coverage presents detailed percentage increases for visitor numbers and spending, noting \"strong growth\" while introducing the strategic concept of \"sustainable tourism prioritizing quality over quantity.",
+      "The left employs celebratory terms, whereas the right adopts a more granular, localized lens.",
+      "These distinct emphases reveal differing priorities—national economic triumph versus localized impact and future strategic considerations—despite agreement on the core record numbers."
     ],
-    "bias_bar_text": "Center 67% Right 33%",
-    "center_pct": 67.0,
+    "bias_bar_text": null,
+    "center_pct": 30.0,
     "error": null,
-    "left_pct": null,
+    "left_pct": 41.0,
+    "location": "Spain",
+    "right_pct": 29.0,
+    "status": "ok",
+    "summary": [
+      "Tuesday's INE figures show Spain received nearly 96.8 million foreign visitors in 2025, a 3.2 increase over 2024, setting a new record.",
+      "Travelers from the UK , France , and Germany drove much of the increase, with Mediterranean and Canary Islands remaining popular destinations throughout the year.",
+      "The Ministry of Tourism reported a 6.8% increase in visitor spending to 134.7 billion euros, with Catalonia attracting around 20.1 million tourists, 0.6% more than in 2024.",
+      "Officials said the increase meets objectives to prioritise quality over quantity, as the Ministry of Tourism reported spending growth outpaced arrivals reflecting Spain's shift toward sustainability and higher-value tourism.",
+      "Outlook for 2026 and beyond suggests sustained demand despite global headwinds, with forecasters and policymakers noting Spain's third record-breaking year since 2019 and potential to reach the 100/million visitor mark."
+    ],
+    "title": "Spain Sets a New Tourism Record with Nearly 96.8 Million Foreign Visitors in 2025",
+    "topic": "Tourism",
+    "topic_full": "Tourism · Spain"
+  },
+  {
+    "article_path": "/article/french-teacher-stabbed-by-pupil-in-southern-france-school_ec0f91",
+    "article_url": "https://ground.news/article/french-teacher-stabbed-by-pupil-in-southern-france-school_ec0f91",
+    "bias": [
+      "Left-Leaning coverage frames the attack around the victim and community trauma—using language like \"fighting for her life\" and stressing institutional responsibility—while right-leaning pieces amplify social-order themes with terms such as \"brutal,\" \"series of violence,\" and graphic detail to argue for tougher accountability; rhetorical tactics differ too—emotive sympathy versus alarmist pattern-framing.",
+      "A key dividing line is whether this is an isolated act or proof of systemic decay; center outlets remain factual and cautious.",
+      "Both sides, however, report the stabbing, arrest on suspected attempted murder, and officials' immediate response."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 35.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "France",
+    "right_pct": 38.0,
+    "status": "ok",
+    "summary": [
+      "On Feb 3, a secondary school student stabbed a 60-year-old art teacher at La Guicharde middle school, Sanary-sur-Mer, leaving her in critical condition.",
+      "Toulon's public prosecutor Raphaël Balland said the suspect did not appear to have a religious or political motive and that there had been tensions recently with the teacher.",
+      "Investigating sources report the pupil stabbed the 60-year-old art teacher at least three times, including two abdominal wounds and one or two arm wounds.",
+      "The school was evacuated after the attack and Wednesday's lessons were cancelled, while Édouard Geffray, France's education minister, said he was `going to the scene immediately` and expressed `profound shock`.",
+      "The attack continues a string of knife attacks on teachers across France, including the 2023 stabbing at Gambetta-Carnot school in Arras and the 2020 murder of Samuel Paty."
+    ],
+    "title": "French teacher stabbed by pupil in southern France school",
+    "topic": "Crime",
+    "topic_full": "Crime · France"
+  },
+  {
+    "article_path": "/article/vaticans-trial-of-the-century-resumes-after-prosecutors-suffer-embarrassing-setbacks-on-appeal_8c4f2e",
+    "article_url": "https://ground.news/article/vaticans-trial-of-the-century-resumes-after-prosecutors-suffer-embarrassing-setbacks-on-appeal_8c4f2e",
+    "bias": [
+      "Left-Leaning coverage frames the Vatican trial around Pope Francis' \"problematic secret decrees,\" highlighting defense arguments that these actions violated fundamental rights and were \"reminiscent of a 'fascist' state,\" adopting a critical tone towards institutional power.",
+      "Conversely, right-leaning and center perspectives de-emphasize the Pope's direct involvement, instead focusing on the prosecution's \"embarrassing setbacks\" with language that suggests procedural failures.",
+      "While all sides acknowledge the trial's resumption and convictions, the pivotal dividing line is the scrutiny of the Pope's authority and the trial's fairness, a topic extensively covered by the left but de-emphasized elsewhere.",
+      "These contrasting narratives reveal broader ideological divides concerning transparency, accountability, and the integrity of institutional processes."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": "Vatican City",
+    "right_pct": 19.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, the appeals phase resumed after setbacks for the pope's prosecutors in the case against Cardinal Angelo Becciu and eight other defendants convicted in 2023.",
+      "Following the Court of Cassation's decision last month, prosecutor Alessandro Diddi committed an embarrassing procedural error and resigned, and the court upheld the appeal dismissal.",
+      "Four secret executive decrees signed 2019–2020 by Pope Francis gave Vatican prosecutors unchecked wiretapping powers and the right to deviate from laws, which defense attorneys said violated the right to a fair trial.",
+      "With the Cassation and tribunal rulings in place, the appeals pivot to new defense arguments focusing on Francis' role, as judges ruled no violation of legality occurred since he made the laws.",
+      "The stakes extend beyond verdicts to the Holy See's legal order, as a ruling against Francis' decrees could result in a mistrial or declaration of nullity, given canon law's stance that only God can judge the pope."
+    ],
+    "title": "Vatican’s ‘Trial of the Century’ Resumes After Prosecutors Suffer Embarrassing Setbacks on Appeal",
+    "topic": "Vatican",
+    "topic_full": "Vatican · Vatican City"
+  },
+  {
+    "article_path": "/article/czech-government-faces-no-confidence-vote-in-parliament-over-a-dispute-with-the-president_294ba3",
+    "article_url": "https://ground.news/article/czech-government-faces-no-confidence-vote-in-parliament-over-a-dispute-with-the-president_294ba3",
+    "bias": [
+      "Left-Leaning outlets emphasize \"large protests\" and \"deepening polarization,\" highlighting a \"UAE-linked firm\" with a \"large stake\" in the president’s company and detailing the minister's \"Nazi salute.",
+      "Right-Leaning coverage frames the opposition's actions as wanting to \"overthrow government\" due to \"Droh-Sms,\" linking a controversial figure to \"Racist Messages, Nazi greetings\" and labeling him a \"Trumpist,\" employing an alarming tone.",
+      "Center-Leaning reports remain descriptive, focusing on the \"no-confidence vote\" and predicting the government \"has a majority,\" de-emphasizing protests and specific controversial details.",
+      "Pivotal dividing lines include the minister's specific actions and the scale of public dissent.",
+      "Both sides agree on the core \"dispute with the president,\" but frame it through ideological lenses like \"pro-European Union\" versus \"nationalist\" divides."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": "Czechia",
+    "right_pct": 20.0,
+    "status": "ok",
+    "summary": [
+      "The new Czech coalition government faced a no-confidence vote over a dispute with the president regarding a minister appointment.",
+      "The president accused the foreign minister of blackmailing him for refusing to appoint a minister due to racist and sexist social media posts.",
+      "Tens of thousands of Czechs rallied in support of the president, while the government has the majority to survive the no-confidence vote."
+    ],
+    "title": "Czech government faces no-confidence vote in Parliament over a dispute with the president",
+    "topic": "Andrej Babiš",
+    "topic_full": "Andrej Babiš · Czechia"
+  },
+  {
+    "article_path": "/article/french-prosecutors-seek-to-ban-marine-le-pen-from-office-jeopardizing-her-2027-presidential-bid_8dd81e",
+    "article_url": "https://ground.news/article/french-prosecutors-seek-to-ban-marine-le-pen-from-office-jeopardizing-her-2027-presidential-bid_8dd81e",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 40.0,
+    "error": null,
+    "left_pct": 37.0,
+    "location": "France",
+    "right_pct": 23.0,
+    "status": "no_change",
+    "summary": [
+      "On Tuesday, French prosecutors asked a Paris appeals court to bar Marine Le Pen and National Rally officials from office, with prosecutor Thierry Ramonatxo saying the alleged misappropriation gave the party a `concrete advantage`.",
+      "Le Pen, 57, is appealing a March 2025 ruling that found her guilty of misusing European Parliament funds in hiring aides from 2004–2016.",
+      "During the appeal trial that started last month, prosecutors told judges that acts were `deliberately and carefully concealed` and denounced `a system` set by party leaders, according to Stéphane Madoz-Blanchet.",
+      "The court may announce a verdict possibly before summer, with Le Pen facing up to 10 years in prison and a €1 million fine, involving 10 other defendants. Jordan Bardella is her designated successor.",
+      "Le Pen had been viewed as a potential front-runner for the 2027 presidential election until last year's ruling, while prosecutors argue the acts were deliberately concealed to financially advantage the National Rally party."
+    ],
+    "title": "French prosecutors seek to ban Marine Le Pen from office, jeopardizing her 2027 presidential bid",
+    "topic": "France Politics",
+    "topic_full": "France Politics · France"
+  },
+  {
+    "article_path": "/article/amid-political-turmoil-in-haiti-us-warship-arrives-off-coast-of-port-au-prince_d8f5d3",
+    "article_url": "https://ground.news/article/amid-political-turmoil-in-haiti-us-warship-arrives-off-coast-of-port-au-prince_d8f5d3",
+    "bias": null,
+    "bias_bar_text": "L 13% Center 37% Right 50%",
+    "center_pct": 37.0,
+    "error": "Message: \n",
+    "left_pct": 13.0,
     "location": null,
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "Elon Musk 's artificial intelligence chatbot, Grok, continues to generate sexualized images of people even when warned the subjects do not consent, according to Reuters.",
-      "Reuters reporters prompted Grok with 55 instances, and in 45 cases, it produced sexualized images, with 31 of those involving vulnerable subjects.",
-      "In 17 cases, Grok generated images after being specifically told they would be used to degrade or humiliate the person without consent."
-    ],
-    "title": "Elon Musk’s Grok Still Generates Nonconsensual Sexualized Images Despite Curbs: Reuters",
+    "right_pct": 50.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Amid Political Turmoil in Haiti, US Warship Arrives off Coast of Port-Au-Prince",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/ukraine-designates-irans-irgc-as-terrorist-organization-following-eu-lead",
-    "article_url": "https://ground.news/article/ukraine-designates-irans-irgc-as-terrorist-organization-following-eu-lead",
+    "article_path": "/article/israeli-fire-in-gaza-kills-17-while-militant-gunfire-wounds-israeli-soldier_d22809",
+    "article_url": "https://ground.news/article/israeli-fire-in-gaza-kills-17-while-militant-gunfire-wounds-israeli-soldier_d22809",
     "bias": [
-      "Left-Leaning coverage frames Ukraine 's action against the IRGC as a completed designation, emphasizing President Zelensky's motivations, such as retaliation for \"thousands of Shaheds\" and solidarity with the Iranian people to \"fight for their freedom,\" employing emotionally charged language to underscore a moral imperative against \"all terrorists.",
-      "Conversely, right-leaning coverage portrays the action as an upcoming intention, de-emphasizing Ukraine's stated rationale while highlighting the detail that Ukraine informed Israel, subtly aligning with a foreign policy perspective prioritizing strategic alliances.",
-      "The differing emphasis on the *why* versus specific diplomatic maneuvers reveals distinct ideological priorities.",
-      "Both perspectives agree on Ukraine's move regarding the IRGC, yet the left focuses on humanitarian and retaliatory justice, while the right leans into geopolitical implications and regional security."
+      "Left-Leaning coverage emphasizes Israeli fire \"kills\" 17 Palestinians, often highlighting \"most of them women or children,\" while describing the IDF officer as \"severely wounded\" by militants, framing Israeli actions as disproportionate.",
+      "Right-Leaning outlets de-emphasize Palestinian demographics, focusing on the officer being \"wounded\" by militant \"shots\" as a preceding justification for Israeli \"strikes,\" even conflating separate incidents like \"stoning troops\" near Jericho.",
+      "Center-Leaning reports acknowledge both sides, sometimes noting \"seriously wounded\" for Israelis or \"women or children\" for Palestinians.",
+      "All perspectives agree an Israeli soldier was wounded, Israel responded, and Palestinians were killed, yet their distinct rhetorical choices reveal underlying ideological priorities regarding humanitarian impact versus security and justification."
     ],
-    "bias_bar_text": null,
-    "center_pct": null,
+    "bias_bar_text": "Left 45% Center 48% 7%",
+    "center_pct": 48.0,
     "error": null,
-    "left_pct": 86.0,
-    "location": "Ukraine",
-    "right_pct": 14.0,
+    "left_pct": 45.0,
+    "location": null,
+    "right_pct": 7.0,
     "status": "ok",
     "summary": [
-      "On Feb. 2, President Volodymyr Zelensky announced Ukraine designated the Islamic Revolutionary Guard Corps as a terrorist organization, following its addition to the Security Service of Ukraine list on Jan. 30.",
-      "Following the EU's Jan. 29 designation, officials said the move aligned Kyiv with the European Union, which labeled the IRGC as a terrorist organization on Jan. 29.",
-      "The IRGC is described as a powerful, elite branch of Iran's armed forces established after 1979, already labeled a terrorist group by the U.S., and Ukrainian officials cited Iran's supply of Shahed strike drones used in attacks.",
-      "Looking beyond Kyiv, protests in Madrid on Jan. 22 and Zelensky said, `The whole world sees what is happening in Iran, how many people have been killed, and how the Iranian regime has contributed to the spread of war and violence in the region and the world."
+      "On Wednesday, Feb. 4, 2026, Gaza hospital officials reported Israeli fire killed at least 17 Palestinians, most women and children.",
+      "Israel's army confirmed artillery and air strikes across the Strip in retaliation for militant attacks, despite more than 530 Palestinians killed since the Oct. 10, 2025 ceasefire, Gaza health ministry said.",
+      "A drone strike in eastern Gaza City killed five people, while other strikes wounded several near Khan Younis, southern Gaza, and killed two near the 'yellow line' southeast of Al-Bureij refugee camp.",
+      "Mediators warned the attacks and rising death toll have rocked the U.S.-backed truce, while aid restrictions worsen conditions for around 2.4 million Palestinians in Gaza.",
+      "Prime Minister Benjamin Netanyahu told U.S. Middle East envoy Steve Witkoff that at least three soldiers have been killed since the ceasefire, while Army Southern Command prepares further strikes in Gaza."
     ],
-    "title": "Ukraine Designates Iran’s IRGC as Terrorist Organization Following EU Lead",
-    "topic": "Volodymyr Zelenskyy",
-    "topic_full": "Volodymyr Zelenskyy · Ukraine"
+    "title": "Israeli fire in Gaza kills 17, while militant gunfire wounds Israeli soldier",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/russia-says-foreign-forces-in-ukraine-would-be-legitimate-targets_bc9d4e",
-    "article_url": "https://ground.news/article/russia-says-foreign-forces-in-ukraine-would-be-legitimate-targets_bc9d4e",
+    "article_path": "/article/danish-court-two-swedish-men-guilty-of-terrorism-against-israeli-embassy",
+    "article_url": "https://ground.news/article/danish-court-two-swedish-men-guilty-of-terrorism-against-israeli-embassy",
     "bias": [
-      "Left-Leaning coverage frames Russia's statements on Western troops as a \"threat message,\" emphasizing a \"tough stance.",
-      "In stark contrast, right-leaning outlets portray them as a \"warning\" but pivot to Russia's \"merciless\" attacks on civilians, using emotionally charged terms like \"victims\" and \"burdened\" to condemn actions and link them to peace talks.",
-      "This extensive focus on civilian casualties and France's condemnation is notably de-emphasized by the left.",
-      "Both perspectives agree Russia views Western military presence as \"foreign intervention\" and \"legitimate targets\" in the context of upcoming peace talks.",
-      "These divergent portrayals underscore ideological priorities, with one side emphasizing diplomatic posturing and the other focusing on humanitarian impact and perceived aggression."
+      "Left-Leaning coverage emphasizes the \"terror on demand\" motive, linking the attack to a \"Swedish criminal network Foxtrot,\" and sometimes initially questions the \" terrorism \" label.",
+      "Right-Leaning outlets, however, frame the perpetrators as \"'Swedes'\" and \"known gang criminals suspected of murder,\" definitively labeling the event a \"Terrorist Attack.",
+      "Center coverage provides specific details like the men's ages and the younger man's 12-year sentence, maintaining a neutral tone.",
+      "While all agree on the conviction for a grenade attack near the Israeli embassy, the left focuses on systemic crime, while the right prioritizes national identity and firm condemnation, revealing distinct ideological lenses."
     ],
     "bias_bar_text": null,
-    "center_pct": 25.0,
+    "center_pct": 20.0,
     "error": null,
-    "left_pct": null,
-    "location": "Russia",
-    "right_pct": 75.0,
+    "left_pct": 44.0,
+    "location": "Denmark",
+    "right_pct": 36.0,
     "status": "ok",
     "summary": [
-      "France condemned Russian attacks targeting civilians and civilian infrastructure in Ukraine, stating they violate international humanitarian law.",
-      "Ukraine reported new Russian attacks on energy facilities.",
-      "Russia's Foreign Ministry announced it would treat foreign military forces in Ukraine as legitimate targets, citing Minister Sergei Lavrov.",
-      "The United States is organizing talks to resolve the conflict in Ukraine, with ongoing discussions about territorial disputes."
+      "On Oct. 2, 2024, Copenhagen City Court convicted two Swedish men of terrorism and attempted murder after a grenade attack near the Israeli embassy.",
+      "The men admitted they acted for money and denied ideological motives, while authorities say the defendants were acting on behalf of a criminal gang that recruits in socially disadvantaged immigrant neighbourhoods.",
+      "Explosions detonated on a residential terrace about 100 meters from the embassy, affecting a family with children while Carolineskolen, a Jewish school, was closed.",
+      "Sentences include deportation to Sweden, and lawyers said they will appeal after two judges and four jurors found the men guilty while one judge and two jurors disagreed.",
+      "Separately, both suspects face charges in Sweden, with the younger suspect linked to the Stockholm attack, amid cases involving the Foxtrot network and Rumba gangs, related to Sweden's gang violence."
     ],
-    "title": "Russia says foreign forces in Ukraine would be 'legitimate targets'",
-    "topic": "Ukraine War",
-    "topic_full": "Ukraine War · Russia"
+    "title": "Danish court convicts two Swedes of terrorism for grenade attack near Israeli embassy",
+    "topic": "Denmark Politics",
+    "topic_full": "Denmark Politics · Denmark"
   },
   {
-    "article_path": "/article/pioneering-facial-transplant-a-face-donated-before-assisted-dying_5b752c",
-    "article_url": "https://ground.news/article/pioneering-facial-transplant-a-face-donated-before-assisted-dying_5b752c",
+    "article_path": "/article/rogue-catholic-group-threatens-schism-with-vatican-plans-to-raise-new-bishops-without-romes-approval_cc84c1",
+    "article_url": "https://ground.news/article/rogue-catholic-group-threatens-schism-with-vatican-plans-to-raise-new-bishops-without-romes-approval_cc84c1",
     "bias": [
-      "Left-Leaning coverage frames the face transplant as a \"successfully\" performed, \"pioneering\" achievement, explicitly attributing its success to the donor who received \"assisted dying\" or \"euthanasia,\" often using terms like \"thanks\" and \"light\" to valorize the act and emphasize individual autonomy.",
-      "Conversely, right-leaning outlets highlight the \"World's First\" aspect while immediately linking it to the \"Euthanasia Donor,\" emphasizing \"historical\" significance and hinting at \"unprecedented medical , ethical\" considerations, thereby inviting scrutiny of the controversial method of death.",
-      "Center-Leaning reports maintain a neutral tone, describing it as a \"Medical Milestone\" without emotional framing.",
-      "While all perspectives acknowledge the procedure's groundbreaking nature and the recipient's severe disfigurement, the left de-emphasizes surgical duration and technical details, which the right provides alongside broader psychological impacts.",
-      "This reveals a core ideological divide on end-of-life decisions and medical ethics."
+      "News coverage of the Pope's challenge reveals stark ideological divides.",
+      "Left-Leaning outlets frame the situation as a \"crisis\" caused by a \"traditionalist group\" acting \"without consent,\" emphasizing historical context and a threat to established authority.",
+      "Conversely, right-leaning reports portray a \"Rogue Catholic group\" \"courting excommunication\" in a \"High-Stakes Showdown,\" highlighting defiance, canonical repercussions, and the group's justification.",
+      "Center perspectives, while noting a \"crisis\" or \"Tear,\" focus more on diplomatic efforts to \"avoid ruptures.",
+      "Both sides agree a traditionalist group plans bishop consecrations without approval, but their distinct rhetorical choices—from \"thorn in the side\" to \"schismatic group\"—underscore differing priorities regarding church governance and theological adherence."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 24.0,
+    "error": null,
+    "left_pct": 44.0,
+    "location": "Vatican City",
+    "right_pct": 32.0,
+    "status": "ok",
+    "summary": [
+      "The Society of St. Pius X said it will proceed on July 1 with consecrations without papal consent, risking excommunication. Matto Bruni said the Holy See remains open to negotiations.",
+      "The SSPX said a Vatican reply 'does not in any way respond to our requests' and cited 'grave necessity' prompting July 1 consecrations, with the Rev. Davide Pagliarani arguing new bishops are needed.",
+      "In 1988 Archbishop Marcel Lefebvre consecrated four bishops without papal consent, triggering automatic excommunication under canon law which requires papal approval for apostolic succession.",
+      "The Vatican warned that consecrations without papal consent threaten church unity, but Vatican spokesman Matto Bruni said Tuesday that contacts continue and negotiations remain open.",
+      "Historically, the SSPX has grown over decades, with Pope Benedict XVI lifting excommunications in 2009 and Pope Francis later reversing reforms, deepening tensions."
+    ],
+    "title": "Pope Leo XIV faces crisis as a traditionalist group plans bishop consecrations without consent",
+    "topic": "Pope Leo XIV",
+    "topic_full": "Pope Leo XIV · Vatican City"
+  },
+  {
+    "article_path": "/article/pay-and-smile-rome-visitors-face-trevi-fountain-charge",
+    "article_url": "https://ground.news/article/pay-and-smile-rome-visitors-face-trevi-fountain-charge",
+    "bias": [
+      "Left-Leaning coverage frames the Trevi Fountain fee as a necessary measure for \"managing\" crowds and \"heritage maintenance,\" portraying tourists as \"unfazed\" and appreciating an improved experience.",
+      "Conversely, right-leaning outlets characterize the policy as Rome \"hits tourists\" with a \"compulsory\" charge, emphasizing \"trouble\" and \"resentment\" over the \"commercialization\" of historical sites, and highlighting projected annual revenue which other perspectives de-emphasize.",
+      "Center-Leaning reports neutrally present the \"2 Euros for Tourists\" and tourist reactions as \"nonplussed.",
+      "The pivotal divide centers on whether the fee is a justified collective good or an unwelcome imposition.",
+      "While all perspectives acknowledge the 2-euro fee's purpose for crowd control, their contrasting emotional tones and language reveal underlying ideological tensions regarding government intervention and cultural preservation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 51.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "Rome",
+    "right_pct": 21.0,
+    "status": "ok",
+    "summary": [
+      "Rome 's Trevi Fountain has launched a new €2 ticketing system to help manage crowds and raise funds for maintenance.",
+      "City officials estimate the admission fee could generate at least €6 million per year, with proceeds partly funding free museum access for locals.",
+      "Visitors have mixed reactions, with some seeing the fee as worthwhile for better viewing and others hoping accessibility improvements are made."
+    ],
+    "title": "Trevi Fountain fee goes into effect as Rome seeks to manage tourist flow",
+    "topic": "Tourism",
+    "topic_full": "Tourism · Rome"
+  },
+  {
+    "article_path": "/article/ecb-banks-tightened-credit-standards-for-firms",
+    "article_url": "https://ground.news/article/ecb-banks-tightened-credit-standards-for-firms",
+    "bias": [
+      "Left-Leaning coverage emphasizes the \"unexpected\" nature of Euro zone credit tightening, \"raising doubts\" about economic activity and directly linking it to upcoming ECB interest rate decisions, employing a tone of immediate concern.",
+      "Center and right perspectives, conversely, de-emphasize the surprise, instead highlighting specific reasons like \"widespread economic uncertainty\" and trade policies, alongside expectations of \"further tightening.",
+      "While all acknowledge the ECB survey findings on tightened corporate credit, the left frames it as a sudden policy challenge, whereas center and right portray a more detailed, ongoing economic trend with underlying causes, revealing differing priorities in immediate impact versus broader context."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 66.0,
+    "error": null,
+    "left_pct": 17.0,
+    "location": "Frankfurt",
+    "right_pct": 17.0,
+    "status": "ok",
+    "summary": [
+      "The European Central Bank 's quarterly Bank Lending Survey published on Feb 3, 2026 found euro zone banks tightened corporate credit last quarter and expect further tightening.",
+      "According to the European Central Bank, concerns about firms' outlook, lower risk tolerance, and trade policy uncertainty affected lending.",
+      "Corporate lending shifted unevenly across countries, with standards tightening most in Germany and France while Italy and Spain saw no tightening, and banks eased mortgage standards mostly in France despite possible first-quarter reversal as demand rose slightly, the ECB said.",
+      "Banks forecast sectoral loan demand will rise broadly, except for car manufacturing, wholesale, retail trade and commercial real estate, while mortgage demand increased on improved housing prospects, the ECB said.",
+      "Across the euro zone, the ECB said lending growth to businesses and households has accelerated for years but still trails the pre-pandemic era, signaling a modest economic expansion."
+    ],
+    "title": "Euro zone banks tightening access to business credit, ECB survey shows",
+    "topic": "European Central Bank",
+    "topic_full": "European Central Bank · Frankfurt"
+  },
+  {
+    "article_path": "/article/investigation-finds-890-nazi-linked-accounts-at-credit-suisse_976cb4",
+    "article_url": "https://ground.news/article/investigation-finds-890-nazi-linked-accounts-at-credit-suisse_976cb4",
+    "bias": [
+      "Left-Leaning coverage emphasizes \"fresh SS links\" and \"concealment\" of \"stolen\" property, portraying a \"dark past\" with \"tough questioning\" of institutions.",
+      "Right-Leaning outlets frame the findings as \"more extensive than we knew\" and \"shocking,\" accusing the bank of facilitating \"dictator Adolf Hitler's war efforts\" and questioning Swiss banks' \"neutrality.",
+      "While both highlight the 890 Nazi-linked accounts, the left focuses on systemic corporate accountability, whereas the right underscores deeper, hidden institutional failure, often using urgent terms like \"LIVE NOW.",
+      "Center-Leaning reports remain neutral, attributing findings to a \"US lawmaker\" and noting \"potential\" links.",
+      "All agree on the investigation's existence and Senator Grassley's statements, revealing a shared concern over historical financial complicity but diverging on the extent of blame and current institutional culpability."
     ],
     "bias_bar_text": null,
     "center_pct": 33.0,
     "error": null,
     "left_pct": 24.0,
-    "location": "Barcelona",
+    "location": "Switzerland",
     "right_pct": 43.0,
     "status": "ok",
     "summary": [
-      "On Monday, Vall d'Hebron hospital said it performed a pioneering facial transplant where the donor offered her face before assisted dying, aiding recipient Carme's recovery.",
-      "Spain legal changes have created the legal framework as Spain legalised euthanasia in 2021 and government data shows 426 assisted-dying cases in 2024.",
-      "Surgeons transplanted composite tissue from the central face in a complex operation requiring about 100 professionals, matching donor and recipient by sex, blood group and head size at Vall d'Hebron hospital."
+      "On February 3, the Senate Judiciary Committee will hold a hearing on banks' WWII-era conduct, with two high-level UBS executives and independent ombudsperson Neil Barofsky scheduled to testify.",
+      "Following an expanded archive review, investigators reported 890 Credit Suisse accounts with potential Nazi links and a dispute over 1990s-era attorney communications relevant to reopening the 1999 global settlement.",
+      "Grassley said newly uncovered records show the SS's economic arm held an account at Credit Suisse and reveal ratlines to Argentina along with accounts tied to the German Foreign Office, a German arms manufacturing company, and the German Red Cross.",
+      "UBS has asked Judge Edward R. Korman to clarify the 1999 settlement, citing fewer than 150 disputed Credit Suisse documents due to litigation threats, as the bank's U.S. national bank charter application progresses, Karofsky said.",
+      "At Tuesday's hearing, aides say the investigation is set to conclude by early summer with a final report expected at the end of 2026, and Grassley plans to call for a central repository for materials."
     ],
-    "title": "Spain performs pioneering face transplant from donor who requested assisted dying",
-    "topic": "Health & Medicine",
-    "topic_full": "Health & Medicine · Barcelona"
+    "title": "Investigation Finds 890 Nazi-Linked Accounts at Credit Suisse",
+    "topic": "World War II",
+    "topic_full": "World War II · Switzerland"
   },
   {
-    "article_path": "/article/norway-crown-princess-showed-poor-judgement-over-epstein-ties-pm-says_305a32",
-    "article_url": "https://ground.news/article/norway-crown-princess-showed-poor-judgement-over-epstein-ties-pm-says_305a32",
+    "article_path": "/article/netanyahu-urges-us-envoy-to-be-skeptical-of-iran-in-revived-nuclear-talks",
+    "article_url": "https://ground.news/article/netanyahu-urges-us-envoy-to-be-skeptical-of-iran-in-revived-nuclear-talks",
     "bias": [
-      "Left-Leaning coverage frames the royal scandal as a moral failing requiring accountability, using terms like \"condemns\" and \"pederast\" to highlight a \"fairytale to nightmare\" narrative.",
-      "Right-Leaning outlets, conversely, emphasize institutional decay, declaring the \"Royal House Is in Ruins\" and demanding Mette-Marit \"Must Tell the Truth,\" focusing on \"flirty\" emails and accusations of \"protecting her son.",
-      "Center-Leaning reports, while noting a \"royal crisis,\" present the Prime Minister's \"poor judgement\" statement and Høiby's denial more factually, also detailing Mette-Marit's four-night stay at Epstein's, a detail de-emphasized by the left.",
-      "All perspectives agree on the Epstein contacts and the son's trial, revealing a core ideological divide between scrutiny of power and lamenting societal decline."
+      "Coverage splits into a caution-vs.-diplomacy narrative: right-leaning pieces amplify hawkish warnings with charged phrases like \"rising tensions,\" \"empty promises,\" and \"naivety,\" stressing a U.S. military buildup and mistrust of Tehran, while center-leaning reports frame the Istanbul talks as efforts to \"de-escalate\" and \"avoid conflict,\" noting Netanyahu's claim that Iran is \"unlikely to honor\" deals but pairing that with a diplomatic aim; left-leaning coverage is largely de-emphasized here.",
+      "Pivotal dividing lines are Iran’s trustworthiness and the role of military pressure; both sides, however, agree Netanyahu met the U.S. envoy and urged skepticism."
     ],
-    "bias_bar_text": null,
-    "center_pct": 42.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "Norway",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, newly released U.S. Department of Justice files show Crown Princess Mette-Marit of Norway's name appears at least 1,000 times, revealing years of contact with Jeffrey Epstein .",
-      "Between 2011 and 2014, messages show contact between Mette-Marit and Epstein, and the palace says she ended ties in 2014 after concluding he sought to exploit her.",
-      "Files show dozens of warm emails and affectionate language, including a question about wallpaper for the 15-year-old son and a four-day stay at Epstein's Palm Beach, Florida residence in 2013.",
-      "There is no criminal allegation, but the disclosures have caused embarrassment for the royal household, with politicians questioning public trust and Prime Minister Jonas Gahr Store saying he `agreed` she had exercised poor judgement.",
-      "On Tuesday, her son Marius Borg Hoiby goes on trial on 38 counts and could face up to 16 years; the royal couple will not attend the seven-week trial at Oslo district court."
-    ],
-    "title": "Norway crown princess showed poor judgement over Epstein ties, PM says",
-    "topic": "US Politics",
-    "topic_full": "US Politics · Norway"
-  },
-  {
-    "article_path": "/article/study-pink-noise-reduces-rem-sleep-challenges-sleep-aid-claims_013f06",
-    "article_url": "https://ground.news/article/study-pink-noise-reduces-rem-sleep-challenges-sleep-aid-claims_013f06",
-    "bias": [
-      "While all perspectives agree on the core scientific finding that earplugs are more effective than pink noise for quality sleep, and that pink noise may reduce restorative REM sleep, their framing diverges significantly.",
-      "Center-Leaning coverage emphasizes specific study details, like institutional origin, and introduces cautious language such as \"may harm\" or \"could be ruining\" sleep, even warning about potential harm for children.",
-      "In contrast, left-leaning coverage employs more evocative framing, using terms like \"Sabotaging\" to describe pink noise's impact on dreams.",
-      "Right-Leaning outlets, however, de-emphasize such dramatic language, presenting the findings in a consistently neutral, factual tone.",
-      "This reveals a pivotal dividing line in the level of detail and cautionary emphasis applied to scientific findings, rather than a direct left-right ideological clash on the topic itself."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 56.0,
-    "error": null,
-    "left_pct": 31.0,
-    "location": "Pennsylvania",
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "A new UPenn study found pink noise reduced REM sleep by 23 minutes compared with no-noise nights in the university sleep lab.",
-      "Riding a wave of app-driven popularity, pink-noise apps and devices replaced older $15 white-noise machines, while a review found nine of 11 studies favored pink noise but mostly versus silence.",
-      "Using controlled soundscapes, 25 volunteers spent a week in UPenn's sleep lab with randomized conditions, including pink noise, environmental noise every 4–6 minutes, and earplugs, while researchers recorded polysomnography.",
-      "Adding pink noise to environmental sound led to significantly less deep sleep and trimmed total sleep by about 15 minutes, while intermittent environmental noise reduced deep sleep by about 25 minutes and earplugs preserved sleep near no-noise levels.",
-      "By simulating modern urban noises , the study found disruptions to REM sleep and deep sleep, which support memory, emotional regulation, and regeneration."
-    ],
-    "title": "Study: Pink Noise Reduces REM Sleep, Challenges Sleep Aid Claims",
-    "topic": "Health & Medicine",
-    "topic_full": "Health & Medicine · Pennsylvania"
-  },
-  {
-    "article_path": "/article/new-survey-shows-strong-public-support-for-immigration-enforcement-and-deportations",
-    "article_url": "https://ground.news/article/new-survey-shows-strong-public-support-for-immigration-enforcement-and-deportations",
-    "bias": null,
-    "bias_bar_text": "Right 100%",
-    "center_pct": null,
+    "bias_bar_text": "Center 29% Right 71%",
+    "center_pct": 29.0,
     "error": null,
     "left_pct": null,
     "location": null,
-    "right_pct": 100.0,
-    "status": "no_change",
-    "summary": [
-      "A new poll by Cygnal shows that 73% of American voters believe entering the U.S. illegally is breaking the law, while 61% support deportations of illegal aliens.",
-      "Support for ICE enforcement of immigration laws is strong, with 54% backing federal immigration law enforcement by ICE.",
-      "Democratic opposition to deportations is clear, as 67% of Democrats oppose deporting illegal immigrants, while a majority of other voters support it.",
-      "Views on immigration could significantly impact the upcoming midterm elections, presenting challenges for Democratic candidates."
-    ],
-    "title": "New Survey Shows Strong Public Support for Immigration Enforcement and Deportations",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/thriving-kids-aims-to-mainstream-disability-support_fd3c14",
-    "article_url": "https://ground.news/article/thriving-kids-aims-to-mainstream-disability-support_fd3c14",
-    "bias": null,
-    "bias_bar_text": "Left 86% C 14%",
-    "center_pct": 14.0,
-    "error": null,
-    "left_pct": 86.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Tuesday at Parliament House, Canberra, Health and Disability Minister Mark Butler unveiled the $4 billion Thriving Kids program, funded jointly by the Albanese government and states and territories over five years.",
-      "To address diagnostic delays and rising demand, officials designed Thriving Kids so families of children with developmental delays can get support without a formal diagnosis, easing pressure on the National Disability Insurance Scheme.",
-      "The scheme's design centers on a four-function model guiding delivery through early identification, time-limited supports, allied health professionals, equipment loan pools, and one 'key worker' for care coordination.",
-      "Advocates warned of teething pains and potential waitlists as the taskforce signalled workforce challenges, while disability organisations flagged funding uncertainties and families, schools and early learning providers face more responsibility.",
-      "Rollout timing starts from October this year with full operation by January 2028, and officials expect to finalise individual jurisdiction agreements by the end of this month after five months of consultations."
-    ],
-    "title": "Federal Government Unveils ‘Thriving Kids’ Program to Support Children with Developmental Delays",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/dc70a210-d300-4138-afee-08bafa8665fe",
-    "article_url": "https://ground.news/article/dc70a210-d300-4138-afee-08bafa8665fe",
-    "bias": [
-      "Left-Leaning coverage frames renewed Russian strikes by linking the \"brief reprieve\" to an agreement \"between Putin and Trump,\" and highlighting a \"Trump-backed plan\" on \"ceasefire violations,\" often using emotive terms like \"Bombards\" and \"Leaving Thousands Without Heat in Freezing Cold.",
-      "Right-Leaning outlets, conversely, emphasize the attacks' brutality with phrases like \"Massive Attacks in Bitter Cold\" and \"Destroys,\" attributing Kyiv's claim of \"winter genocide\" and asserting \"Little Ignore Trump's Warnings.",
-      "Center-Leaning reports neutrally describe the \"brief pause agreed between Putin and Trump\" and the \"major attack,\" de-emphasizing political framing.",
-      "While left and center align on Zelenskyy's specific missile and drone counts, the right generalizes to \"More than 500 Drones and Missiles\" to underscore scale.",
-      "All perspectives agree Russia resumed strikes on energy infrastructure in freezing temperatures after a pause, revealing underlying ideological divides on political accountability and the conflict's severity."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 52.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": "Ukraine",
-    "right_pct": 24.0,
+    "right_pct": 71.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, Russian forces launched ballistic missiles at Kyiv and Dnipro, damaging several multi-storey residential buildings, local authorities reported explosions.",
-      "The Kremlin said the pause followed trilateral talks in Abu Dhabi and the next round will take place on Wednesday and Thursday.",
-      "Ukrainian authorities reported continued strikes on logistics and transport routes with deadly results, despite fewer attacks on major cities since last Thursday, and Russia has stepped up attacks on energy infrastructure .",
-      "Freezing conditions are complicating emergency and repair operations across affected areas, with the temperature in Kyiv at-20 Celsius early Tuesday, and company executives say repairs are often impossible in such weather.",
-      "Ukraine's biggest private energy company said it is in `survival mode` and that the next few weeks are critical, hoping the Abu Dhabi talks will extend the energy ceasefire."
+      "On Feb 3, Israeli Prime Minister Benjamin Netanyahu told U.S. Special Envoy Steve Witkoff that Tehran was unlikely to honor any agreement as Iran and the United States resume talks on Friday in Turkey.",
+      "Iranian sources said last week that U.S. conditions—zero enrichment, missile limits and ending proxy support—are viewed as unacceptable by Tehran, which sees the ballistic missile programme as the primary obstacle.",
+      "Israeli security officials attended the meeting, with Netanyahu saying he `made clear his position that Iran has repeatedly proven that its promises cannot be trusted."
     ],
-    "title": "Russia resumes night strikes on major Ukrainian cities as brief pause agreed between Putin and Trump ends",
-    "topic": "Russia-Ukraine War",
-    "topic_full": "Russia-Ukraine War · Ukraine"
-  },
-  {
-    "article_path": "/article/russian-tv-host-calls-for-nuclear-strike-on-musks-starlink_906df7",
-    "article_url": "https://ground.news/article/russian-tv-host-calls-for-nuclear-strike-on-musks-starlink_906df7",
-    "bias": [
-      "Left-Leaning coverage frames a Russian state TV host's \"Nuclear Strike\" call as a threat to international stability, emphasizing the state actor.",
-      "Right-Leaning outlets sensationalize the event with terms like \"horror\" and \"chilling,\" focusing on a \"nuclear threat\" to Elon Musk and uniquely highlighting the direct quote \"Nukes solve the problem.",
-      "Center coverage neutrally reports a \"nuclear strike threat\" and uniquely includes Ukrainian intelligence on Russian Starlink use, a detail de-emphasized by other perspectives.",
-      "While all agree a Russian TV host discussed a nuclear strike concerning Starlink after access was blocked, these portrayals reveal ideological divides, with the left focusing on state aggression, the right on dramatic threats and individual figures, and the center on contextualized reporting."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 34.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "Russia",
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "On February 2, 2026, Vladimir Solovyov, Russian state TV host, called for a nuclear detonation in space to destroy SpaceX's Starlink satellites on Russia 1.",
-      "After Kyiv complained, SpaceX responded by clamping down on Russian access as analysts citing the Institute for the Study of War found Starlink drones extend strike range to 500 kilometers.",
-      "Ukraine is preparing a terminal registry to verify terminals and will disconnect unverified Starlink devices, with SpaceX implementing a 75 kilometers per hour speed cap in contested areas, Kyiv can request additional measures.",
-      "A nuclear blast would create debris that damages other satellites, program guests warned, while Solovyov accepted Russian satellite losses, joking, `We'll switch to carrier pigeons!`.",
-      "Intelligence reports say Russia may be developing anti-satellite weapons as Russian state media said Roscosmos will mass-produce a Starlink alternative later this year."
-    ],
-    "title": "Russian TV Host Calls for Nuclear Strike on Musk's Starlink",
-    "topic": "Russia-Ukraine War",
-    "topic_full": "Russia-Ukraine War · Russia"
-  },
-  {
-    "article_path": "/article/norwegian-crown-princesss-son-arrested-over-assault-before-rape-trial_7b41c7",
-    "article_url": "https://ground.news/article/norwegian-crown-princesss-son-arrested-over-assault-before-rape-trial_7b41c7",
-    "bias": [
-      "Left-Leaning coverage frames the royal son's arrest as escalating legal trouble, emphasizing \"new charges\" and the \"rape trial\" with terms like \"Most Serious Strain\" and \"Dark Shadow,\" suggesting the monarchy's potential downfall.",
-      "Right-Leaning outlets, conversely, sensationalize the Crown Princess's Epstein connection, using phrases like \"flirty, fawning emails\" and \"hundreds of references\" to imply broader scandal and moral failings, even noting a \"fourth time\" arrested.",
-      "Center-Leaning reports maintain a neutral tone, using \"alleged\" and \"fresh accusations\" while highlighting the \"biggest scandal\" and \"intense public scrutiny\" without taking a definitive stance on guilt or royal culpability.",
-      "All perspectives agree on the high-profile nature of the trial, involving 38 charges including rape, and the royal family's embarrassment, reflecting broader ideological divides on accountability and elite scrutiny."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 36.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": "Norway",
-    "right_pct": 32.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Marius Borg Høiby, son of Crown Princess Mette-Marit, will face trial at Oslo district court on rape, drug, and assault charges, with proceedings lasting until March 19.",
-      "Police last week announced six new counts against Høiby, including a 2020 narcotics offence for transporting 3.5 kilograms of marijuana, after he was indicted in August.",
-      "The indictment details 38 separate counts including rape and other offences; prosecutors say the four alleged rapes occurred in 2018, 2023 and 2024, and the defense denies the most serious charges.",
-      "A judge ordered detention for up to four weeks amid concerns about reoffending; prosecutors say he faces maximum penalties of 10 years for serious crimes and up to 16 years on multiple counts, with verdict expected several weeks after trial concludes.",
-      "Amid renewed scrutiny of the crown princess's contacts, the trial has intensified pressure on the royal family, with Crown Prince Haakon saying, `We are thinking a lot about all the parties concerned in this case` and a poll showing 70 percent support for the monarchy."
-    ],
-    "title": "Norwegian Crown Princess's Son Arrested Over Assault Before Rape Trial",
-    "topic": "Norway Politics",
-    "topic_full": "Norway Politics · Norway"
-  },
-  {
-    "article_path": "/article/2-month-olds-see-the-world-in-a-more-complex-way-than-scientists-thought-study-suggests_52db3b",
-    "article_url": "https://ground.news/article/2-month-olds-see-the-world-in-a-more-complex-way-than-scientists-thought-study-suggests_52db3b",
-    "bias": [
-      "Left-Leaning coverage emphasizes that babies were \"seriously underestimated,\" highlighting the \"richness of brain function\" with a tone of discovery regarding overlooked capabilities.",
-      "Right-Leaning outlets frame the findings as a \"Major breakthrough,\" revealing \"what babies are actually thinking,\" employing sensationalist language that implies a definitive correction to previous understandings.",
-      "Center-Leaning reports, while also noting a \"more complex way,\" use evocative terms like \"Inside the newborn mind\" and \"hidden intelligence,\" providing more granular details about research methodology and institutions de-emphasized by other perspectives.",
-      "All sides agree babies perceive the world \"earlier than previously thought,\" yet their distinct rhetorical choices reveal underlying ideological leanings regarding the validation or challenge of established scientific narratives."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 38.0,
-    "location": "United States",
-    "right_pct": 9.0,
-    "status": "ok",
-    "summary": [
-      "On February 2, researchers from the Trinity College Institute of Neuroscience and the School of Psychology, Trinity College Dublin published in Nature Neuroscience that two-month-old infants can categorize objects in their brains.",
-      "Researchers note earlier methods relied on looking-time measures that are hard to assess at very young ages, and past studies suggested categorization emerged around three to four months while aiming to reveal visual categorization and prelinguistic learning.",
-      "Scanning 130 two-month-old infants, the team used functional magnetic resonance imaging while babies watched bright images for 15-20 minutes on a beanbag with sound-cancelling headphones and applied artificial intelligence models to analyse responses to 12 visual categories.",
-      "The team says the dataset could inform diagnostic tools, with Professor Eleanor Molloy, neonatologist at Children's Health Ireland, emphasizing the potential of high success rates for awake fMRI in early neurodevelopmental disorder research.",
-      "Researchers hope the largest longitudinal fMRI study, with a nine-month follow-up from 66 infants, will inspire AI models and improve early‑years education."
-    ],
-    "title": "2-month-olds see the world in a more complex way than scientists thought, study suggests",
-    "topic": "Science",
-    "topic_full": "Science · United States"
-  },
-  {
-    "article_path": "/article/uk-revokes-russian-diplomats-accreditation",
-    "article_url": "https://ground.news/article/uk-revokes-russian-diplomats-accreditation",
-    "bias": [
-      "Left-Leaning coverage emphasizes \"spying accusations\" and the UK's firm stance, using phrases like \"condemn in the strongest possible terms\" and \"will not stand for intimidation.",
-      "In contrast, right-leaning outlets frame Russia's actions as \"unprovoked, unjustified,\" highlighting a definitive moral judgment.",
-      "Center perspectives, however, de-emphasize such strong framing, instead providing broader geopolitical context, referencing \" war in Ukraine\" and \"tensions between Russia and NATO.",
-      "While all agree on the \"tit-for-tat\" expulsion and the UK's condemnation, the left focuses on accountability and the right on national strength, revealing distinct ideological approaches to international conflict."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 47.0,
-    "error": null,
-    "left_pct": 37.0,
-    "location": "United Kingdom",
-    "right_pct": 16.0,
-    "status": "ok",
-    "summary": [
-      "Britain expelled a Russian diplomat in response to Russia expelling a British diplomat last month, accusing them of being an undeclared spy.",
-      "Russia and the West have repeatedly accused each other of unfurling espionage campaigns of an intensity not seen since the Cold War amid the war in Ukraine.",
-      "Britain warned Russia against pursuing this course against its diplomats, saying any further action taken by Russia will be considered an escalation and responded to accordingly."
-    ],
-    "title": "UK Expels Russian Diplomat in Tit-for-Tat over Spying Accusations",
-    "topic": "UK Politics",
-    "topic_full": "UK Politics · United Kingdom"
-  },
-  {
-    "article_path": "/article/michelangelos-the-last-judgment-undergoes-first-major-restoration-in-30-years",
-    "article_url": "https://ground.news/article/michelangelos-the-last-judgment-undergoes-first-major-restoration-in-30-years",
-    "bias": [
-      "While all perspectives acknowledge the Sistine Chapel fresco is undergoing its first major restoration in decades, left-leaning coverage primarily presents it as a descriptive cultural event.",
-      "Center-Leaning outlets additionally provide practical visitor details like scaffolding visibility.",
-      "In stark contrast, right-leaning narratives frame the process using terms like 'Extraordinary Cleansing,' suggesting a profound purification, or provocatively as a 'makeover' for Jesus, which can be seen as trivializing.",
-      "This perspective uniquely connects the artwork's content to its religious function for cardinals during conclaves, de-emphasizing purely technical aspects.",
-      "The differing language reveals underlying ideological priorities, from cultural preservation to spiritual reverence or even secularized commentary."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 43.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "Vatican City",
-    "right_pct": 22.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, the Vatican announced a three-month cleaning of Michelangelo's The Last Judgment, the fresco behind the altar in the Sistine Chapel, its first major restoration in three decades.",
-      "Because of daily visitor volumes, the Vatican Museums say visitors deposited microparticles that created a widespread whitish haze, prompting cleaning to remove buildup on the plaster.",
-      "The Sistine Chapel will remain open during the three-month cleaning, with scaffolding partially obstructing the view while the Vatican conservation staff monitors humidity and temperature.",
-      "The chapel, named for Pope Sixtus IV, was constructed in the 15th century, while Michelangelo painted `Creation of Adam` between 1508 and 1512 and later returned to paint The Last Judgment.",
-      "More than 6 million people visit the Vatican Museums annually, and the Sistine Chapel remains a key destination, hosting events like the May conclave that elected Pope Leo XIV."
-    ],
-    "title": "Michelangelo's The Last Judgment Undergoes First Major Restoration in 30 Years",
-    "topic": "Art",
-    "topic_full": "Art · Vatican City"
-  },
-  {
-    "article_path": "/article/who-chief-sees-us-exit-as-chance-to-reshape-amid-funding-gap",
-    "article_url": "https://ground.news/article/who-chief-sees-us-exit-as-chance-to-reshape-amid-funding-gap",
-    "bias": [
-      "Left-Leaning coverage frames the US withdrawal as creating a \"profound vacuum,\" emphasizing China \"remaking global public health\" and detailing a \"$260 million funding gap\" and \"dramatic cuts.",
-      "This perspective views \"turmoil\" as an \"opportunity for reset\" towards systemic change.",
-      "Right-Leaning outlets, however, highlight \"turmoil\" within international organizations, often linking it to the \"US exit\" as a significant disruption, interpreting \"reset\" as potentially reducing the WHO's influence and aligning with national sovereignty.",
-      "Center-Leaning reports acknowledge the \"turmoil\" and \"reset\" but focus on the negative consequences, such as \"weakened disease surveillance\" and \"disruptions\" threatening Africa 's health gains, details de-emphasized elsewhere.",
-      "While all acknowledge the WHO chief's call for a leaner organization, the left emphasizes geopolitical shifts, the right focuses on institutional skepticism, and the center highlights humanitarian impacts, reflecting broader ideological divides on global governance."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 36.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": "Geneva",
-    "right_pct": 32.0,
-    "status": "ok",
-    "summary": [
-      "On Feb 2, WHO director-general Tedros Adhanom Ghebreyesus said the dramatic cuts of 2025 as the United States headed for the exit created the chance to build a leaner, re-focused WHO.",
-      "The funding shock followed Washington's one-year withdrawal notice and unpaid 2024–2025 dues, leaving the WHO with a US$260 million shortfall and slashed management teams.",
-      "WHO reductions have produced staff losses and program strain, with more than a thousand departures and plans for about 25% workforce reductions by mid-2026 risking disruptions in Nigeria, Uganda, Kenya, Mozambique, Zambia, and the Democratic Republic of Congo.",
-      "Meanwhile, China's payments and a $500 million pledge indicate efforts to fill WHO funding gaps, aiming for membership fees to cover 50 percent of the budget, said Tedros Adhanom Ghebreyesus.",
-      "The US departure is widening a governance gap, as experts warn weaker outbreak detection and emergency response in Africa may cause delayed care and higher mortality, especially for women and children."
-    ],
-    "title": "WHO Chief Sees US Exit as Chance to Reshape Amid Funding Gap",
-    "topic": "World Health Organization",
-    "topic_full": "World Health Organization · Geneva"
-  },
-  {
-    "article_path": "/article/eus-foreign-policy-chief-says-a-europe-wide-army-could-be-extremely-dangerous_88f5a4",
-    "article_url": "https://ground.news/article/eus-foreign-policy-chief-says-a-europe-wide-army-could-be-extremely-dangerous_88f5a4",
-    "bias": [
-      "Left-Leaning coverage emphasizes the \"extremely dangerous\" implications of a Europe -wide army, aligning with anti-militarist discourse.",
-      "Right-Leaning outlets also highlight the \"extremely dangerous\" quote, framing it to reinforce skepticism towards supranational military integration and national sovereignty.",
-      "A pivotal divergence appears as center and right perspectives provide geopolitical context, linking the debate to \"tensions within NATO\" and US priorities, which the left de-emphasizes.",
-      "Center coverage offers a broader view, including Kallas's additional strong language like \"dumb idea\" and \"Let's Not Throw Nato on the Window,\" and specific proposals like \"100,000 Soldiers.",
-      "All perspectives agree Kallas rejected the army due to potential risks and chain of command issues, underscoring fundamental ideological differences regarding European autonomy versus NATO's role."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "Brussels",
-    "right_pct": 20.0,
-    "status": "ok",
-    "summary": [
-      "On Feb. 2, 2026, Kaja Kallas rejected calls for a Europe -wide army, warning it could be `extremely dangerous` as the bloc considers its security options.",
-      "Amid questions about transatlantic ties, NATO officials warned last week that Europe cannot defend itself without U.S. support, prompting calls for a Europe-wide army.",
-      "Kallas warned of command confusion, saying the chain of command is the most important military asset and a European army would cause orders to muddle as `the ball just falls between the chairs`.",
-      "Given NATO's setup, NATO's military operations are overseen by a Supreme Allied Commander who is always a top U.S. officer, and Norway's Prime Minister Jonas Gahr Støre said allied decision‑making is complex but trained.",
-      "On Feb. 2, 2026, Kallas met Norway's Prime Minister Jonas Gahr Store in Oslo after appearing at an EU event, highlighting recent regional diplomacy."
-    ],
-    "title": "EU's foreign policy chief says a Europe-wide army could be 'extremely dangerous'",
-    "topic": "European Politics",
-    "topic_full": "European Politics · Brussels"
-  },
-  {
-    "article_path": "/article/a-kremlin-official-confirms-that-us-brokered-russia-ukraine-talks-are-resuming-this-week_feba5a",
-    "article_url": "https://ground.news/article/a-kremlin-official-confirms-that-us-brokered-russia-ukraine-talks-are-resuming-this-week_feba5a",
-    "bias": [
-      "Left-Leaning coverage emphasizes logistical reasons for talks' postponement, citing the need to \"harmonize agendas\" or \"Iran-related talks.",
-      "In contrast, right-leaning outlets frame Ukraine's objective as seeking a \"real and dignified end to the war ,\" subtly questioning previous efforts and noting no \"diplomatic breakthrough\" from prior discussions.",
-      "While the left focuses on process, the right highlights broader diplomatic actors like the OSCE.",
-      "Center coverage, distinct from both, provides a grim backdrop of \"continued fighting\" and \"deadly long-range strikes,\" alongside specific statements like \"possible meeting Putin-Zelensky only in moscow.",
-      "All perspectives agree on the core facts of U.S.-brokered trilateral talks resuming in Abu Dhabi, yet their differing portrayals of delays and desired outcomes reveal underlying ideological priorities regarding conflict resolution."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "Ukraine",
-    "right_pct": 22.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, the Kremlin confirmed U.S.-brokered talks will resume this week on Wednesday and Thursday in Abu Dhabi after a brief postponement.",
-      "Originally slated for the weekend, the meeting was postponed because of scheduling conflicts, Moscow said, while Ukrainian President Volodymyr Zelenskyy said on Sunday he would send a delegation and Russian presidential envoy Kirill Dmitriev met U.S. officials in Miami.",
-      "Peskov said a key sticking point is whether Russia gets to keep Ukrainian territory its army has occupied, and described the talks as `very complex`.",
-      "Long-Range attacks have inflicted civilian harm, killing 12 miners in a bus on Sunday and wrecking Ukraine’s power grid, leaving civilians without heat, light and water amid Washington’s push to end the war.",
-      "Less than two weeks before the fourth anniversary, Moscow's demand for more Ukrainian land complicates prospects for a breakthrough later this month."
-    ],
-    "title": "A Kremlin official confirms that U.S.-brokered Russia-Ukraine talks are resuming this week",
-    "topic": "Russia-Ukraine War",
-    "topic_full": "Russia-Ukraine War · Ukraine"
-  },
-  {
-    "article_path": "/article/russia-reactivating-soviet-era-bases-near-finnish-border-isw-says_26b58b",
-    "article_url": "https://ground.news/article/russia-reactivating-soviet-era-bases-near-finnish-border-isw-says_26b58b",
-    "bias": [
-      "While all perspectives acknowledge Russia's military garrison reactivation near Finland , left-leaning coverage neutrally details specific units like the '44th Army Corps.' Right-leaning outlets, however, employ 'alarming' language and frame it as 'amassing troops,' linking it to broader 'Nordic deterrence' and unrelated civilian casualties, de-emphasizing specific unit details.",
-      "Center coverage, initially neutral, shifts to highlight 'true intentions' and 'greatly increased' troops, citing experts.",
-      "This reveals a shared concern over military expansion but starkly divergent interpretations of intent and threat, reflecting broader geopolitical anxieties."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 38.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "Petrozavodsk",
-    "right_pct": 39.0,
-    "status": "ok",
-    "summary": [
-      "At Petrozavodsk, Russian forces are reactivating a long-abandoned garrison to host the 44th Army Corps, satellite images reviewed by Yle show.",
-      "Following Finland's NATO accession in 2023, Russia created the 44th Army Corps in 2024, adding roughly 15,000 troops and supporting Kremlin-backed regional projects.",
-      "Imagery shows about 50 vehicles and site infrastructure including fuel tanks, a technical bridge, and plans for new barracks and facilities for an artillery and engineering brigade plus a radio-technical regiment.",
-      "Yle reports Petrozavodsk is acting as a staging and logistics hub, and most of the 44th Army Corps remains engaged in Ukraine while local construction plans could bring families, Artur Parfenchikov says.",
-      "Analysts note a pattern of coordinated upgrades across the northwest frontier, and Finnish military intelligence warns these projects will increase Russia's military potential near Finland, with Severomorsk-2 activity reported on May 12, 2025."
-    ],
-    "title": "Russia Reactivating Soviet-Era Bases Near Finnish Border, ISW Says",
-    "topic": "European Security & NATO",
-    "topic_full": "European Security & NATO · Petrozavodsk"
-  },
-  {
-    "article_path": "/article/110-mortar-shells-found-in-unrwa-bags",
-    "article_url": "https://ground.news/article/110-mortar-shells-found-in-unrwa-bags",
-    "bias": null,
-    "bias_bar_text": "L 20% Right 80%",
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": 20.0,
-    "location": null,
-    "right_pct": 80.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Gaza: IDF Discovers Rockets in UNRWA Bags",
+    "title": "Netanyahu urges US envoy to be skeptical of Iran in revived nuclear talks",
     "topic": null,
     "topic_full": null
   },
@@ -671,13 +789,13 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/rafah-crossing-between-gaza-and-egypt-has-reopened-in-both-directions-for-palestinians",
-    "article_url": "https://ground.news/article/rafah-crossing-between-gaza-and-egypt-has-reopened-in-both-directions-for-palestinians",
+    "article_path": "/article/palestinians-line-up-to-cross-rafah-after-rocky-first-day-of-reopening-of-gaza-egypt-border-crossing_fcf9f2",
+    "article_url": "https://ground.news/article/palestinians-line-up-to-cross-rafah-after-rocky-first-day-of-reopening-of-gaza-egypt-border-crossing_fcf9f2",
     "bias": [
-      "Left-Leaning outlets emphasize the Rafah crossing as a \"critical lifeline\" for a \"war-torn enclave,\" framing its reopening as a \"step forward\" for a \"fragile ceasefire\" while highlighting inadequacy with \"Just 12\" Palestinians crossing and asserting \"Israel maintains restrictions.",
-      "Right-Leaning coverage, conversely, employs terms like \"trickle\" and \"handful\" to de-emphasize the humanitarian scale, connecting the event to \"US President Donald Trump's truce plan.",
-      "Center perspectives present a more neutral \"Slow Movement,\" noting the reopening was \"mostly a symbolic one\" and that \"no goods allowed,\" providing context like \"50 Palestinians\" expected daily.",
-      "All perspectives agree the crossing reopened with \"limited\" movement, yet diverge significantly on attributing limitations and underlying motivations, reflecting broader ideological priorities concerning humanitarian urgency versus geopolitical frameworks."
+      "Left-Leaning outlets frame the Rafah reopening as 'rocky' and 'uncertain,' emphasizing the 'plight' of Palestinians and 'strict controls' by Israel and Egypt, even noting an alleged MSF ban and '20,000 sick' awaiting passage.",
+      "Right-Leaning coverage, however, portrays a 'chaotic' first day but highlights it as a 'major step' in the ceasefire, de-emphasizing specific agents of restriction.",
+      "Center-Leaning reports acknowledge the process was 'inevitably, not straightforward,' bringing 'emotional reunions but little relief,' often providing specific official figures.",
+      "While all agree on the limited reopening and initial delays, these narratives underscore fundamental ideological divides concerning humanitarian access versus security and strategic objectives."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -687,39 +805,29 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "Partial reopening of Gaza 's Rafah crossing on Monday morning, February 2, 2026, allowed Palestinian medical evacuees to Egypt and a dozen returnees into Gaza.",
-      "After months of negotiation, the U.S.-brokered ceasefire entered its second phase, and Israel reopened Rafah after recovering the last hostage's remains, which had kept the crossing closed since May 2024.",
-      "European Union border patrol agents will monitor the crossing with a small Palestinian Authority presence, while Egypt submits daily lists for Israeli vetting, and Israeli security operates a screening corridor.",
-      "Prime Minister Benjamin Netanyahu said about 50 might be allowed daily, but crossings fell short and ambulances queued for hours, with the system expected to scale if successful.",
-      "Before the war Rafah served roughly 2 million residents as a lifeline, while roughly 18,500 patients await evacuation amid ongoing violence and recent airstrikes."
+      "On Monday, the Rafah crossing reopened on a limited basis, enabling ambulances to evacuate wounded to Egypt and some Palestinians to return, coordinated with Egypt and supervised by the European Union.",
+      "The reopening follows recognition that Rafah is Gaza's sole border point to Egypt and serves as a lifeline for over 18,500 Palestinian patients, including 4,000 children, awaiting treatment since May 2024.",
+      "Israeli authorities require prior security clearances and EU checks at Rafah, with only five approved wounded from a list of 27; UNDP will run buses to Nassar hospital staffed by psychologists and protection specialists.",
+      "Families queued at Al‑Amal Hospital as buses carrying wounded prepared to depart, while international organisations face major constraints as only half of Gaza hospitals and health care centres function.",
+      "OCHA welcomed the reopening of Rafah, stressing safe voluntary movement, while the UN urged Member States to accept more patients amid airstrikes that Palestinians say killed 30, Sam Rose said."
     ],
-    "title": "Slow Movement at Gaza Border After Israel Reopens Rafah Crossing",
+    "title": "Palestinians line up to cross Rafah after rocky first day of reopening of Gaza-Egypt border crossing",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/euro-zone-factory-activity-contracts-in-january-but-output-rebounds-pmi-shows_e808ab",
-    "article_url": "https://ground.news/article/euro-zone-factory-activity-contracts-in-january-but-output-rebounds-pmi-shows_e808ab",
-    "bias": [
-      "Right-Leaning coverage dramatically frames factory activity using terms like \"Destroying Jobs\" for \"32 Months\" and \"continues to suffer,\" emphasizing a \"deterioration\" despite a \"2-Month high\" PMI of 49.5. Conversely, center-leaning coverage balances \"contracts\" with \"output rebounds,\" noting \"persistent weakness\" and \"job losses\" without the same alarmist tone or specific long-term figures.",
-      "Both agree on overall contraction and a rebound below the 50-point threshold.",
-      "The right highlights a prolonged crisis, providing specific numerical data, while the center presents a more nuanced, challenging economic picture, revealing differing priorities in economic portrayal."
-    ],
-    "bias_bar_text": "Center 67% Right 33%",
-    "center_pct": 67.0,
-    "error": null,
-    "left_pct": null,
+    "article_path": "/article/hungary-files-legal-challenge-to-eus-russian-gas-ban",
+    "article_url": "https://ground.news/article/hungary-files-legal-challenge-to-eus-russian-gas-ban",
+    "bias": null,
+    "bias_bar_text": "Left 55% C 22% R 23%",
+    "center_pct": 22.0,
+    "error": "Message: stale element reference: stale element not found in the current frame\n  (Session info: chrome=144.0.7559.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception\nStacktrace:\nSymbols not available. Dumping unresolved backtrace:\n\t0x7ff7018ef3d5\n\t0x7ff7018ef430\n\t0x7ff7016910bd\n\t0x7ff701699021\n\t0x7ff70169c4de\n\t0x7ff70173b0ed\n\t0x7ff70171589a\n\t0x7ff701739d08\n\t0x7ff7016dcb0c\n\t0x7ff7016dda53\n\t0x7ff701bcb470\n\t0x7ff701bc586d\n\t0x7ff701be621a\n\t0x7ff70190b235\n\t0x7ff701913a5c\n\t0x7ff7018f8844\n\t0x7ff7018f89f6\n\t0x7ff7018deb87\n\t0x7ffd7885e8d7\n\t0x7ffd7a90c40c\n",
+    "left_pct": 55.0,
     "location": null,
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "On Feb 2, Reuters reported Euro zone factory activity stayed in contraction in January despite output growth, with the HCOB PMI rising to 49.5 and output index climbing to 50.5.",
-      "Weak demand appears as new orders fell for the third consecutive month, while input costs rose fastest in three years due to higher energy prices, squeezing manufacturers.",
-      "Data show a mixed picture as the HCOB Eurozone PMI rose to 49.5 in January from 48.8, while the manufacturing output index climbed to 50.5 from 48.9.",
-      "The European Central Bank's quarterly Survey on the Access to Finance of Enterprises found a net 18% of surveyed firms optimistic on turnover while a net 10% report lower profits this quarter.",
-      "Employment trends show factory job cuts continued for the 32nd straight month, with Greece at 54.2 and Austria weakest at 47.2, while Cyrus de la Rubia said, `Some progress can be seen in the manufacturing sector, but it’s happening at a snail’s pace."
-    ],
-    "title": "Euro zone factory activity contracts in January but output rebounds, PMI shows",
+    "right_pct": 23.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Hungary Takes EU to Court over Russian Energy Ban",
     "topic": null,
     "topic_full": null
   },
@@ -745,131 +853,19 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/ice-expands-power-of-us-agents-to-arrest-people-without-warrants-amid-trumps-immigration-crackdown-report_9c1fa7",
-    "article_url": "https://ground.news/article/ice-expands-power-of-us-agents-to-arrest-people-without-warrants-amid-trumps-immigration-crackdown-report_9c1fa7",
-    "bias": [
-      "Left-Leaning outlets frame ICE's memo as \"shocking new orders\" and an \"aggressive crackdown,\" highlighting \"sweeping new authority\" and potential Fourth Amendment violations with alarmist language like \"masked goons\" and \"nothing but green lights.",
-      "Right-Leaning coverage, conversely, portrays it as \"ICE Unleashed\" and a \"green light\" for \"on-the-spot arrests,\" normalizing increased enforcement.",
-      "Center-Leaning reports focus on judicial \"rebuke\" for \"defying courts\" and \"systematic legal and constitutional violations.",
-      "While all acknowledge expanded warrantless arrest powers, the left emphasizes civil liberties concerns, the right prioritizes enforcement efficiency, and the center highlights legal challenges, reflecting fundamental ideological divides over government power versus individual rights."
-    ],
+    "article_path": "/article/two-days-three-countries-thats-why-merz-is-now-flying-to-the-persian-gulf",
+    "article_url": "https://ground.news/article/two-days-three-countries-thats-why-merz-is-now-flying-to-the-persian-gulf",
+    "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
-    "error": null,
+    "error": "Message: \n",
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "A newly disclosed ICE memo broadens officers’ authority to make warrantless arrests by expanding the situations in which agents can argue that seeking a warrant could allow a suspect to flee.",
-      "The guidance is intended to give ICE greater flexibility to detain unauthorized immigrants encountered during operations who were not the original targets, a practice known as “collateral arrests.”",
-      "Issued by acting ICE Director Todd Lyons and first reported by The New York Times, the memo clarifies how existing immigration law—which generally requires administrative warrants signed by ICE supervisors—should be applied in the field."
-    ],
-    "title": "New ICE memo gives deportation officers more leeway to conduct warrantless arrests",
+    "status": "fail",
+    "summary": null,
+    "title": "Germany and the Gulf Region: Energy and Arms Deals",
     "topic": null,
     "topic_full": null
-  },
-  {
-    "article_path": "/article/germany-detains-5-men-accused-of-illegally-exporting-goods-to-russian-defense-companies_9a9f2a",
-    "article_url": "https://ground.news/article/germany-detains-5-men-accused-of-illegally-exporting-goods-to-russian-defense-companies_9a9f2a",
-    "bias": [
-      "Left-Leaning coverage frames the arrests for \"illegally exporting\" goods to Russian defense firms as a \"violation\" of international sanctions , emphasizing accountability and the \"full-scale invasion of Ukraine.",
-      "Right-Leaning outlets, however, employ sensationalist terms like \"Conspiratorial Deliveries\" and \"Smuggler Ring Blown up,\" highlighting a \"Raid\" and \"Procurement Network\" to underscore decisive law enforcement action against a significant threat, often amplifying the \"16,000 deliveries.",
-      "Center-Leaning reports maintain a neutral, legalistic tone, focusing on \"Illegal Exports\" and \"sham companies\" linked to Russia's \"war industry.",
-      "While all agree on the arrests, alleged sanctions violations, and the €30 million value, the right uniquely details citizenship, revealing a focus on national security implications, contrasting with the left's emphasis on international law."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 24.0,
-    "error": null,
-    "left_pct": 38.0,
-    "location": "Germany",
-    "right_pct": 38.0,
-    "status": "ok",
-    "summary": [
-      "Reported on Feb 2, German federal prosecutors said they detained five people accused of exporting goods to Russian defence firms in breach of EU sanctions, with arrests in Luebeck and the Herzogtum Lauenburg district.",
-      "Prosecutors say the scheme began in early 2022 when Nikita S., a German-Russian national, used a Luebeck trading company to procure goods for Russia after its full-scale invasion .",
-      "Investigators say the network organised about 16,000 shipments worth at least 30 million euros, with at least 24 Russian defence firms as end-users.",
-      "Authorities will present the detainees to an investigating judge at the Federal Court of Justice on Friday, with five suspects still at large, following raids in Luebeck, Frankfurt am Main, Nordwestmecklenburg, Nuremberg, and Ostholstein.",
-      "The probe involved national intelligence and customs agencies working with the Federal Intelligence Service and Customs Criminal Investigation Office, amid European nations intensifying enforcement as the war nears its four‑year mark."
-    ],
-    "title": "Germany detains 5 men accused of illegally exporting goods to Russian defense companies",
-    "topic": "German Politics",
-    "topic_full": "German Politics · Germany"
-  },
-  {
-    "article_path": "/article/german-union-calls-for-nationwide-transport-strikes-on-monday_4cfa5a",
-    "article_url": "https://ground.news/article/german-union-calls-for-nationwide-transport-strikes-on-monday_4cfa5a",
-    "bias": [
-      "Left-Leaning coverage frames the transport strike as an assertion of workers' \"power\" for better \"working conditions,\" even including a radical call to \"Break the control\" of union \"bureaucracy.",
-      "In stark contrast, right-leaning outlets emphasize the severe disruption, using terms like \"Paralyze,\" \"Huge Strike,\" and \"traffic chaos\" to highlight public \"stress and frustration,\" portraying the union as \"completely overwhelms\" and endangering \"social peace.",
-      "Center-Leaning reports, however, balance union demands with employer financial problems and practical details like S-Bahn operations.",
-      "All perspectives agree on the strike's occurrence, its disruption, and the union's demands for better conditions, yet these divergent portrayals reflect fundamental ideological differences regarding labor rights versus economic stability and public order."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 49.0,
-    "error": null,
-    "left_pct": 18.0,
-    "location": "Germany",
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "On Feb 2, Verdi launched a nationwide transport strike, with tens of thousands of public transport workers walking off and shutting bus and tram services in most cities while operators were expected to return to negotiations.",
-      "After talks stalled last week, Verdi called the strike demanding shorter shifts, longer rest breaks and higher pay while municipal and state employers proposed cuts to sick pay and flexible hours.",
-      "About 150 municipal transport companies were hit by the walkout in all but one of Germany's 16 federal states, halting services fully in Stuttgart, Karlsruhe and Freiburg, while Deutsche Bahn said some S-Bahn urban rail and long-distance services would run."
-    ],
-    "title": "Tens of thousands of transport workers walk off job in Germany",
-    "topic": "Germany Economy",
-    "topic_full": "Germany Economy · Germany"
-  },
-  {
-    "article_path": "/article/new-dutch-government-plans-freedom-tax-to-fund-defence-spending_38f48d",
-    "article_url": "https://ground.news/article/new-dutch-government-plans-freedom-tax-to-fund-defence-spending_38f48d",
-    "bias": [
-      "Left-Leaning outlets emphasize the new \"minority government\" requiring \"constant pacts\" and \"cooperation,\" highlighting challenges and \"saving\" in social systems.",
-      "Right-Leaning coverage frames a \"freedom tax\" for defense spending, often linking it to \"support to Kiev\" and \"significant cuts\" in healthcare, portraying a \"right-leaning\" government with assertive, value-laden language.",
-      "Center-Leaning reports neutrally present figures like \"19 billion\" for defense and \"100,000 additional homes,\" reporting the \"freedom tax\" as a proposed term.",
-      "While all acknowledge a new coalition and increased defense spending, the left prioritizes collective governance, contrasting with the right's focus on national security and fiscal conservatism."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 27.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "Netherlands",
-    "right_pct": 46.0,
-    "status": "ok",
-    "summary": [
-      "The incoming Dutch government plans a 'freedom tax' to add a surcharge to income and corporate taxes , generating around 5 billion euros per year for defence spending, according to coalition parties.",
-      "The government aims to increase defence spending to 2.8% of GDP by 2030 and 3.5% by 2035, up from about 2% now, to meet NATO targets.",
-      "Rob Jetten, leader of the D66 party, stated, 'We are charting a new course for our country, with investments aimed at the long term.'",
-      "The minority government coalition includes the D66, Christian Democrats, and VVD, holding 66 of 150 parliament seats, and requires support from opposition parties for proposals."
-    ],
-    "title": "New Dutch government plans 'freedom tax' to fund defence spending",
-    "topic": "Netherlands Economy",
-    "topic_full": "Netherlands Economy · Netherlands"
-  },
-  {
-    "article_path": "/article/pope-leo-calls-for-sincere-dialogue-between-us-and-cuba-after-trumps-tariff-threat_07406e",
-    "article_url": "https://ground.news/article/pope-leo-calls-for-sincere-dialogue-between-us-and-cuba-after-trumps-tariff-threat_07406e",
-    "bias": [
-      "While all perspectives acknowledge Pope Leo XIV 's call for \"sincere dialogue\" to prevent \"suffering\" amid \"increasing tensions,\" left-leaning coverage frames US actions as a \"stranglehold\" or \"economic terrorism\" by \"Trump's regime,\" even criticizing the Pope's statement as \"establishment propaganda.",
-      "Right-Leaning outlets, conversely, portray the Pope's message as a \"disturbing warning\" and explicitly label Cuba \"Washington’s historic enemy,\" emphasizing US economic pressure.",
-      "Center-Leaning reports maintain a neutral tone, using terms like \"standoff\" and \"urges,\" uniquely highlighting ongoing US-Cuba talks, a detail de-emphasized elsewhere.",
-      "These distinct rhetorical tactics reveal fundamental ideological divides over foreign policy and international relations."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 26.0,
-    "error": null,
-    "left_pct": 39.0,
-    "location": "Cuba",
-    "right_pct": 35.0,
-    "status": "ok",
-    "summary": [
-      "The Vatican's Pope Leo said on Sunday he was deeply concerned about rising tensions between the United States and Cuba and joined Cuban bishops in urging sincere dialogue to avoid suffering for the Cuban people.",
-      "By threatening tariffs on suppliers, the U.S. escalated pressure as U.S. President Donald Trump said last week tariffs would target imports from countries that supply Cuba with oil to protect U.S. national security.",
-      "U.S. President Donald Trump reiterated on Saturday that he told reporters aboard Air Force One, `It doesn't have to be a humanitarian crisis` while calling for Cuba to negotiate."
-    ],
-    "title": "Pope Leo Urges US and Cuba to Pursue Dialogue Amid Rising Tensions",
-    "topic": "Pope Leo XIV",
-    "topic_full": "Pope Leo XIV · Cuba"
   }
 ]
