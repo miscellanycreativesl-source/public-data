@@ -1,16 +1,16 @@
 [
   {
-    "Abstract": "Wild dromedary camels in the Arabian Peninsula and Africa have harbored antibodies against Middle East Respiratory Syndrome Coronavirus (MERS-CoV) for decades, predating zoonotic spillover to humans. However, the potency, specificity, and structural characteristics of these antibodies remain poorly understood. Here, we characterize the antibody responses of naturally infected wild dromedary camels in Tunisia, a MERS-CoV-endemic region. Plasma antibodies from nine camels exhibited variable neutralizing activity, generally increasing with age, and were largely autologous, with minimal cross-reactivity to SARS-CoV-1 or SARS-CoV-2. From a VHH antibody library derived from the peripheral blood mononuclear cells (PBMCs) of a single camel (D17), we identified 34 unique sequences with previously unreported germline origins and unusually long complementarity-determining region 3 (CDR3) sequences. Eight representative VHHs, expressed as human Fc fusions, displayed high-affinity binding to the MERS-CoV receptor-binding domain (RBD) and broad neutralization to RBD mutants (IC 50 : 1.05 to 9.55 ng/mL). Crystal structural analysis revealed distinct neutralization mechanisms: VHH-227 fully blocked DPP4 binding, achieving complete neutralization, while VHH-T71, with partial neutralization (~80%), targeted the RBD core subdomain. This study provides comprehensive characterization of wild dromedary antibody responses, identifying novel nanobodies (Nbs) with broad and potent neutralization to naturally occurring RBD mutants. These findings offer insights into camel immunity and highlight promising candidates for MERS-CoV prophylactic and therapeutic development.",
-    "Author": "Idoudi, Faten",
-    "DOI": "https://doi.org/10.1073/pnas.2513716123",
-    "Domain": "Life Sciences",
-    "Field": "Agricultural and Biological Sciences",
+    "Abstract": "Previous experimental reports of long-range interactions in ionic liquids (ILs) stand in contradiction with theoretical predictions and numerical simulations. To provide insights into the literature discrepancies regarding the experimental ranges of electrostatic screening, claimed with orders of magnitude larger, the interactions between pairs of mica and borosilicate surfaces confining ILs are investigated by two complementary advanced Surface Force Apparatuses. Regardless of differences in confinement geometries (crossed-cylinders, sphere-flat), radii of curvature (cm-mm), and measurement techniques (stepwise versus continuous approach), two ever present force regimes are evidenced. At small surface separations, oscillatory forces reflect IL structuration and layering, while outside this gap, the interaction is monotonic repulsive. In both regimes the spatial extent and force magnitude depend critically on motion conditions, as demonstrated by achieving velocities as low as 9 pm/s with equilibration times up to 90 s. At large separations, fast surface displacements generate long-range interactions (over tens of ion size) creating the illusion of anomalous underscreening, whereas increasingly slow ones shrink both magnitude and range of the repulsion with decay-lengths converging ultimately to a screening length consistent with Poisson–Boltzmann theory with finite ion sizes. The transition from apparent long-range to short-range screening unfolds over nearly two orders of magnitude in time, revealing slow relaxation dynamics reminiscent of aging phenomena. These findings definitely resolve a decade-old controversy on force measurements and reveal rich out-of-equilibrium dynamics. The hydrodynamic contribution to the net force is admittedly crucial to be reduced especially when relaxations span decades in time, but approaching thermodynamic equilibrium during measurements proves essential.",
+    "Author": "Cross, Benjamin",
+    "DOI": "https://doi.org/10.1073/pnas.2517939123",
+    "Domain": "Physical Sciences",
+    "Field": "Chemical Engineering",
     "Language": "English",
     "Publication date": "2026-02-09",
     "Source": "Proceedings of the National Academy of Sciences",
-    "Subfield": "Food Science",
-    "Title": "Decoding antibody response to MERS-CoV in wild dromedary camels",
-    "Topic": "Animal Diversity and Health Studies"
+    "Subfield": "Catalysis",
+    "Title": "Short-range electrostatic screening in ionic liquids as inferred by direct force measurements",
+    "Topic": "Ionic liquids properties and applications"
   },
   {
     "Abstract": "The kinase MAPKAPK2 regulates cell survival, proliferation, and death, and is upregulated in colorectal carcinoma (CRC) where it is associated with tumor growth and progression. However, how it regulates tumor progression in conjunction with other signaling pathways, such as MEK/ERK, remains elusive. Solid tumors are often subjected to metabolic stress, notably glucose deprivation. Here, we demonstrate that MAPKAPK2 protein levels in CRC regulate cell fate decision during stress conditions, such as glucose deprivation and therapeutic treatment. While MAPKAPK2 expression is a limiting factor for CRC growth in vitro, depleting MAPKAPK2 or inhibiting its activity pharmacologically provides a survival advantage to CRC cells under glucose limiting conditions. Subjecting CRC cells to low glucose resulted in an ERK1/2-mediated decline in MAPKAPK2 to promote survival. Additionally, cells with reduced MAPKAPK2 activity were less sensitive to trametinib under glucose limiting conditions. Utilizing transcriptomic profiling, we found that glucose deprivation and MAPKAPK2 depletion activate pathways associated with survival during metabolic stress. This relationship was also observed in CRC patients (TCGA), where tumors with low MAPKAPK2 expression had higher ERK1/2 activation and upregulated stress-induced pathways, leading to poor survival. Finally, MAPKAPK2 modulated growth of CRC organoids, subcutaneous tumors, and patient-derived xenografts (PDX), and reduced MAPKAPK2 levels decreased efficacy of trametinib, in vitro and in vivo. Overall, this study identifies an interrelationship between MEK/ERK and p38/MAPKAPK2 signaling pathways during glucose deprivation to support cell survival and features MAPKAPK2 loss as a possible mechanism leading to reduced efficacy of trametinib-based anticancer therapy and poor patient outcomes in CRC.",
@@ -26,30 +26,17 @@
     "Topic": "Melanoma and MAPK Pathways"
   },
   {
-    "Abstract": "Glycogen phosphorylase (GP) plays a central role in glycogen metabolism. While the structure and regulation of mammalian GPs have been extensively studied, the corresponding mechanisms in gut bacterial GPs remain poorly understood. Here, we investigate GPs from Escherichia coli ( Ec GP), Segatella copri ( Sc GP), and Dorea longicatena ( Dl GP), which represent three phylogenetic clades of GPs, using enzymatic assays, cryo–electron microscopy (cryo-EM), and X-ray crystallography. We find that Sc GP forms a unique pentamer that undergoes adenosine monophosphate (AMP)-dependent assembly into a dimer-of-pentamer, which inhibits activity by restricting substrate access to the catalytic site. Ec GP exists in equilibrium among monomers, dimers, and tetramers, with AMP promoting tetramer dissociation and enhancing catalytic efficiency. In contrast, Dl GP remains predominantly monomeric and is unresponsive to AMP. These findings uncover structural and regulatory diversity among gut bacterial GPs. Notably, the oligomeric states of GPs modulate substrate accessibility and enzyme activation, suggesting a distinct mode of allosteric regulation beyond the canonical T-to-R transition model. Because bacterial GPs contribute to the generation of glucose, their regulation may influence the composition of gut-derived metabolites that affect host glucose homeostasis and insulin sensitivity. Our study provides mechanistic insight into the structural and functional diversity of gut bacterial GPs and lays a foundation for future exploration of microbiome-mediated metabolic interactions.",
-    "Author": "Shobu, Keigo",
-    "DOI": "https://doi.org/10.1073/pnas.2518513123",
+    "Abstract": "Cross-couplings are essential reactions in modern chemical synthesis, enabling the rapid construction of complex molecules from simple precursors. Transition metal catalysts are prized for these transformations because their reactivity and selectivity can be tuned via judicious selection of the metal and ligand. Although enzymes offer analogous opportunities for tuning via protein engineering, their application to cross-coupling remains limited, as nature relies on alternative paradigms for building molecular complexity. Here, we report the cross-coupling of alkyl halides and benzylic carboxylic acids using an engineered flavin-dependent lactate monooxygenase—a photoenzyme. The enzyme achieves this feat by exploiting the redox versatility of the flavin cofactor. Stoichiometric experiments, ultrafast spectroscopy, and computational studies support a mechanism in which photoexcited flavin quinone initiates the reaction via oxidative decarboxylation to generate a benzylic radical. The resulting flavin semiquinone can reduce the alkyl halide to form a second organic radical within the protein active site, which rapidly engages in C(sp 3 )–C(sp 3 ) bond formation. A variant was engineered to control the stereochemical outcome of this radical–radical coupling event, highlighting the ability of the protein to alter the energetic barrier for a mechanistic step that is traditionally understood to be near barrierless. This work demonstrates that the scope for nonnative reaction mechanisms in biocatalysis far exceeds previously established bounds and has potential to solve a variety of reactivity challenges in cross-coupling chemistry.",
+    "Author": "Liu, Yi",
+    "DOI": "https://doi.org/10.1073/pnas.2529018123",
     "Domain": "Physical Sciences",
     "Field": "Chemistry",
     "Language": "English",
     "Publication date": "2026-02-09",
     "Source": "Proceedings of the National Academy of Sciences",
     "Subfield": "Organic Chemistry",
-    "Title": "Structural and mechanistic diversity of glycogen phosphorylases from gut bacteria",
-    "Topic": "Carbohydrate Chemistry and Synthesis"
-  },
-  {
-    "Abstract": "Previous experimental reports of long-range interactions in ionic liquids (ILs) stand in contradiction with theoretical predictions and numerical simulations. To provide insights into the literature discrepancies regarding the experimental ranges of electrostatic screening, claimed with orders of magnitude larger, the interactions between pairs of mica and borosilicate surfaces confining ILs are investigated by two complementary advanced Surface Force Apparatuses. Regardless of differences in confinement geometries (crossed-cylinders, sphere-flat), radii of curvature (cm-mm), and measurement techniques (stepwise versus continuous approach), two ever present force regimes are evidenced. At small surface separations, oscillatory forces reflect IL structuration and layering, while outside this gap, the interaction is monotonic repulsive. In both regimes the spatial extent and force magnitude depend critically on motion conditions, as demonstrated by achieving velocities as low as 9 pm/s with equilibration times up to 90 s. At large separations, fast surface displacements generate long-range interactions (over tens of ion size) creating the illusion of anomalous underscreening, whereas increasingly slow ones shrink both magnitude and range of the repulsion with decay-lengths converging ultimately to a screening length consistent with Poisson–Boltzmann theory with finite ion sizes. The transition from apparent long-range to short-range screening unfolds over nearly two orders of magnitude in time, revealing slow relaxation dynamics reminiscent of aging phenomena. These findings definitely resolve a decade-old controversy on force measurements and reveal rich out-of-equilibrium dynamics. The hydrodynamic contribution to the net force is admittedly crucial to be reduced especially when relaxations span decades in time, but approaching thermodynamic equilibrium during measurements proves essential.",
-    "Author": "Cross, Benjamin",
-    "DOI": "https://doi.org/10.1073/pnas.2517939123",
-    "Domain": "Physical Sciences",
-    "Field": "Chemical Engineering",
-    "Language": "English",
-    "Publication date": "2026-02-09",
-    "Source": "Proceedings of the National Academy of Sciences",
-    "Subfield": "Catalysis",
-    "Title": "Short-range electrostatic screening in ionic liquids as inferred by direct force measurements",
-    "Topic": "Ionic liquids properties and applications"
+    "Title": "Photoenzymatic Csp <sup>3</sup> –Csp <sup>3</sup> bond formation via enzyme-templated radical–radical coupling",
+    "Topic": "Radical Photochemical Reactions"
   },
   {
     "Abstract": "Although it is generally accepted today that climate and other environmental factors affected past human societies at different spatiotemporal scales, direct linkages are difficult to determine, and correlation should not be confused with causation. Here, we use a tree-ring width network of multimillennial chronologies from inner Eurasia to reconstruct annual changes in Net Primary Productivity (NPP) back to 200 BCE. Our findings reveal that episodes of reduced NPP around the 70s–100s, 360s–380s, and 470s–560s CE likely contributed to the westward and southward migration of nomadic people from their homelands in northwestern China and Mongolia. Although prolonged multidecadal periods of climate-induced low NPP served as tipping points for agricultural and pastoral subsistence systems, the inherent mobility of nomadic communities not only enabled them to adapt to adverse environmental conditions but also facilitated a widespread dispersal of ethnic groups.",
@@ -65,45 +52,6 @@
     "Topic": "Tree-ring climate responses"
   },
   {
-    "Abstract": "Samples collected from the carbonaceous near-Earth asteroid Bennu and delivered to Earth by NASA’s OSIRIS-REx mission contain organic molecules relevant to prebiotic chemistry. Stable isotopic measurements of extraterrestrial soluble organic matter provide critical insights into the formation pathways and alteration histories of such molecules, which hold significance for understanding the origins of life. We leverage state-of-the-art techniques for picomolar-scale isotopic analyses of amino acids in samples of Bennu and, for comparison, the carbonaceous meteorite Murchison. We report intramolecular δ 13 C values for glycine, which have not previously been measured in extraterrestrial materials; molecular-averaged δ 13 C values for amino acids, aldehydes, and ketones; and δ 15 N values for glycine, β-alanine, and D/L-glutamic acid. Intramolecular carbon isotope patterns of glycine in Bennu contrast with those in Murchison, suggesting distinct formation pathways. We explore several formation mechanisms and hypothesize that the observed glycine in Murchison formed dominantly by a Strecker-like synthesis under aqueous conditions, whereas the glycine currently found in Bennu may have formed mainly by modified radical–radical reactions in primordial ices at the cold, outer reaches of the early Solar System and retained its isotopic values throughout accretion and multiple episodes of aqueous alteration. This hypothesis is supported by the highly 15 N-enriched δ 15 N values in Bennu amino acids (+170 to 277‰). Differences in the δ 15 N values of D- and L-glutamic acid (Δ = 87‰) in Bennu affirm published reports of enantiomeric differences in meteoritic amino acids and challenge the assumption of isotopic uniformity between amino acid chiral pairs.",
-    "Author": "Allison A. Baczynski",
-    "DOI": "https://doi.org/10.1073/pnas.2517723123",
-    "Domain": "Physical Sciences",
-    "Field": "Physics and Astronomy",
-    "Language": "English",
-    "Publication date": "2026-02-09",
-    "Source": "Proceedings of the National Academy of Sciences",
-    "Subfield": "Astronomy and Astrophysics",
-    "Title": "Multiple formation pathways for amino acids in the early Solar System based on carbon and nitrogen isotopes in asteroid Bennu samples",
-    "Topic": "Astro and Planetary Science"
-  },
-  {
-    "Abstract": "COVID-19 has been associated with high prevalences of retinal diseases in humans. However, cellular and molecular mechanisms that underlie the COVID-19-associated retinopathy remains unknown. Here, we deployed a mouse COVID-19 model to investigate the causative link between SARS-CoV-2 infection and retinopathy development. Our data showed that COVID-19-induced pulmonary hypoxia triggered systemic hypoxia and markedly augmented VEGF expression levels in the retina and plasma. High VEGF levels altered vascular structures and functions in the retina, resulting in neovascularization, vascular disorganization, and increased leakiness. We deployed a terminology of coviretinopathy to accurately describe these COVID-19-induced pathological changes in the retina. Consequently, blocking VEGF by a specific neutralizing antibody (VEGF blockade) completely ablated the COVID-19-associated vascular changes in the retina. Together, these findings provide mechanistic insights into the COVID-19-associated retinopathy and propose a therapeutic paradigm for effective treatment of coviretinopathy.",
-    "Author": "Wang, Xiaolu",
-    "DOI": "https://doi.org/10.1073/pnas.2516405123",
-    "Domain": "Health Sciences",
-    "Field": "Medicine",
-    "Language": "English",
-    "Publication date": "2026-02-09",
-    "Source": "Proceedings of the National Academy of Sciences",
-    "Subfield": "Ophthalmology",
-    "Title": "Coviretinopathy: COVID-19-induced VEGF-dependent retinopathy",
-    "Topic": "Retinal and Optic Conditions"
-  },
-  {
-    "Abstract": "Expectations can shape perception and potentially lead to self-fulfilling prophecies such as placebo effects that persist or grow over time. Nonetheless, whether and how unreinforced and unconditioned social cues (i.e., suggestions about future experiences that have not been reinforced with reward or punishment) can create and sustain such effects is unknown. We conducted a set of experiments in which participants (N = 111) experienced stimuli eliciting somatic pain (heat), vicarious pain (videos of others in pain), and cognitive effort (a mental-rotation task), at three intensity levels each. Before each stimulus, participants viewed a social cue that ostensibly indicated ratings from 10 other participants but was in fact randomized to a high or low mean aversiveness level independent of actual stimulus intensity. Across all tasks, participants’ expectations and experience ratings shifted in line with the cues, with high-aversive cues leading to higher perceived aversiveness. Computational modeling and behavioral analysis revealed lower learning rates for prediction errors inconsistent with the trial’s cue value (e.g., better than expected for high-aversive cues) and higher learning rates for prediction errors consistent with the cue value (e.g., worse than expected for high-aversive cues). These findings reveal a confirmation bias in learning: people update more when outcomes align with expectations. Combined with expectation effects on perception, this bias helps sustain social cue effects. Together, these mechanisms show how social information can shape perception and learning, giving rise to self-fulfilling prophecies.",
-    "Author": "Yazdanpanah, Aryan",
-    "DOI": "https://doi.org/10.1073/pnas.2513856123",
-    "Domain": "Life Sciences",
-    "Field": "Neuroscience",
-    "Language": "English",
-    "Publication date": "2026-02-09",
-    "Source": "Proceedings of the National Academy of Sciences",
-    "Subfield": "Cognitive Neuroscience",
-    "Title": "Social information creates self-fulfilling prophecies in judgments of pain, vicarious pain, and cognitive effort",
-    "Topic": "Pain Management and Placebo Effect"
-  },
-  {
     "Abstract": "Alphaviruses establish persistent infections in mosquito vectors despite robust antiviral RNA interference (RNAi) pathways, suggesting that they employ mechanisms to counteract host immunity. We demonstrate that the nsP2 protein of Sindbis virus (SINV), the prototype alphavirus, functions as a viral suppressor of RNA silencing in Aedes aegypti mosquitoes. Using a SINV mutant (2V) that prevents cleavage at the nsP2–nsP3 junction, we show that proper proteolytic processing to release mature nsP2 is essential for efficient viral replication in mosquitoes with intact RNAi pathways. Replication defects in the 2V mutant were rescued in Dicer-2 ( Dcr-2 ) null mutant mosquitoes or by expressing the mature nsP2 protein. Biochemical assays revealed that recombinant nsP2 directly binds double-stranded RNA and inhibits Dicer-mediated processing into small interfering RNAs (siRNAs). Furthermore, mosquitoes infected with the 2V mutant exhibited higher ratios of virus-derived siRNAs per viral RNA compared to wild-type infections, confirming that mature nsP2 suppresses the RNAi response. Our findings provide compelling evidence that nsP2 antagonizes RNA silencing in mosquito vectors, representing a critical adaptation that facilitates alphavirus replication.",
     "Author": "Adarsh K. Gupta",
     "DOI": "https://doi.org/10.1073/pnas.2521417123",
@@ -117,17 +65,43 @@
     "Topic": "Invertebrate Immune Response Mechanisms"
   },
   {
-    "Abstract": "Aquaculture, the single fastest growing food sector, is central to achieving key Sustainable Development Goals (e.g., SDG 2: Zero Hunger). Linking the nutrient composition of &gt;2,800 aquatic species with &gt;2 million fishmeal and farmed fish transactions in international aquatic food trade between 2015 and 2019, we examined aquaculture’s nutritional flows and distributional equity. We found that aquaculture provided adequate intakes for nearly a quarter of a million individuals, on average, across 14 key nutrients, and for up to 2.7 billion individuals for several nutrients, such as Vitamin B 12 . The vast majority of these nutrients (76.8%) were domestically retained, contributing to the nutritional security of producer countries. With most internationally traded nutrients originating from nutritionally vulnerable countries (57.7% for fishmeal and 66.3% for farmed aquatic foods), rethinking existing distribution policies with nutrition as the primary objective may help unlock the full potential of aquaculture to eliminate hunger and malnutrition.",
-    "Author": "Laura G. Elsler",
-    "DOI": "https://doi.org/10.1073/pnas.2506699123",
+    "Abstract": "Grazing systems represent the most extensive production systems in the world and are highly sensitive to climate change. However, their global-scale sensitivity and vulnerability to climate impacts remain poorly understood. Here, we apply the safe climatic space framework to assess how changes in core climatic drivers of grazing suitability, including temperature, precipitation, humidity, and wind speed, will reshape global grassland-based grazing systems. Our analysis projects a net decline of 36 to 50% of areas in climate suitability for grazing by 2100, accompanied by inter- and intracontinental shift of grazing suitability. These changes are expected to negatively affect 110 to 140 million pastoralists and 1.4 to 1.6 billion livestock, with particularly severe impacts in Africa. We further show that 51 to 81% of these impacted populations reside in countries with low income, serious hunger, severe gender inequality, and high political fragility. Our study implies that future climate change will threaten grazing suitability across large portions of Earth, endangering the livelihoods of numerous communities and potentially triggering widespread socioeconomic consequences.",
+    "Author": "Li, Chaohui",
+    "DOI": "https://doi.org/10.1073/pnas.2534015123",
     "Domain": "Physical Sciences",
     "Field": "Environmental Science",
     "Language": "English",
     "Publication date": "2026-02-09",
     "Source": "Proceedings of the National Academy of Sciences",
-    "Subfield": "Global and Planetary Change",
-    "Title": "Global nutritional equity of fishmeal and aquaculture trade flows",
-    "Topic": "Marine Bivalve and Aquaculture Studies"
+    "Subfield": "Management, Monitoring, Policy and Law",
+    "Title": "Climate change drives a decline in global grazing systems",
+    "Topic": "Rangeland Management and Livestock Ecology"
+  },
+  {
+    "Abstract": "Growth factor receptor signaling is a critical component of tissue growth, homeostasis, and wound healing. However, receptor desensitization limits the use of exogenous growth factors as a restorative agent therapeutically. An example of this is the epidermal growth factor receptor (EGFR) in the corneal epithelium. Despite laboratory data indicating that EGFR activity accelerates corneal re-epithelialization in mice and rabbits, the clinical administration of EGF to damaged corneal epithelium has limited impact due to the attenuated signaling that occurs following sustained growth factor administration. We hypothesized that inhibition of receptor desensitization would prolong receptor activity and enhance tissue homeostasis. Having previously identified the E3 ubiquitin ligase, c-Cbl, as a key negative regulator of EGFR signaling in the corneal epithelium, we have developed a class of small molecule inhibitors of EGFR binding to CBL family proteins using virtual screening with experimental validation. Through multiple rounds of structural optimization, we have identified compound 3-120. This compound was designed to compete with phosphotyrosine 1045 of the EGFR for binding to c-Cbl. Compound 3-120 binds to c-Cbl with an ~10-fold higher affinity than phosphoEGFR, reduces EGFR ubiquitylation by 40%, and increases the magnitude of ligand-stimulated EGFR phosphorylation by 30 to 40%. Ultimately, this compound can enhance the restoration of corneal epithelial debridement wounds. Thus, compound 3-120 is an antagonist that specifically disrupts EGFR ubiquitylation to sustain receptor signaling.",
+    "Author": "Tarvestad-Laise, Kate",
+    "DOI": "https://doi.org/10.1073/pnas.2518857123",
+    "Domain": "Health Sciences",
+    "Field": "Medicine",
+    "Language": "English",
+    "Publication date": "2026-02-09",
+    "Source": "Proceedings of the National Academy of Sciences",
+    "Subfield": "Oncology",
+    "Title": "A c-Cbl/Cbl-b antagonist inhibits EGFR ubiquitylation and sustains EGFR phosphorylation to enhance corneal re-epithelialization",
+    "Topic": "Cancer-related Molecular Pathways"
+  },
+  {
+    "Abstract": "Mosquito-disease vectors, such as Aedes aegypti , use their sense of taste before deciding whether to consume a blood meal, or fly away. However, the molecular mechanisms controlling gustatory decisions in mosquitoes are largely unknown. The transient receptor potential (TRP) channel, Painless1 (Pain1), is an intriguing candidate for participating in Ae. aegypti taste since pain1 transcripts are detected in gustatory receptor neurons (GRNs). The Drosophila homolog, painless ( pain ) is also expressed in GRNs, where it is required for sensing allyl-isothiocyanate. Here, to identify additional gustatory roles for pain homologs, we first focused on Drosophila pain , which is widely expressed in multiple GRN classes. We demonstrated that pain mutations eliminated gustatory attraction to low fatty acids levels, repulsion to high levels, and fatty acid-induced action potentials. The attraction and repulsion depended on pain expression in different GRN classes. In contrast to Drosophila , when Aedes contacts fatty acids, they induce gustatory rejection only. Aedes pain1 is expressed in taste organs, and is required for gustatory avoidance of fatty acids, and for fatty acid-induced action potentials. Given that Pain homologs are found in insects but not vertebrates, Pain1 represents an intriguing target for developing repellents to diminish biting, and transmission of infectious agents by mosquito disease vectors.",
+    "Author": "Dhakal, Subash",
+    "DOI": "https://doi.org/10.1073/pnas.2522818123",
+    "Domain": "Life Sciences",
+    "Field": "Neuroscience",
+    "Language": "English",
+    "Publication date": "2026-02-09",
+    "Source": "Proceedings of the National Academy of Sciences",
+    "Subfield": "Cellular and Molecular Neuroscience",
+    "Title": "Gustatory avoidance of fatty acids by <i>Aedes aegypti</i> depends on an arthropod-specific TRP channel",
+    "Topic": "Neurobiology and Insect Physiology Research"
   },
   {
     "Abstract": "This cross-sectional study assesses the potential impact of a smartwatch hypertension notification feature for US adults who have not been diagnosed with hypertension.",
@@ -143,17 +117,17 @@
     "Topic": "Machine Learning in Healthcare"
   },
   {
-    "Abstract": "KC significantly improved the μSBS of composite resin in saliva-contaminated dentin, particularly when applied after primer or post-polymerization contamination. These findings support the clinical use of KC as an effective decontamination protocol to maintain bonding performance under compromised isolation.",
-    "Author": "Ruhsan Müdüroğlu Adıgüzel",
-    "DOI": "https://doi.org/10.3290/j.jad.c_2503",
-    "Domain": "Health Sciences",
-    "Field": "Dentistry",
+    "Abstract": "This Perspective examines aluminum exposure from vaccines and diet, including how the body processes aluminum, possible health effects, and safety considerations.",
+    "Author": "Charlotte A. Moser",
+    "DOI": "https://doi.org/10.1001/jama.2026.0056",
+    "Domain": "Life Sciences",
+    "Field": "Agricultural and Biological Sciences",
     "Language": "English",
     "Publication date": "2026-02-09",
-    "Source": "PubMed",
-    "Subfield": "Orthodontics",
-    "Title": "Influence of an MDP Salt-Based Surface Cleaner on Bond Strength to Saliva-Contaminated Dentin At Different Stages of a Self-Etch Adhesive Procedure: An In Vitro Pilot Study.",
-    "Topic": "Dental materials and restorations"
+    "Source": "JAMA",
+    "Subfield": "Plant Science",
+    "Title": "Aluminum Exposure From Vaccines and Diet",
+    "Topic": "Aluminum toxicity and tolerance in plants and animals"
   },
   {
     "Abstract": "As the need for RWD increases, especially for post-COVID-19 pandemic decision-making, ensuring high data quality and appropriate study design is critical. Proper evaluation of RWD sources enhances the credibility of findings and supports their use in meta-analyses, clinical guidelines, and healthcare policy.",
@@ -167,6 +141,19 @@
     "Subfield": "Statistics, Probability and Uncertainty",
     "Title": "Evaluating treatment effectiveness: Complementing RCTs with real-world data.",
     "Topic": "Meta-analysis and systematic reviews"
+  },
+  {
+    "Abstract": "KC significantly improved the μSBS of composite resin in saliva-contaminated dentin, particularly when applied after primer or post-polymerization contamination. These findings support the clinical use of KC as an effective decontamination protocol to maintain bonding performance under compromised isolation.",
+    "Author": "Ruhsan Müdüroğlu Adıgüzel",
+    "DOI": "https://doi.org/10.3290/j.jad.c_2503",
+    "Domain": "Health Sciences",
+    "Field": "Dentistry",
+    "Language": "English",
+    "Publication date": "2026-02-09",
+    "Source": "PubMed",
+    "Subfield": "Orthodontics",
+    "Title": "Influence of an MDP Salt-Based Surface Cleaner on Bond Strength to Saliva-Contaminated Dentin At Different Stages of a Self-Etch Adhesive Procedure: An In Vitro Pilot Study.",
+    "Topic": "Dental materials and restorations"
   },
   {
     "Abstract": "Traditional pharmacology has limited control of drug activity and localization in space and time. Herein, we describe an approach for kinase regulation using conditional localization pharmacology (CLP), where an inactive caged inhibitor is localized to a site of interest in a dormant state using intracellular protein tethering. The activity of the inhibitor can be regulated with spatial and temporal precision in a live cellular environment using light. As a proof of concept, a photocaged MPS1 kinase inhibitor (reversine) bearing a HaloTag ligand tether was designed to manipulate the cell cycle. We demonstrate that this new caged reversine halo probe (CRH) strategy is capable of efficient localization and exceptional spatiotemporal control over spindle assembly checkpoint (SAC) silencing and mitotic exit.",
@@ -208,95 +195,43 @@
     "Topic": "Advanced Memory and Neural Computing"
   },
   {
-    "Abstract": "Abstract Prosocial behaviours are essential for solving global challenges. Often, these behaviours have been measured using economic games or tasks where people decide between helping or not. However, in everyday life current behaviours are interrupted with alternative opportunities. Across three independent samples (two preregistered, total n = 510), people watched a movie whilst encountering opportunities that benefitted another person or themselves. Crucially, participants decided in different poor and rich foraging environments where the average reward values of opportunities changed. We demonstrate a stronger environmental influence on decisions that benefit others: people were more willing to interrupt their behaviour to help others in poor environments, where the average reward value was lower, compared to richer environments where average reward value was higher. Computational modelling revealed that the opportunity costs of the different foraging environments were valued distinctly for others. Factors of utilitarianism, and empathy/emotional motivation, captured variability in opportunity costs for others. We show that when humans decide to engage in prosocial behaviours depends on the quality of opportunities in one’s environment, which is critical as environments change.",
-    "Author": "Todd A Vogel",
-    "DOI": "https://doi.org/10.1038/s41467-025-66880-9",
+    "Abstract": "Abstract Trapped matter-wave interferometry offers the promise of compact high-precision local force sensing. However, noise in the trap itself can introduce new systematic errors which are absent in traditional free-fall interferometers. We describe and demonstrate an intrinsically noise-tolerant Floquet-engineered platform for continuously trapped atom interferometry. A non-interacting degenerate quantum gas undergoes position-space Bloch oscillations through an amplitude-modulated optical lattice, whose resulting Floquet-Bloch band structure includes Landau-Zener beamsplitters and Bragg mirrors, forming the components of a Mach-Zehnder interferometric force sensor. We identify, realize, and experimentally characterize magic band structures, analogous to the magic wavelengths employed in optical lattice clocks, for which the interferometric phase is insensitive to lattice intensity noise. We leverage the intrinsic programmability of the Floquet band synthesis approach to demonstrate a variety of interferometer structures, highlighting the potential of this technique for quantum force sensors which are tunable, compact, simple, and robust.",
+    "Author": "Chai, Xiao",
+    "DOI": "https://doi.org/10.1038/s41467-026-69299-y",
+    "Domain": "Physical Sciences",
+    "Field": "Physics and Astronomy",
+    "Language": "English",
+    "Publication date": "2026-02-09",
+    "Source": "Nature Communications",
+    "Subfield": "Atomic and Molecular Physics, and Optics",
+    "Title": "Continuously trapped matter-wave interferometry in magic Floquet-Bloch band structures",
+    "Topic": "Cold Atom Physics and Bose-Einstein Condensates"
+  },
+  {
+    "Abstract": "Misleading graphs can give readers a distorted view of the underlying data. We want to know how to most effectively correct misleading graphs and if it matters whether a correction uses the full-design of the original or a clean design with all embellishment and colors removed. We focus on vocationally educated young adults, a group that is vulnerable to misinformation and has so far been underrepresented in research. We use a mixed-method approach with a qualitative think-aloud task (n = 10, data collected in April 2023) and a quantitative survey (n = 130, data collected between July and October 2023). The think-aloud task showed that vocational students use a combination of calculating and estimating to process graphs, which contradicts existing literature, and that their perception is heavily influenced by context. The survey showed that graph corrections work in reducing misleading effects and also have a learning effect such that students are less misled by new misleading graphs of the same type. There was no difference between full-design and clean design corrections. These results imply that vocationally educated young adults can benefit from seeing corrections of misleading graphs.",
+    "Author": "Wijnker, Winnifred",
+    "DOI": "https://doi.org/10.1371/journal.pone.0340100",
     "Domain": "Social Sciences",
     "Field": "Social Sciences",
     "Language": "English",
     "Publication date": "2026-02-09",
-    "Source": "Nature Communications",
+    "Source": "PLoS ONE",
     "Subfield": "Sociology and Political Science",
-    "Title": "Humans are more prosocial in poor foraging environments",
-    "Topic": "Evolutionary Game Theory and Cooperation"
+    "Title": "Debunking misleading graphs effectively: How vocationally educated young adults perceive graphs",
+    "Topic": "Misinformation and Its Impacts"
   },
   {
-    "Abstract": "Mathematical learning disabilities (MLD) affect up to 14% of school-age children, yet the underlying neurocognitive mechanisms remain elusive. We developed Drift Diffusion Model with Dynamic Performance Monitoring (DDM-DPM), an innovative cognitive model that captures both external and internal sources of structural variability in task performance. Combining DDM-DPM with functional brain imaging, we examined symbolic and non-symbolic quantity discrimination in female and male children with MLD and typically developing children matched on age, gender, and IQ. Children with MLD showed format-dependent alterations in response caution and post-error adjustment, despite similar observed performance measures between groups. The latent cognitive processes during symbolic quantity discrimination predicted broader mathematical abilities better than those during non-symbolic quantity discrimination. Neuroimaging results revealed that reduced activity in middle frontal gyrus mediated deficits in response caution in symbolic format, while reduced activity in the anterior cingulate cortex mediated deficits in post-error adjustment in symbolic format in children with MLD. These findings provide novel support for a multidimensional deficit view of MLD that extends beyond basic number processing to include metacognitive processes. Our findings also provide novel support for and extend the access deficit model, which posits that individuals with MLD may have relatively intact quantity representations but struggle with numerical representations in symbolic formats. Our study highlights the value of integrating latent cognitive modeling with neuroimaging to reveal subtle mechanisms underlying learning disabilities and identify potential targets for intervention. Significance Statement Considerable debate exists regarding the nature of deficits in mathematical learning disabilities (MLD). By developing an innovative computational model that captures subtle aspects of decision-making processes, we reveal that children with MLD show specific difficulties in adapting their problem-solving strategies when working with numerical symbols. Using brain imaging, we found that these difficulties are linked to reduced activity in brain regions involved in monitoring and adjusting behavior. Importantly, these deficits were specific to symbolic number processing and predicted children's broader mathematical abilities. Our findings suggest that MLD involves not only difficulties with basic number processing, but also problems in regulating cognitive strategies when working with numerical symbols. This insight could lead to more effective interventions for children struggling with mathematics.",
-    "Author": "Chang, Hyesang",
-    "DOI": "https://doi.org/10.1523/jneurosci.2385-24.2025",
-    "Domain": "Physical Sciences",
-    "Field": "Mathematics",
-    "Language": "English",
-    "Publication date": "2026-02-09",
-    "Source": "Journal of Neuroscience",
-    "Subfield": "Statistics and Probability",
-    "Title": "Latent neurocognitive mechanisms underlying quantity discrimination in children with and without mathematical learning disabilities",
-    "Topic": "Cognitive and developmental aspects of mathematical skills"
-  },
-  {
-    "Abstract": "Background This study aims to analyse the number of patients who had been exposed to a new medicine before the approval by the European Commission (EC), as well as the number of patients studied long-term for chronic medication use. The results were compared with the International Council for Harmonisation’s (ICH) E1 guideline recommendations. Methods All medicines containing new active substances approved between 2011 and 2023 were included in the study, including orphan medicines as a separate category. The total number of patients studied and the number of patients with long-term use (6 and 12 months) for chronic medication before approval were extracted. In addition, information regarding the type of Marketing Authorisation (MA), type of molecule, Anatomical Therapeutic Chemical (ATC) code and additional pharmacovigilance activities were extracted from the European Public Assessment Report (EPAR). Results A total of 498 new medicines were identified, of those 322 were non-orphan medicines and 176 were orphan medicines. The median total number of patients studied before approval was 1,787 (interquartile range [IQR] 781–3,351) for non-orphan medicines and 333 (IQR 139–648) for orphan medicines. In the group of non-orphans, chronic medication was studied in a larger number of patients (median 2,253, IQR 1,523–3,662) than medication for intermediate (median 798, IQR 520–1,757) or short-term use (median 2,038, IQR 807–6,110). Among the 154 non-orphan medicines intended for chronic use, 83 (54%) met the patient exposure recommendations for 6-months use, and 113 (73%) met the criteria for 12-months patient exposure. Among the 101 orphan medicines intended for chronic use, only 1 (1%) met the patient exposure recommendations for 6-months use and 7 (6.9%) met the criteria for 12-months patient exposure. Conclusion Orphan medicines and “precision” medicines tend to have less clinical data available at the time of marketing authorisation. The median of the total number of subjects studied prior to approval has been decreasing overtime. Additional pharmacovigilance activities play, in these cases, a key role in the safety monitoring and assessment of the benefit-risk profile during the medicine’s lifecycle.",
-    "Author": "Bouwman, L.",
-    "DOI": "https://doi.org/10.1371/journal.pone.0342698",
-    "Domain": "Life Sciences",
-    "Field": "Pharmacology, Toxicology and Pharmaceutics",
-    "Language": "English",
-    "Publication date": "2026-02-09",
-    "Source": "PLoS ONE",
-    "Subfield": "Toxicology",
-    "Title": "Safety population size and duration of exposure prior to approval of new medicines: A database analysis of medicines centralised approved in the European Union between 2011 and 2023",
-    "Topic": "Pharmacovigilance and Adverse Drug Reactions"
-  },
-  {
-    "Abstract": "Background Nurses constitute a significant portion of Jordan’s healthcare workforce, and their competence plays a critical role in patient safety and quality of care. Global and national strategies highlight the importance of assessing and improving nursing competence. Despite the critical role of nurses, research on self-reported nursing competence (SRNC) in Jordan remains limited. Aim This study explores self-reported nursing competence (SRNC) among registered nurses (RNs) in Jordan. Methods A cross-sectional study was conducted with a sample of 212 RNs from public, private, and teaching hospitals. Data were collected using the short form of the Nursing Professional Competence (NPC) scale, a 35-item instrument scored on a 7-point Likert scale ranging from 1 (very low competence) to 7 (very high competence), with higher scores indicating greater perceived professional competence. The derived data was analyzed using SPSS software. Results The overall level of self-reported nursing competence was high, with a mean score of 76.69%. Among these six domains, the domain of “documentation and administration of care” scored the highest (78.26%), and “care pedagogy” scored the lowest (75.23%). The items that scored high included “respectful communication,” “clinical follow-up,” and “documentation,” which scored “to a high degree.” The items that scored lower included “psychological needs,” “group-based education,” and “respect for different values,” which scored “to a fairly high degree.”.”. Conclusions The Jordanian nursing community views itself as very competent; however, improvements are needed in particular fields. Continuous learning and training are required in order to retain and upgrade professional competency. The findings highlight the value of mentorship, a supportive work environment, and continuing education. Future research should include peer and supervisor evaluations to validate self-reported competence and better guide workforce development strategies.",
-    "Author": "Alharaizahe, Alaadin",
-    "DOI": "https://doi.org/10.1371/journal.pone.0341714",
-    "Domain": "Health Sciences",
-    "Field": "Nursing",
-    "Language": "English",
-    "Publication date": "2026-02-09",
-    "Source": "PLoS ONE",
-    "Subfield": "Research and Theory",
-    "Title": "Self-reported nursing competence among registered nurses in Jordan: A cross-sectional study",
-    "Topic": "Nursing education and management"
-  },
-  {
-    "Abstract": "Background Depression is a serious mental disorder and leading cause of suicide. This study investigated the association between usual gait speed (UGS) and risk of depression. Methods Data from 2,419 participants from a community-based Korean cohort were analyzed. Participants were categorized into sex-specific UGS tertiles (low, mid, or high). Depression was defined based on a previous physician diagnosis, current use of antidepressants, or a score of ≥6 on the Korean version of the Geriatric Depression Scale-Short Form (SGDS-K). Multiple linear and logistic regression models were used to assess the association between UGS and SGDS-K scores and estimate the odds ratios (ORs) with 95% confidence intervals (CIs) for the risk of depression, respectively. Results Prevalence rates of depression were 13.33% and 26.29% among men and women, respectively. Compared with participants with low UGS, men with high UGS had a 50% (OR=0.50; 95% CI [0.29, 0.86]; p &lt; 0.05) lower risk of depression, and women with mid and high UGS had a 43% (OR=0.57; 95% CI [0.41, 0.79]; p &lt; 0.001) and 44% (OR=0.56; 95% CI [0.38, 0.82]; p &lt; 0.01) lower risk, respectively. The SGDS-K scores were lowered by 0.14 (95% CI [–0.23, –0.04]; p &lt; 0.01) and 0.33 points (95% CI [–0.45, –0.21]; p &lt; 0.0001) in men and women, respectively, with each 0.1 m/s increase in UGS. Conclusions Hence, faster UGS was significantly associated with a reduced risk of depression in both sexes. Thus, maintaining a fast UGS may have protective benefits against the risk of depression.",
-    "Author": "Jae Ho Park",
-    "DOI": "https://doi.org/10.1371/journal.pone.0338458",
+    "Abstract": "Introduction The childhood overweight and obesity (OW/OB) epidemic in the United States disproportionately affects children from marginalized backgrounds, particularly those who lack the financial resources or support to engage in evidence-based interventions. Moreover, healthcare systems struggle to deliver these interventions equitably. To address this gap, this study evaluated the implementation science outcomes of Dynamo Kids! (DK!), a novel primary-care-based eHealth intervention intended for families with children ages 6–12 with OW/OB. Materials and methods DK! was developed within a major safety-net hospital system in Dallas, TX. Ten providers in three different clinics were instructed to offer DK! to 581 families with children ages 6–12 with OW/OB. Guided by the Reach, Effectiveness, Adoption, Implementation Maintenance (RE-AIM) framework, we evaluated the implementation science outcomes of the DK! pilot conducted between August 2020 and April 2021, using eight different data sources—both qualitative and quantitative. Results Building on previously published findings that demonstrated an increase in Family Nutrition Physical Activity score and a decrease in child%BMIp95, this study engaged 46 families and ten providers with diverse backgrounds in a safety-net practice who, generally, self-reported improved knowledge, skills, and self-efficacy in treating overweight and obesity. Most parents were satisfied with the DK! intervention, using the website with high variability, on average for two hours 24 minutes of total user time over three months and endorsed the patient-centered care in qualitative interviews. Both families and providers generally found DK! to be important, trustworthy, tailored, and accessible and endorsed the DK! intervention. Discussion DK! demonstrated limited success in its initial setting, with strong support for its continuation and expansion from both the healthcare system and patient families. Future studies should incorporate user recommendations and consider comparing outcomes to a control group beyond the context of the COVID-19 pandemic.",
+    "Author": "Joshua S. Yudkin",
+    "DOI": "https://doi.org/10.1371/journal.pone.0341635",
     "Domain": "Health Sciences",
     "Field": "Health Professions",
     "Language": "English",
     "Publication date": "2026-02-09",
     "Source": "PLoS ONE",
-    "Subfield": "Physical Therapy, Sports Therapy and Rehabilitation",
-    "Title": "Usual gait speed is inversely associated with depression in middle-aged and older adults: A cross-sectional study in Korea",
-    "Topic": "Balance, Gait, and Falls Prevention"
-  },
-  {
-    "Abstract": "This paper constructs a theoretical model that includes heterogeneous risk-attitude insider traders (risk-neutral and risk-averse), overconfident market makers, and noise traders. It compares the model with two single-risk-attitude models. It systematically studies the impact mechanism of market makers’ overconfidence behavior on market equilibrium. The paper focuses on the influence of the degree of market makers’ overconfidence on market liquidity and the effect of heterogeneous risk attitudes on market stability. The study finds that in the heterogeneous risk-attitude insider trading model, market liquidity λ decreases within a specific range as the market maker’s confidence level k increases. Within another range, market liquidity λ increases as the confidence level k increases. Through comparative analysis of the three models, it is found that insider traders in the heterogeneous risk-attitude model can more actively use private information for trading, and their trading intensity and profit level are significantly higher than those of traders in the single-risk-attitude model. At the same time, the market’s residual information is less. This indicates that the aggressive strategy of risk-neutral insider traders and the conservative behavior of risk-averse insider traders form a complementary effect, which not only buffers the price impact of significant transactions but also promotes the efficient integration of information through diversified order flows. The numerical simulation results further confirm that market makers’ overconfidence will strengthen the information advantage of insider traders. In contrast, the differentiation of insider traders’ risk attitudes optimises the market’s information digestion mechanism, ultimately improving the efficiency of price formation.",
-    "Author": "Wang, Ruohan",
-    "DOI": "https://doi.org/10.1371/journal.pone.0335569",
-    "Domain": "Social Sciences",
-    "Field": "Economics, Econometrics and Finance",
-    "Language": "English",
-    "Publication date": "2026-02-09",
-    "Source": "PLoS ONE",
-    "Subfield": "Finance",
-    "Title": "Analysis of market equilibrium based on overconfidence behavior of market makers",
-    "Topic": "Financial Markets and Investment Strategies"
-  },
-  {
-    "Abstract": "Many issues are unresolved regarding posture and movement and their utility as target for rehabilitation and function. As movement experts, elite ballet and contemporary dancers could provide insights regarding whether some postures/movements are ideal, if and how they can be changed, and valuable insight into the apparent paradox between their “exceptional” posture/movement quality and high incidence of musculoskeletal injury and pain. This study aimed to understand dancers’ beliefs and conceptualizations about posture and movement, consider how this relates to theories of motor control and learning, and whether this has relevance for rehabilitation and injury prevention in non-dancers. This study implemented an inductive qualitative design. Thirty-six participants (12 males, 24 females) with 6.9 ± 4.3 years of experience as professional dancers (ballet or contemporary dance) participated. Data were collected via semi-structured focus group interviews. Thematic analysis used an inductive approach to categorise and structure data into codes, themes and sub-themes. Themes were refined and finalised after multiple team discussions. Four themes emerged: (i) Posture being conscious or subconscious, (ii) Posture in “dancer mode” and “non-dancer mode”, (iii) Posture as an ideal, (iv) Adjustment and improvement of posture. Each theme was summarised by a series of sub-themes. Dancers have a detailed and multifaceted understanding of posture and movement. They reconcile the contradiction between good posture and movement and injury by the extreme demands required to achieve aesthetics of dance. Some of their perspectives have potential relevance in injury prevention and rehabilitation in the general population.",
-    "Author": "Guo, Andi",
-    "DOI": "https://doi.org/10.1371/journal.pone.0339568",
-    "Domain": "Social Sciences",
-    "Field": "Psychology",
-    "Language": "English",
-    "Publication date": "2026-02-09",
-    "Source": "PLoS ONE",
-    "Subfield": "Experimental and Cognitive Psychology",
-    "Title": "Professional dancers’ beliefs and conceptualisations of their posture and movement: A qualitative research study",
-    "Topic": "Diversity and Impact of Dance"
+    "Subfield": "General Health Professions",
+    "Title": "Implementation science evaluation of an eHealth pediatric primary-care overweight and obesity intervention using the RE-AIM evaluation framework",
+    "Topic": "Health Policy Implementation Science"
   },
   {
     "Abstract": "The necropsy of an elephant represents a rare event for most veterinary pathology facilities outside of Africa and Asia. Here, we report a comprehensible, abundantly illustrated, step-by-step protocol adapted to the special technical and anatomical peculiarities of elephant necropsies with regard to the needed equipment, aspects of transmissible disease prevention and workplace safety, personnel, time efforts, as well as important elephant diseases and their zoonotic potential. Detailed instructions for dissection, macroscopic examination and sampling of all relevant organs and tissues are provided, along with checklists for preparation and smooth execution of elephant necropsies. Using the featured protocols, a complete elephant necropsy with generation of extensive samples for histological, microbiological, and molecular analyses can be performed by 10–12 persons (5–6 pathologists and 5–6 assistants) within 4–6 hours in case of an adult animal.",
@@ -312,6 +247,32 @@
     "Topic": "Brucella: diagnosis, epidemiology, treatment"
   },
   {
+    "Abstract": "Many issues are unresolved regarding posture and movement and their utility as target for rehabilitation and function. As movement experts, elite ballet and contemporary dancers could provide insights regarding whether some postures/movements are ideal, if and how they can be changed, and valuable insight into the apparent paradox between their “exceptional” posture/movement quality and high incidence of musculoskeletal injury and pain. This study aimed to understand dancers’ beliefs and conceptualizations about posture and movement, consider how this relates to theories of motor control and learning, and whether this has relevance for rehabilitation and injury prevention in non-dancers. This study implemented an inductive qualitative design. Thirty-six participants (12 males, 24 females) with 6.9 ± 4.3 years of experience as professional dancers (ballet or contemporary dance) participated. Data were collected via semi-structured focus group interviews. Thematic analysis used an inductive approach to categorise and structure data into codes, themes and sub-themes. Themes were refined and finalised after multiple team discussions. Four themes emerged: (i) Posture being conscious or subconscious, (ii) Posture in “dancer mode” and “non-dancer mode”, (iii) Posture as an ideal, (iv) Adjustment and improvement of posture. Each theme was summarised by a series of sub-themes. Dancers have a detailed and multifaceted understanding of posture and movement. They reconcile the contradiction between good posture and movement and injury by the extreme demands required to achieve aesthetics of dance. Some of their perspectives have potential relevance in injury prevention and rehabilitation in the general population.",
+    "Author": "Guo, Andi",
+    "DOI": "https://doi.org/10.1371/journal.pone.0339568",
+    "Domain": "Social Sciences",
+    "Field": "Psychology",
+    "Language": "English",
+    "Publication date": "2026-02-09",
+    "Source": "PLoS ONE",
+    "Subfield": "Experimental and Cognitive Psychology",
+    "Title": "Professional dancers’ beliefs and conceptualisations of their posture and movement: A qualitative research study",
+    "Topic": "Diversity and Impact of Dance"
+  },
+  {
+    "Abstract": "This paper constructs a theoretical model that includes heterogeneous risk-attitude insider traders (risk-neutral and risk-averse), overconfident market makers, and noise traders. It compares the model with two single-risk-attitude models. It systematically studies the impact mechanism of market makers’ overconfidence behavior on market equilibrium. The paper focuses on the influence of the degree of market makers’ overconfidence on market liquidity and the effect of heterogeneous risk attitudes on market stability. The study finds that in the heterogeneous risk-attitude insider trading model, market liquidity λ decreases within a specific range as the market maker’s confidence level k increases. Within another range, market liquidity λ increases as the confidence level k increases. Through comparative analysis of the three models, it is found that insider traders in the heterogeneous risk-attitude model can more actively use private information for trading, and their trading intensity and profit level are significantly higher than those of traders in the single-risk-attitude model. At the same time, the market’s residual information is less. This indicates that the aggressive strategy of risk-neutral insider traders and the conservative behavior of risk-averse insider traders form a complementary effect, which not only buffers the price impact of significant transactions but also promotes the efficient integration of information through diversified order flows. The numerical simulation results further confirm that market makers’ overconfidence will strengthen the information advantage of insider traders. In contrast, the differentiation of insider traders’ risk attitudes optimises the market’s information digestion mechanism, ultimately improving the efficiency of price formation.",
+    "Author": "Wang, Ruohan",
+    "DOI": "https://doi.org/10.1371/journal.pone.0335569",
+    "Domain": "Social Sciences",
+    "Field": "Economics, Econometrics and Finance",
+    "Language": "English",
+    "Publication date": "2026-02-09",
+    "Source": "PLoS ONE",
+    "Subfield": "Finance",
+    "Title": "Analysis of market equilibrium based on overconfidence behavior of market makers",
+    "Topic": "Financial Markets and Investment Strategies"
+  },
+  {
     "Abstract": "Humans possess an evolved followership psychology that enables them to identify and endorse different types of leaders depending on situational demands. But what fundamental needs guide these follower endorsements? Across a preliminary study and five validation studies (<i>N</i> = 3,514), we developed and validated the Fundamental Follower Needs Inventory (FFNI)-a psychometrically robust measure that identifies six core follower needs: <i>protection, affiliation, status, guidance</i> (including <i>vision</i> and <i>expertise</i>), and <i>fairness.</i> In Studies 1 and 2, we conducted content validation, tested reliability, and confirmed the factor structure of the FFNI across three domains (general, political, and workplace), three countries (the United States, the United Kingdom, and China), and multiple time points. Study 3 demonstrated FFNI's convergent and discriminant validity. Studies 4 and 5 explored the nomological network, examining its antecedents, consequences, and both predictive and incremental validity. The FFNI provides a novel tool for researchers to investigate how follower needs vary across contexts and cultures and how these needs shape leader endorsements and perceptions of leadership effectiveness. Practically, the FFNI offers leaders a framework to better understand and respond to the psychological needs of those they lead. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
     "Author": "Sheng, Xiaotian",
     "DOI": "https://doi.org/10.1037/apl0001347",
@@ -325,16 +286,55 @@
     "Topic": "Job Satisfaction and Organizational Behavior"
   },
   {
-    "Abstract": "Abstract This paper provides a comprehensive time series of historical National Accounts for Scotland (onshore and offshore) from 1948 to 2018. It includes a detailed breakdown by income component and industrial sector using methods that are forward and backward compatible. Through this work we offer new insights on the performance of the post‐war Scottish economy, including its relative performance to the UK and its industrial makeup. Our findings also provide, for the first time, a full picture of the totality of Scotland's economy over the last 70 years by incorporating an estimate of North Sea oil and gas gross value added from within Scotland's territorial waters.",
-    "Author": "Roy, Graeme",
-    "DOI": "https://doi.org/10.1111/ehr.70098",
+    "Abstract": "This study proposes a wrist radiography-based deep learning model for identifying radiographic features of metabolic bone disease (MBD) of prematurity and evaluate the impact of its decision support. This retrospective study included preterm infants with birth weights under 1500 g, born at Seoul National University Hospital (internal dataset: 814 subjects) and Seoul National University Bundang Hospital (external dataset: 261 subjects). Demographic and clinical information and wrist radiographs (postnatal ages: 4-8 weeks) were collected. An internal dataset was used to develop and train identification models and an external dataset was used for validation. Performance was evaluated using the area under the receiver operating characteristic curve (AUROC) and performance quality was compared based on paired t- and Wilcoxon signed-rank tests. The DenseNet-based model exhibited the highest performance quality with AUROC of 0.961 (sensitivity: 94.4%, specificity: 91.2%, accuracy: 92.0%). The external validation study yielded an AUROC of 0.927, indicating its potential applicability in a broad clinical setting. The reader study using external data demonstrated an improved reading performance, especially for non-radiologists (65.4% to 78.7% accuracy; P = 0.008, among pediatricians). The developed model can assist clinicians, especially non-radiologists, in identifying radiographic signs suggestive of MBD, enabling timely diagnosis and treatment to prevent disease progression.",
+    "Author": "Seul Gi Park",
+    "DOI": "https://doi.org/10.1038/s41598-026-37116-7",
+    "Domain": "Health Sciences",
+    "Field": "Nursing",
+    "Language": "English",
+    "Publication date": "2026-02-09",
+    "Source": "Scientific Reports",
+    "Subfield": "Nutrition and Dietetics",
+    "Title": "Deep learning model for identification of metabolic bone disease of prematurity using wrist radiographs",
+    "Topic": "Infant Nutrition and Health"
+  },
+  {
+    "Abstract": "Due to the increasing antibiotic resistance of microorganisms, chronic diseases, and cancer, new-generation drugs such as imidazole derivatives are being sought. Recent advances in nanotechnology enable the potential use of nanomaterials, especially nanoparticles, as drug carriers for such compounds, but also systems capable of crossing biological barriers. This study aimed to perform a preliminary toxicological assessment of nanoparticles containing BzIm-DEA ((Z)-5-benzylidene-3-[2-(diethylamino)ethyl]-2-phenyl-3,5-dihydro-4H-imidazol-4-one) embedded in chitosan films, using chicken chorioallantoic membrane (CAM) as an alternative in vivo test. Fertilized chicken eggs were treated with this therapeutic agent at various concentrations of BzIm-DEA and incubated until the 11th day of embryogenesis. No morphological abnormalities, angiogenesis-related disorders, or increased mortality were observed in any of the experimental groups. A significant increase in Apaf-1 mRNA expression was detected in CAM tissue at a dose of D3 BzIm-DEA, while no significant changes were observed for caspase-3 and catalase compared to the control group. Moreover, no changes in gene expression were observed in the liver. Immunohistochemical localization and analysis of PCNA and b-catenin expression in chicken embryonic liver did not reveal any dose-dependent changes. Within the scope of this preliminary assessment, chitosan nanoparticles loaded with BzIm-DEA did not produce gross acute embryotoxicity or major disruptions to angiogenic development under the tested conditions, providing preliminary evidence of biocompatibility as a nanoparticle carrier system.",
+    "Author": "Damian P. Duda",
+    "DOI": "https://doi.org/10.3390/ijms27041668",
+    "Domain": "Life Sciences",
+    "Field": "Pharmacology, Toxicology and Pharmaceutics",
+    "Language": "English",
+    "Publication date": "2026-02-09",
+    "Source": "International Journal of Molecular Sciences",
+    "Subfield": "Pharmaceutical Science",
+    "Title": "Preliminary Toxicological Evaluation of Spherical Nanoparticles Containing an Imidazole Derivative (BzIm-DEA) Using the CAM Chicken Model",
+    "Topic": "Advanced Drug Delivery Systems"
+  },
+  {
+    "Abstract": "From Big Data to Real-Time Decisions: Online Tensor Inference Modern digital platforms, from e-commerce and online advertising to mobile health, generate massive streams of high-dimensional data that must be analyzed in real time. In their paper “Online Tensor Inference,” Xin Wen, Will Wei Sun, and Yichen Zhang develop a new statistical framework that enables both efficient learning and rigorous inference for streaming tensor data. The authors propose an online low-rank tensor estimation method based on stochastic gradient descent that processes observations sequentially without storing historical data, overcoming the memory and scalability limitations of traditional offline approaches. Beyond estimation, the paper introduces a novel online debiasing technique that delivers valid confidence intervals and hypothesis tests on the fly without data splitting. Theoretical results establish near-minimax-optimal convergence rates and asymptotic normality for general linear functionals of tensors. Together, these advances provide a principled foundation for real-time, statistically grounded decision making in fast-changing, data-rich environments.",
+    "Author": "Wen, Xin",
+    "DOI": "https://doi.org/10.1287/opre.2024.0774",
+    "Domain": "Physical Sciences",
+    "Field": "Mathematics",
+    "Language": "English",
+    "Publication date": "2026-02-09",
+    "Source": "Operations Research",
+    "Subfield": "Computational Mathematics",
+    "Title": "Online Tensor Inference",
+    "Topic": "Tensor decomposition and applications"
+  },
+  {
+    "Abstract": "The primary aim of this study was to provide additional validation for a brief version of the well-documented Celebrity Attitude Scale (CAS-7) in an American sample. This study sought to determine if there is a significant association with the strength of one’s admiration for a favorite celebrity and (1) a pathological concern for the needs of others (2) symptoms of depression, anxiety and stress, (3) and adverse childhood experiences. The CAS-7, the Pathological Concern Questionnaire (PCQ), the Depression, Anxiety Stress Scale (DASS-9), and the Revised Adverse Childhood Experiences scale (R-ACE) were administered to 367 undergraduate students (80.66% women, M age = 20.26 years, SD = 3.63) from four American institutions. Zero-order correlations indicated that psychological distress and pathological concern were positively associated with both healthy and unhealthy dimensions of celebrity worship. In the path model, psychological distress showed a robust positive association with intense–pathological celebrity worship. Adverse childhood experiences displayed opposing conditional pathways—a small, positive, indirect association via psychological distress and a weak, negative, direct association with intense–pathological celebrity worship—implying a heterogeneous pattern of associations. The findings also provide further support for the validity of the CAS-7 in an American sample.",
+    "Author": "Lynn E. McCutcheon",
+    "DOI": "https://doi.org/10.1177/00332941261423103",
     "Domain": "Social Sciences",
     "Field": "Arts and Humanities",
     "Language": "English",
     "Publication date": "2026-02-09",
-    "Source": "The Economic History Review",
-    "Subfield": "History",
-    "Title": "70 years of Scottish National Accounts: 1948–2018",
-    "Topic": "Scottish History and National Identity"
+    "Source": "Psychological Reports",
+    "Subfield": "Literature and Literary Theory",
+    "Title": "Is Excessive Celebrity Admiration Related to Pathological Concern for Others, Distress, and Adverse Childhood Experiences?",
+    "Topic": "Media Influence and Health"
   }
 ]
