@@ -1,14 +1,66 @@
 [
   {
-    "article_path": "/article/feds-open-criminal-probe-into-whether-ice-officers-lied-about-shooting-of-venezuelan-man-in-mn_5b9c3a",
-    "article_url": "https://ground.news/article/feds-open-criminal-probe-into-whether-ice-officers-lied-about-shooting-of-venezuelan-man-in-mn_5b9c3a",
-    "bias": null,
+    "article_path": "/article/dna-recovered-from-glove-found-near-guthrie-home-that-appears-to-match-glove-worn-by-suspect-in-video-fbi-says_ca02c8",
+    "article_url": "https://ground.news/article/dna-recovered-from-glove-found-near-guthrie-home-that-appears-to-match-glove-worn-by-suspect-in-video-fbi-says_ca02c8",
+    "bias": [
+      "Left-Leaning coverage emphasizes emotional appeals and personal impact, highlighting a \"new plea\" and \"desperate search\" while uniquely exploring Savannah Guthrie's potential career shift.",
+      "Conversely, right-leaning outlets frame the case with a strong law-and-order focus, using terms like \"armed suspect,\" \"chilling\" video, and \"bombshell\" DNA to depict a \"net tightens\" around the perpetrator.",
+      "Center-Leaning reports maintain neutrality, focusing on official statements like the sheriff's \"months or years\" timeline and mentioning a \"botched burglary\" motive, de-emphasizing the emotional drama.",
+      "While all perspectives agree on the FBI's involvement and the glove's discovery two miles away, their distinct rhetorical tactics—from human interest to criminal justice—reveal broader ideological priorities."
+    ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Sunday, the FBI said a glove found about two miles from Nancy Guthrie 's Tucson home contains DNA that appears to match gloves seen on a masked suspect in doorbell footage, with preliminary results received Saturday.",
+      "Authorities say blood on Nancy Guthrie's Tucson home porch was confirmed hers, and DNA collected does not belong to her or close contacts; she was last seen Jan. 31 and believed taken against her will.",
+      "Investigators recovered about 16 gloves near the house, mostly discarded by searchers, while a porch camera recorded a masked individual tampering with the camera carrying a 25-liter Ozark Trail Hiker Pack.",
+      "A SWAT-involved operation and traffic stop failed to produce arrests, and one previously detained man who was released; the FBI and Pima County Sheriff's Department raised the reward to $100,000.",
+      "This process typically takes 24 hours, and Mark Lamb, former Pinal County sheriff, cautioned that `DNA is not like a TV show where you get the results within no time and you figure out who did it by the end of the show`."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/rubio-says-us-and-europe-belong-together-but-warns-allies-to-defend-themselves-at-munich-conference_c687dd",
+    "article_url": "https://ground.news/article/rubio-says-us-and-europe-belong-together-but-warns-allies-to-defend-themselves-at-munich-conference_c687dd",
+    "bias": [
+      "Left-Leaning coverage frames Rubio’s Munich remarks as a cautious \"olive branch,\" stressing that his conciliatory tone may \"paper over cracks\" and repackages hardline MAGA priorities, highlighting the de‑emphasized lack of concrete Ukraine/ NATO commitments; right-leaning coverage celebrates a \"restoration of the world order,\" amplifies appeals to \"Western civilization,\" \"Christian\" bonds and warnings about \"mass migration\" or \"climate cult,\" and treats the \"standing ovation\" as validation.",
+      "Rhetorically, the left uses skeptical, cautionary language while the right uses rallying, triumphant diction; both agree he sought to revive US‑Europe ties, revealing deeper ideological and geopolitical fault lines."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": null,
+    "right_pct": 34.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, February 14, 2026, U.S. Secretary of State Marco Rubio delivered a keynote at the Munich Security Conference, saying the United States and Europe `belong together` and calling for a reinvigorated alliance.",
+      "Amid growing strain, European leaders like Friedrich Merz and Emmanuel Macron urged repairing trust after a year of tensions over U.S. moves such as the Greenland dispute.",
+      "On Saturday, February 14, 2026, Rubio urged allies to increase defence spending and capacity, meeting with Friedrich Merz, Volodymyr Zelenskyy, and Wang Yi to discuss Ukraine and NATO support.",
+      "Observers noted that Rubio's conciliatory tone was met with relief, but analysts warned that inconsistent signals from Washington could undermine reassurance, stressing the need for a consistent message from the highest levels.",
+      "With the Ukraine war in focus, Rubio warned that `We don't know if the Russians are serious about ending the war,` as the conflict nears its fifth year and emphasizes building a European pillar for long-term cohesion."
+    ],
+    "title": "Rubio says US and Europe 'belong together' but warns allies to defend themselves at Munich conference",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/feds-open-criminal-probe-into-whether-ice-officers-lied-about-shooting-of-venezuelan-man-in-mn_5b9c3a",
+    "article_url": "https://ground.news/article/feds-open-criminal-probe-into-whether-ice-officers-lied-about-shooting-of-venezuelan-man-in-mn_5b9c3a",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": null,
+    "right_pct": 16.0,
     "status": "no_change",
     "summary": [
       "Todd Lyons, the acting head of Immigration and Customs Enforcement , accused two federal agents of lying under oath about a January shooting in Minneapolis involving a Venezuelan national.",
@@ -16,7 +68,7 @@
       "Both officers are on administrative leave while an internal investigation is conducted.",
       "Lyons emphasized that lying under oath is a serious federal offense."
     ],
-    "title": "Source Icon",
+    "title": "Feds open criminal probe into whether ICE officers lied about shooting of Venezuelan man in MN",
     "topic": null,
     "topic_full": null
   },
@@ -74,689 +126,332 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/us-deploys-second-aircraft-carrier-from-caribbean-to-middle-east-amid-iran-tensions-report_a045bc",
-    "article_url": "https://ground.news/article/us-deploys-second-aircraft-carrier-from-caribbean-to-middle-east-amid-iran-tensions-report_a045bc",
+    "article_path": "/article/savannah-guthrie-releases-new-video-amid-moms-disappearance_3b0d51",
+    "article_url": "https://ground.news/article/savannah-guthrie-releases-new-video-amid-moms-disappearance_3b0d51",
     "bias": [
-      "Left-Leaning outlets frame the second aircraft carrier deployment as \"escalating pres\" and a \"lethal war-machine armada,\" sometimes linking it to capturing Venezuela's president.",
-      "Right-Leaning coverage portrays it as Trump \"Cranks Up Pressure\" or \"Doubles Down,\" with Iran \"In Crosshairs\" and even a mission to \"smash Iran’s deepest nuclear base.",
-      "Center-Leaning reports, while noting \"tensions,\" often include expert analysis that \"The Goal Is Not to Wage War.",
-      "All perspectives acknowledge the deployment amid high Iran tensions, yet their distinct rhetorical choices—from critical to assertive—underscore fundamental ideological differences regarding military intervention and foreign policy."
+      "Left-Leaning outlets frame Savannah Guthrie's plea with emotional emphasis, using terms like \"striking\" and highlighting a humanistic appeal to \"do the right thing,\" while explicitly criticizing the \"botched\" investigation.",
+      "Right-Leaning coverage, conversely, emphasizes moral accountability with \"do the right thing,\" portraying Guthrie as \"begging\" and \"desperate,\" and positively describing the \"urgent and intensive search.",
+      "Center-Leaning reports maintain a more factual tone, detailing specific FBI findings like DNA on a glove found \"2 miles\" away, and de-emphasizing strong emotional descriptors.",
+      "All perspectives agree on Guthrie's video release and her expression of hope, yet diverge significantly on the investigation's efficacy and the underlying moral implications, reflecting broader ideological views on justice and human responsibility."
     ],
-    "bias_bar_text": null,
-    "center_pct": 43.0,
+    "bias_bar_text": "L 15% Center 70% R 15%",
+    "center_pct": 70.0,
     "error": null,
-    "left_pct": 33.0,
+    "left_pct": 15.0,
     "location": null,
-    "right_pct": 24.0,
+    "right_pct": 15.0,
     "status": "ok",
     "summary": [
-      "US President Donald Trump ordered the USS Gerald R. Ford aircraft carrier to redeploy from the Caribbean to the Middle East to increase pressure on Iran amid ongoing nuclear talks and regional tensions.",
-      "The USS Gerald R. Ford will join the USS Abraham Lincoln carrier strike group in the Arabian Sea or Persian Gulf, significantly boosting US naval presence in the region.",
-      "The redeployment extends the USS Gerald R. Ford's mission beyond its typical deployment cycle, serving as a precaution in case diplomatic efforts with Iran fail.",
-      "Iran has warned of decisive retaliation against any attack, maintaining that giving up missiles is a 'red line,' while indirect negotiations between the US and Iran continue without a finalized next meeting date."
+      "On Feb. 15, Savannah Guthrie, 54-year-old 'Today' anchor, shared a video appealing for help as investigators search for her mother, Nancy Guthrie , 84, urging followers to report suspicious activity.",
+      "Nancy Guthrie has been missing since Jan. 31, and authorities are investigating alleged ransom notes with deadlines of Feb. 5 and Feb. 9, FBI Phoenix Special Agent in Charge Heith Janke said.",
+      "Surveillance video captures the ski-masked person wearing a black, 25-liter 'Ozark Trail Hiker Pack' and appearing to tamper with the front-door camera, FBI Director Kash Patel said.",
+      "The FBI is offering a $100,000 reward and authorities say they have not identified any suspects; Camron Guthrie urged the alleged kidnapper to 'reach out' as the family has not heard directly.",
+      "Facing growing urgency, the family asked the public to report suspicious activity and contact the FBI tip line, Pima County Sheriff's Department, or 88-CRIME to aid the search."
     ],
-    "title": "US Deploys Second Aircraft Carrier From Caribbean to Middle East Amid Iran Tensions: Report",
+    "title": "Savannah Guthrie releases new video amid mom's disappearance",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/top-goldman-sachs-lawyer-ruemmler-resigns-after-epstein-disclosures_7ae7b1",
-    "article_url": "https://ground.news/article/top-goldman-sachs-lawyer-ruemmler-resigns-after-epstein-disclosures_7ae7b1",
+    "article_path": "/article/luxury-1872-steamer-found-in-lake-michigan-after-60-year-search_7f6fce",
+    "article_url": "https://ground.news/article/luxury-1872-steamer-found-in-lake-michigan-after-60-year-search_7f6fce",
     "bias": [
-      "Left-Leaning coverage frames the resignation as moral accountability, stressing terms like \"pedophile,\" \"disgrace,\" and affectionate phrases such as \"Uncle Jeffrey\" and \"xoxo\" to portray ethical lapse and highlight acceptance of lavish gifts as proof of compromise; right-leaning coverage emphasizes deception and establishment rot, using language like \"lying\" and \"mischaracterized\" to connect the ties to political networks and hypocrisy; center pieces are more de-emphasized, citing \"reputational risk\" and treating the resignation as fallout.",
-      "Both sides, however, rely on DOJ/ epstein files and note the resignation after disclosures."
+      "While all perspectives acknowledge the discovery of the \"luxury steamer\" and the long \"quest,\" left-leaning coverage highlights the historical human tragedy, detailing \"53 passengers and crew\" and \"eight people died,\" alongside a future presentation.",
+      "Center-Leaning reports add a personal touch with the hunter's quote and describe the \"elusive steamer.",
+      "Right-Leaning accounts emphasize the visual, noting \"images reveal remains\" and a specific \"Sunday\" revelation, de-emphasizing the human toll.",
+      "These distinct approaches, from the left's focus on human impact and historical context to the right's emphasis on visual immediacy and specific timing, reveal differing priorities in framing historical events."
     ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": null,
-    "right_pct": 23.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, Kathryn Ruemmler announced her resignation as Chief Legal Officer and General Counsel of Goldman Sachs , effective June 30, 2026, which David Solomon accepted.",
-      "The DOJ files released late last month show Ruemmler appeared in Epstein files thousands of times, revealing extensive communications from 2014 to 2019.",
-      "Records show she referred to Epstein as `Uncle Jeffrey`, used `xo` or `xoxo`, and accepted gifts like a fur coat and handbags; Epstein called her shortly after his July 6, 2019 arrest.",
-      "The resignation marks the most high-profile banking exit tied to the DOJ Epstein release last month, with Kathryn Ruemmler leaving Goldman Sachs leadership roles after sustained scrutiny despite earlier firm defense.",
-      "The DOJ is expected to continue releasing Epstein-related materials, as more than 3.5 million pages have already prompted resignations including Brad Karp and Morgan McSweeney."
-    ],
-    "title": "Top Goldman Sachs lawyer Ruemmler resigns after Epstein disclosures",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/rubio-says-us-and-europe-belong-together-but-warns-allies-to-defend-themselves-at-munich-conference_a32392",
-    "article_url": "https://ground.news/article/rubio-says-us-and-europe-belong-together-but-warns-allies-to-defend-themselves-at-munich-conference_a32392",
-    "bias": [
-      "Rubio's speech at the Munich Security Conference triggered starkly divergent narratives: left-leaning outlets framed his \"softer tone\" as superficial, merely reiterating \"Trump's firm stance\" and \"far-right values,\" suggesting a \"dangerous delusion\" persists.",
-      "Conversely, right-leaning coverage lauded a \"forceful speech\" and \"masterful\" rebuke of \"global elites,\" emphasizing how \"Christianity binds West\" against threats like \"climate cult\" and \"mass migration.",
-      "Center-Leaning reports, however, balanced a \"constructive tone\" with \"US criticism,\" noting both \"conciliatory\" aspects and underlying \"tensions.",
-      "While all perspectives agreed Rubio sought to \"reassure\" allies and \"revitalize\" the trans-Atlantic alliance, the left questioned sincerity, the right celebrated a \"Western Revival,\" revealing deep ideological splits on internationalism versus nationalistic priorities."
-    ],
-    "bias_bar_text": "Left 30% Center 39% Right 31%",
-    "center_pct": 39.0,
+    "bias_bar_text": "Left 30% Center 55% R 15%",
+    "center_pct": 55.0,
     "error": null,
     "left_pct": 30.0,
     "location": null,
-    "right_pct": 31.0,
+    "right_pct": 15.0,
     "status": "ok",
     "summary": [
-      "On Saturday, February 14, 2026, U.S. Secretary of State Marco Rubio delivered a keynote at the Munich Security Conference, saying the United States and Europe `belong together` and calling for a reinvigorated alliance.",
-      "Amid growing strain, European leaders like Friedrich Merz and Emmanuel Macron urged repairing trust after a year of tensions over U.S. moves such as the Greenland dispute.",
-      "On Saturday, February 14, 2026, Rubio urged allies to increase defence spending and capacity, meeting with Friedrich Merz, Volodymyr Zelenskyy, and Wang Yi to discuss Ukraine and NATO support.",
-      "Observers noted that Rubio's conciliatory tone was met with relief, but analysts warned that inconsistent signals from Washington could undermine reassurance, stressing the need for a consistent message from the highest levels.",
-      "With the Ukraine war in focus, Rubio warned that `We don't know if the Russians are serious about ending the war,` as the conflict nears its fifth year and emphasizes building a European pillar for long-term cohesion."
+      "On Friday, Shipwreck World announced that Illinois shipwreck hunter Paul Ehorn's team found the Lac La Belle in October 2022 about 20 miles offshore between Racine and Kenosha, Wisconsin.",
+      "On Oct. 13, 1872 the Lac La Belle sank with 53 passengers and crew carrying barley, pork, flour and whiskey, reflecting the Great Lakes' 6,000 to 10,000 mostly undiscovered shipwrecks.",
+      "Ross Richardson provided a clue that narrowed the search grid in 2022, and Paul Ehorn found the wreck using side-scan sonar after two hours on the lake.",
+      "Ehorn said the announcement was delayed to include a three-dimensional video model, and his team returned last summer to find the hull intact with oak interiors preserved despite quagga mussels and a missing propeller.",
+      "Ehorn, now 80, has searched for shipwrecks since age 15 and the Lac La Belle is the 15th shipwreck he has located, joining recent Lake Michigan discoveries like the Milwaukee and J.C. Ames."
     ],
-    "title": "Rubio says US and Europe 'belong together' but warns allies to defend themselves at Munich conference",
+    "title": "Luxury 1872 Steamer Found in Lake Michigan After 60-Year Search",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/chinese-ai-firms-unveil-wave-of-new-models-ahead-of-lunar-new-year_576b2b",
-    "article_url": "https://ground.news/article/chinese-ai-firms-unveil-wave-of-new-models-ahead-of-lunar-new-year_576b2b",
+    "article_path": "/article/syrian-army-takes-control-of-al-shaddadi-military-base-in-hasaka-countryside",
+    "article_url": "https://ground.news/article/syrian-army-takes-control-of-al-shaddadi-military-base-in-hasaka-countryside",
     "bias": [
-      "Left-Leaning coverage emphasizes Chinese AI models potentially \"push pro- China views\" and highlights a \"major Hollywood backlash\" with a \"swift and fierce\" tone, focusing on geopolitical implications and creative industry disruption.",
-      "Right-Leaning outlets, conversely, question the ability to \"Actually Sue The Chinese Company?\" and frame Disney's past engagement as \"bent over backwards,\" portraying the current dispute as an \"inevitable twist\" rooted in corporate accountability.",
-      "Center-Leaning reports offer a \"big — but rocky — week\" perspective, detailing specific AI models and their \"game-changing\" potential while noting the \"virtual smash-and-grab\" of copyrighted content.",
-      "All perspectives agree on the emergence of Chinese AI and Hollywood's negative reaction, but diverge on whether the core issue is state influence, corporate responsibility, or technological competition, reflecting broader ideological and economic divides."
+      "Left-Leaning outlets frame the Syrian army's control of al-Shaddadi base as a \"withdrawal\" or \"taken over\" event, emphasizing \"U.S. coordination\" and linking it to broader U.S. disengagement from \"seven of its eight major military bases\" and a \"ceasefire agreement,\" suggesting diplomatic progress.",
+      "Conversely, right-leaning coverage uses terms like \"Captured\" or \"taken over\" to imply a U.S. loss or concession, highlighting the base's \"strategic importance\" and connecting it to previous takeovers, suggesting declining American influence.",
+      "Both acknowledge the Syrian army assumed control after a U.S. withdrawal, but the left emphasizes planned \"strategic shifts,\" while the right de-emphasizes coordination, focusing on perceived U.S. weakness, revealing ideological divides on foreign policy."
     ],
     "bias_bar_text": null,
-    "center_pct": 54.0,
+    "center_pct": 8.0,
     "error": null,
-    "left_pct": 23.0,
-    "location": "China",
-    "right_pct": 23.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, Alibaba , ByteDance, Kuaishou, Zhipu AI and Seedance released new AI models covering robotics, video generation and large-language tools.",
-      "Against a backdrop of global rivalry, Yakefu added that Alibaba's 'broader ambition' was to 'establish a foundational intelligence layer for embodied systems,' as Chinese models compete with Western offerings.",
-      "Seedance 2.0 demonstrated progress in controllability, speed, and production efficiency, with Yakefu describing it as 'one of the most well-rounded video generation models I've tested so far.'",
-      "Market moves followed when Zhipu AI's GLM-5 release coincided with a Thursday shares surge, MiniMax shares jumped after its M2.5 launch, Seedance suspended a feature over consent, and Kuaishou limited some models to paying subscribers before public release soon.",
-      "CNBC noted it could not verify some claims by Chinese AI developers, while Demis Hassabis said their models are just months behind Western rivals, intensifying competition with Nvidia and Google."
-    ],
-    "title": "Chinese AI Firms Unveil Wave of New Models Ahead of Lunar New Year",
-    "topic": "AI Breakthroughs",
-    "topic_full": "AI Breakthroughs · China"
-  },
-  {
-    "article_path": "/article/poll-58-percent-say-democrats-too-radical-as-very-liberal-wing-quadruples-since-1999",
-    "article_url": "https://ground.news/article/poll-58-percent-say-democrats-too-radical-as-very-liberal-wing-quadruples-since-1999",
-    "bias": [
-      "Left-Leaning coverage highlights an \"all-time high\" perception of Democrats being \"too liberal,\" framing it as a \"surge\" in support for left-leaning elements, sometimes with a resigned tone like \"Adios, amigos!\" Conversely, right-leaning outlets portray this as the \"Far Left\" \"devouring\" or \"conquering\" the party, employing alarmist language such as \"shocking poll results\" and warning of \"electoral repercussions.",
-      "While the right emphasizes specific figures like \"58% of voters\" and the \"5% to 21%\" rise in \"very liberal\" Democrats, the left de-emphasizes these details.",
-      "Both acknowledge the party's leftward shift and a decrease in conservative Democrats, yet the left focuses on internal evolution, while the right frames it as a problematic radicalization, revealing fundamental ideological divides over the party's identity and future."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "United States",
-    "right_pct": 73.0,
-    "status": "ok",
-    "summary": [
-      "A new poll by CNN found that 58% of Americans in 2025 believe the Democratic Party has become too liberal—an all-time high, up from 48% in 2013 and 42% in 1996 during Bill Clinton’s presidency.",
-      "Support within the party has grown for left-wing figures such as Zohran Mamdani and Bernie Sanders, reflecting the increasing influence of its democratic socialist wing.",
-      "While progressive support is rising, the ideological shift may be alienating more moderate and conservative Democrats, potentially creating internal party tensions."
-    ],
-    "title": "‘All-time high’ number of Americans believe Democrats are ‘too liberal’, poll says",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/minnesota-sees-nations-largest-known-outbreak-of-rare-fungal-std_59bf93",
-    "article_url": "https://ground.news/article/minnesota-sees-nations-largest-known-outbreak-of-rare-fungal-std_59bf93",
-    "bias": [
-      "Left-Leaning coverage emphasizes the \"surge\" and \"spreading\" of sexually transmitted ringworm, highlighting its \"emerging\" nature and specific demographic prevalence among \"men who have sex with men,\" alongside the lengthy treatment duration of \"months.",
-      "In contrast, center and right-leaning outlets portray the condition as \"rare\" but \"severe,\" focusing on detailed symptoms like \"circular rashes\" and their locations, while de-emphasizing demographic specifics or treatment timelines.",
-      "All perspectives agree Minnesota faces the \"nation’s largest known outbreak\" of a sexually transmitted fungal infection, yet diverge on the precise genotype number.",
-      "These differences reveal a split between focusing on epidemiological context and public health burden versus symptom identification and the unusual nature of the disease."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 29.0,
-    "error": null,
-    "left_pct": 57.0,
-    "location": "Minnesota",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "Minnesota Department of Health announced the state's largest known U.S. outbreak of TMVII, with over 30 cases since July 2025.",
-      "Travel-Linked reports indicate the first U.S. case patient had sexual contact related to travel, while health agencies note TMVII circulated in Europe and Southeast Asia including Thailand.",
-      "Clinicians requested confirmatory testing, prompting MDH to establish enhanced surveillance; treatment can last up to three months with oral antifungals.",
-      "MDH recommends anyone with symptoms avoid skin-to-skin contact, stop sharing personal items, inform sexual partners, and seek medical care immediately; state health advisers urge prompt treatment and provide MDH online guidance.",
-      "Public-Health experts note TMVII is the only known fungal STI most prevalent among men who have sex with men, and the CDC warns it may be mistaken for psoriasis, risking scarring or secondary bacterial infection."
-    ],
-    "title": "Minnesota sees nation’s largest known outbreak of rare, fungal STD",
-    "topic": "Health",
-    "topic_full": "Health · Minnesota"
-  },
-  {
-    "article_path": "/article/marine-allowed-to-keep-afghan-orphan-despite-disputed-adoption_13ec40",
-    "article_url": "https://ground.news/article/marine-allowed-to-keep-afghan-orphan-despite-disputed-adoption_13ec40",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 51.0,
-    "error": null,
-    "left_pct": 39.0,
-    "location": "Virginia",
-    "right_pct": 10.0,
-    "status": "no_change",
-    "summary": [
-      "On Thursday, the Virginia Supreme Court ruled that a U.S. Marine and his wife may keep an Afghan orphan, citing a law that bars adoption challenges after six months.",
-      "In September 2019, U.S. soldiers found the infant injured during a raid, her family killed, and brought her to Bagram Air Base hospital while the U.S. State Department under President Donald Trump insisted on reunification with Afghan relatives vetted by the Afghan government.",
-      "Moore granted a weekend temporary adoption on Sunday, Nov. 10, 2019, and later a final adoption in December 2020, waiving safeguards during the process.",
-      "The ruling likely ends a bitter, yearslong legal battle, while government filings warned keeping the child risks endorsing `international child abduction` and threatening international security pacts, the Justice Department said.",
-      "Three dissenting justices called the court's handling wrong and cancerous, and court transcripts reveal a fractured bureaucracy where high-ranking military and government officials took extraordinary, conflicting steps."
-    ],
-    "title": "Marine Allowed to Keep Afghan Orphan Despite Disputed Adoption",
-    "topic": "Justice",
-    "topic_full": "Justice · Virginia"
-  },
-  {
-    "article_path": "/article/moment-crew-docks-at-international-space-station_208ab7",
-    "article_url": "https://ground.news/article/moment-crew-docks-at-international-space-station_208ab7",
-    "bias": [
-      "Left-Leaning pieces frame the Crew‑12 arrival as restoring research capacity and spotlight ISS aging/deorbit concerns and international cooperation, stressing eight‑nine month science work and the 34‑hour transit; right-leaning coverage foregrounds private success—SpaceX and Musk—using celebratory, urgent cues like \"LIVE NOW,\" \"ultra‑delicate maneuver,\" or framing the earlier return as \"forced\" or even \"bailed early,\" and de‑emphasizes operational disruptions.",
-      "The center highlights resilience and partner roles.",
-      "Pivotal dividing lines are emphasis on long‑term funding/legacy versus private‑sector triumphs; both sides agree the docking restored a full crew and followed NASA ’s medical protocols."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 57.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": "Germany",
-    "right_pct": 26.0,
-    "status": "ok",
-    "summary": [
-      "On Feb. 14, 2026, four Crew-12 astronauts docked at the International Space Station , restoring full staffing with Jessica Meir, Jack Hathaway, Sophie Adenot and Andrey Fedyaev.",
-      "One month earlier, a medical emergency aboard the ISS forced Crew-11 to return more than a month sooner than planned, and NASA refused to disclose the ill astronaut's identity citing medical privacy.",
-      "The reduced crew forced NASA to pause spacewalks and trim research, while Crew-12 will conduct scientific research and space food production during an eight- to nine-month mission.",
-      "Last month's medical evacuation was NASA's first in 65 years, and the agency is preparing for the Artemis II mission slated as soon as March."
-    ],
-    "title": "Astronauts arrive at ISS for 8-month mission after medical emergency forced early evacuation",
-    "topic": "International Space Station",
-    "topic_full": "International Space Station · Germany"
-  },
-  {
-    "article_path": "/article/us-iran-to-hold-new-round-of-nuclear-talks-in-geneva-this-week-swiss-government-says_269bf8",
-    "article_url": "https://ground.news/article/us-iran-to-hold-new-round-of-nuclear-talks-in-geneva-this-week-swiss-government-says_269bf8",
-    "bias": [
-      "Left-Leaning outlets frame upcoming US- Iran nuclear talks as resuming amidst \"tensions simmer,\" emphasizing President Trump's \"ramps up pressure\" with military warnings.",
-      "In stark contrast, right-leaning coverage expresses deep skepticism, portraying a deal as \"difficult to impossible\" based on advisor assessments, and highlighting Trump's demands for \"zero uranium enrichment\" and \"tougher measures.",
-      "Center-Leaning reports adopt a neutral tone, noting \"High-Stakes Diplomacy\" and quoting Trump's warning of a \"very traumatic\" failure, also including Israel's security concerns.",
-      "While all acknowledge the Geneva talks, the core divergence reveals ideological splits on diplomatic efficacy versus confrontational strategies."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 49.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "Iran",
-    "right_pct": 22.0,
-    "status": "ok",
-    "summary": [
-      "Swiss Foreign Ministry said Saturday that Iran and the United States will hold a second round of talks in Geneva next week, hosted by the Sultanate of Oman.",
-      "On February 6, Iranian Foreign Minister Abbas Araghchi met U.S. envoy Steve Witkoff with Jared Kushner present in Oman, where the talks were indirect and Oman acted as mediator.",
-      "In its protecting‑power role, Switzerland and its embassy in Tehran represent United States interests in Iran and handle U.S. consular affairs including passports and protection.",
-      "The U.S. administration insists Iran can have no uranium enrichment under any deal, while Iran maintains its programme is peaceful and Gulf Arab nations warn attacks could spiral regionally.",
-      "Geneva will also host U.S.-brokered talks between Russia and Ukraine on Tuesday and Wednesday, creating parallel diplomatic tracks while similar talks last year broke down amid a 12-day war."
-    ],
-    "title": "US, Iran to hold new round of nuclear talks in Geneva this week, Swiss government says",
-    "topic": "US Politics",
-    "topic_full": "US Politics · Iran"
-  },
-  {
-    "article_path": "/article/trump-wants-to-end-russia-ukraine-war-once-and-for-all-us-secy-of-state-marco-rubio-the-tribune",
-    "article_url": "https://ground.news/article/trump-wants-to-end-russia-ukraine-war-once-and-for-all-us-secy-of-state-marco-rubio-the-tribune",
-    "bias": [
-      "News coverage of the Rubio-Zelensky meeting sharply diverged, with left-leaning outlets emphasizing Zelensky's specific discussions on \"the Situation at the Front, Ukraine's Needs for Air Defense and the Diplomatic Process.",
-      "Right-Leaning coverage, however, prominently featured Senator Rubio's statements about Trump's desire to end the war , employing phrases like \"ends bloodshed\" and \"Once and for All\" to frame a decisive resolution and elevate upcoming \"crucial\" Geneva talks.",
-      "This contrasts with the left's de-emphasis of Trump's role.",
-      "Center-Leaning reports also noted Trump's intention to end the war, attributing the \"Once and for All\" quote neutrally.",
-      "The portrayal of Trump's involvement and intentions served as a pivotal dividing line, with the right highlighting his perceived decisiveness while the left focused on Ukraine's immediate requirements.",
-      "All perspectives acknowledged the meeting between Senator Rubio and President Zelensky in Munich, revealing underlying ideological priorities in how potential peace initiatives versus immediate military aid are framed."
-    ],
-    "bias_bar_text": "9% Center 45% Right 46%",
-    "center_pct": 45.0,
-    "error": null,
-    "left_pct": 9.0,
-    "location": null,
+    "left_pct": 46.0,
+    "location": "Syria",
     "right_pct": 46.0,
     "status": "ok",
     "summary": [
-      "US Secretary of State Marco Rubio met Ukrainian President Volodymyr Zelenskyy at the Munich Security Conference to discuss Ukraine's front-line situation, Russian strikes, and security and economic partnerships ahead of trilateral peace talks in Geneva on February 17-18.",
-      "Zelenskyy briefed Rubio on the impact of Russian strikes on Ukraine's energy system, discussed protecting lives during winter, and expressed gratitude for US support during the ongoing war.",
-      "The upcoming Geneva talks will involve Ukraine, Russia, and the US, with Russia's delegation led by Presidential aide Vladimir Medinsky, aiming to achieve progress on security guarantees, economic recovery, and ending the conflict.",
-      "Both Rubio and Zelenskyy emphasized President Donald Trump's intention to find a solution to end the bloodshed in the Russia- Ukraine war once and for all."
+      "The Syrian Arab Army assumed control of the al‑Shaddadi military base in Hasakah after coordinating with U.S. forces, Syria's Defence Ministry announced on Sunday, February 15, 2026.",
+      "The U.S. has been reducing its military footprint in Syria, with personnel now about 900, as part of a regional realignment following the fall of Bashar al‑Assad in December 2024.",
+      "U.S. forces had operated at al‑Shaddadi since 2016, and CENTCOM reported recent strikes on over 30 IS targets this month, including infrastructure and weapons storage.",
+      "The transfer was framed as part of a ceasefire arrangement with the Kurdish‑led Syrian Democratic Forces , while U.S. forces consolidated to Tower 22 in Jordan and Admiral Brad Cooper, CENTCOM commander, said they would `remain poised to respond to any threats that arise`.",
+      "Officials say implementation of ceasefire pacts is now the key test, with US Secretary of State Marco Rubio saying it is `headed in a positive direction` and similar pacts needed with Druze, Bedouin and Alawite communities."
     ],
-    "title": "Rubio meets with Zelenskyy ahead of crucial Geneva talks as he says Trump wants solution that 'ends bloodshed'",
-    "topic": null,
-    "topic_full": null
+    "title": "Syrian army says it took control of Shaddadi base after coordination with US, agency says",
+    "topic": "Middle East Politics",
+    "topic_full": "Middle East Politics · Syria"
   },
   {
-    "article_path": "/article/high-profile-resignations-and-replacements-as-epstein-case-fallout-spreads",
-    "article_url": "https://ground.news/article/high-profile-resignations-and-replacements-as-epstein-case-fallout-spreads",
+    "article_path": "/article/schumer-on-dems-dhs-demands-these-are-common-sense_1c9932",
+    "article_url": "https://ground.news/article/schumer-on-dems-dhs-demands-these-are-common-sense_1c9932",
     "bias": [
-      "While all perspectives acknowledge the \"fallout\" from the Epstein case is \"spreading,\" left-leaning coverage distinctly frames the narrative with terms like \"Explodes\" and explicitly questions accountability for \"Team Trump,\" highlighting specific recent consequences.",
-      "Right-Leaning outlets, conversely, emphasize general \"high-profile resignations\" and the broader \"fallout spreads,\" focusing on systemic consequences for powerful individuals without specific political targeting.",
-      "Center-Leaning reports remain descriptive, providing factual context like the \"U.S. Department of Justice\" as the document source, de-emphasizing partisan angles.",
-      "All sides agree on \"tarnished\" reputations, revealing a shared concern for public image, yet diverge on who is held accountable, reflecting distinct ideological priorities regarding political figures versus institutional integrity."
-    ],
-    "bias_bar_text": "Left 60% Center 27% R 13%",
-    "center_pct": 27.0,
-    "error": null,
-    "left_pct": 60.0,
-    "location": null,
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "The release of more than 3 million pages of Jeffrey Epstein –related documents by the U.S. Justice Department has triggered global fallout, affecting politicians, diplomats, business leaders, and royals.",
-      "Many prominent figures have faced reputational damage, investigations, and in some cases job losses due to their past ties or continued associations with Epstein after his conviction.",
-      "Aside from Prince Andrew, those implicated are not accused of sexual wrongdoing; the consequences stem primarily from maintaining relationships with Epstein after he became a convicted sex offender."
-    ],
-    "title": "High-profile resignations and replacements as Epstein case fallout spreads",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/blanche-says-khanna-named-random-people-in-house-speech-on-epstein-files_751726",
-    "article_url": "https://ground.news/article/blanche-says-khanna-named-random-people-in-house-speech-on-epstein-files_751726",
-    "bias": [
-      "Left-Leaning coverage frames the episode as institutional failure—emphasizing “arbitrary redactions,” DOJ opacity, and Khanna’s transparency push—while right-leaning pieces highlight reputational harm and political opportunism, using charged phrases like “ruined the lives” and “outs/outed” to condemn the lawmakers; center coverage centers the DOJ line that four named individuals were “random people” from an FBI lineup and treats the dispute as procedural.",
-      "The decisive divide is over culpability—blame the DOJ’s redactions versus blame lawmakers’ recklessness—especially around the four retracted names; both sides, however, agree names were read and later retracted, reflecting broader trust-versus-accountability tensions."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 5.0,
-    "error": null,
-    "left_pct": 39.0,
-    "location": "United States",
-    "right_pct": 56.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Rep. Ro Khanna read six names on the U.S. House floor and retracted four on Friday after The Guardian reported the DOJ said they were random lineup entries.",
-      "After viewing newly unredacted documents on Monday, Khanna and Rep. Thomas Massie sought a special master and blamed the DOJ for failing to explain redactions before un-redacting names.",
-      "The DOJ explained that four men named by Khanna came from a photo lineup assembled years ago by the Southern District of New York, and The Guardian found no ties to Jeffrey Epstein for those men while two men contacted denied knowing Epstein.",
-      "Two of the six named were high-profile figures—Sultan Ahmed bin Sulayem and Leslie Wexner—and Sulayem resigned as CEO on Friday, while Salvatore Nuarte contacted Khanna's office after his name was read.",
-      "A public dispute erupted when Deputy Attorney General Todd Blanche accused Khanna of rushing to X and the House floor with false accusations, while the DOJ spokesperson said Khanna and Rep. Thomas Massie forced unmasking of completely random people selected years ago for an FBI lineup."
-    ],
-    "title": "Blanche says Khanna named ‘random people’ in House speech on Epstein files",
-    "topic": "Ro Khanna",
-    "topic_full": "Ro Khanna · United States"
-  },
-  {
-    "article_path": "/article/steve-bannon-courted-epstein-in-his-efforts-to-take-down-pope-francis",
-    "article_url": "https://ground.news/article/steve-bannon-courted-epstein-in-his-efforts-to-take-down-pope-francis",
-    "bias": [
-      "Left-Leaning outlets frame Bannon's discussions with Epstein as a \"Maga Strategy to Overthrow the Pope,\" emphasizing efforts to \"economically asphyxiate the Vatican\" and linking Epstein to \"racist and misogynistic ideas,\" also noting Trump's frequent mentions.",
-      "Rhetoric includes \"plotted\" and \"keeps getting wilder.",
-      "Right-Leaning coverage, while also using \"plotted\" and \"take down,\" portrays the event as \"one of the many surprises,\" highlighting Bannon's numerous mentions and declaring \" Pope Francis : 1 Epstein: 0,\" suggesting a failed \"offensive policy against pontificalism.",
-      "Center coverage focuses on Bannon's intent to \"undermine\" the pontiff, specifically mentioning a proposed film.",
-      "All agree Bannon discussed strategies to \"make Pope Francis fall\" with the \"disgraced financier,\" revealing deep ideological divides over perceived threats to religious and political institutions."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 44.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": "United States",
-    "right_pct": 26.0,
-    "status": "ok",
-    "summary": [
-      "Steve Bannon , a former Trump adviser, discussed strategies with Jeffrey Epstein to 'take down' Pope Francis, according to released Department of Justice files.",
-      "Bannon was critical of Francis and saw him as an opponent to his 'sovereigntist' nationalist populist vision.",
-      "The documents appear to show Epstein was helping Bannon build his movement against the Pope and other perceived opponents."
-    ],
-    "title": "Steve Bannon courted Epstein in his efforts to ‘take down’ Pope Francis: CNN",
-    "topic": "Steve Bannon",
-    "topic_full": "Steve Bannon · United States"
-  },
-  {
-    "article_path": "/article/cia-pentagon-reviewed-secret-havana-syndrome-device-in-norway-washington-post-reports",
-    "article_url": "https://ground.news/article/cia-pentagon-reviewed-secret-havana-syndrome-device-in-norway-washington-post-reports",
-    "bias": [
-      "Left-Leaning coverage emphasizes a researcher's \"skepticism\" and a \"secret weapon,\" portraying the event as a challenge to official narratives and raising concerns about government transparency.",
-      "Conversely, right-leaning outlets frame the incident as \"reigniting the mystery\" of 'Havana syndrome' and warn of a \"chilling new weapon,\" stoking \"fears over new warfare\" and potential threats.",
-      "Center-Leaning reports neutrally focus on the official review of a \"microwave device.",
-      "While all acknowledge U.S. officials investigated a scientist's self-experiment and subsequent symptoms, the left scrutinizes potential government overreach, whereas the right highlights broader national security implications, revealing distinct ideological priorities."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 36.0,
-    "error": null,
-    "left_pct": 9.0,
-    "location": "United States",
-    "right_pct": 55.0,
-    "status": "ok",
-    "summary": [
-      "U.S. officials investigated a secret microwave device test in Norway that caused neurological symptoms similar to Havana syndrome.",
-      "Norway informed the CIA about the incident, which led to visits by Pentagon and White House officials.",
-      "Test results did not confirm that U.S. diplomats or spies were attacked by a foreign power.",
-      "The investigation showed that pulsed-energy devices can affect human biology."
-    ],
-    "title": "CIA, Pentagon reviewed secret 'Havana syndrome' device in Norway, Washington Post reports",
-    "topic": "Health & Medicine",
-    "topic_full": "Health & Medicine · United States"
-  },
-  {
-    "article_path": "/article/dhs-sends-hundreds-of-subpoenas-to-social-media-firms-for-data-on-anonymous-ice-critics-nyt_dd824d",
-    "article_url": "https://ground.news/article/dhs-sends-hundreds-of-subpoenas-to-social-media-firms-for-data-on-anonymous-ice-critics-nyt_dd824d",
-    "bias": [
-      "Left-Leaning coverage frames the Department of Homeland Security's actions as government overreach, employing terms like \"orders,\" \"unmask,\" and \"secretly demands\" to highlight threats to anonymous speech and civil liberties, even referencing \"whistleblowers.",
-      "Conversely, right-leaning outlets, while also using \"expose,\" subtly imply a necessary revelation of problematic \"anti-ICE accounts.",
-      "Center-Leaning reporting remains neutral, stating DHS \"wants\" or \"asks\" for information, referring to \"hundreds\" of \"mandates\" without emotional framing.",
-      "All perspectives agree DHS is seeking identifying data from tech companies regarding accounts critical of ICE.",
-      "This divergence underscores fundamental ideological clashes over government power, individual liberties, and immigration enforcement."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 21.0,
-    "error": null,
-    "left_pct": 53.0,
-    "location": "United States",
-    "right_pct": 26.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, The New York Times reported that the Department of Homeland Security is expanding efforts to identify Americans opposing Immigration and Customs Enforcement by sending legal requests to Google, Meta, Reddit, and Discord for account data.",
-      "DHS officials say they are using administrative subpoenas to investigate threats to ICE agents and cited their `broad administrative subpoena authority`, ramping up use last year to identify anonymous social media accounts.",
-      "Tech company review processes and user notifications say Google, Meta, Reddit, and Discord review subpoenas in recent months, sometimes comply, and inform users unless legally barred.",
-      "In court filings, civil‑liberties lawyers said many subpoenas were withdrawn before a judge could rule, leaving targeted users with 10 to 14 days to challenge, and the A.C.L.U. has filed motions to quash requests.",
-      "The trend accelerated after the department ramped up subpoenas last year, including a Sept. 11 Meta request, while Tom Homan, White House border czar, urged to `create a database`."
-    ],
-    "title": "DHS Sends Hundreds of Subpoenas to Social Media Firms for Data on Anonymous ICE Critics: NYT",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/4-indicted-after-minneapolis-clashes-including-a-woman-accused-of-biting-off-an-officers-fingertip",
-    "article_url": "https://ground.news/article/4-indicted-after-minneapolis-clashes-including-a-woman-accused-of-biting-off-an-officers-fingertip",
-    "bias": [
-      "While all perspectives report the indictments of four individuals, including a woman accused of biting an officer’s fingertip, right-leaning outlets prominently feature this visceral detail, sensationalizing harm to law enforcement to evoke strong negative sentiment.",
-      "Left-Leaning coverage remains largely descriptive, de-emphasizing broader context.",
-      "Crucially, center-leaning accounts uniquely provide the pivotal detail that the clashes occurred during a protest following a shooting, a context de-emphasized by both left and right.",
-      "This divergence highlights a fundamental ideological split between prioritizing law and order and acknowledging underlying protest motivations, despite universal agreement on the core facts of the indictments and charges."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 56.0,
-    "error": null,
-    "left_pct": 36.0,
-    "location": "Minneapolis",
-    "right_pct": 8.0,
-    "status": "ok",
-    "summary": [
-      "Claire Louise Feng, 27, is indicted for allegedly biting off an HSI agent's fingertip during a Jan. 24 protest after the Alex Pretti shooting.",
-      "Investigators abandoned two vehicles on Jan. 14 after FBI agents fled amid protests; stolen items including guns and FBI identification cards were taken and personal documents posted on social media, prompting threats.",
-      "In an affidavit, Homeland Security Investigations special agent Bronson Day said Feng bit the Customs and Border Protection officer’s right ring finger through a glove, severing the tip, and the officer received medical attention within an hour.",
-      "Federal prosecutors also indicted three people over threats to FBI agents, including Brenna Marie Doyle, 18, of Spokane, Washington, charged with threatening to murder a federal law enforcement officer.",
-      "Reporting is based on information shared by the U.S. Department of Justice and FOX 9, and the case remains under investigation by the Department of Homeland Security, Immigration and Customs Enforcement and Homeland Security Investigations."
-    ],
-    "title": "4 indicted after Minneapolis clashes, including a woman accused of biting off an officer’s fingertip",
-    "topic": "Minnesota Politics",
-    "topic_full": "Minnesota Politics · Minneapolis"
-  },
-  {
-    "article_path": "/article/trump-administration-sued-for-attempted-overhaul-of-public-golf-course",
-    "article_url": "https://ground.news/article/trump-administration-sued-for-attempted-overhaul-of-public-golf-course",
-    "bias": [
-      "Left-Leaning coverage frames the golf course \"overhaul\" as an \"unlawful assault,\" transforming a \"public golf course\" into a \"private playground for the privileged,\" highlighting the administration's lease termination due to alleged failures.",
-      "Right-Leaning outlets subtly imply the \"overhaul\" is a necessary improvement, using \"extraordinary efforts\" to describe Trump's actions, and uniquely cite a \"congressional act\" violation.",
-      "Center coverage also notes \"extraordinary efforts\" but includes a factual error.",
-      "While all agree a lawsuit by golfers accuses environmental law violations, the left emphasizes public interest, while the right focuses on broader legal challenges to administrative authority, revealing ideological divides over public asset control and executive power."
+      "Left-Leaning coverage emphasizes the human toll of the shutdown, highlighting TSA agents \"working without pay\" and criticizing \"another shutdown\" as political gridlock, even noting \"pushback\" against leadership.",
+      "Right-Leaning outlets frame the impasse as a principled stand for \"DHS oversight,\" recalling \"historic flight cancellations\" from a previous \"43-day government shutdown \" to evoke caution.",
+      "While the left portrays \"lawmakers dig in\" as obstruction, the right frames it as justified resistance.",
+      "Center coverage, however, presents Democratic demands as \"common sense\" and details specific ICE reforms, a topic de-emphasized elsewhere.",
+      "The left also notes \"1,000 immigration agents\" leaving.",
+      "Despite these ideological differences—one prioritizing labor welfare and accountability for \"immigration enforcement tactics,\" the other fiscal responsibility—all acknowledge a partial government shutdown impacting DHS and TSA agents."
     ],
     "bias_bar_text": null,
     "center_pct": 66.0,
     "error": null,
-    "left_pct": 21.0,
-    "location": "Washington",
-    "right_pct": 13.0,
+    "left_pct": 25.0,
+    "location": "United States",
+    "right_pct": 9.0,
     "status": "ok",
     "summary": [
-      "A non-profit group and two Washington residents sued the Trump administration to stop changes to the 100-year-old East Potomac Golf Course in a public park."
+      "On Tuesday, the U.S. House passed bills to end a partial DHS shutdown, and President Donald Trump signed them into law, reopening the government after Saturday closures.",
+      "Stalled negotiations over immigration policy led to the shutdown after lawmakers failed to agree on funding, while Democrats demanded new restrictions following the shootings of Alex Pretti and Renee Good in Minneapolis last month.",
+      "Despite party leaders' pressure, a procedural vote Tuesday narrowly passed 217-215 with all present Democrats voting no and all but one Republican, Rep. Thomas Massie, voting yes.",
+      "About 95% of Transportation Security Administration workers are deemed essential and must keep working without pay, while airlines were ordered to cut domestic flights and travel groups warned of spring break disruptions.",
+      "Lawmakers have about 10 days to agree on Immigration and Customs Enforcement policies as Senate Democrats seek body cameras and warrants while Republican leaders reject some demands before Congress returns Feb. 23."
     ],
-    "title": "A lawsuit seeks to stop Trump’s overhaul of a 100-year-old public golf course in Washington",
-    "topic": "Justice",
-    "topic_full": "Justice · Washington"
+    "title": "No clear path to ending the partial government shutdown as lawmakers dig in over DHS oversight",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/street-blocked-off-in-search-for-nancy-guthrie",
-    "article_url": "https://ground.news/article/street-blocked-off-in-search-for-nancy-guthrie",
+    "article_path": "/article/border-czar-tom-homan-says-i-dont-like-the-masks-on-ice-officers-but-they-have-to-protect-themselves",
+    "article_url": "https://ground.news/article/border-czar-tom-homan-says-i-dont-like-the-masks-on-ice-officers-but-they-have-to-protect-themselves",
     "bias": [
-      "Left-Leaning outlets frame the event as an \"abduction,\" detailing \"new clues\" and the family's \"fragile\" health, emphasizing the \"mystery\" and \"deep pain\" with granular investigative specifics.",
-      "Conversely, center and right perspectives de-emphasize these specific details, instead highlighting how the case \"spotlights other families left behind,\" with the right implicitly critiquing systemic neglect.",
-      "While all agree on the ongoing search for Nancy Guthrie and the case's role in revealing differential police response, the left prioritizes the immediate human drama and investigation.",
-      "In contrast, center and right focus on broader societal implications, reflecting differing ideological lenses on individual plight versus systemic critique."
+      "Right-Leaning coverage frames Homan as \"dismissing\" \"Democrat Demands\" as \"unreasonable,\" emphasizing officer safety amid a \"massive spike in threats,\" citing \"1,500 percent\" and \"8,000 percent\" increases to justify masks.",
+      "This perspective uses combative language like \"spars with\" and \"heated exchange,\" portraying a \"boiling point\" of tension.",
+      "Center-Leaning outlets, conversely, neutrally report Homan \"signals no compromising\" on masks, also noting demands for officers to \"clearly identify themselves,\" a detail de-emphasized by the right.",
+      "Both acknowledge Homan's personal dislike for masks but his insistence officers \"have to protect themselves,\" highlighting a core ideological clash between law enforcement autonomy and transparency."
     ],
     "bias_bar_text": null,
-    "center_pct": 36.0,
+    "center_pct": 53.0,
     "error": null,
-    "left_pct": 57.0,
-    "location": "Arizona",
-    "right_pct": 7.0,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 47.0,
     "status": "ok",
     "summary": [
-      "Hundreds of agents are searching for Nancy Guthrie after her apparent kidnapping, while other families with missing loved ones struggle for resources.",
-      "Tonya Miller says families with 'normal missing people' cases 'have to fight to get any help,' unlike the vast resources dedicated to the Guthrie case.",
-      "The FBI has offered a $100,000 reward for information on Guthrie's whereabouts, highlighting the disproportionate attention high-profile cases receive."
+      "During a Face the Nation interview Sunday, Homan, White House border czar, defended ICE officers' mask use, saying `I don't like the masks either`, Homan said.",
+      "Amid debates over DHS funding, Democrats demand mask bans and measures like visible IDs after last month's shootings of Alex Pretti and Renee Good, Homan said.",
+      "Homan pointed to dramatic increases, saying assaults against Immigration and Customs Enforcement officers rose 1,500% and threats increased 8,000%, while Department of Homeland Security and ICE releases lacked clear timeframes or sources.",
+      "Homan rejected Democrats' demands that officers remove masks or display IDs, while Congress is in recess until Feb. 23 and a partial Department of Homeland Security shutdown began Saturday.",
+      "ICE argues masks prevent doxxing and family risk, noting face masks symbolize President Donald Trump's ICE crackdown and spark congressional enforcement debates."
     ],
-    "title": "Hundreds of agents search for Nancy Guthrie as her case spotlights other families left behind",
-    "topic": "Nancy Guthrie",
-    "topic_full": "Nancy Guthrie · Arizona"
+    "title": "Border czar Tom Homan says \"I don't like the masks\" on ICE officers, but they \"have to protect themselves\"",
+    "topic": "Tom Homan",
+    "topic_full": "Tom Homan · United States"
   },
   {
-    "article_path": "/article/cornell-study-pinpoints-global-crop-emissions-to-10-kilometer-resolution_3b141b",
-    "article_url": "https://ground.news/article/cornell-study-pinpoints-global-crop-emissions-to-10-kilometer-resolution_3b141b",
+    "article_path": "/article/pentagon-and-doe-fly-advanced-nuclear-reactor-to-utah-for-testing_740434",
+    "article_url": "https://ground.news/article/pentagon-and-doe-fly-advanced-nuclear-reactor-to-utah-for-testing_740434",
     "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 67.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "Cornell-Led researchers released on Feb. 13 in Nature Climate Change a global croplands emissions map resolving about 10-kilometer grids by crop and emission source, synthesizing ground data and models.",
-      "The last comparable global map dated to 2000, but croplands cover 12% of land and produce 25% of agricultural emissions, so policymakers and scarce funds need updated data.",
-      "Researchers calculated croplands emitted 2.5 gigatons of CO2 equivalent in 2020, with East Asia and Pacific providing about half and South Asia, Europe and Central Asia contributing 30%.",
-      "Researchers propose targeted fixes like controlled peatland rewetting, management of flooded rice paddies, and optimized fertilizer use, urging local communities and countries to act as mitigation funds remain scarce.",
-      "Four crops dominate cropland emissions, led by rice at 43%, with major sources including drained peatlands for oil palm and flooded rice paddies, researchers said."
-    ],
-    "title": "Cornell Study Pinpoints Global Crop Emissions to 10-Kilometer Resolution",
-    "topic": "Carbon Emissions",
-    "topic_full": "Carbon Emissions"
-  },
-  {
-    "article_path": "/article/mike-tyson-sounds-the-alarm-on-us-boxing-launching-a-las-vegas-amateur-invitational",
-    "article_url": "https://ground.news/article/mike-tyson-sounds-the-alarm-on-us-boxing-launching-a-las-vegas-amateur-invitational",
-    "bias": [
-      "Left and center outlets explicitly detail Mike Tyson 's motivation to revive US boxing by building stronger amateur competition, using terms like \"sounds the alarm\" and describing the sport as \"fading,\" with the left intensifying this to \"dying.",
-      "The right, while also noting Tyson \"sounds the alarm,\" de-emphasizes these specific motivations, subtly framing his initiative as individual action.",
-      "Both left and right highlight Tyson's past as the \"world's best and fiercest heavyweight,\" providing historical context that the center de-emphasizes.",
-      "The central dividing line lies in the explicit detailing of Tyson's proposed solution, with left and center focusing on the 'how' and 'why,' while the right leans towards the broader notion of individual intervention.",
-      "All perspectives agree Tyson is launching an invitational to address concerns about US boxing, reflecting broader ideological differences in emphasizing systemic issues versus individual solutions."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 62.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "Las Vegas",
-    "right_pct": 5.0,
-    "status": "ok",
-    "summary": [
-      "Mike Tyson , the 59-year-old Hall of Famer, helped launch the Mike Tyson Invitational for March 12–14 in Las Vegas to recruit top U.S. amateurs.",
-      "Concerned about grassroots decline, Tyson said `Listen, boxing is dying,` and added `we don't have enough boxing clubs` after watching amateur fights Friday.",
-      "As a fighter, Tyson compiled a 50-7 record with 44 knockouts and said, `I was taught as a kid, boxing is about putting asses in seats` to emphasize boxing's showmanship.",
-      "He said the invitational won't be a cure-all but plans to work with UFC CEO and President Dana White and TKO, which has multiyear agreements with Saudi entities.",
-      "Despite big gates, boxing's promoter fragmentation complicates consistent matchups; recent Alvarez-Crawford fights drew 70,482 at Allegiant Stadium, while the IOC confirmed boxing for 2028."
-    ],
-    "title": "Mike Tyson sounds the alarm on US boxing, launching a Las Vegas amateur invitational",
-    "topic": "Mike Tyson",
-    "topic_full": "Mike Tyson · Las Vegas"
-  },
-  {
-    "article_path": "/article/zelenskyy-says-us-too-often-asks-ukraine-not-russia-for-concessions",
-    "article_url": "https://ground.news/article/zelenskyy-says-us-too-often-asks-ukraine-not-russia-for-concessions",
-    "bias": [
-      "Left-Leaning outlets frame Zelenskyy's statements as a critique of U.S. foreign policy, emphasizing the U.S. \"too often\" asking Ukraine for \"concessions\" and \"sidelining Russia's responsibilities,\" even accusing Moscow of \"seeking to delay decisions.",
-      "Right-Leaning coverage also highlights the U.S. asking for \"concessions,\" portraying it as a perceived weakness in U.S. strategy and emphasizing Zelenskyy's \"frustration\" and Trump's advice to \"not miss the opportunity\" to end \" Europe 's biggest war since 1945.",
-      "Center-Leaning reports, conversely, directly attribute Zelenskyy's words without editorial framing.",
-      "All perspectives agree Zelenskyy stated the U.S. \"too often\" asks Ukraine for concessions and felt \"a little bit\" of \"pressure\" from Trump, revealing ideological divides on U.S. foreign policy and accountability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 23.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "Ukraine",
-    "right_pct": 48.0,
-    "status": "ok",
-    "summary": [
-      "Ukrainian President Volodymyr Zelenskyy urged U.S.-brokered talks next week in Geneva be serious and warned Ukraine is asked `too often` to make concessions.",
-      "Following one Washington-brokered round in Abu Dhabi, Russia named Putin adviser Vladimir Medinsky to lead its Geneva delegation, replacing Igor Kostyukov, drawing Kyiv criticism.",
-      "Weapons developing faster than diplomacy, Zelenskyy warned, citing Iranian-designed Shahed drones becoming deadlier and damage to every power plant in Ukraine, urging faster Patriot and NASAMS deliveries.",
-      "Zelenskyy warned U.S. mid-term elections could shift focus, urging the U.S. to stay involved and calling for a bigger European role, amid concerns of domestic distractions.",
-      "Pointing to deep mistrust, Zelenskyy argued Russian leader Vladimir Putin is a `slave to war` and no one in Ukraine believes he will ever let their people go."
-    ],
-    "title": "Zelenskyy says US too often asks Ukraine, not Russia, for concessions",
-    "topic": "Volodymyr Zelenskyy",
-    "topic_full": "Volodymyr Zelenskyy · Ukraine"
-  },
-  {
-    "article_path": "/article/us-courts-have-ruled-4-400-times-that-ice-jailed-people-illegally-it-hasnt-stopped",
-    "article_url": "https://ground.news/article/us-courts-have-ruled-4-400-times-that-ice-jailed-people-illegally-it-hasnt-stopped",
-    "bias": [
-      "Left-Leaning coverage frames judicial actions as a \"rebuke\" of \"mass detention\" of \"immigrants without criminal records,\" emphasizing the administration's continued jailing while de-emphasizing overall detainee numbers.",
-      "Right-Leaning outlets, acknowledging \"illegal detentions,\" portray ICE's efforts as \"sweeps\" and a \"crackdown,\" highlighting \"68,000 Immigrants in Custody\" and \"20,000 lawsuits\" to underscore enforcement challenges.",
-      "Center-Leaning reports present the \"4,400 times\" rulings as a \"huge legal rebuke\" and note continued \"indefinitely\" jailing, providing quantitative data like the \"75% increase\" without the left's focus on specific detainee characteristics.",
-      "All perspectives agree courts ruled thousands of detentions illegal, revealing ideological splits on immigration enforcement versus human rights."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 31.0,
-    "error": null,
-    "left_pct": 13.0,
-    "location": "United States",
-    "right_pct": 56.0,
-    "status": "ok",
-    "summary": [
-      "A review of federal court records found more than 4,400 rulings since October that U.S. Immigration and Customs Enforcement is detaining immigrants unlawfully, yet the administration continues jailing people indefinitely.",
-      "Legal filings show immigrant detainees filed more than 20,200 habeas corpus petitions since Mr Trump took office, as judges focus on the administration's shift from a nearly three-decade-old interpretation.",
-      "On Jan 30, US District Judge Andrew Carter ordered a detainee’s immediate release, after Chief US District Judge Patrick Schiltz ruled an 18-year-old had been detained illegally.",
-      "The caseload forced Justice Department offices to divert more than 700 U.S. Justice Department attorneys, with five DOJ attorneys each appearing on over 1,000 habeas dockets, while a conservative U.S. Court of Appeals panel in New Orleans last week reversed release rulings.",
-      "Other appeals courts are set to take up the detention issue in the coming weeks as ICE detention population reached about 68,000 in February, up about 75% from 2025."
-    ],
-    "title": "US Courts Rule 4,400 Times ICE Detains Immigrants Illegally Amid Ongoing Detentions",
-    "topic": "US Immigration",
-    "topic_full": "US Immigration · United States"
-  },
-  {
-    "article_path": "/article/metas-smart-glasses-could-get-facial-recognition-soon-that-worries-me_ed8088",
-    "article_url": "https://ground.news/article/metas-smart-glasses-could-get-facial-recognition-soon-that-worries-me_ed8088",
-    "bias": [
-      "Left-Leaning coverage frames Meta ’s \"Name Tag\" as an opportunistic privacy assault—using words like \"exploit,\" \"surveillance network,\" and \"too distracted to notice\" to convey alarm about anonymity lost—while right-leaning pieces emphasize inevitability, product strategy and market motives, describing timing as pragmatic and focusing on functionality like real‑time identification.",
-      "Rhetorically, the left deploys urgent, civil‑liberties language and moral critique; the right uses pragmatic, sometimes skeptical tones and sensational shorthand to spotlight liberty or security fears.",
-      "Dividing lines include timing, scope and regulatory risk; both sides agree the feature exists, the memo flagged timing, and Meta says it’s still weighing options."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 28.0,
-    "error": null,
-    "left_pct": 44.0,
-    "location": "United States",
-    "right_pct": 28.0,
-    "status": "ok",
-    "summary": [
-      "Meta , the biggest maker of smart glasses, is planning to introduce facial recognition capabilities into its glasses for assistive purposes.",
-      "An internal Meta memo cited the current \"dynamic political environment\" as a favorable landscape to launch the controversial facial recognition feature, expecting civil society groups to be focused on other concerns.",
-      "The planned facial recognition mode, possibly called Name Tag, may be limited to recognizing people connected to the user on Facebook and was initially planned for debut at a conference for the blind."
-    ],
-    "title": "Meta plans to add facial recognition to its smart glasses amid privacy debate",
-    "topic": "Meta",
-    "topic_full": "Meta · United States"
-  },
-  {
-    "article_path": "/article/takeaways-from-ap-and-public-sources-report-on-pollution-and-safety-issues-at-pittsburgh-coke-plant",
-    "article_url": "https://ground.news/article/takeaways-from-ap-and-public-sources-report-on-pollution-and-safety-issues-at-pittsburgh-coke-plant",
-    "bias": [
-      "Left-Leaning outlets frame the plant incident with terms like \"pollution\" and \"safety issues,\" emphasizing \"lapses\" and \"heightened concerns\" about air quality and worker sentiment, portraying a critical view of corporate responsibility and broader environmental impact.",
-      "Right-Leaning coverage, while reporting \"safety shortcomings\" and workers \"exposed\" per federal findings, de-emphasizes these wider implications, maintaining a descriptive tone focused on regulatory actions.",
-      "Center-Leaning reports objectively present \"takeaways\" and official findings.",
-      "All perspectives align on the core facts of the OSHA investigation, including the $118,214 fine and 10 citations.",
-      "This divergence reveals differing priorities: the left focuses on systemic issues and societal impact, while the right prioritizes reporting official findings without broader contextualization."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 67.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "Pittsburgh",
-    "right_pct": 6.0,
-    "status": "ok",
-    "summary": [
-      "A federal safety agency found incomplete procedures and practices at a U.S. Steel plant that exposed workers to an August explosion that killed two and injured eleven others.",
-      "The Occupational Safety and Health Administration fined U.S. Steel $118,214 and issued 10 citations related to the explosion caused by a ruptured gas valve during maintenance.",
-      "U.S. Steel said the explosion happened when workers were flushing a gas valve in preparation for maintenance, and the Chemical Safety Board continues to investigate the incident."
-    ],
-    "title": "Federal agency flags safety shortcomings that ‘exposed’ workers to explosion at US Steel plant",
-    "topic": "US Steel",
-    "topic_full": "US Steel · Pittsburgh"
-  },
-  {
-    "article_path": "/article/newsom-takes-his-anti-trump-arguments-to-europe-during-munich-security-conference",
-    "article_url": "https://ground.news/article/newsom-takes-his-anti-trump-arguments-to-europe-during-munich-security-conference",
-    "bias": [
-      "Left-Leaning coverage frames Trump's actions as \"testing alliances\" and a \"Trump Threat,\" portraying Democrats as offering \"reassurance\" and Newsom as \"savaging\" Trump with \"anti-Trump arguments.",
-      "Right-Leaning outlets, conversely, characterize Newsom as \"preening for the cameras\" and \"unleashing on Trump,\" criticizing his \"failing green agenda\" and highlighting controversial comparisons like Trump administration federal agents to Nazis.",
-      "While center-leaning coverage neutrally reports Newsom's \"anti-Trump arguments\" and his assertion that \"Trump is temporary,\" it de-emphasizes the emotional framing.",
-      "All perspectives agree Newsom attended the Munich Security Conference and made statements about Trump's temporary tenure, revealing a core ideological divide on Trump's global impact and Democratic leadership."
-    ],
     "bias_bar_text": null,
     "center_pct": 52.0,
     "error": null,
-    "left_pct": 21.0,
-    "location": "California",
-    "right_pct": 27.0,
-    "status": "ok",
+    "left_pct": null,
+    "location": "Utah",
+    "right_pct": 48.0,
+    "status": "no_change",
     "summary": [
-      "California Governor Gavin Newsom told an international audience that Donald Trump will be gone in three years, labeling him as 'temporary'.",
-      "Newsom plans to sign a partnership with Ukraine aimed at cooperation on economic recovery, innovation, and resilience while in Europe.",
-      "Democratic pollster Zac McCrary suggests Newsom is trying to project a presidential vibe and build foreign policy credentials."
+      "The Pentagon is transporting a next-generation mobile nuclear reactor to Utah for testing, marking progress in delivering reliable energy at military sites.",
+      "This effort is a collaboration with Valar Atomics, aligning with President Trump's goal to modernize U.S. nuclear energy.",
+      "A U.S. C-17 aircraft will move the reactor from March Air Reserve Base in California to Hill Air Force Base in Utah.",
+      "The Pentagon noted that this initiative could enhance energy resilience and strategic independence for national defense."
     ],
-    "title": "California Governor Newsom Calls Trump Temporary at Munich Security Conference",
-    "topic": "Gavin Newsom",
-    "topic_full": "Gavin Newsom · California"
+    "title": "Pentagon and DOE Fly Advanced Nuclear Reactor to Utah for Testing",
+    "topic": "Executive Orders of Donald Trump",
+    "topic_full": "Executive Orders of Donald Trump · Utah"
   },
   {
-    "article_path": "/article/hollywood-shaken-by-brad-pitt-tom-cruise-fight-video-made-with-chinese-ai",
-    "article_url": "https://ground.news/article/hollywood-shaken-by-brad-pitt-tom-cruise-fight-video-made-with-chinese-ai",
+    "article_path": "/article/a-storm-system-sweeps-across-the-southeast-triggering-tornado-warnings-and-damaging-winds",
+    "article_url": "https://ground.news/article/a-storm-system-sweeps-across-the-southeast-triggering-tornado-warnings-and-damaging-winds",
     "bias": [
-      "News coverage of the viral AI video depicting actors fighting reveals stark ideological divides.",
-      "Left-Leaning reports frame the AI's capabilities with \"damning predictions\" and \"terrifying\" implications, uniquely highlighting a reference to \"Jeffrey Epstein\" to underscore ethical misuse.",
-      "Conversely, right-leaning outlets amplify an \"existential panic,\" emphasizing the \"Chinese Tech Company-Backed\" origin and predicting Hollywood will be \"decimated,\" employing alarmist rhetoric.",
-      "Center coverage maintains a more neutral tone, describing the video as \"a tad too real\" and contextualizing it within a broader \"Lunar New Year AI War.",
-      "While all agree on industry alarm over \"blatant infringement\" and unauthorized likenesses, their portrayals reflect deeper concerns about technology 's ethical boundaries versus geopolitical threats and economic disruption."
+      "While all perspectives agree a storm system swept the Southeast, triggering tornado warnings and damaging winds, significant differences emerge in emphasis and detail.",
+      "Left-Leaning and center coverage both employ terms like \"fiercest storms\" and \"powerful winds\" to convey intensity, whereas right-leaning outlets de-emphasize such descriptive language, offering a considerably shorter, less detailed account.",
+      "A pivotal dividing line is the specific portrayal of damage; center-leaning reports extensively detail overturned Mardi Gras floats, damaged jet bridges, and power poles, details largely de-emphasized by both left and right.",
+      "Despite these variations in depth and emotional tone, all align on the National Weather Service reporting \"worst damage\" near Lake Charles, Louisiana, showcasing a shared factual baseline amidst differing narrative priorities."
     ],
     "bias_bar_text": null,
-    "center_pct": 33.0,
+    "center_pct": 56.0,
     "error": null,
-    "left_pct": 39.0,
-    "location": "United States",
-    "right_pct": 28.0,
+    "left_pct": 33.0,
+    "location": "Lake Charles",
+    "right_pct": 11.0,
     "status": "ok",
     "summary": [
-      "A viral AI-generated video showing Tom Cruise and Brad Pitt fighting was created using Seedance 2.0, an AI video tool by ByteDance, raising concerns in Hollywood about its advanced realism and potential impact on filmmaking.",
-      "The Motion Picture Association condemned Seedance 2.0 for massive unauthorized use of U.S. copyrighted works and demanded ByteDance immediately stop infringing activities, highlighting legal and job-related concerns in the entertainment industry.",
-      "Screenwriter Rhett Reese expressed fear that AI tools like Seedance 2.0 could soon allow anyone to create movies indistinguishable from Hollywood productions, threatening traditional industry roles and control.",
-      "The video's realism has sparked debates on AI's impact on creative jobs, copyright, and regulation, as studios worry about losing dominance to decentralized creators empowered by rapidly advancing AI technology."
+      "A storm system swept across the Southeast late Saturday and Sunday, bringing tornado warnings to Mississippi and Louisiana.",
+      "No deaths or serious injuries were reported, but the storm caused damage near Lake Charles , Louisiana, and continued its path into parts of south Georgia and the Florida Panhandle.",
+      "The Northeast was finally getting a reprieve from weeks of bitterly cold temperatures, while a storm system moved onshore in California, bringing heavy snow to elevated areas."
     ],
-    "title": "Hollywood shaken by Brad Pitt-Tom Cruise fight video made with Chinese AI",
-    "topic": "Movies & TV",
-    "topic_full": "Movies & TV · United States"
+    "title": "A Storm System Sweeps Across the Southeast Triggering Tornado Watches and Damaging Winds",
+    "topic": "National Weather Service",
+    "topic_full": "National Weather Service · Lake Charles"
   },
   {
-    "article_path": "/article/idf-says-it-struck-hezbollah-weapons-sites-in-southern-lebanon",
-    "article_url": "https://ground.news/article/idf-says-it-struck-hezbollah-weapons-sites-in-southern-lebanon",
-    "bias": null,
-    "bias_bar_text": "Left 29% Center 28% Right 43%",
-    "center_pct": 28.0,
-    "error": "Message: \n",
-    "left_pct": 29.0,
+    "article_path": "/article/gaza-trump-demands-hamas-complete-and-immediate-demilitarization",
+    "article_url": "https://ground.news/article/gaza-trump-demands-hamas-complete-and-immediate-demilitarization",
+    "bias": [
+      "Left-Leaning coverage neutrally reports Trump's call for \"Total and Immediate Disarmament\" but uses \"so-called\" to express skepticism about the \"Peace Council.",
+      "Right-Leaning outlets, conversely, frame Trump as decisive, employing strong terms like \"Demands\" for \"Complete and Immediate Demilitarization\" and highlighting his \"regrets\" over Hamas 's unfulfilled past commitments, presenting the $5 billion pledge as part of a firm approach.",
+      "Center-Leaning reports provide more specific contextual details, referring to Hamas as \"the Islamists.",
+      "All perspectives agree on Trump's core demand for demilitarization and the $5 billion commitment for Gaza reconstruction, yet their distinct rhetorical choices underscore differing ideological priorities regarding leadership, accountability, and conflict resolution."
+    ],
+    "bias_bar_text": "Center 57% Right 43%",
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": null,
     "location": null,
     "right_pct": 43.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Israel Strikes Hezbollah Targets in Lebanon",
+    "status": "ok",
+    "summary": [
+      "On Sunday, US President Donald Trump urged Hamas to uphold Full and Immediate Demilitarization and said Board of Peace members pledged $5 billion for Gaza reconstruction.",
+      "The US-brokered ceasefire plan sealed October 2023 requires disarmament in its second phase, endorsed by the United Nations to enable Israel's withdrawal and deploy an International Stabilization Force.",
+      "The board's charter and fee structure reveal the International Stabilization Force and Local Police include thousands of personnel, while countries are asked to pay $1,000,000,000 for permanent membership, and Vladimir Putin, Russian President, has drawn criticism for his invitation.",
+      "Key US allies including France and Britain have expressed doubts, while Hamas says disarmament is a red line but might hand weapons to a future Palestinian governing authority amid daily ceasefire accusations.",
+      "On February 19, the board is due to meet, and Trump called it `the most consequential International Body in History`."
+    ],
+    "title": "Trump tells Hamas to proceed with ‘Full and Immediate’ disarmament",
     "topic": null,
     "topic_full": null
+  },
+  {
+    "article_path": "/article/asian-shares-trade-higher-ahead-of-lunar-new-year-holidays-and-gold-pr",
+    "article_url": "https://ground.news/article/asian-shares-trade-higher-ahead-of-lunar-new-year-holidays-and-gold-pr",
+    "bias": null,
+    "bias_bar_text": "Left 63% Center 37%",
+    "center_pct": 37.0,
+    "error": "Message: \n",
+    "left_pct": 63.0,
+    "location": null,
+    "right_pct": null,
+    "status": "fail",
+    "summary": null,
+    "title": "Asian Shares Trade Higher Ahead of Lunar New Year Holidays and Gold Prices Fall",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/us-airlines-must-certify-use-of-merit-based-hiring-for-pilots-faa-says",
+    "article_url": "https://ground.news/article/us-airlines-must-certify-use-of-merit-based-hiring-for-pilots-faa-says",
+    "bias": [
+      "Right-Leaning coverage frames the FAA 's directive as a forceful \"mandate\" by \"Transportation chief Duffy,\" portraying it as a \"reversal\" of an \"Unsafe Biden DEI Program\" and a \"return to normality – and more safety.",
+      "It uses charged terms like \"politically correct quotas\" and asserts \"Cockpits Should Belong to the Best, Not the Most Diverse,\" emphasizing a battle against \"diversity targets\" to restore \"merit.",
+      "Center-Leaning coverage presents the FAA's official action, providing context \"Amid Bias Allegations\" but de-emphasizing political framing around DEI.",
+      "Both agree on the FAA's merit-based hiring certification requirement, yet the right's focus on a \"Trump executive order\" and \"ending illegal discrimination\" reveals a deep ideological divide over DEI versus traditional meritocracy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 18.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 82.0,
+    "status": "ok",
+    "summary": [
+      "Transportation Secretary Sean Duffy has mandated that all US commercial airlines must certify merit-based pilot hiring or face federal investigations to ensure passenger safety and transparency.",
+      "The Federal Aviation Administration has raised pilot training standards and dismantled Diversity, Equity, and Inclusion offices and contracts within the department.",
+      "This directive aligns with President Trump's executive orders to restore merit-based hiring practices and aviation safety.",
+      "FAA Administrator Bryan Bedford emphasized that pilot hiring should focus solely on qualifications and safety, without consideration of race, sex, or creed."
+    ],
+    "title": "US airlines must certify use of merit-based hiring for pilots, FAA says",
+    "topic": "FAA",
+    "topic_full": "FAA · United States"
+  },
+  {
+    "article_path": "/article/us-deports-9-to-cameroon-despite-court-protections-nyt-says",
+    "article_url": "https://ground.news/article/us-deports-9-to-cameroon-despite-court-protections-nyt-says",
+    "bias": [
+      "Left-Leaning coverage frames the deportation as an injustice, emphasizing the administration was \"ignoring legal protections\" and highlighting the \"despite court protections\" aspect to criticize government actions.",
+      "Conversely, the provided right-leaning analysis, while critical of the administration, focuses on the harshness of the event, employing vivid language like \"Secretly Deported\" and detailing how individuals were \"Tied Hand and Foot\" to evoke sympathy.",
+      "Center-Leaning reports maintain a more neutral tone, presenting the event as \"US deports 9 to Cameroon despite court protections\" and adding broader judicial context without intense emotional framing.",
+      "A pivotal dividing line emerges in the right's unique emphasis on the physical treatment of deportees, de-emphasized elsewhere.",
+      "All perspectives agree on the core facts of a \"secretly deported\" group to Cameroon, many with court protections, revealing a shared concern for legal process or humanitarian conditions, yet diverging on which aspect to prioritize."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": "United States",
+    "right_pct": 30.0,
+    "status": "ok",
+    "summary": [
+      "Nine people were secretly deported from the US to Cameroon , despite some having court protections against deportation and none being from that country.",
+      "Several deportees did not know their destination until being placed on a Department of Homeland Security flight in handcuffs and chains.",
+      "The deportees, including some who fled persecution, are being held in a compound in Yaoundé and told they cannot leave unless agreeing to return to their home countries."
+    ],
+    "title": "US deports 9 to Cameroon despite court protections, NYT says",
+    "topic": "Foreign Policy",
+    "topic_full": "Foreign Policy · United States"
+  },
+  {
+    "article_path": "/article/trumps-desire-to-own-greenland-persists-danish-pm",
+    "article_url": "https://ground.news/article/trumps-desire-to-own-greenland-persists-danish-pm",
+    "bias": [
+      "Left-Leaning outlets frame Trump's \"desire\" for Greenland as a problematic \"warning,\" emphasizing \"fear\" and even calling him \"crazy,\" highlighting emotional impact.",
+      "Right-Leaning coverage, conversely, portrays his interest as strategic \"doctrines\" of \"deals and dominance,\" or a \"very serious\" ambition, sometimes framing critics as having \"Broken Brains\" or Trump as a \"demolitor\" of the international order.",
+      "Center-Leaning reports, while noting \"rising tension\" and \"unacceptable\" pressure, focus on diplomatic details like \"constructive talk\" and quote the Greenlandic PM that the island is \"not for sale,\" maintaining a more measured tone.",
+      "All agree PM Frederiksen stated Trump still \"desires\" Greenland and warned a US attack would end NATO, revealing ideological divides over national sovereignty versus assertive foreign policy ."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 38.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "Denmark",
+    "right_pct": 30.0,
+    "status": "ok",
+    "summary": [
+      "Danish Prime Minister Mette Frederiksen says US President Donald Trump's ambition to acquire Greenland has not abated, saying \"he is very serious about this theme.\"",
+      "Frederiksen stated that Greenland is not for sale and the Greenlandic people do not want to become Americans, emphasizing the need to protect sovereignty and self-determination.",
+      "Frederiksen urged NATO partners to make a long-term commitment to the Arctic Sentry mission and revealed that a US-Denmark-Greenland working group has been established to discuss Washington's security concerns in the Arctic."
+    ],
+    "title": "Trump’s ‘Desire’ to Own Greenland Persists: Danish PM",
+    "topic": "Mette Frederiksen",
+    "topic_full": "Mette Frederiksen · Denmark"
+  },
+  {
+    "article_path": "/article/ofelia-torres-teen-who-fought-to-have-her-father-released-from-ice-custody-dies-from-rare-cancer",
+    "article_url": "https://ground.news/article/ofelia-torres-teen-who-fought-to-have-her-father-released-from-ice-custody-dies-from-rare-cancer",
+    "bias": [
+      "Left-Leaning narratives frame the tragic death of a teen battling cancer by emphasizing her \"heroic and brave\" advocacy against her father's \"illegal detention\" by \"ICE,\" often using terms like \"plight\" and highlighting \"worry and anger.",
+      "This perspective explicitly confirms the father was \"freed,\" underscoring the success of her fight.",
+      "In contrast, right-leaning coverage presents the event more neutrally, de-emphasizing the father's release and avoiding direct mention of \"ICE,\" instead referring to \"immigration officials.",
+      "While all perspectives agree on the teen's death and her advocacy, a pivotal dividing line emerges in the portrayal of the father's immigration outcome and the characterization of his detention, revealing underlying ideological stances on immigration enforcement and the impact of individual agency.",
+      "Center-Leaning reports bridge this by confirming the father's release and even a \"path toward U.S. citizenship,\" while maintaining a factual tone."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "United States",
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "Ofelia Torres, 16, died from Stage 4 alveolar rhabdomyosarcoma, a rare and aggressive form of cancer .",
+      "Three days before her death, an immigration judge ruled that Ofelia's father was conditionally entitled to receive \"cancellation of removal\", providing him a pathway to lawful permanent residence and eventually U.S. citizenship.",
+      "Ofelia's attorney said she \"was heroic and brave in the face of ICE's detention and threatened deportation of her father\", and hoped \"she will serve as a model for us all for how to be courageous and to fight for what's right to our last breaths."
+    ],
+    "title": "Ofelia Torres, Teen Who Fought to Have Her Father Released From ICE Custody, Dies From Rare Cancer",
+    "topic": "Immigration and Customs Enforcement",
+    "topic_full": "Immigration and Customs Enforcement · United States"
   },
   {
     "article_path": "/article/israeli-fm-saar-to-attend-trumps-first-board-of-peace-meeting-on-thursday-officials-say_d95d4d",
@@ -768,6 +463,185 @@
       "These distinct portrayals reveal differing priorities, with some focusing on the diplomatic initiative's positive framing, while others prioritize concrete policy proposals or internal political dynamics."
     ],
     "bias_bar_text": null,
+    "center_pct": 23.0,
+    "error": null,
+    "left_pct": 31.0,
+    "location": "Israel",
+    "right_pct": 46.0,
+    "status": "ok",
+    "summary": [
+      "On February 19, 2026, Israeli Foreign Minister Gideon Sa'ar will attend President Donald Trump's inaugural Board of Peace meeting in Washington, D.C., where Trump will outline Gaza plans.",
+      "The Board of Peace, which signed its charter in Davos, Switzerland in January, is convening to launch postwar recovery work and initiate Gaza's reconstruction efforts.",
+      "U.S. officials say the summit will include announcements of troop pledges for an International Stabilization Force and outline a multibillion-dollar Gaza reconstruction financing plan backed by the United States and United Arab Emirates.",
+      "Delegations from about 20 countries, including many heads of state, are expected to attend the Feb. 19 Washington meeting; Israel joined the Board of Peace last week during Prime Minister Benjamin Netanyahu's visit.",
+      "After two years of war that left Gaza largely destroyed, Hamas has rejected demands to disarm and more than 590 Palestinians and four Israeli soldiers have died, while Western allied governments remain cautious."
+    ],
+    "title": "Israeli FM Saar to attend Trump’s first Board of Peace meeting on Thursday, officials say",
+    "topic": "Board of Peace",
+    "topic_full": "Board of Peace · Israel"
+  },
+  {
+    "article_path": "/article/corporate-funded-nonprofit-has-paid-72k-for-newsoms-travel_9d80b7",
+    "article_url": "https://ground.news/article/corporate-funded-nonprofit-has-paid-72k-for-newsoms-travel_9d80b7",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 40.0,
+    "error": "Message: \n",
+    "left_pct": 40.0,
+    "location": "Munich",
+    "right_pct": 20.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Corporate-Funded Nonprofit Has Paid $72K for Newsom's Travel",
+    "topic": "Europe",
+    "topic_full": "Europe · Munich"
+  },
+  {
+    "article_path": "/article/trumps-border-czar-says-small-security-force-will-remain-in-minnesota-after-enforcement-drawdown_58c403",
+    "article_url": "https://ground.news/article/trumps-border-czar-says-small-security-force-will-remain-in-minnesota-after-enforcement-drawdown_58c403",
+    "bias": [
+      "Left-Leaning coverage frames the immigration enforcement drawdown as a \"victory for the Resistance,\" characterizing the prior operation as a \"mass deportation program\" and subtly using \"czar\" to imply authoritarianism.",
+      "Conversely, right-leaning outlets present the \"czar\" as a decisive leader, emphasizing the need for a \"security force\" and \"enforcement drawdown\" to maintain order.",
+      "Center-Leaning reports, however, contextualize the event \"Amid Rising Tensions\" and as a \"controversial immigration crackdown,\" linking it to specific deaths and questions over officer conduct, details largely de-emphasized by other perspectives.",
+      "While all sides report over 1,000 agents departing and a \"small\" force remaining to protect against \"agitators,\" their divergent interpretations reveal deep ideological splits on immigration policy and executive power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 64.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "Minnesota",
+    "right_pct": 9.0,
+    "status": "ok",
+    "summary": [
+      "Tom Homan , White House border czar, said Sunday that more than 1,000 immigration agents have left Minnesota's Twin Cities and hundreds more will depart during ICE Operation Metro Surge drawdown.",
+      "Homan said Thursday that a significant drawdown was underway and would continue this week after the shooting deaths of U.S. citizens Renee Good and Alex Pretti prompted changes.",
+      "Investigations will persist into fraud claims and the Cities Church protest, and departing officers will report back or be reassigned, while enforcement continues in the Twin Cities and nationwide.",
+      "With no firm timetable, Homan said a `small` security force will stay temporarily to protect agents and `respond when our agents are out and they get surrounded by agitators and things got out of control`, and he added, `We'll get back to the original footprint.`",
+      "With lawmakers returning to St. Paul on Tuesday, Feb. 17, Homan said future deployments `depend on the situation` while DHS called it its largest enforcement effort and successful."
+    ],
+    "title": "Trump's Border Czar Says 'Small' Security Force Will Remain in Minnesota After Enforcement Drawdown",
+    "topic": "Tom Homan",
+    "topic_full": "Tom Homan · Minnesota"
+  },
+  {
+    "article_path": "/article/us-secretary-of-state-rubio-the-us-is-not-contesting-the-european-report-on-the-devils-poisoning",
+    "article_url": "https://ground.news/article/us-secretary-of-state-rubio-the-us-is-not-contesting-the-european-report-on-the-devils-poisoning",
+    "bias": [
+      "Left-Leaning outlets frame the Navalny incident by emphasizing a \"disturbing report\" and the U.S. \"not disputing\" the poisoning, highlighting perceived injustices and international accountability.",
+      "In stark contrast, right-leaning coverage employs definitive terms like \"Murder\" and \"assassinate,\" often calling for \"Consequences\" for Russia, reflecting a more hawkish stance and strong moral judgment.",
+      "Center-Leaning coverage, however, maintains a neutral tone, focusing on verifiable facts, detailing the Kremlin's denial as a \"Western propaganda hoax,\" and providing specific contextual information de-emphasized by partisan outlets.",
+      "All perspectives acknowledge Rubio's statement regarding the \"troubling\" European assessment blaming Russia for Navalny's death, yet their divergent portrayals underscore fundamental ideological differences in assigning blame and advocating for international action."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 39.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": "United States",
+    "right_pct": 37.0,
+    "status": "ok",
+    "summary": [
+      "U.S. Secretary of State Marco Rubio said Washington is `not disputing` the five-country report but did not join because it was a European-led initiative.",
+      "Released on Feb 14, the five-nation statement from Britain, France, Germany, the Netherlands and Sweden said laboratory analyses found epibatidine on Navalny's samples and named Russia the prime suspect.",
+      "Navalny's widow, Yulia Navalnaya, said on Feb 14 it was now `science proven` that he had been murdered, while France's Jean-Noel Barrot paid tribute.",
+      "At the Munich Security Conference, Britain's Foreign Secretary Yvette Cooper said coordinated action, including increasing sanctions, is being considered, while Russia dismissed the allegations as `a Western propaganda hoax`.",
+      "In broader context, experts on toxins noted the substance can also be produced synthetically instead of from the Ecuadoran poison dart frog."
+    ],
+    "title": "Rubio says US does not dispute Navalny poisoning assessment by Europeans",
+    "topic": "Marco Rubio",
+    "topic_full": "Marco Rubio · United States"
+  },
+  {
+    "article_path": "/article/donald-trump-to-unveil-5-billion-gaza-aid-fund-at-washington-board-of-peace-event_1df63a",
+    "article_url": "https://ground.news/article/donald-trump-to-unveil-5-billion-gaza-aid-fund-at-washington-board-of-peace-event_1df63a",
+    "bias": [
+      "Left-Leaning coverage frames the $5 billion Gaza aid with skepticism, using \"claims\" and highlighting the \"controversial body\" and \"war-ravaged Gaza\" amidst ongoing conflict, questioning the sum's sufficiency and international support.",
+      "Right-Leaning outlets champion the initiative as a \"bold Vision\" and \"massive financial commitment,\" emphasizing leadership and its potential to \"shape Middle East ’s next chapter,\" often linking aid to Hamas demilitarization.",
+      "Center-Leaning reports convey the announcement and figures, sometimes using positive terms like \"Historic $5 Billion Pledge\" or \"most consequential International Body,\" but generally avoid the strong praise or criticism of the extremes.",
+      "All acknowledge the $5 billion pledge, yet ideological divides persist over the initiative's legitimacy and conditions for peace."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 40.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": "United States",
+    "right_pct": 30.0,
+    "status": "ok",
+    "summary": [
+      "On February 15, 2026, President Donald J. Trump announced the Board of Peace has pledged more than $5 billion and committed thousands of personnel, with formal unveiling set for February 19, 2026 in Washington.",
+      "Reconstruction estimates show Gaza rebuilding costs $70 billion, per United Nations, World Bank and European Union, while the US-brokered ceasefire's second phase demands Israeli withdrawal and Hamas disarmament.",
+      "The Board of Peace's formation includes 26 founding members, with an executive core of eight members, including Chairman Trump, Marco Rubio, Steve Witkoff, Jared Kushner, and Tony Blair, following a Davos meeting last month.",
+      "So far, participation remains uncertain as Indonesia's military says up to 8,000 troops could be ready by late June, while France and Britain have expressed doubts despite the first firm commitment.",
+      "Controversies include the Board charter not limited to Gaza, a US$1 billion permanent membership fee, Russian President Vladimir Putin's invitation, and litigation over the Donald J. Trump Institute of Peace building."
+    ],
+    "title": "Donald Trump to unveil $5 billion Gaza aid fund at Washington ‘Board of Peace' event",
+    "topic": "Israel-Gaza",
+    "topic_full": "Israel-Gaza · United States"
+  },
+  {
+    "article_path": "/article/us-military-boards-another-oil-tanker-in-indian-ocean-after-tracking-it-from-the-caribbean_dc42f6",
+    "article_url": "https://ground.news/article/us-military-boards-another-oil-tanker-in-indian-ocean-after-tracking-it-from-the-caribbean_dc42f6",
+    "bias": [
+      "Left-Leaning coverage emphasizes the operation as \"showcasing maritime enforcement capabilities\" and links it to broader sanctions against \"Iran’s shadow fleet\" and even \"Cuba,\" noting the \"1.9 million barrels of oil\" cargo.",
+      "Right-Leaning outlets, however, frame the action with assertive language like \"seizes\" and \"RACE ACROSS THE SEAS,\" highlighting \"Trump quarantine\" and portraying the US military's \"lengths\" to enforce it, even including an Iranian accusation of \"maritime piracy.",
+      "Center-Leaning reports also mention \"Trump’s quarantine\" and a \"crackdown\" on \"shadow fleet\" evasion, but with less dramatic rhetoric.",
+      "While all agree on the US boarding a sanctioned vessel for \"illicit oil\" linked to Venezuela, the left explores wider geopolitical implications, while the right champions decisive national power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "United States",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, the U.S. Department of Defense conducted a maritime interdiction and boarded the Panamanian-flagged tanker Veronica III in the Indian Ocean.",
+      "President Donald Trump ordered a quarantine of sanctioned tankers in December, and the administration has seized vessels to control Venezuela's oil amid a shadow fleet of falsely flagged tankers.",
+      "Pentagon said `We tracked it from the Caribbean to the Indian Ocean, closed the distance, and shut it down.` Video posted by the Pentagon shows U.S. troops boarding the tanker overnight without incident.",
+      "The Pentagon declined to disclose whether the Veronica III was formally seized, and a defense official said the ship is being held while its ultimate fate is decided.",
+      "Last week, U.S. forces boarded the tanker Veronica III in the Indian Ocean, which left Venezuela with nearly 2 million barrels, according to TankerTrackers.com."
+    ],
+    "title": "US military boards another oil tanker in Indian Ocean after tracking it from the Caribbean",
+    "topic": "Pentagon",
+    "topic_full": "Pentagon · United States"
+  },
+  {
+    "article_path": "/article/british-museum-removes-references-to-palestine-from-ancient-middle-east-displays",
+    "article_url": "https://ground.news/article/british-museum-removes-references-to-palestine-from-ancient-middle-east-displays",
+    "bias": [
+      "Left-Leaning coverage emphasizes the 'removal' of ' Palestine ' from ancient displays, framing it as problematic and driven by 'pressure' from a 'pro-Israel group', suggesting an erasure of identity.",
+      "In contrast, right-leaning outlets portray the action as a necessary correction, highlighting 'historical accuracy' and the museum's admission of 'retroactively applied' terminology, with positive sentiment towards the 'willingness to review' by involved groups.",
+      "Center-Leaning reports simply state the 'Removes' action without extensive context.",
+      "The pivotal dividing line is whether the removal signifies external influence and potential historical diminishment or a justified rectification of historical misrepresentation.",
+      "Both perspectives agree on the core action but diverge significantly on its underlying reasons and implications, reflecting broader ideological stances on historical narratives and identity."
+    ],
+    "bias_bar_text": "Left 46% C 15% Right 39%",
+    "center_pct": 15.0,
+    "error": null,
+    "left_pct": 46.0,
+    "location": null,
+    "right_pct": 39.0,
+    "status": "ok",
+    "summary": [
+      "The British Museum said it has removed the term 'Palestine' from informational panels in its Middle East galleries after complaints from UK Lawyers for Israel and confirmed it has updated several displays while reviewing panels case-by-case.",
+      "UK Lawyers for Israel complained that information boards covering 1500BC–1700BC used 'Palestine' anachronistically, ignoring earlier names like Canaan and historical states such as the Kingdom of Israel.",
+      "A museum spokesperson said the decision followed feedback and audience research and that the museum uses UN terminology for modern maps while replacing 'Palestinian descent' with 'Canaanite descent' in Egypt galleries.",
+      "Staff reaction could be tense, with the decision likely to provoke controversy and resentment among British Museum employees, after around 250 signed a petition last June and UKLFI faces a Solicitors Regulation Authority investigation.",
+      "Historically, the label 'Palestine' has been used by sources such as Herodotus, UKLFI warned the museum's choices could breach the Equality Act 2010, and map updates will be phased over years under the museum masterplan."
+    ],
+    "title": "British Museum removes the term Palestine from certain Middle East exhibits",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/terrorist-who-murdered-hostage-noa-marciano-eliminated_8f3365",
+    "article_url": "https://ground.news/article/terrorist-who-murdered-hostage-noa-marciano-eliminated_8f3365",
+    "bias": [
+      "Left-Leaning coverage frames the event using terms like \"terrorist\" and \"eliminated,\" often noting the strike as a response to \"gunfire.",
+      "In contrast, right-leaning narratives employ highly emotive language such as \"Delivers Justice,\" \"brutally murdered,\" and \"promise was kept,\" frequently portraying the victim as a \"hostage\" and detailing her \"19 years\" and gruesome alleged murder method like \"put air in veins.",
+      "Center-Leaning reports use \"terrorist\" and \"murdered\" but sometimes soften with \"accused of brutally murdering,\" de-emphasizing the strike's specific triggers and other emotional details.",
+      "While all perspectives agree on the core fact of a Hamas commander's killing and his responsibility for the soldier's death, the right's focus on retribution and victimhood starkly contrasts with the left's more restrained framing, revealing differing ideological priorities."
+    ],
+    "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
@@ -775,13 +649,13 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On February 19, 2026, Israeli Foreign Minister Gideon Sa'ar will attend President Donald Trump 's inaugural Board of Peace meeting in Washington, D.C., where Trump will outline Gaza plans.",
-      "The Board of Peace, which signed its charter in Davos, Switzerland in January, is convening to launch postwar recovery work and initiate Gaza's reconstruction efforts.",
-      "U.S. officials say the summit will include announcements of troop pledges for an International Stabilization Force and outline a multibillion-dollar Gaza reconstruction financing plan backed by the United States and United Arab Emirates.",
-      "Delegations from about 20 countries, including many heads of state, are expected to attend the Feb. 19 Washington meeting; Israel joined the Board of Peace last week during Prime Minister Benjamin Netanyahu's visit.",
-      "After two years of war that left Gaza largely destroyed, Hamas has rejected demands to disarm and more than 590 Palestinians and four Israeli soldiers have died, while Western allied governments remain cautious."
+      "Yesterday, the Israeli Defence Forces and Israel Security Agency executed a coordinated airstrike that killed Muhammad Issam Hassan Al Habil, Hamas terror-cell chief, in Shati Camp, Gaza City.",
+      "Linked to October 7, 2023, Al Habil emerged as a high-priority target after being tied to a shooting that injured an IDF reserve officer.",
+      "Evidence cited by Israeli agencies links Al Habil to abducting and killing IDF observer Noa Marciano, who was taken from Nahal Oz and never returned alive.",
+      "The Marciano family said they finally felt a small sense of relief and partial justice after the strike, which Israeli officials called a milestone in pursuing justice for October 7 victims.",
+      "The IDF said the strike responded to a clear ceasefire violation by Hamas and vowed operations against October 7 perpetrators will continue without pause, while Noa's father alleges a doctor injected air into her veins causing her death."
     ],
-    "title": "Israeli FM Saar to attend Trump’s first Board of Peace meeting on Thursday, officials say",
+    "title": "Individual Accused of Killing IDF Soldier Noa Marciano in Captivity Reportedly Killed in Gaza Airstrike",
     "topic": null,
     "topic_full": null
   },
@@ -810,34 +684,59 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/us-conducts-strikes-on-more-than-30-islamic-state-targets-in-syria-military-says_a63c67",
-    "article_url": "https://ground.news/article/us-conducts-strikes-on-more-than-30-islamic-state-targets-in-syria-military-says_a63c67",
+    "article_path": "/article/rubio-says-us-does-not-want-vassal-europe-on-visit-to-trumps-allies",
+    "article_url": "https://ground.news/article/rubio-says-us-does-not-want-vassal-europe-on-visit-to-trumps-allies",
     "bias": [
-      "Left-Leaning outlets frame US strikes as \"retaliatory,\" often using \"claims\" to convey skepticism regarding official military statements, and provide broader context like detainee transfers.",
-      "Conversely, right-leaning coverage emphasizes decisive action, employing terms like \"'Sustain Relentless Military Pressure'\" and \"Hammer\" to portray strength and resolve.",
-      "While both report \"more than 30 targets\" and \"more than 50\" enemy impacts, the left and right explicitly state \"killed and captured,\" whereas center coverage remains more ambiguous.",
-      "Center perspectives generally present events neutrally, attributing information to the military.",
-      "All perspectives agree on the core facts of US airstrikes against ISIS in Syria, highlighting a shared focus on national security but diverging on the interpretation of military efficacy and accountability."
+      "Left-Leaning coverage portrays Rubio's European visit with skepticism, using terms like \"Shouldn't Succumb\" and \"Declaration of Love\" to frame his efforts as disingenuous or controlling, linking them to a \"Trump plan.",
+      "In contrast, right-leaning outlets emphasize Rubio's \"assurance\" of partnership, highlighting his meetings with \"staunch right-wing allies\" to underscore positive diplomatic engagement and specific agenda items like \"energy cooperation.",
+      "Center-Leaning coverage, however, presents Rubio's message neutrally, focusing on his direct statements about wanting \"strong allies\" rather than \"vassals,\" de-emphasizing ideological alignments.",
+      "The characterization of European leaders as \"pro-Trump\" or \"staunch right-wing\" reveals a pivotal ideological divide, viewed critically by the left and positively by the right.",
+      "While all perspectives acknowledge Rubio's call for Europe to embrace Trump's \"renewal\" vision and his rejection of a \"vassal\" relationship, their contrasting portrayals reflect deeper ideological stances on international relations and U.S. influence."
     ],
-    "bias_bar_text": "Left 29% Center 47% R 24%",
-    "center_pct": 47.0,
+    "bias_bar_text": "Left 27% Center 50% R 23%",
+    "center_pct": 50.0,
     "error": null,
-    "left_pct": 29.0,
+    "left_pct": 27.0,
     "location": null,
-    "right_pct": 24.0,
+    "right_pct": 23.0,
     "status": "ok",
     "summary": [
-      "The US military said it attacked over 30 Islamic State targets in Syria between February 3 and February 12, hitting weapons storage facilities and infrastructure, in response to the deaths of two US soldiers and an interpreter in an IS ambush in December.",
-      "More than 50 IS terrorists have been killed or captured and over 100 IS targets hit during two months of targeted operations, according to the US Central Command.",
-      "The Syrian Defense Ministry said government forces took control of the Al-Tanf military base in eastern Syria that was previously run by US troops."
+      "Rubio stated that the US does not want Europe to be a 'vassal' and stressed that a stronger NATO alliance benefits all members.",
+      "The EU Commissioner said Brussels should prepare to replace US troops on the continent, while Rubio discussed the potential loan of €90 billion for Ukraine's war effort.",
+      "Fico opposed financially supporting Kyiv, saying it would only prolong the war, while Trump endorsed Orbán in Hungary's upcoming elections where the opposition is leading in polls."
     ],
-    "title": "US military reports a series of airstrikes against Islamic State targets in Syria",
+    "title": "Rubio Says US Does Not Want 'Vassal' Europe On Visit To Trump's Allies",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/exclusive-trump-admin-cranks-out-more-rules-to-keep-unqualified-migrant-truckers-off-highways",
-    "article_url": "https://ground.news/article/exclusive-trump-admin-cranks-out-more-rules-to-keep-unqualified-migrant-truckers-off-highways",
+    "article_path": "/article/hillary-clinton-says-migration-went-too-far-needs-to-be-fixed_5b9ebc",
+    "article_url": "https://ground.news/article/hillary-clinton-says-migration-went-too-far-needs-to-be-fixed_5b9ebc",
+    "bias": [
+      "Right-Leaning outlets frame Hillary Clinton 's remarks as a \"Shocking Admission\" or that she \"Admits\" \"Biden's Migration\" was \"disruptive and destabilizing\" and \"went too far,\" emphasizing a \"reversal\" from a perceived \"open-borders immigration stance.",
+      "This perspective employs emotionally charged language, questioning why she \"Doesn't Get Called Far-Right Nazi\" for statements that would be deemed \"pure bigotry\" from others.",
+      "Center-Leaning coverage, conversely, neutrally presents Clinton's statement that migration \"went too far\" and \"needs to be fixed,\" contextualizing it with ongoing domestic protests.",
+      "Both perspectives acknowledge Clinton's core statements about migration being \"disruptive and destabilizing,\" yet the right highlights perceived hypocrisy and attributes blame, revealing deep ideological divides over immigration policy and partisan accountability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "Hillary Clinton stated at the Munich Security Conference that migration \"went too far,\" has been disruptive and destabilizing, and needs to be fixed humanely with secure borders that \"don't torture and kill people\".",
+      "Clinton acknowledged migration as a major flashpoint and called for a balanced and legitimate debate on the topic, emphasizing the importance of strong family structures as the foundation of civilization.",
+      "Clinton's public stance on immigration has shifted over time, including support for some previous immigration policies and more recent emphasis on border security and humane enforcement."
+    ],
+    "title": "Hillary Clinton says migration \"went too far\", needs to be fixed",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/trumps-love-letter-pac-sends-valentines-day-fundraising-email-from-potus-do-you-still-love-me",
+    "article_url": "https://ground.news/article/trumps-love-letter-pac-sends-valentines-day-fundraising-email-from-potus-do-you-still-love-me",
     "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
@@ -847,24 +746,143 @@
     "right_pct": null,
     "status": "fail",
     "summary": null,
-    "title": "Trump Administration Pursues More Efforts to Ban Illegal Migrant Truck Drivers",
+    "title": "Fundraising email from Trump-associated PAC uses Valentine’s Day theme and asks supporters if they still back him",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/s-opinion-jeffrey-epstein-and-the-consequences-the-whole-democratic-system-is-in-question",
-    "article_url": "https://ground.news/article/s-opinion-jeffrey-epstein-and-the-consequences-the-whole-democratic-system-is-in-question",
-    "bias": null,
+    "article_path": "/article/did-trump-try-to-block-the-epstein-files-mtg-and-musk-weigh-in",
+    "article_url": "https://ground.news/article/did-trump-try-to-block-the-epstein-files-mtg-and-musk-weigh-in",
+    "bias": [
+      "Left-Leaning coverage highlights Trump's alleged 'hesitancy' and how he 'fought the hardest' to 'bury' the Epstein files , broadening accusations with claims from other figures and emphasizing 'global disgust' as a catalyst for legislative action.",
+      "Conversely, right-leaning outlets frame Greene's statements as 'bad news' from a 'MAGA leader' about the president's 'culpability', focusing on the 'wedge' driven within the movement.",
+      "Center coverage distinctly emphasizes Greene's characterization of Trump's actions as his 'biggest miscalculation' and his assertion that the files were a 'hoax'.",
+      "These narratives reveal stark ideological divides in portraying internal political dissent and the files' implications."
+    ],
     "bias_bar_text": null,
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Epstein files reveal Steve Bannon's effort to rehabilitate his image",
-    "topic": null,
-    "topic_full": null
+    "center_pct": 58.0,
+    "error": null,
+    "left_pct": 37.0,
+    "location": "United States",
+    "right_pct": 5.0,
+    "status": "ok",
+    "summary": [
+      "On February 14, 2026, Marjorie Taylor Greene said President Donald Trump `fought the hardest to stop these files from being released`, as shown in a clip shared by Brian Allen that contradicts the Epstein Files Transparency Act.",
+      "Greene and other critics say several individuals claimed Donald Trump, former U.S. president, stalled the release because his name appears in the files, with Elon Musk posting on X that `@realDonaldTrump is in the Epstein files`.",
+      "On the Owen Shroyer podcast, Greene said Mike Johnson refused to bring the bill, forcing some Republicans to vote with Democrats to secure release, and her remarks appear around the 28-minute mark.",
+      "The Department of Justice released millions of Epstein documents after the law passed, and Greene said Trump fought to stop the files from being released.",
+      "Greene suggested the White House directed Attorney General Pam Bondi and claimed GOP leaders coordinated to block Epstein files release, deepening intra-party tensions."
+    ],
+    "title": "Greene says Epstein files handling is Trump’s ‘biggest political miscalculation’",
+    "topic": "Epstein Files",
+    "topic_full": "Epstein Files · United States"
+  },
+  {
+    "article_path": "/article/china-can-call-putin-and-end-the-war-tomorrow-natos-us-envoy-says_49f334",
+    "article_url": "https://ground.news/article/china-can-call-putin-and-end-the-war-tomorrow-natos-us-envoy-says_49f334",
+    "bias": [
+      "Left-Leaning coverage emphasizes China's \"decisive support\" for \"Russian aggression\" and its potential to \"stop the war\" with \"one call,\" detailing specific actions like cutting dual-purpose technologies.",
+      "Conversely, right-leaning outlets, aligning with center perspectives, highlight China \"expanding aid\" and becoming \"more assertive and confident\" in supporting Russia, framing it as a deepening threat and de-emphasizing specific solutions.",
+      "While the center also reports specific crude oil import figures, both center and right underscore the impact on European diplomatic efforts, a detail de-emphasized by the left.",
+      "All perspectives agree on Ambassador Whitaker's core statement regarding China's influence, yet diverge significantly on whether to focus on China's capacity for resolution or its escalating involvement, reflecting broader geopolitical concerns about global power dynamics."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 23.0,
+    "error": null,
+    "left_pct": 44.0,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "U.S. ambassador to NATO Matthew Whitaker said China could call Vladimir Putin and end the war by cutting off dual-use technologies and oil purchases at the Munich Security Conference.",
+      "Moscow depends heavily on China for critical components used in drones and military equipment, while tracking figures show 1.65 million barrels per day of crude were unloaded at Chinese ports in January.",
+      "U.S. ambassador to NATO Matthew Whitaker was joined on the panel by two prominent U.S. figures, Representative Alexandria Ocasio-Cortez and Governor Gretchen Whitmer, at the Munich Security Conference moderated by Francine Lacqua.",
+      "Wang Yi met Ukrainian Foreign Minister Andrii Sybiha in Munich, offered humanitarian assistance, and Beijing said it seeks a `constructive` role in resolving the conflict.",
+      "Since the invasion began, China and Russia have deepened a strategic partnership, with Beijing reemerging as the largest buyer of Russian crude despite growing international pressure on Russia's energy trade."
+    ],
+    "title": "'China can call Putin and end the war tomorrow', Nato's US envoy says",
+    "topic": "Matthew Whitaker",
+    "topic_full": "Matthew Whitaker · United States"
+  },
+  {
+    "article_path": "/article/tippy-toes-apple-pear-banana-baby-food-recalled-for-patulin",
+    "article_url": "https://ground.news/article/tippy-toes-apple-pear-banana-baby-food-recalled-for-patulin",
+    "bias": [
+      "Left-Leaning coverage frames the baby food recall around general \"contamination concerns,\" de-emphasizing the specific company issuing it.",
+      "Right-Leaning outlets highlight federal testing and the presence of a \"dangerous toxin\" that \"raises health concerns,\" focusing on the substance's impact.",
+      "Center-Leaning reports offer a more comprehensive narrative, explicitly naming \"Initiative Foods\" and defining patulin as a naturally occurring substance, presenting a \"possible health risk\" with greater detail.",
+      "While all perspectives agree on the nationwide recall due to elevated patulin levels, the left prioritizes broad consumer awareness, the right accentuates the specific danger, and the center provides extensive context, revealing distinct priorities in risk communication."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 91.0,
+    "error": null,
+    "left_pct": 6.0,
+    "location": "United States",
+    "right_pct": 3.0,
+    "status": "ok",
+    "summary": [
+      "The maker of Tippy Toes baby food recalled a single lot of apple, pear and banana fruit puree over elevated patulin levels, according to the FDA.",
+      "Health officials noted that the FDA said patulin is produced by molds in fruits and that long-term exposure may pose health risks, including immune suppression and nerve damage.",
+      "Sold in two-pack plastic tubs, the product carries a \"best by\" date July 17, 2026, and the FDA advised consumers to discontinue use and return or discard it.",
+      "The FDA reported no illnesses connected to the recall as of Feb. 13; distribution may have included U.S. territories like Guam and Puerto Rico.",
+      "With a July 17, 2026 best-by date, the product’s long shelf life means affected tubs may remain in households later this year, prompting retail returns and disposal practices."
+    ],
+    "title": "Baby food sold across the US recalled due to possible health risk",
+    "topic": "Product Recalls",
+    "topic_full": "Product Recalls · United States"
+  },
+  {
+    "article_path": "/article/another-missed-deadline-casts-doubt-on-colorado-river-cooperation",
+    "article_url": "https://ground.news/article/another-missed-deadline-casts-doubt-on-colorado-river-cooperation",
+    "bias": [
+      "Left-Leaning coverage frames the missed Colorado River deadline with terms like \"casts doubt\" and \"stalemate,\" emphasizing the \"crumble\" of cooperation and potential \"legal action\" over a \"dwindling water supply,\" highlighting the long duration of negotiations.",
+      "Right-Leaning outlets, conversely, offer a concise, factual report, de-emphasizing broader context or future implications.",
+      "Center-Leaning sources provide a more comprehensive view, including official statements from Senator Hickenlooper encouraging states to unite and detailing the U.S. Department of the Interior's decision to proceed with its own management plans.",
+      "All perspectives agree on the \"missed deadline\" and the need to address \"record drought and water shortages,\" but diverge on the severity of the failure and the appropriate next steps, reflecting differing views on governmental intervention versus state autonomy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": 31.0,
+    "location": "United States",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "The seven Western states missed a federal deadline for the second time to agree on a post-2026 Colorado River plan, acknowledging Friday they would not meet the U.S. Bureau of Reclamation timeline.",
+      "Existing rules from the 1922 Colorado River Compact, last updated in 2007, expired last year and scientists recently reported one of the driest winters with low snowpack, increasing water cut urgency.",
+      "Negotiators focused in recent weeks on a five-year plan that includes Arizona, California and Nevada offering cuts of 27%, 10% and 17%, while upper-basin states resisted permanent reductions.",
+      "Leaders say they are preparing lawyers and legal strategies as a federal plan, likely to spark litigation and reach the U.S. Supreme Court, risks lives and power supplies.",
+      "Reclamation officials set the deadline to allow time for federal review and an Oct 1 start, and the Trump administration is accepting public comments on alternatives until March 2 while talks continue."
+    ],
+    "title": "States reliant on Colorado River fail to meet the latest deadline to find consensus",
+    "topic": "Water",
+    "topic_full": "Water · United States"
+  },
+  {
+    "article_path": "/article/major-travel-impacts-expected-as-winter-storm-watch-is-issued-for-northern-california_21de08",
+    "article_url": "https://ground.news/article/major-travel-impacts-expected-as-winter-storm-watch-is-issued-for-northern-california_21de08",
+    "bias": [
+      "Left-Leaning coverage foregrounds human-safety and communal preparedness—using phrases like \"major travel impacts,\" \"bracing,\" and urging travelers to delay—while right-leaning pieces stress imminent, enforceable disruption, labeling chain controls a \"guarantee\" and describing a \"big hit\" or \"extreme danger\" for burn scars; rhetorically the left uses precautionary, communal language and the right uses urgent, enforcement-focused phrasing.",
+      "Dividing lines include whether emphasis is on evacuation/debris-flow risk versus mandatory road closures and contested timing and precise snowfall .",
+      "Centers present factual timing and prep guidance.",
+      "Both cite NWS warnings and share concern about heavy snow and travel danger."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 55.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": "California",
+    "right_pct": 15.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday night, the City of Los Angeles issued evacuation warnings for properties near the Palisades Fire burn scar, effective 9 p.m. Sunday through 9 a.m. Tuesday.",
+      "National Weather Service forecasts, cited by Mayor Karen Bass' office, predict heavy to moderate rain with possible high winds and thunderstorms beginning Monday, with 1 to 3 inches expected in coastal areas and 2 to 5 inches in mountains by late Monday.",
+      "NWS advisories include a Flood Watch for Los Angeles from 9 a.m. to 9 p.m. Monday, a Wind Advisory from 6 a.m. to 6 p.m., and Caltrans closed Topanga Canyon Boulevard at 10 p.m. Sunday from PCH near Topanga Beach to Grand View Drive.",
+      "The City of Los Angeles said its Emergency Operations Center will activate Monday, urging residents to gather essentials and sign up at NotifyLA.org, with officials taking action to keep Angelenos safe, said Mayor Bass.",
+      "Additional rain on Tuesday and Wednesday could bring 1.5 inches, with light to moderate rain lingering through Friday, according to NWS estimates."
+    ],
+    "title": "‘Major travel impacts’ expected as winter storm watch is issued for northern California",
+    "topic": "Winter Storm",
+    "topic_full": "Winter Storm · California"
   }
 ]
