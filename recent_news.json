@@ -1,20 +1,26 @@
 [
   {
-    "article_path": "/article/trump-says-he-will-raise-global-tariffs-from-10-to-15-after-supreme-court-setback_b9ea9f",
-    "article_url": "https://ground.news/article/trump-says-he-will-raise-global-tariffs-from-10-to-15-after-supreme-court-setback_b9ea9f",
-    "bias": null,
+    "article_path": "/article/us-secret-service-agents-killed-man-trying-to-unlawfully-enter-trumps-mar-a-lago_2c6b6d",
+    "article_url": "https://ground.news/article/us-secret-service-agents-killed-man-trying-to-unlawfully-enter-trumps-mar-a-lago_2c6b6d",
+    "bias": [
+      "News coverage of the Mar-a-Lago shooting starkly diverged, with right-leaning outlets framing the incident as a \"WOULD-BE TRUMP ASSASSIN\" or \"failed assassination attempt,\" emphasizing a \"plot to Blow up Trump's House\" and accusing \"Elitist Media\" of \"OMISSION.",
+      "In contrast, left-leaning reports focused on the man being \"fatally shot\" or \"killed,\" sometimes downplaying the severity by stating he was merely \"shot,\" and highlighting the White House calling him a \"crazy person.",
+      "Center perspectives generally presented a more descriptive account, noting \"dramatic scenes\" and the man \"raising shotgun to shooting position,\" a detail de-emphasized by the left.",
+      "While all sides agreed an armed man was shot and killed after entering the secure perimeter with a shotgun and fuel can, the profound ideological chasm emerged in portraying intent—from a targeted political attack to a tragic confrontation—reflecting broader partisan divides over figures like Trump and law enforcement actions."
+    ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "no_change",
+    "status": "ok",
     "summary": [
-      "Trump announced an increase in the US global tariff rate to 15% following a Supreme Court decision he described as anti-American.",
-      "The increased 15% tariff rate is temporary and allowed by law for up to 150 days.",
-      "Exemptions from the tariff remain for certain sectors like pharmaceuticals and goods under the US-Mexico-Canada agreement.",
-      "The Supreme Court ruled 6-3 that a 1977 law does not authorize the President to impose tariffs , prompting Trump's criticism of the court."
+      "U.S. Secret Service agents and a Palm Beach County Sheriff's deputy shot and killed a man after he breached Mar-a-Lago's secure perimeter around 1.30 a.m. on February 22, 2026 near the property's north gate.",
+      "Near the property’s north gate, officers confronted a white male in his early 20s carrying a gas can and shotgun, who ignored repeated commands before raising the shotgun, prompting officers to fire.",
+      "Investigators identified the man as 21-year-old Austin Tucker Martin, and a box for the firearm was recovered from the suspect's vehicle after his family recently reported him missing.",
+      "The FBI has taken the lead in the probe and is coordinating with local and federal partners; involved U.S. Secret Service agents are on routine administrative leave, and nearby homeowners were asked to check cameras.",
+      "The incident adds to Mar-a-Lago's history of trespassing incidents and comes amid recent incidents of political violence and assassination attempts across the U.S., with President Donald Trump and First Lady Melania Trump at the White House and no protectees present."
     ],
     "title": "Source Icon",
     "topic": null,
@@ -29,12 +35,12 @@
       "Center-Leaning reports focus on the \"controversy\" and procedural details, de-emphasizing the specific number of accounts.",
       "While all acknowledge the $5 billion lawsuit and account closure, the left emphasizes the severity of January 6th, while the right focuses on perceived targeting, revealing ideological divides over corporate power and political consequences."
     ],
-    "bias_bar_text": "Left 35% Center 41% R 24%",
-    "center_pct": 41.0,
+    "bias_bar_text": null,
+    "center_pct": 44.0,
     "error": null,
-    "left_pct": 35.0,
+    "left_pct": 29.0,
     "location": null,
-    "right_pct": 24.0,
+    "right_pct": 27.0,
     "status": "ok",
     "summary": [
       "On February 22, 2026, JPMorgan Chase acknowledged in a court filing this week that it closed President Donald Trump's accounts after the Jan. 6, 2021 attack on the U.S. Capitol.",
@@ -48,20 +54,37 @@
     "topic_full": null
   },
   {
+    "article_path": "/article/trump-says-he-will-raise-global-tariffs-from-10-to-15-after-supreme-court-setback_044bca",
+    "article_url": "https://ground.news/article/trump-says-he-will-raise-global-tariffs-from-10-to-15-after-supreme-court-setback_044bca",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": null,
+    "right_pct": 27.0,
+    "status": "no_change",
+    "summary": [
+      "Trump announced an increase in the US global tariff rate to 15% following a Supreme Court decision he described as anti-American.",
+      "The increased 15% tariff rate is temporary and allowed by law for up to 150 days.",
+      "Exemptions from the tariff remain for certain sectors like pharmaceuticals and goods under the US-Mexico-Canada agreement.",
+      "The Supreme Court ruled 6-3 that a 1977 law does not authorize the President to impose tariffs , prompting Trump's criticism of the court."
+    ],
+    "title": "Trump says he will raise global tariffs from 10% to 15% after Supreme Court setback",
+    "topic": null,
+    "topic_full": null
+  },
+  {
     "article_path": "/article/trump-signs-global-10-tariff-says-it-will-take-effect-almost-immediately_a7531e",
     "article_url": "https://ground.news/article/trump-signs-global-10-tariff-says-it-will-take-effect-almost-immediately_a7531e",
     "bias": [
-      "Left-Leaning outlets frame the Supreme Court ruling as a \"stinging loss\" and Trump's response as \"idiocy\" or an \"imperious approach,\" emphasizing negative consumer impacts like \"more expensive\" goods.",
-      "They highlight his \"ashamed\" and \"irate\" reactions, portraying disarray.",
-      "Right-Leaning coverage, conversely, frames the ruling as a \"defeat\" Trump overcomes with \"Other Authority,\" emphasizing his \"stronger stance\" and defiance, often using terms like \"Slaps\" to convey forceful action while de-emphasizing economic consequences or congressional opposition.",
-      "Center-Leaning reports factually detail the 10% tariff announcement, noting Trump \"raging\" but generally avoiding the left's character attacks or the right's celebratory tone, instead mentioning \"economic uncertainty.",
-      "All perspectives agree on the 6-3 ruling and the new 10% tariff, yet diverge sharply on executive power and trade policy implications."
+      "Left-Leaning coverage emphasizes consumer harm, legal overreach and financial winners—highlighting \"messy\" refunds, billions potentially returned, and language like \"weaponize trade\" to cast tariffs as destructive—while right-leaning pieces frame the 10% global tariff as patriotic, portraying presidential \"strength\" and using charged quotes like \"fools\" or \"ashamed\" to underscore judicial bias; pivotal divides include refund logistics, investor gains from the ruling, and constitutional limits on executive power; center outlets de-emphasize partisanship and stress legal mechanics; both sides agree on the Court ruling and ensuing uncertainty."
     ],
     "bias_bar_text": null,
     "center_pct": 43.0,
     "error": null,
     "left_pct": 33.0,
-    "location": "United States",
+    "location": null,
     "right_pct": 24.0,
     "status": "ok",
     "summary": [
@@ -72,8 +95,8 @@
       "Close US trading partners including the EU and Britain said they are studying the ruling and remain in contact with the U.S. administration, while Canada called the levies unjustified and braced for turbulence."
     ],
     "title": "Trump signs global 10% tariff, says it will take effect 'almost immediately'",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
+    "topic": null,
+    "topic_full": null
   },
   {
     "article_path": "/article/supreme-court-strikes-down-trumps-sweeping-global-tariffs_a479a4",
@@ -85,7 +108,7 @@
     "center_pct": 46.0,
     "error": null,
     "left_pct": 31.0,
-    "location": "United States",
+    "location": null,
     "right_pct": 23.0,
     "status": "ok",
     "summary": [
@@ -96,669 +119,499 @@
       "The Trump administration said it will seek other statutory avenues and President Donald Trump planned a Friday news briefing, despite Friday's ruling."
     ],
     "title": "Supreme Court Strikes Down Trump’s Sweeping Global Tariffs",
-    "topic": "Politics",
-    "topic_full": "Politics · United States"
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/us-economy-grew-at-14-rate-in-final-quarter-of-2025-well-below-expectations_111157",
-    "article_url": "https://ground.news/article/us-economy-grew-at-14-rate-in-final-quarter-of-2025-well-below-expectations_111157",
+    "article_path": "/article/a9c589b4-ce65-449e-955b-b7350b4fa39d",
+    "article_url": "https://ground.news/article/a9c589b4-ce65-449e-955b-b7350b4fa39d",
     "bias": [
-      "Left-Leaning coverage framed the 1.4% economic growth as having \"fell short\" and \"sharply\" slowed, attributing blame to tariffs and \"Trump's economy decelerated,\" even accusing him of trying to \"spin\" \"disastrous figures.",
-      "Conversely, right-leaning narratives blamed the \"Schumer Shutdown Blues\" and \"government shutdown\" for having \"shaved 'two points'\" off growth, while both it and center reports incorporated \"inflation remained elevated.",
-      "The center also noted the \"badly missing estimate\" and discussed future outlook.",
-      "Despite these partisan narratives, all perspectives agreed on the 1.4% growth rate and the government shutdown's contributing role to the slowdown."
+      "Left-Leaning coverage frames the army killing of El Mencho as a consequential but risky blow—highlighting \"chaos,\" \"violence,\" and community harm and warning reprisals—while right-leaning coverage frames it as a decisive \"show of force\" or \"decapitating\" victory, amplifying national-security optics and sometimes stressing U.S. backing; rhetorically the left uses cautionary, communal language whereas the right uses urgent, triumphal words and more sensational claims about airports and hostages.",
+      "Dividing lines include the extent of U.S. operational involvement and casualty counts , with center outlets more cautious; both sides converge on the leader’s death, ensuing reprisals, and travel advisories, reflecting deeper ideological splits over force versus stability."
     ],
-    "bias_bar_text": null,
-    "center_pct": 56.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "United States",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Department of Commerce said the US expanded at 1.4 percent in Q4 2025, with full-year growth at 2.2 percent, down from 2.8 percent.",
-      "After the shutdown, some analysts estimate fourth-quarter GDP would have been closer to 2.4 percent, with Trump claiming `Democrat Shutdown cost the U.S.A. at least two points in GDP,` on Truth Social.",
-      "Commerce Department figures showed Q4 2025 growth slowed due to weaker government spending, exports, and consumer spending but was partly offset by investment gains, said Heather Long, Navy Federal Credit Union chief economist, noting \"Solid consumption and the AI boom kept the economy growing.\"",
-      "Following the release, Trump criticized the Federal Reserve and outgoing Chairman Jerome Powell, calling for `LOWER INTEREST RATES`, after posting shutdown claims on Truth Social and ushering reporters out.",
-      "The PCE index was up 2.5 percent in December, and analysts warn this could complicate Federal Reserve rate decisions, highlighting economic challenges for the Trump administration."
-    ],
-    "title": "US Economy Grew at 1.4% Rate in Final Quarter of 2025, Well Below Expectations",
-    "topic": "US Economy",
-    "topic_full": "US Economy · United States"
-  },
-  {
-    "article_path": "/article/trump-orders-agencies-to-identify-and-release-government-files-on-aliens_7aeba5",
-    "article_url": "https://ground.news/article/trump-orders-agencies-to-identify-and-release-government-files-on-aliens_7aeba5",
-    "bias": [
-      "Left-Leaning coverage frames Trump's directive as an \"ultimate weapon of mass distraction\" from Epstein files, using terms like \"bonkers\" and portraying his actions as \"spirals into Obama accusations.",
-      "Right-Leaning outlets, conversely, emphasize \"full disclosure\" and \"transparency,\" characterizing Obama's comments as a \"classified breach\" and \"big mistake\" potentially leading to \"major legal trouble,\" while touting Trump's order as the \"biggest story ever.",
-      "Center-Leaning reports acknowledge \"backlash\" regarding distraction but also highlight potential \"scientific transparency.",
-      "A pivotal divide is the right's focus on Obama's alleged classified leak, often de-emphasizing his clarification, which left and center perspectives include.",
-      "All sides agree Trump ordered file releases due to \"tremendous interest\" and stated he doesn't know if aliens are real, revealing ideological divides in scrutinizing motives versus promoting political figures."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 47.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "United States",
-    "right_pct": 28.0,
-    "status": "ok",
-    "summary": [
-      "President Donald Trump on Thursday used Truth Social to order agency leaders to 'begin the process of identifying and releasing' government files on UAPs and UFOs, citing public interest.",
-      "Following viral remarks by Barack Obama on a podcast, reporters pressed Trump, who responded with a declassification order shortly after the Feb. 14 interview, amid renewed public interest.",
-      "The Pentagon has tracked UAPs for decades and created the All-Domain Anomaly Resolution Office; a 2024 assessment says no confirmed evidence of extraterrestrial technology exists.",
-      "Officials say it's unclear which records might be disclosed or how quickly any release would occur, and observers warn the announcement could intensify public and conspiracy theorists' interest in UAPs.",
-      "Officials say any systematic release would follow standard declassification review processes, which could occur around July 8, the Roswell anniversary, to prevent security risks."
-    ],
-    "title": "Trump orders agencies to identify and release government files on aliens",
-    "topic": "Extraterrestrial Life",
-    "topic_full": "Extraterrestrial Life · United States"
-  },
-  {
-    "article_path": "/article/dhs-will-suspend-tsa-precheck-and-global-entry-as-shutdown-continues_3a92e0",
-    "article_url": "https://ground.news/article/dhs-will-suspend-tsa-precheck-and-global-entry-as-shutdown-continues_3a92e0",
-    "bias": [
-      "Left-Leaning coverage frames the pause as an avoidable burden—using phrases like \"headaches for fliers,\" \"emergency measures,\" and \"pausing\"—emphasizing family inconvenience and political sacrifice, while right-leaning pieces stress security/operational priorities and assign blame to the opposing party, framing actions as \"prioritizing the general traveling population\" and noting \"suspends\" with a tougher tone; center outlets foreground timelines (6 a.m.",
-      "ET) and neutral sourcing.",
-      "Dividing lines include blame attribution and whether policy demands are highlighted or de-emphasized; all sides agree the pause is temporary and will slow travel ."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 67.0,
+    "bias_bar_text": "Left 31% Center 42% Right 27%",
+    "center_pct": 42.0,
     "error": null,
     "left_pct": 31.0,
-    "location": "United States",
-    "right_pct": 2.0,
-    "status": "ok",
-    "summary": [
-      "DHS announced it would pause TSA PreCheck and Global Entry starting Sunday at 6 a.m. ET, as reported by The Washington Post, due to a partial shutdown.",
-      "A partial DHS funding lapse began on Feb. 14 when congressional Democrats and President Donald Trump and White House negotiators failed to reach a deal over oversight of federal immigration officers and Democrats' demands following recent shootings.",
-      "TSA officers are expected to continue working without pay, and shortages could cause longer security lines, slower checked-luggage screening, and possible flight delays at some airports.",
-      "Because of separate funding streams, U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection will largely continue operations, while DHS suspends airport police escorts for members of Congress.",
-      "By contrast with last year's 43-day shutdown, TSA PreCheck and Global Entry are paused now, affecting roughly 13 percent of federal workers and risking delayed paychecks, with the first missed paycheck on March 3."
-    ],
-    "title": "DHS will suspend TSA PreCheck and Global Entry as shutdown continues",
-    "topic": "U.S. Department of Homeland Security (DHS)",
-    "topic_full": "U.S. Department of Homeland Security (DHS) · United States"
-  },
-  {
-    "article_path": "/article/trump-says-venezuelan-oil-is-already-on-its-way-and-will-be-fantastic-for-venezuela",
-    "article_url": "https://ground.news/article/trump-says-venezuelan-oil-is-already-on-its-way-and-will-be-fantastic-for-venezuela",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 60.0,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": "Houston",
-    "right_pct": 40.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Trump says 50 million barrels of Venezuelan oil are 'floating very nicely' to Houston",
-    "topic": "US Politics",
-    "topic_full": "US Politics · Houston"
-  },
-  {
-    "article_path": "/article/minnesota-bill-seeks-to-require-age-verification-for-adult-websites",
-    "article_url": "https://ground.news/article/minnesota-bill-seeks-to-require-age-verification-for-adult-websites",
-    "bias": [
-      "Center coverage neutrally reports a Minnesota bill seeking age verification for adult websites.",
-      "Right-Leaning outlets, however, frame the legislation as \"common sense\" and employ a positive tone, while pointedly questioning a \"Trans\" politician's opposition, implying a connection between identity and stance.",
-      "This specific focus on the \"Trans\" identity and detailed opposition is de-emphasized by center outlets, revealing a pivotal ideological dividing line.",
-      "Both perspectives agree on the bill's core aim to keep children off adult sites via 18+ age verification and acknowledge lawmaker questions on privacy.",
-      "These differences underscore a broader cultural clash between legislative process reporting and identity-driven political critiques."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 29.0,
-    "error": null,
-    "left_pct": null,
-    "location": "Minnesota",
-    "right_pct": 71.0,
-    "status": "ok",
-    "summary": [
-      "Minnesota lawmakers are considering House File 1434, a bill requiring certain adult websites to verify that users are 18 or older before accessing content.",
-      "The bill aims to bring the same age protections used in stores to the digital world where most adult content is consumed, as explained by Rep. Ben Bakeberg.",
-      "During hearings on February 19, lawmakers raised questions about privacy, enforcement, and potential uses of the law.",
-      "House File 1434 may be included in a larger omnibus bill later this session."
-    ],
-    "title": "Minnesota bill seeks to require age verification for adult websites",
-    "topic": "Minnesota Politics",
-    "topic_full": "Minnesota Politics · Minnesota"
-  },
-  {
-    "article_path": "/article/elon-musks-x-appeals-140m-eu-fine_ffebcd",
-    "article_url": "https://ground.news/article/elon-musks-x-appeals-140m-eu-fine_ffebcd",
-    "bias": [
-      "Left-Leaning coverage neutrally reports X 's appeal of a €120M EU fine, sometimes framing it as a \"point of no return\" in EU-Washington relations.",
-      "Right-Leaning outlets, however, employ highly charged language, portraying the EU's actions as \"speech controls\" and a \"SEVERE' THREAT TO FREE SPEECH,\" consistently labeling the penalty a \"censorship fine\" and the DSA a \"sweeping law\" for \"so-called misinformation.",
-      "Center-Leaning perspectives acknowledge the fine amount and X's appeal, but also highlight X's claims of a \"biased\" probe and frame the situation as a \"landmark case\" questioning regulation versus free speech.",
-      "While all agree on the appeal of the €120 million fine, the stark divergence reveals a fundamental ideological clash over governmental digital oversight and free expression."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 64.0,
-    "error": null,
-    "left_pct": 7.0,
-    "location": "Brussels",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "X, owned by Elon Musk , is appealing a €120 million fine imposed by the European Commission in a case that could influence online platform regulation across Europe.",
-      "The company submitted its appeal to the General Court of the European Union, contesting the penalty issued in December for alleged violations of the Digital Services Act.",
-      "X argues the decision followed an incomplete investigation, serious procedural errors, and misinterpretation of the DSA, claiming violations of due process and signs of prosecutorial bias."
-    ],
-    "title": "Elon Musk’s X appeals $140M EU fine",
-    "topic": "Elon Musk",
-    "topic_full": "Elon Musk · Brussels"
-  },
-  {
-    "article_path": "/article/trump-withdraws-endorsement-of-colorado-rep-jeff-hurd-over-tariffs_04627c",
-    "article_url": "https://ground.news/article/trump-withdraws-endorsement-of-colorado-rep-jeff-hurd-over-tariffs_04627c",
-    "bias": [
-      "Left-Leaning outlets frame Trump's endorsement withdrawal as an erratic act, using terms like \"Yanks\" and \"dust up,\" and contextualizing it with his broader reaction of \"lashing out\" after a Supreme Court ruling.",
-      "They emphasize the rare occurrence of such an action.",
-      "Right-Leaning coverage, conversely, portrays the lawmaker's move as a \"lack of support\" for the \"administration's tariff agenda,\" highlighting Trump's decisive authority and touting tariffs as \"unbelievably successful\" and making America \"Richer, Stronger.",
-      "Center-Leaning reports neutrally state Trump \"withdraws endorsement\" over tariffs, de-emphasizing emotional framing.",
-      "While all agree on the endorsement withdrawal over tariffs, the left focuses on executive temperament and the right on loyalty and policy success, revealing deep ideological splits over executive power and economic strategy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 20.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": "United States",
-    "right_pct": 60.0,
-    "status": "ok",
-    "summary": [
-      "President Donald Trump announced Saturday on Truth Social he is withdrawing his endorsement of Rep. Jeff Hurd and endorsing Hope Scheppelman, citing Hurd's vote on H.J.Res.72.",
-      "After Hurd's Feb. 11 vote to terminate tariffs, he supported H.J.Res.72, following a Supreme Court ruling striking down most of Trump's tariff authority.",
-      "Using Truth Social, Trump wrote that he is withdrawing his endorsement of Hurd and praised Scheppelman as a Navy veteran and nurse while calling Hurd a 'RINO' who 'let me and our Country down,' and added that 'HOPE WILL NEVER LET YOU DOWN.'",
-      "The president warned that any Republican voting against tariffs would face consequences and cited agricultural producers and the largest steel rail mill in the United States, both in the district.",
-      "Trump noted that he has rarely rescinded endorsements, saying he only withdrew support once before from Mo Brooks in 2022, while continuing to blame foreign interests for the Supreme Court tariff ruling."
-    ],
-    "title": "Trump Withdraws Endorsement of Colorado Rep. Jeff Hurd Over Tariff Vote",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/former-american-idol-contestant-charged-with-murder-staging-crime-scene-in-wifes-slaying-in-ohio",
-    "article_url": "https://ground.news/article/former-american-idol-contestant-charged-with-murder-staging-crime-scene-in-wifes-slaying-in-ohio",
-    "bias": [
-      "Left-Leaning outlets emphasize the alleged \"killing\" and the perpetrator's past affection, using terms like \"gushed over wife\" to highlight tragic irony and community impact.",
-      "Right-Leaning coverage, conversely, frames the event as \"murdering,\" expressing skepticism toward \"claiming\" a home invasion, and highlighting the victim as a \"Christian mom, teacher\" while noting the perpetrator's \"worship pastor\" background, often with a \"dark\" tone.",
-      "Center-Leaning reports uniquely mention the victim's pregnancy and the perpetrator's \"sobs\" on the 911 call, adding distinct emotional layers.",
-      "All perspectives agree on the arrest, murder charge, and the staged crime scene.",
-      "These divergences reveal underlying ideological priorities, from focusing on individual character and traditional values to exploring emotional narratives and broader societal impact."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 61.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "Ohio",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, February 16, 2026, police found Ashley Flynn dead at her Tipp City home, and Caleb Flynn was arrested on Thursday, February 19, 2026, accused of killing his wife, with a $2 million bond set.",
-      "Around 2:30 a.m., Flynn called 911 claiming a burglary and that his wife had been shot, while Tipp City Police found forced-entry signs and investigators allege scene staging using a garage fridge.",
-      "Investigators recovered two spent shell casings near the bed where Ashley Flynn was found, and authorities say she was shot with a 9mm handgun; a medical examiner's report is pending.",
-      "His lawyer, L. Patrick Mulligan, said the defense is concerned about the short timeline, while Tipp City Police Chief Greg Adkins defended the investigation pace, and the children are with Ashley's mother.",
-      "Local tributes and media coverage show the case has resonated across the Tipp City community and beyond, as Flynn's American Idol appearance and past role as a music pastor broaden public interest, Ashley Flynn was remembered as a beloved coach and volunteer."
-    ],
-    "title": "Former ‘American Idol’ contestant charged with murder, staging crime scene in wife’s slaying in Ohio",
-    "topic": "Ohio",
-    "topic_full": "Ohio · Ohio"
-  },
-  {
-    "article_path": "/article/trumps-half-smile-at-being-asked-about-an-imminent-attack-on-iran-i-could-say-im-studying-it",
-    "article_url": "https://ground.news/article/trumps-half-smile-at-being-asked-about-an-imminent-attack-on-iran-i-could-say-im-studying-it",
-    "bias": [
-      "Left-Leaning coverage frames the military deployment as Trump \"ready to hit\" Iran, emphasizing Jordan's \"fears\" of becoming a \"battleground\" and de-emphasizing the \"three times more than usual\" context for the \"60 U.S. military aircraft.",
-      "Conversely, right-leaning outlets portray the same deployment as the \"clearest sign yet\" of an \"imminent Iran strike,\" asserting \"60 Attack Planes Are Ready\" and that Trump is \"preparing,\" while also mentioning U.S. personnel evacuation from Qatar.",
-      "Center-Leaning reports note Trump's \"half smile\" and his \"considering\" \"limited military action\" for \"pressure.",
-      "All agree on the aircraft presence and escalating U.S.-Iran tensions, but diverge on the imminence of conflict and regional impact, reflecting ideological splits on foreign policy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "United States",
-    "right_pct": 50.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the United States military moved dozens of fighter jets to Muwaffaq al‑Salti Air Base in central Jordan, The New York Times reported based on satellite and flight data.",
-      "In context, analysts note the base serves as a key hub in U.S. preparations for potential strikes on Iran, with Jordanian officials saying the deployment is part of a defense agreement with the United States.",
-      "A CENTCOM live map showed 30 F-35s, 36 F-15s, more than 60 attack aircraft, at least 68 cargo planes since Sunday, and soldiers installing new air defenses on Friday.",
-      "Amman insists it will not allow its territory for attacks and Jordanian sources warned of economic and security risks despite non-involvement, while President Trump said on Friday he is considering a limited strike.",
-      "Over the past month, officials from Jordan, Saudi Arabia and the United Arab Emirates praised talks and said they barred attacks on Iran from their soil, while Mojtaba Zarei, Tehran MP, urged Jordanian forces to seize the base."
-    ],
-    "title": "US moves dozens of F-35, F-15 fighter jets to Jordanian airbase - report",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/us-wins-its-record-11th-gold-medal-at-the-winter-olympics",
-    "article_url": "https://ground.news/article/us-wins-its-record-11th-gold-medal-at-the-winter-olympics",
-    "bias": [
-      "While all coverage affirmed the U.S. winning its record 11th gold medal in mixed aerials, left-leaning outlets emphasized individual athlete performances and broader U.S. medal opportunities.",
-      "Right-Leaning reports, however, highlighted national exceptionalism with phrases like \"most gold medals ever,\" providing specific historical context of the 2002 Salt Lake City record.",
-      "Center-Leaning coverage balanced celebratory terms like \"dominating fashion\" with external competitive details, noting \"Crashes cost China.",
-      "This reveals a contrast between detailed athletic analysis and a focus on national pride, with center perspectives offering a broader competitive landscape, all agreeing on the core 11th gold medal achievement."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": "United States",
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "At the Milan Cortina 2026 on Saturday, the U.S. Olympic team won its 11th gold medal as Kaila Kuhn, Connor Curran, and Chris Lillis took the mixed aerials title.",
-      "A deeper U.S. roster helped, as Connor Curran, first-time Olympian noted among Team USA depth, competed this year with 38 more medal events than in 2002.",
-      "Posting a combined 325.35, the trio secured gold as Curran’s high scores included 120.36 and Lillis’s decisive 117.19 back double full-full-full.",
-      "The result raised Team USA’s overall medal haul to 30, with Norway earlier reaching 17 golds, and Team USA could still add more in Sunday’s men's hockey against Canada.",
-      "Chris Lillis now stands as back-to-back mixed aerials champion and returning 2022 team member, while Connor Curran was a late addition after Quinn Dehlinger’s knee injury, defending U.S. strength in mixed aerials."
-    ],
-    "title": "US wins its record 11th gold medal at the Winter Olympics",
-    "topic": "Olympics",
-    "topic_full": "Olympics · United States"
-  },
-  {
-    "article_path": "/article/us-military-airlifts-small-reactor-as-trump-pushes-to-quickly-deploy-n",
-    "article_url": "https://ground.news/article/us-military-airlifts-small-reactor-as-trump-pushes-to-quickly-deploy-n",
-    "bias": [
-      "Left-Leaning coverage frames the reactor airlift around \"Trump pushes to quickly deploy nuclear power ,\" employing terms like \"pushes\" and \"quickly\" to suggest a potentially hasty approach.",
-      "In stark contrast, right-leaning outlets celebrate \"Donald Trump Pushes Rapid Nuclear Expansion,\" portraying the event as a positive \"first\" and emphasizing \"quick deployment\" driven by \"artificial intelligence and data centers.",
-      "While both perspectives acknowledge the administration's nuclear energy drive, center-leaning reporting uniquely incorporates \"skeptics warn\" about microreactor risks, safety, and feasibility—a critical counterpoint de-emphasized by partisan coverage.",
-      "This reveals a core ideological divide: the left's caution regarding rapid technological implementation, the right's embrace of decisive action and innovation, and the center's inclusion of broader scrutiny."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "California",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "The U.S. military airlifted a small nuclear reactor from California to Utah, demonstrating the potential to quickly deploy nuclear power .",
-      "Energy Secretary Chris Wright and Undersecretary of Defense Michael Duffey hailed the flight as a breakthrough for fast-tracking commercial licensing of microreactors.",
-      "The reactor transported can generate 5 megawatts of electricity, enough to power 5,000 homes, but some safety concerns remain unaddressed, according to experts."
-    ],
-    "title": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power",
-    "topic": "Nuclear Power",
-    "topic_full": "Nuclear Power · California"
-  },
-  {
-    "article_path": "/article/new-mexico-launches-investigation-of-forced-sterilization-of-native-american-women_d21283",
-    "article_url": "https://ground.news/article/new-mexico-launches-investigation-of-forced-sterilization-of-native-american-women_d21283",
-    "bias": [
-      "Left-Leaning coverage immediately frames the investigation around \"forced sterilization\" of \" Native American women,\" emphasizing historical injustice and social justice concerns with terms like \"depriving.",
-      "Center-Leaning outlets maintain a neutral tone, sometimes posing contextual questions like \"Why did...\" and adding the concept of \"lasting harm.",
-      "Right-Leaning perspectives also acknowledge the \"troubling history\" but, alongside center coverage, explicitly detail the specific legislative approval and involved state departments, which left-leaning reports de-emphasize.",
-      "All perspectives consistently report \"thousands\" of women were affected without consent.",
-      "While the left prioritizes the systemic injustice, the center and right focus more on the governmental process.",
-      "Ultimately, all sides agree on the investigation into the 1970s sterilizations, revealing a shared concern over historical wrongs despite differing priorities in portrayal."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "New Mexico",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "New Mexico is set to investigate the troubling history and lasting harm of forced sterilizations of Native American women by the Indian Health Service in the 1970s.",
-      "The New Mexico Legislature approved a measure for state departments to examine the scope and impact of these coerced sterilizations on women of color.",
-      "Jean Whitehorse, a Native American woman, shares her experience of being sterilized without full consent after an emergency surgery in 1972 at age 22."
-    ],
-    "title": "New Mexico launches investigation of forced sterilization of Native American women",
-    "topic": "New Mexico Politics",
-    "topic_full": "New Mexico Politics · New Mexico"
-  },
-  {
-    "article_path": "/article/2-killed-7-wounded-in-a-street-shooting-after-a-fight-in-richmonds-entertainment-district_70e392",
-    "article_url": "https://ground.news/article/2-killed-7-wounded-in-a-street-shooting-after-a-fight-in-richmonds-entertainment-district_70e392",
-    "bias": [
-      "Left-Leaning coverage neutrally presents the \"2 killed, 7 wounded\" incident, uniquely highlighting \"multiple suspected shooters\" and ongoing investigation.",
-      "Right-Leaning coverage, conversely, employs sensational language like \"horror scenes\" and emphasizes a \"large crowd\" in an \"entertainment district,\" framing the event as urban disorder.",
-      "Center-Leaning outlets use \"mass shooting\" and identify an \"innocent bystander,\" providing specific details like the 2:45 a.m. timeline de-emphasized by the left.",
-      "While all perspectives agree on the basic casualty count and location, their distinct rhetorical tactics—from the left's focus on investigative complexity to the right's alarmist tone—reveal underlying ideological divides concerning crime , public safety, and societal breakdown."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 68.0,
-    "error": null,
-    "left_pct": 19.0,
-    "location": "Richmond",
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "Richmond Police Chief Rick Edwards said a shooting on North 18th Street killed two and wounded seven during a fight early Saturday in Shockoe Bottom.",
-      "A nearby birthday gathering in Shockoe Bottom preceded the shooting, police and local reports say, as people intervened in a street fight before shots were fired.",
-      "Police said there were at least two shooters, complicating the scene, while witnesses heard automatic-sounding gunfire and forensic teams collecting shell casings found cars struck by bullets.",
-      "Family identified the female victim as 23-year-old Genesis Jones, who had come from Petersburg to celebrate a birthday, while detectives review surveillance footage and urge tips to 804-780-1000 or Crime Stoppers.",
-      "Local media and the Associated Press continue reporting and seeking comment as the probe unfolds, with Edwards calling the incident \"frustrating\" and not confirming any arrests amid the ongoing investigation status."
-    ],
-    "title": "2 killed, 7 wounded in a street shooting after a fight in Richmond’s entertainment district",
-    "topic": "US Crime",
-    "topic_full": "US Crime · Richmond"
-  },
-  {
-    "article_path": "/article/ice-warehouse-purchases-spur-backlash-as-detention-expansion-moves-ahead_0e645c",
-    "article_url": "https://ground.news/article/ice-warehouse-purchases-spur-backlash-as-detention-expansion-moves-ahead_0e645c",
-    "bias": [
-      "Left-Leaning coverage frames ICE's warehouse purchases as controversial, highlighting owners \"backing out\" and the \"$128.6m\" cost, implying resistance and financial scrutiny.",
-      "Right-Leaning outlets emphasize \"Expansion\" for \"100,000 Beds\" in \"Deportation Centers,\" portraying the process as secretive, occurring \"in the ‘Dark’\" and without \"warning,\" often citing \"moral inflection points\" from religious leaders.",
-      "Center-Leaning reports maintain a neutral tone, focusing on factual transactions.",
-      "While all acknowledge ICE's $45 billion expansion and community \"pushback,\" the stark contrast reveals ideological divides over immigration enforcement, government transparency, and the moral implications of detention."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 48.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "United States",
+    "location": null,
     "right_pct": 27.0,
     "status": "ok",
     "summary": [
-      "ICE is purchasing warehouses, but some owners are backing out of deals due to lack of prior notification to communities.",
-      "Local officials were not informed before ICE purchased a warehouse in Surprise, Arizona for $70 million to retrofit into a 1,500-bed processing site.",
-      "After raising concerns, the owner of a warehouse in Merrillville sent a letter stating it is not negotiating with federal officials for the property."
+      "In Tapalpa, Jalisco, the Mexican Defense Ministry announced that `El Mencho` was wounded during an operation Sunday and died while being air transported to Mexico City for treatment.",
+      "Nemesio Rubén Oseguera Cervantes, known as 'El Mencho,' led the Jalisco New Generation Cartel and faced U.S. charges with a $15 million reward for his arrest.",
+      "Special forces launched an operation in Tapalpa, supported by air assets and intelligence, seizing armoured vehicles and rocket launchers, and arresting two suspects.",
+      "Videos showed roadblocks and burning vehicles across at least eight states, while Jalisco Gov. Pablo Lemus Navarro urged roughly 8 million residents to stay home and suspend transport.",
+      "Analysts called the killing one of the biggest blows to Mexico's cartels in more than a decade, the government said it effectively decapitates a powerful cartel amid Trump administration pressure, and U.S. intelligence helped amid chaos in Guadalajara, Mexico."
     ],
-    "title": "ICE Warehouse Purchases Spur Backlash as Detention Expansion Moves Ahead",
-    "topic": "Immigration and Customs Enforcement",
-    "topic_full": "Immigration and Customs Enforcement · United States"
-  },
-  {
-    "article_path": "/article/missives-from-former-dean-of-pepperdine-law-school-to-jeffrey-epstein-resurface-in-release-of-documents",
-    "article_url": "https://ground.news/article/missives-from-former-dean-of-pepperdine-law-school-to-jeffrey-epstein-resurface-in-release-of-documents",
-    "bias": [
-      "Left-Leaning coverage de-emphasizes the specific origin of documents, generally reporting Ghislaine Maxwell 's legal challenge to a \"disclosure law.",
-      "Conversely, center and right-leaning outlets explicitly frame the documents as stemming from a \"civil defamation lawsuit brought... by Jeffrey Epstein victim Virginia Giuffre.",
-      "While all perspectives agree Maxwell's lawyers are \"fighting release\" and describe her as an \"imprisoned British socialite\" and Epstein as a \"disgraced financier,\" the center and right's inclusion of \"Jeffrey Epstein victim Virginia Giuffre\" adds a specific, emotionally resonant context.",
-      "This pivotal dividing line reveals a contrast between focusing on the legal process versus emphasizing the victim's role, connecting to broader ideological priorities."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "United States",
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "Ghislaine Maxwell 's lawyers are fighting the release of 90,000 pages related to Jeffrey Epstein and her, arguing that the law compelling disclosure is unconstitutional.",
-      "Maxwell's attorneys say the documents, including depositions and private information, were improperly obtained during the criminal probe against her.",
-      "The release of Epstein-related documents has led to new revelations about his decades-long sexual abuse, with some victims' names revealed while abusers' names were redacted."
-    ],
-    "title": "Ghislaine Maxwell fights release of more Epstein documents, calling disclosure law unconstitutional",
-    "topic": "Ghislaine Maxwell",
-    "topic_full": "Ghislaine Maxwell · United States"
-  },
-  {
-    "article_path": "/article/blizzard-warnings-issued-for-new-york-city-new-jersey-connecticut-as-storm-threatens-east-coast_c0d0cb",
-    "article_url": "https://ground.news/article/blizzard-warnings-issued-for-new-york-city-new-jersey-connecticut-as-storm-threatens-east-coast_c0d0cb",
-    "bias": [
-      "Left-Leaning coverage foregrounds community impacts and municipal prep—using terms like \"massive,\" \"blockbuster,\" and emphasizing \"impossible driving conditions\" and outreach to vulnerable people—while right-leaning pieces stress blunt urgency and disruption with words like \"wallop,\" \"brace,\" and \"near blizzard conditions,\" spotlighting severity and rarity; a key divide is whether stories center human services and local operational specifics or meteoro­logical drama and historical rarity.",
-      "Center pieces lean technical and measured.",
-      "Both sides cite NWS forecasts , reflecting shared concern tied to broader ideological priorities about public safety versus alarm framing."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 36.0,
-    "location": "New York",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, the National Weather Service issued blizzard warnings covering New York City, Long Island, southern Connecticut, coastal New Jersey and Delaware from 6 a.m. Sunday to 6 p.m. Monday.",
-      "Forecasters say the nor'easter will strengthen rapidly offshore, producing heavy snowfall rates as forecast models shifted closer to the coast, raising confidence in a more intense storm.",
-      "Forecast details show heavy snow, gusts up to 55 mph, and over 2,500 cancellations, with New York City expecting 13–18 inches of snow and whiteout conditions.",
-      "Officials urged emergency-only travel; Mayor Zohran Mamdani advised residents to 'stay off the roads unless absolutely necessary' and said, 'If you can stay home, stay home,' as city agencies mobilize salt spreaders and snow plows on Saturday.",
-      "For context, New York City hasn't seen a blizzard warning like this in nearly a decade, arriving after five consecutive snowy weekends and 22.3 inches of seasonal snowfall, threatening Monday's school return."
-    ],
-    "title": "Blizzard warnings issued for New York City, New Jersey, Connecticut as storm threatens East Coast",
-    "topic": "Winter Storm",
-    "topic_full": "Winter Storm · New York"
-  },
-  {
-    "article_path": "/article/us-intelligence-agencies-tie-chinese-explosive-test-to-push-for-a-completely-new-nuclear-arsenal_c9a63b",
-    "article_url": "https://ground.news/article/us-intelligence-agencies-tie-chinese-explosive-test-to-push-for-a-completely-new-nuclear-arsenal_c9a63b",
-    "bias": [
-      "Left-Leaning coverage frames China's nuclear development as a dangerous \"race for nuclear superiority,\" emphasizing a \"push for a completely new nuclear arsenal\" and \"secretly tested\" weapons, often linking it to the US-Russia treaty expiration and citing specific expansion targets like \"600 to 1500 by 2035.",
-      "Conversely, right-leaning outlets portray China's \"secret nuclear weapons test\" as an aggressive threat, highlighting a State Department official's confirmation that the US \"will return to nuclear testing.",
-      "While both acknowledge US intelligence on China's \"covert explosive test,\" center-leaning reports maintain a descriptive tone, noting the assessment is \"fueling debate within\" without the left's focus on arms control or the right's emphasis on a US counter-response.",
-      "This reveals a fundamental divide between advocating for de-escalation versus a robust, potentially confrontational, defense posture."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 62.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "United States",
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "On February 22, 2026, U.S. intelligence agencies assessed China conducted a covert explosive test on June 22, 2020, at the Lop Nur test site as part of nuclear arsenal modernization.",
-      "Reliability concerns and modernization efforts drove Chinese weapons designers to resume testing, as China’s nuclear testing history of about 45 tests left data gaps for next‑generation and low‑yield tactical nuclear weapons .",
-      "Assistant Secretary of State Christopher Yeaw said seismic records showed a magnitude 2.75 explosion long ago and analysts cited decoupling and the Comprehensive Test Ban Treaty Organization's inconclusive findings.",
-      "The U.S. officials framed the disclosure as a diplomatic lever ahead of the upcoming trip, while the Chinese Embassy in Washington said the U.S. had distorted China's policy.",
-      "Pentagon officials warn China's nuclear expansion could strain U.S. strategic forces and allies, raising questions about deterrence across two theatres as President Donald Trump suggests resuming explosive testing."
-    ],
-    "title": "US intelligence agencies tie Chinese explosive test to push for a completely new nuclear arsenal",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/crews-recover-bodies-of-9-backcountry-skiers-days-after-california-avalanche_7113c5",
-    "article_url": "https://ground.news/article/crews-recover-bodies-of-9-backcountry-skiers-days-after-california-avalanche_7113c5",
-    "bias": [
-      "Left-Leaning coverage emphasizes the \"devastating avalanche \" and \"harrowing operation,\" focusing on the immediate tragedy.",
-      "Center perspectives provide specific victim demographics, like a \"group of moms,\" and explicitly label it the \"worst avalanche in state history,\" evoking a tone of \"grieving\" and \"catastrophe.",
-      "Right-Leaning outlets broaden the narrative to a \"deadly week\" on California slopes, framing the event as among the \"deadliest avalanche incidents.",
-      "While all agree on the recovery of nine skiers amid challenging conditions, the perspectives diverge on contextualizing the tragedy—as an isolated event versus a broader pattern of fatalities—and the depth of human-interest detail provided."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 45.0,
-    "error": null,
-    "left_pct": 38.0,
-    "location": "California",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, crews recovered the bodies of nine backcountry skiers, completing the recovery four days after Tuesday's avalanche near Castle Peak, Lake Tahoe.",
-      "Brutal weather and avalanche risk forced officials to pause recovery for several days due to heavy snow and the threat of more avalanches, with officials using water on Friday for avalanche mitigation by breaking up unstable snowpack.",
-      "A Black Hawk helicopter supported the effort Saturday, hovering around Frog Lake for just under 90 minutes as multiple agencies, including California Highway Patrol air operations and Nevada County Sheriff's search and rescue, assisted.",
-      "Six others on the trip survived, and officials called it the deadliest U.S. avalanche since 1981, with six women who were close friends and three professional guides among the dead.",
-      "A temporary flight restriction was extended to 5 p.m. Sunday, and the Nevada County Sheriff's Department said the victim recovery effort remains ongoing ahead of a 1 p.m. news conference."
-    ],
-    "title": "Crews recover bodies of 9 backcountry skiers days after California avalanche",
-    "topic": "Avalanche",
-    "topic_full": "Avalanche · California"
-  },
-  {
-    "article_path": "/article/kansas-republicans-override-governors-veto-of-anti-trans-bill",
-    "article_url": "https://ground.news/article/kansas-republicans-override-governors-veto-of-anti-trans-bill",
-    "bias": [
-      "Left-Leaning outlets frame the Kansas bill as \"Anti-Trans,\" emphasizing its negative impact on \"gender markers on IDs\" and portraying it as discriminatory.",
-      "Right-Leaning coverage, conversely, highlights the bill as protecting \"women’s bathrooms\" and ensuring \"privacy protections for women and girls,\" often using terms like \"leftist governor\" and dismissing \"self-proclaimed 'gender identity'\" while detailing specific vote counts as a victory.",
-      "Center-Leaning coverage attributes strong opinions, such as \"'An attack on the LGBT+ community',\" alongside neutral descriptions of the bill's changes.",
-      "A pivotal divide lies in characterizing transgender identity and the governor's veto, which the right frames as a political \"win.",
-      "All perspectives agree on the veto override and the bill's changes for transgender Kansans regarding restroom access, reflecting broader ideological clashes over gender and individual rights."
-    ],
-    "bias_bar_text": "8% 9% Right 83%",
-    "center_pct": 9.0,
-    "error": null,
-    "left_pct": 8.0,
-    "location": null,
-    "right_pct": 83.0,
-    "status": "ok",
-    "summary": [
-      "Kansas lawmakers overrode the veto of Gov. Laura Kelly , allowing SB 244 to become law.",
-      "The law requires individuals in Kansas government buildings to use multi-occupancy bathrooms that correspond to their biological sex at birth and sets civil and criminal penalties for violations.",
-      "The measure also directs state agencies to invalidate and reissue driver’s licenses and birth certificates to reflect a person’s sex at birth, nullifying previously changed gender markers."
-    ],
-    "title": "Kansas Legislature Overrides Governor’s Veto on Gender Identity Bill",
+    "title": "Mexican Army Kills 'El Mencho,' Leader of Jalisco Cartel",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/employers-expand-paid-caregiving-leave-as-workforce-ages",
-    "article_url": "https://ground.news/article/employers-expand-paid-caregiving-leave-as-workforce-ages",
-    "bias": null,
-    "bias_bar_text": "Left 54% Center 46%",
-    "center_pct": 46.0,
-    "error": null,
-    "left_pct": 54.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "Employers are expanding paid caregiving leave, with typical durations of two to six weeks and some offering up to 12 weeks, according to Meghan Pistritto, vice president at Prudential Financial.",
-      "More than 63 million Americans provide adult family care while holding paid jobs, and average caregivers spend about six hours daily in roles lasting about six years.",
-      "Employers are adding counseling, backup care and care-concierge services, while caregivers rely on home monitoring technology like cameras and motion detectors to balance work and care.",
-      "Providing paid caregiving leave lets employees take targeted days off instead of using vacation time, while lack of support causes family caregivers to quit, reducing their income and employer productivity.",
-      "Despite employer moves, federal and state rules create a patchwork of coverage, as the Family and Medical Leave Act offers up to 12 weeks unpaid leave, with many workers still lacking paid options."
+    "article_path": "/article/arab-and-muslim-nations-respond-to-us-envoys-statement-on-israels-claim-to-regional-land",
+    "article_url": "https://ground.news/article/arab-and-muslim-nations-respond-to-us-envoys-statement-on-israels-claim-to-regional-land",
+    "bias": [
+      "Left-Leaning outlets frame the ambassador's remarks as \"deranged\" and igniting an \"international firestorm,\" emphasizing \"expansionism\" and using terms like \"slam\" to highlight intense condemnation.",
+      "Right-Leaning coverage, conversely, portrays the event as a \"Biblical Debate,\" downplaying criticism as \"Provokes Pushback\" based on \"partial remarks,\" and includes the ambassador's clarification about no expansionist intent.",
+      "Center-Leaning reports detail the \"antisemitism clash\" and specific biblical territory, often using \"slam\" to describe nations' reactions without editorializing the remarks themselves.",
+      "While all acknowledge numerous Arab and Islamic states condemned the comments, the left stresses the inflammatory nature, while the right suggests misinterpretation.",
+      "These divergent portrayals underscore fundamental ideological divides concerning Israeli sovereignty and regional diplomacy."
     ],
-    "title": "Employers Expand Paid Caregiving Leave as Workforce Ages",
+    "bias_bar_text": "L 21% Center 35% Right 44%",
+    "center_pct": 35.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": null,
+    "right_pct": 44.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, the foreign ministers of Arab and Islamic countries and three regional organisations jointly condemned U.S. Ambassador Mike Huckabee 's Friday interview remarks, including his line, `It would be fine if they took it all.`",
+      "On Friday, Carlson pressed Huckabee about a biblical passage describing land from the Nile to the Euphrates, with Huckabee answering within the Christian Zionist framework.",
+      "Foreign ministers from 14 countries and three organisations called Huckabee's remarks \"dangerous and inflammatory,\" said they violated international law, and reaffirmed Israel has no sovereignty over the Occupied Palestinian Territory.",
+      "Several Arab and Islamic governments demanded clarification after a U.S. Embassy spokesperson said Huckabee's comments were taken out of context and Iran's Foreign Ministry accused the U.S. of revealing \"American active complicity.\"",
+      "Amid ongoing disputes over West Bank and Gaza, ministers warned such rhetoric risks inflaming violence and undermining de-escalation ahead of upcoming U.S.-Iran talks in Geneva on Thursday."
+    ],
+    "title": "Arab and Muslim Nations Respond to U.S. Envoy’s Statement on Israel’s Claim to Regional Land",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/nasa-moon-rocket-hit-by-new-problem-expected-to-bump-astronauts-lunar-trip-into-april_f5d10c",
-    "article_url": "https://ground.news/article/nasa-moon-rocket-hit-by-new-problem-expected-to-bump-astronauts-lunar-trip-into-april_f5d10c",
+    "article_path": "/article/fbi-director-kash-patel-celebrates-with-usa-mens-hockey-team-after-gold-medal-win_0e5156",
+    "article_url": "https://ground.news/article/fbi-director-kash-patel-celebrates-with-usa-mens-hockey-team-after-gold-medal-win_0e5156",
     "bias": [
-      "Left-Leaning coverage frames the helium interruption as a human-centered \"setback\" that heightens safety and program reliability concerns, using phrases like \"plagued\" and focusing on crew welfare and technical caution; right-leaning pieces emphasize contractor and management blame, invoking \"failure,\" \"problem,\" and market or industrial risks tied to Boeing/Northrop Grumman.",
-      "Center reporting is process-focused and de-emphasized partisan angles, sticking to \"rollback\" and timeline impacts.",
-      "Pivotal divides include whether the incident signals systemic mismanagement versus prudent safety protocol; all sides agree on the helium interruption, rollback to the VAB, and the March window being ruled out."
+      "Left-Leaning coverage frames Kash Patel 's celebration with Team USA as a controversial misuse of resources, emphasizing \"backlash\" and how he \"undercuts\" the FBI regarding his jet travel, using terms like \"fierce scrutiny.",
+      "Right-Leaning outlets, conversely, portray it as a positive, \"epic run\" celebration, using terms like \"parties\" and \"Got Turnt With The Boys,\" while dismissing critics as \"Fake News Media Attacks.",
+      "Center-Leaning reports neutrally inquire \"Why\" he celebrated, noting a \"fraught and frenetic time.",
+      "While all agree Patel celebrated with the team after their 2-1 gold medal win, the left de-emphasizes the Mar-a-Lago incident, which the right and center include.",
+      "This highlights a fundamental divide between official accountability and nationalistic celebration."
     ],
     "bias_bar_text": null,
     "center_pct": 52.0,
     "error": null,
-    "left_pct": 31.0,
+    "left_pct": 24.0,
     "location": "United States",
-    "right_pct": 17.0,
+    "right_pct": 24.0,
     "status": "ok",
     "summary": [
-      "NASA delayed the Artemis II mission after a problem with helium flow to the rocket’s upper stage interrupted operations. Helium is needed to purge engines and pressurize fuel tanks.",
-      "The mission, which would mark humanity’s first crewed flight to the moon in over 50 years, is now delayed until at least April after previously targeting March 6.",
-      "Officials clarified that the helium issue is unrelated to the earlier hydrogen fuel leaks that disrupted testing of the Space Launch System rocket."
+      "On Sunday, February 22, 2026, FBI Director Kash Patel attended the Olympic final and celebrated in the U.S. men's hockey team locker room after their 2-1 overtime victory.",
+      "On Thursday, Patel flew to the Milan Cortina Games on the FBI Gulfstream jet, a trip estimated to cost $75,000, FBI spokesperson Ben Williamson said it included meetings with Italian law enforcement and the U.S. consulate.",
+      "Patel posted four photos from the win on X and Instagram, writing `Unity, Sacrifice, Attitude- what it takes to be the best in the world`, while viral clips showed him drinking with players on Dylan Larkin's Instagram Live.",
+      "Critics renewed questions about Patel's past use of agency jets and personal travel, while the FBI did not respond to a Sunday comment request and Ben Williamson called NBC's theory 'false'.",
+      "Questions about agency travel policy and oversight have resurfaced following Patel's Milan trip, the first Olympic visit by an active FBI director since Robert Mueller in 2003, amid other high-profile cases."
     ],
-    "title": "NASA delays astronaut moon mission again after new rocket problem",
-    "topic": "NASA",
-    "topic_full": "NASA · United States"
+    "title": "FBI Director Kash Patel celebrates with USA men's hockey team after gold medal win",
+    "topic": "Olympics",
+    "topic_full": "Olympics · United States"
   },
   {
-    "article_path": "/article/white-house-dinner-ends-early-amid-partisan-tensions-and-supreme-court-ruling_d1e627",
-    "article_url": "https://ground.news/article/white-house-dinner-ends-early-amid-partisan-tensions-and-supreme-court-ruling_d1e627",
+    "article_path": "/article/shelter-in-place-advised-for-us-citizens-in-parts-of-mexico-after-cartel-leader-was-killed",
+    "article_url": "https://ground.news/article/shelter-in-place-advised-for-us-citizens-in-parts-of-mexico-after-cartel-leader-was-killed",
     "bias": [
-      "While all perspectives acknowledged a \"turbulent week\" culminating in the annual governors' dinner, left-leaning coverage focused on President Trump \"mocking\" leaders and \"rage-posted\" comments, employing critical language.",
-      "Center outlets similarly highlighted \"unusually controversial\" aspects, uniquely detailing a Supreme Court ruling and Trump reversing course on blocking governors.",
-      "Conversely, right-leaning narratives de-emphasized controversies, instead \"touting admin. wins\" and celebrating a \"stunning violin performance\" with positive, supportive tones.",
-      "These distinct portrayals, from critical accusations to celebratory affirmations, reveal deep ideological divides over leadership and government actions, despite agreement on the event's occurrence."
+      "Left-Leaning coverage emphasizes the alert's precise scope, citing \"five Mexican states\" and official confirmation from Mexican authorities, framing the situation as \"fallout\" from a killing.",
+      "In stark contrast, right-leaning outlets employ alarmist rhetoric, asserting \"widespread cartel violence erupted\" and that El Mencho's death \"Sparks\" this instability, highlighting foreign threats and citizen vulnerability.",
+      "Center-Leaning reports focus on descriptive details, mentioning specific locations like Puerto Vallarta, without the left's official verification or the right's immediate attribution of widespread chaos.",
+      "All perspectives agree on the core U.S. advisory following the cartel leader's death, yet their distinct emotional tones and chosen details reveal differing priorities regarding security, precision, and the portrayal of foreign instability."
     ],
     "bias_bar_text": null,
-    "center_pct": 34.0,
+    "center_pct": 70.0,
     "error": null,
-    "left_pct": 57.0,
-    "location": "Washington",
-    "right_pct": 9.0,
+    "left_pct": 18.0,
+    "location": "Mexico",
+    "right_pct": 12.0,
     "status": "ok",
     "summary": [
-      "Friday's governors' meeting at the White House proceeded without National Governors Association facilitation as the NGA pulled out of its annual event.",
-      "Mediation efforts by Kevin Stitt, Republican governor of Oklahoma and NGA chair, failed after Trump refused to include Democratic governors Jared Polis and Wes Moore, blasting Stitt as a \"RINO\" last week.",
-      "Moore said `I didn't run for governor like, man, I can't wait so me and the president can go toe to toe` during the gathering, highlighting his stance.",
-      "The pullout undercuts one of Washington's few bipartisan gatherings, and governors criticized the administration's expanding power and the Republican-controlled Congress's inaction.",
-      "Presidential buzz grew around which governors might run in 2028 as potential 2028 contenders were discussed, while Gov. Andy Beshear of Kentucky said his focus this year remains on Kentucky."
+      "On Feb. 22, the U.S. State Department warned U.S. citizens in Jalisco, Tamaulipas, Michoacán, Guerrero and Nuevo León to shelter in place amid security concerns.",
+      "In Tapalpa, Jalisco, Mexican forces wounded Nemesio Rubén Oseguera Cervantes, leader of the Jalisco New Generation Cartel, who died while being flown to Mexico City, the Ministry of National Defense confirmed.",
+      "Roadblocks and arson erupted as roadblocks and burning vehicles spread across Jalisco state, while social media images and videos showed smoke over Puerto Vallarta and travelers sprinting through airports.",
+      "Puerto Vallarta International Airport said airlines suspended operations, and the airport is under protection of the National Guard and Defense, urging travelers to follow staff instructions.",
+      "The DEA warns, the cartel operates in all 50 U.S. states, using drone and helicopter tactics while trafficking fentanyl and cocaine."
     ],
-    "title": "White House Dinner Ends Early Amid Partisan Tensions and Supreme Court Ruling",
-    "topic": "White House",
-    "topic_full": "White House · Washington"
+    "title": "US State Department Urges US Citizens to Stay Safe in Jalisco After El Mencho Killing",
+    "topic": "US Foreign Policy",
+    "topic_full": "US Foreign Policy · Mexico"
   },
   {
-    "article_path": "/article/us-ambassador-huckabee-cites-biblical-claim-supporting-israels-regional-expansion_abc9c0",
-    "article_url": "https://ground.news/article/us-ambassador-huckabee-cites-biblical-claim-supporting-israels-regional-expansion_abc9c0",
+    "article_path": "/article/newsom-says-his-family-will-determine-whether-he-runs-for-president_21e5d6",
+    "article_url": "https://ground.news/article/newsom-says-his-family-will-determine-whether-he-runs-for-president_21e5d6",
     "bias": [
-      "Left-Leaning coverage emphasizes the \"uproar\" and \"sharp condemnation\" of the ambassador's \"provocative\" statements, often using terms like \"claiming\" to question legitimacy and \"took over\" to suggest aggression.",
-      "Right-Leaning outlets, conversely, frame the remarks as a defense of Israel 's \"biblical right\" to land, employing phrases like \"God, through Abraham, gave\" and highlighting the ambassador's pushback against \"misrepresentations.",
-      "Center-Leaning reports acknowledge the \"uproar\" but also include the ambassador's clarifications regarding territorial expansion.",
-      "The \"biblical right\" justification and the portrayal of the interviewer's role serve as pivotal dividing lines, revealing deep ideological and geopolitical splits, though all perspectives acknowledge the controversy generated."
+      "Left-Leaning coverage frames Newsom's son's opposition as one of \"five reasons\" for not running, maintaining a neutral tone.",
+      "Conversely, right-leaning outlets portray family sentiment as the \"only thing\" hindering him, employing highly critical language like \"busted\" and \"Steps on Multiple Rakes\" to undermine his prospects and characterizing interviews as \"softball.",
+      "Center-Leaning reports, while generally neutral, include economic critiques like \"high inflation\" and explicitly link his book tour to a presidential run, a detail de-emphasized by the left.",
+      "All agree on his potential 2028 candidacy and the family's role, revealing ideological divides in assessing Democratic figures."
     ],
     "bias_bar_text": null,
-    "center_pct": 41.0,
+    "center_pct": 43.0,
     "error": null,
-    "left_pct": 32.0,
-    "location": "United States",
-    "right_pct": 27.0,
+    "left_pct": 14.0,
+    "location": "California",
+    "right_pct": 43.0,
     "status": "ok",
     "summary": [
-      "During an appearance on The Tucker Carlson Show on Saturday, February 21, 2026, U.S. Ambassador Mike Huckabee said Israel has a biblical right to much of the Middle East and stated `It would be fine if they took it all`.",
-      "Appealing to Genesis 15, Huckabee cited a biblical promise of land from the Nile to the Euphrates, reflecting a long-standing support for Israel's territorial claims.",
-      "Huckabee responded `It would be fine if they took it all` then clarified Israel's right to security in land it legitimately holds, referencing Genesis 15.",
-      "The Palestinian Foreign Ministry said the remarks contradict international law and U.S. policy, while Egypt's foreign ministry, Jordan, the Organization of Islamic Cooperation and the League of Arab States condemned them as extremist; CNN sought State Department comment with no immediate U.S. or Israeli response.",
-      "Historically and legally, 1967 gains and an ICJ ruling frame why these remarks matter as they mark an unprecedented U.S. departure and echo the Greater Israel concept."
+      "While promoting his memoir in Nashville, Gavin Newsom told CNN his decision about 2028 will be made `as a family` and `as a unit.`",
+      "Recalling a private text exchange, Newsom said one son urged him, `You need to spend more time with us,` and he added the choice `depends on the day` with his wife and four children.",
+      "A University of New Hampshire Survey Center poll released Thursday showed Newsom as a potential 2028 contender, with Harris and Kelly at 10%.",
+      "His continued ambiguity keeps the 2028 picture unsettled, as Newsom was vague about facing former Vice President Kamala Harris and said, `You know, fate will determine that,` while his memoir tour fuels speculation.",
+      "Drawing on his memoir, Newsom said `You only can control what you can control,` and described the decision as a partnership involving his children, stressing family unity."
     ],
-    "title": "US Ambassador Huckabee Cites Biblical Claim Supporting Israel’s Regional Expansion",
+    "title": "Newsom Says His Family Will Determine Whether He Runs for President",
+    "topic": "Gavin Newsom",
+    "topic_full": "Gavin Newsom · California"
+  },
+  {
+    "article_path": "/article/new-york-mayor-orders-citywide-travel-ban-ahead-of-major-storm",
+    "article_url": "https://ground.news/article/new-york-mayor-orders-citywide-travel-ban-ahead-of-major-storm",
+    "bias": [
+      "Left-Leaning outlets emphasize the storm's severity, using terms like \"violent snowstorm\" and \"biggest of the last decade\" to frame the travel ban as a necessary public safety measure, while de-emphasizing the Mayor's name and exemptions.",
+      "Right-Leaning coverage, conversely, highlights governmental control through terms like \"bans\" and \"orders,\" subtly questioning the imposition on individual liberty.",
+      "Center-Leaning reports remain neutral, providing specific details like \"24 inches\" of snow and the Mayor's full name.",
+      "All perspectives agree on the travel ban and state of emergency , revealing a fundamental ideological divide between prioritizing collective safety and scrutinizing state power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 45.0,
+    "error": null,
+    "left_pct": 34.0,
+    "location": "New York",
+    "right_pct": 21.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, New York City Mayor Zohran Mamdani ordered a city-wide travel ban and declared a State of Emergency for all five boroughs from 9 p.m. Sunday to noon Monday, with New York City Public Schools observing a full snow day Monday.",
+      "Meteorologists warn a fast-developing storm will threaten the U.S. East Coast beginning Sunday, with total accumulations of 18 to 24 inches and peak snowfall from 7 p.m. Sunday to noon Monday.",
+      "With over eight million residents, New York City faces widespread disruption as blizzard warnings cover Long Island, New Jersey, and coastal Connecticut along the I-95 corridor; New Jersey Governor Mikie Sherrill declared a state of emergency beginning midday Sunday.",
+      "The order exempts essential and emergency workers; enforcement begins at 9 p.m. Sunday, restricting nearly all surface transport during the ban, the mayor said.",
+      "The emergency declarations will mobilize resource mobilization and emergency coordination after a late-January mega-storm linked to more than 100 deaths, with city officials warning it `has not faced a storm of this scale in the last decade`."
+    ],
+    "title": "Zohran Mamdani declares NYC emergency, bans all travel during blizzard threatening city",
+    "topic": "Zohran Mamdani",
+    "topic_full": "Zohran Mamdani · New York"
+  },
+  {
+    "article_path": "/article/billionaire-investor-funnels-us-pension-money-into-chinas-ai-sector-wsj-reports",
+    "article_url": "https://ground.news/article/billionaire-investor-funnels-us-pension-money-into-chinas-ai-sector-wsj-reports",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 100.0,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": "China",
+    "right_pct": null,
+    "status": "fail",
+    "summary": null,
+    "title": "Billionaire Investor Funnels US Pension Money into China's AI Sector, WSJ Reports",
+    "topic": "Investing",
+    "topic_full": "Investing · China"
+  },
+  {
+    "article_path": "/article/russia-signals-nuclear-response-if-estonia-hosts-nato-weapons_92f613",
+    "article_url": "https://ground.news/article/russia-signals-nuclear-response-if-estonia-hosts-nato-weapons_92f613",
+    "bias": [
+      "Left-Leaning coverage frames Russia's nuclear statements with alarm, employing terms like \"chilling WW3 warning\" and \"raves,\" focusing on escalation dangers.",
+      "Right-Leaning reports similarly use \"chilling WW3 warning\" but also highlight Putin's \"pledges to strengthen\" forces, emphasizing national security and military might.",
+      "Center-Leaning coverage remains neutral, using \"signals\" or \"top priority\" without emotional framing.",
+      "A pivotal divergence involves Estonia's openness to hosting nuclear weapons ; left-leaning reports de-emphasize this context, while center and right explicitly link it to Russia's threat.",
+      "All perspectives agree Putin declared nuclear forces an \"absolute priority\" and Russia issued a warning regarding Estonia, reflecting shared geopolitical concerns despite differing ideological lenses."
+    ],
+    "bias_bar_text": "L 20% C 20% Right 60%",
+    "center_pct": 20.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": null,
+    "right_pct": 60.0,
+    "status": "ok",
+    "summary": [
+      "President Vladimir Putin declared Sunday that developing Russia’s nuclear forces is now an `absolute priority`, ahead of the Russia-Ukraine war’s fourth anniversary.",
+      "Earlier this month, the New START agreement expired, leaving Moscow and Washington, the world’s two main nuclear powers, unbound by any arms-control pact.",
+      "Declaring force upgrades, Putin said he would keep strengthening the army and navy and improve all branches’ combat readiness, mobility, and ability to operate in difficult conditions, drawing on experience from the nearly four-year Ukraine conflict.",
+      "Despite the shift, Russia pledged to continue a `responsible` approach to strategic nuclear capability and respect limits on its arsenal.",
+      "On the holiday, Putin spoke on Russia’s Defender of the Fatherland Day, just two days before the fourth anniversary of Russia’s 2022 assault on Ukraine."
+    ],
+    "title": "Putin says developing Russia’s nuclear forces ‘absolute priority’",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/vancouver-airport-ties-nexus-outage-to-us-partial-government-shutdown",
+    "article_url": "https://ground.news/article/vancouver-airport-ties-nexus-outage-to-us-partial-government-shutdown",
+    "bias": [
+      "While all perspectives acknowledge the NEXUS program's suspension due to a U.S. government shutdown, left-leaning coverage consistently frames this as a failure, frequently using \"blamed for\" and emotionally charged language like \"fiscal paralysis,\" often highlighting official Canadian confirmation.",
+      "Right-Leaning outlets also attribute blame, using \"blamed on,\" but broaden the scope by mentioning additional affected airports, de-emphasizing other official corroboration.",
+      "Center-Leaning reports, however, prioritize the practical impact, advising travelers to \"prepare for longer lines.",
+      "This divergence reveals how the left emphasizes systemic governance failures, the right focuses on the broader disruption, and the center on public inconvenience, reflecting distinct ideological priorities regarding government accountability and public service."
+    ],
+    "bias_bar_text": "Left 78% C 18%",
+    "center_pct": 18.0,
+    "error": null,
+    "left_pct": 78.0,
+    "location": null,
+    "right_pct": 4.0,
+    "status": "ok",
+    "summary": [
+      "On Feb. 22, 2026, multiple Canadian airports suspended access to the NEXUS program and Global Entry pre-clearance for U.S.-bound flights until further notice, linking the suspension to the partial U.S. government shutdown.",
+      "The Department of Homeland Security announced it would suspend Global Entry during the partial shutdown that began Feb. 14, and the Canada Border Services Agency confirmed the link.",
+      "Travel industry estimates show Global Entry cuts customs time to 5 minutes, with NEXUS and expedited lanes offering similar benefits, according to authorities.",
+      "U.S. Customs and Border Protection did not immediately respond on Sunday when asked, and Calgary said NEXUS is managed by CBP, as DHS later canceled the shutdown of TSA PreCheck.",
+      "A CBSA spokeswoman said NEXUS and Global Entry operate by expediting crossings for pre-screened travelers, reflecting U.S. program closures linked to the partial government shutdown."
+    ],
+    "title": "Partial U.S. government shutdown blamed for NEXUS closure at Canadian airports",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/a-policy-wonk-who-wants-nancy-pelosis-house-seat-is-unafraid-of-a-fight_723be7",
+    "article_url": "https://ground.news/article/a-policy-wonk-who-wants-nancy-pelosis-house-seat-is-unafraid-of-a-fight_723be7",
+    "bias": [
+      "All perspectives identify Scott Wiener as a state lawmaker favored to succeed Nancy Pelosi , known for \"headline-grabbing policies.",
+      "However, interpretations of his candidacy diverge.",
+      "Left-Leaning coverage frames him as a positive \"policy wonk\" and \"unafraid of a fight,\" valorizing his challenge.",
+      "Right-Leaning analysis similarly portrays him as \"unafraid of a fight,\" but to commend opposition to a prominent Democrat, framing it as a courageous battle.",
+      "A pivotal dividing line emerges around the California Democratic Party endorsement; left-leaning and center coverage highlight the \"extra boost\" it provides, with center outlets uniquely confirming Wiener \"has won.",
+      "Right-Leaning coverage, however, de-emphasizes this significant campaign development, revealing ideological priorities in celebrating a policy-focused challenger versus the act of challenging an established liberal figure."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "United States",
+    "right_pct": 14.0,
+    "status": "ok",
+    "summary": [
+      "The California state lawmaker Scott Wiener is favored to succeed Nancy Pelosi in the U.S. House and is expected to win the California Democratic Party's endorsement on Sunday.",
+      "Wiener is known for his calm demeanor but is often at the center of California's most divisive issues, advocating relentlessly for his bills on topics like housing and drug use.",
+      "Wiener's challenge of navigating modern Democratic politics was on display when he changed his language on the war in Gaza, initially declining to describe Israel's actions as genocide but later agreeing with that term."
+    ],
+    "title": "A policy wonk who wants Nancy Pelosi's House seat is unafraid of a fight",
+    "topic": "Nancy Pelosi",
+    "topic_full": "Nancy Pelosi · United States"
+  },
+  {
+    "article_path": "/article/witkoff-trump-is-curious-to-know-why-iran-did-not-surrender-iran-clarified-no",
+    "article_url": "https://ground.news/article/witkoff-trump-is-curious-to-know-why-iran-did-not-surrender-iran-clarified-no",
+    "bias": [
+      "Left-Leaning coverage frames Trump's 'curiosity' about Iran's 'defiance' as naive, highlighting a perceived 'struggle' in the envoy's language and Trump's 'refusal to surrender' narrative.",
+      "In contrast, right-leaning outlets emphasize the expectation of 'capitulation', portraying Trump as 'puzzled' and employing alarmist language like 'on edge' and 'a week away' from a nuclear bomb to underscore an urgent threat.",
+      "Center-Leaning reports offer a more analytical perspective, noting Iran's 'defiance' and suggesting Trump's 'frustration grows' while also covering internal Iranian pressures.",
+      "A pivotal divergence sees right-leaning outlets exclusively detailing Iran's nuclear enrichment levels, while left and center mention a meeting with Reza Pahlavi, which the right de-emphasizes.",
+      "Both perspectives acknowledge the US military buildup and pressure on Iran's nuclear program, reflecting broader ideological differences on diplomatic engagement versus assertive action."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 35.0,
+    "error": null,
+    "left_pct": 26.0,
+    "location": "United States",
+    "right_pct": 39.0,
+    "status": "ok",
+    "summary": [
+      "Trump's envoy said Trump is 'curious' why Iran has not 'capitulated' after military pressure from the US.",
+      "The US has been building up its military presence near Iran, including deploying the USS Gerald R Ford and USS Abraham Lincoln carrier groups.",
+      "An activist group said it confirmed over 7,000 deaths from protests in Iran, including protesters and children."
+    ],
+    "title": "Trump Curious Why Iran Has Not 'Capitulated', Witkoff Says",
+    "topic": "Steve Witkoff",
+    "topic_full": "Steve Witkoff · United States"
+  },
+  {
+    "article_path": "/article/nobel-laureates-device-harvests-drinking-water-from-dry-air-without-electricity_a5e643",
+    "article_url": "https://ground.news/article/nobel-laureates-device-harvests-drinking-water-from-dry-air-without-electricity_a5e643",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 67.0,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": 33.0,
+    "status": "no_change",
+    "summary": [
+      "Early in 2026, Nobel laureate Omar Yaghi announced field tests of water -extracting devices in the Mojave Desert, advancing Atoco’s efforts from lab to product.",
+      "Building on 1990s discoveries, Yaghi's approach leverages MOFs and COFs, with the 2024 COF‑999 milestone demonstrating rapid progress in porous frameworks.",
+      "Using porous crystalline materials , prototypes range from industrial electric generators producing thousands of liters per day to passive solar units for remote use, with AI optimizing design.",
+      "Giving people water independence, Yaghi says home‑appliance units could let households generate water off grid and in theory replace municipal utilities in water‑stressed Jordan.",
+      "Despite optimism, scaling and miniaturization remain hurdles as COFs are not yet producible at multi-tonne scale, systems must produce, cool and filter water, and AI agents help speed design and optimise pores."
+    ],
+    "title": "Nobel Laureate's Device Harvests Drinking Water from Dry Air Without Electricity",
+    "topic": "Chemistry",
+    "topic_full": "Chemistry"
+  },
+  {
+    "article_path": "/article/wikipedia-removes-archivetoday-links-after-malicious-code_df3492",
+    "article_url": "https://ground.news/article/wikipedia-removes-archivetoday-links-after-malicious-code_df3492",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 40.0,
+    "error": "Message: \n",
+    "left_pct": 40.0,
+    "location": null,
+    "right_pct": 20.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Wikipedia Removes Archive.today Links After Malicious Code",
+    "topic": "Wikipedia",
+    "topic_full": "Wikipedia"
+  },
+  {
+    "article_path": "/article/hku-engineers-find-physics-principle-that-breaks-sound-absorption-limits",
+    "article_url": "https://ground.news/article/hku-engineers-find-physics-principle-that-breaks-sound-absorption-limits",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 100.0,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "fail",
+    "summary": null,
+    "title": "HKU Engineers Find Physics Principle That Breaks Sound Absorption Limits",
+    "topic": "Physics",
+    "topic_full": "Physics"
+  },
+  {
+    "article_path": "/article/tsa-precheck-is-open-at-airports-agency-says-hours-after-dhs-announced-suspension",
+    "article_url": "https://ground.news/article/tsa-precheck-is-open-at-airports-agency-says-hours-after-dhs-announced-suspension",
+    "bias": [
+      "Left-Leaning outlets emphasize the \"funding fight\" and \"sparking confusion\" caused by the initial suspension, portraying it as a government misstep and attributing the reversal to \"outcry\" and the \"Trump Administration\" backing off.",
+      "Right-Leaning coverage, while also noting the \"Trump admin reverses course,\" frames the event \"Amid Shutdown\" and highlights positive outcomes like \"easing near-term airline risk\" and \"limiting travel disruption risk.",
+      "Center-Leaning reports remain largely neutral, noting the conflicting information was \"presumably frustrating\" for travelers and providing operational details like \"case by case basis\" evaluations.",
+      "All perspectives agree TSA PreCheck was initially suspended by DHS and subsequently reversed, remaining operational during the shutdown, revealing ideological divides in attributing responsibility and assessing broader societal or economic impact."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 55.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "United States",
+    "right_pct": 16.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, the Transportation Security Administration said its PreCheck program would remain operational despite an earlier U.S. Department of Homeland Security suspension announcement, with reports showing airport observations at 6 a.m. ET.",
+      "The partial government shutdown began Feb. 14, prompting the Department of Homeland Security to scale back operations and redirect federal personnel and funding to core security missions.",
+      "U.S. Customs and Border Protection will halt Global Entry arrival processing at participating airports and reassign officers to primary inspection lanes for arriving travelers.",
+      "More than 40 million vetted travelers face potential service disruptions as about 95% of TSA employees deemed essential work without pay, increasing airport checkpoint wait times.",
+      "Airlines for America warned programs are being used as a political football and urged Congress to act, while Kristi Noem said 'shutdowns have serious real world consequences' as lawmakers are in recess until Feb. 23."
+    ],
+    "title": "TSA PreCheck is open at airports, agency says, hours after DHS announced suspension",
+    "topic": "U.S. Department of Homeland Security (DHS)",
+    "topic_full": "U.S. Department of Homeland Security (DHS) · United States"
+  },
+  {
+    "article_path": "/article/two-studies-reveal-greenlands-ice-is-softer-and-melting-faster-than-expected_b73a91",
+    "article_url": "https://ground.news/article/two-studies-reveal-greenlands-ice-is-softer-and-melting-faster-than-expected_b73a91",
+    "bias": [
+      "Left-Leaning coverage frames the story as a solved scientific oddity—using terms like \"mysterious,\" \"freaky,\" and \"boiling pot of pasta\" to emphasize unusual internal dynamics and possible mantle-driven causes—while right-leaning pieces highlight sensational novelty with words like \"discovery\" and \"molten rock,\" downplaying climate trend detail; center coverage foregrounds quantitative urgency and \"record-breaking\"/\"unprecedentedly\" framing.",
+      "The pivotal divide is attribution—internal geothermal convection versus climate-driven surface melting—and the presence of hard numbers; all sides agree on plume-like structures and churning, revealing deeper ideological priorities about science , risk, and policy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": "Greenland",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "A recent Nature Communications study led by the University of Barcelona found extreme Greenland melt events are more frequent, more extensive and more intense.",
+      "Cryosphere researchers modelled a 2.5-kilometre ice slab and found radar-like plumes form only when basal ice is warmer and softer than standard assumptions.",
+      "Measured data reveal the area affected by extreme melting rose 2.8 million km² per decade since 1990, meltwater production increased from 12.7 to 82.4 gigatons per decade, and seven of the 10 most extreme melts occurred since 2000.",
+      "Estimates show Greenland's ice melting could raise sea levels by 24 feet and increase geopolitical attention, as the rapid transformation has global consequences, the study found.",
+      "Under high greenhouse-gas emission scenarios, extreme meltwater anomalies could triple by century's end; thermodynamic intensification drives more water per event, with northern Greenland as a main hotspot."
+    ],
+    "title": "Two Studies Reveal Greenland's Ice is Softer and Melting Faster Than Expected",
+    "topic": "Climate Science",
+    "topic_full": "Climate Science · Greenland"
+  },
+  {
+    "article_path": "/article/us-trade-chief-says-no-countries-have-said-they-will-withdraw-from-tariff-deals_642f5c",
+    "article_url": "https://ground.news/article/us-trade-chief-says-no-countries-have-said-they-will-withdraw-from-tariff-deals_642f5c",
+    "bias": [
+      "Left-Leaning pieces emphasize preservation of \"hard-won trade pacts\" and frame the Supreme Court action as a \"setback,\" stressing risks to businesses and consumers, while right-leaning coverage foregrounds reassurance—using phrases like \"reassures\" and \"no one has said the deal is off\"—and highlights the administration's \"active conversations\" with partners; rhetorical tone on the left is cautionary and protective, on the right confident and managerial.",
+      "Pivotal dividing lines include the Supreme Court ruling's legal implications and independent confirmations from partner countries ; center coverage supplies more legal detail .",
+      "Both sides agree Greer reports no withdrawals."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 35.0,
+    "error": null,
+    "left_pct": 9.0,
+    "location": "United States",
+    "right_pct": 56.0,
+    "status": "ok",
+    "summary": [
+      "On Feb 22, 2026, U.S. Trade Representative Jamieson Greer said none of the countries with U.S. trade deals planned to withdraw, noting `I haven't heard anyone yet come to me and say the deal is off`.",
+      "The court decision prompted a temporary tariff increase to 15% after the Supreme Court struck down the previous tariff program and Trump imposed a 10% tariff on Friday, then raised it on Saturday, reflecting `urgency of the situation`.",
+      "Greer said the administration will rebuild trade policy using the Section 301 unfair practices statute and the Section 232 statute, with open investigations into Brazil and China and expected probes into industrial excess capacity and subsidized rice.",
+      "With partners seeking clarity, European Commission demanded Washington stick to the U.S.-EU trade deal and Treasury Secretary Scott Bessent said tariff refunds will be decided by lower courts, taking weeks or months.",
+      "Greer told CBS News' `Face the Nation` that the scheduled meeting with Chinese President Xi Jinping remains focused on stability and he has spoken with his EU counterpart, emphasizing the meeting's purpose."
+    ],
+    "title": "US trade chief says no countries have said they will withdraw from tariff deals",
+    "topic": "Tariffs",
+    "topic_full": "Tariffs · United States"
+  },
+  {
+    "article_path": "/article/us-defeats-canada-in-overtime-to-win-its-first-olympic-mens-hockey-gold-since-1980_8b00fc",
+    "article_url": "https://ground.news/article/us-defeats-canada-in-overtime-to-win-its-first-olympic-mens-hockey-gold-since-1980_8b00fc",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 53.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "United States",
+    "right_pct": 22.0,
+    "status": "no_change",
+    "summary": [
+      "In Milan, Jack Hughes scored 1:41 into overtime, giving the United States a 2-1 victory over Canada and its first Olympic men's hockey gold since 1980.",
+      "Strong net play from Connor Hellebuyck, who stopped 41 of 42 shots, and Cale Makar's late goal tied the game with 1:44 remaining in the second period, highlighting an intense match.",
+      "In three-on-three overtime, Jack Hughes skated in, took a pass from Zach Werenski, and beat Jordan Binnington; Sam Bennett's four-minute penalty and Hughes' high-sticking created a tense four-on-four sequence.",
+      "The victory ends a 46-year drought for the United States men's ice hockey team, silencing critics and contributing to the U.S. medal count of 33 medals and 12 golds at these Games.",
+      "Much of the U.S. roster progressed through USA Hockey's National Team Development Program, capping the NHL's return after 12 years; Canada played without injured captain Sidney Crosby as Connor McDavid served captain."
+    ],
+    "title": "U.S. Defeats Canada in Overtime to Win Its First Olympic Men's Hockey Gold Since 1980",
+    "topic": "Olympics",
+    "topic_full": "Olympics · United States"
+  },
+  {
+    "article_path": "/article/us-says-ambassadors-comments-on-israel-and-the-middle-east-were-taken-out-of-context",
+    "article_url": "https://ground.news/article/us-says-ambassadors-comments-on-israel-and-the-middle-east-were-taken-out-of-context",
+    "bias": [
+      "Left-Leaning coverage emphasizes \"fresh outrage\" and \"uproar\" over Ambassador Huckabee's remarks, highlighting the severity of negative reactions and his suggestion Israel could \"take it all.",
+      "Right-Leaning outlets, while noting the Ambassador \"Sparks Anger\" in the Arab world, also include framing that implicitly validates \"Israel's Right to the Middle East,\" revealing a pro-Israel stance.",
+      "Center-Leaning coverage provides more contextual details, such as the interviewer Tucker Carlson , and uniquely reports that \"U.S. policies... have not changed,\" a crucial clarification de-emphasized by both left and right.",
+      "All perspectives agree the U.S. stated the comments were \"taken out of context.",
+      "These divergent portrayals reflect underlying ideological differences regarding Middle East diplomacy and the perceived legitimacy of geopolitical claims."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 64.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "United States",
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "Friday's broadcast with Tucker Carlson featured U.S. Ambassador Mike Huckabee saying Israel has a right to much of the Middle East, while a U.S. Embassy spokesperson said the comments were taken out of context and policy remains unchanged.",
+      "Quoting the Bible, Carlson asked Huckabee about territorial claims in Genesis Chapter 15; Huckabee said `It would be fine if they took it all` and Israel seeks to keep land it now occupies.",
+      "Sunday saw an uproar from Arab and Muslim countries as a joint statement called Huckabee's remarks `dangerous and inflammatory` and said they endanger regional stability.",
+      "The administration noted the comments contradict its aim for a political horizon and a Palestinian state, as Huckabee's remarks clash with President Donald J. Trump's pledge to block West Bank annexation.",
+      "Rising regional strain coincides with Israeli steps in the West Bank and U.S. force movements as Israel expands settlement construction and tensions with Iran grow amid USS Gerald R. Ford deployment."
+    ],
+    "title": "US says ambassador’s comments on Israel and the Middle East were taken out of context",
     "topic": "Mike Huckabee",
     "topic_full": "Mike Huckabee · United States"
   },
   {
-    "article_path": "/article/biased-spies-cia-rescinds-or-revises-19-intelligence-reports-over-political-bias-bad-tradecraft",
-    "article_url": "https://ground.news/article/biased-spies-cia-rescinds-or-revises-19-intelligence-reports-over-political-bias-bad-tradecraft",
+    "article_path": "/article/hamas-official-says-group-in-final-stage-of-choosing-new-chief_16d1df",
+    "article_url": "https://ground.news/article/hamas-official-says-group-in-final-stage-of-choosing-new-chief_16d1df",
     "bias": [
-      "Left-Leaning coverage frames the CIA 's retraction of 19 intelligence products by emphasizing the review's origin with \"Trump-appointed\" individuals, suggesting political motivation behind the scrutiny.",
-      "In contrast, right-leaning outlets employ charged terms like \"DEI-infused\" and \"Biased Spies,\" detailing specific report content such as \"women in traditional ‘gender roles’\" to portray the action as \"restoring objectivity\" and \"Cleans House.",
-      "Center-Leaning reports neutrally present the retraction due to \"political bias\" without attributing political intent or detailing report specifics.",
-      "While all acknowledge the \"19 reports\" failed standards, the ideological divide centers on whether the review itself was politicized or if the reports were inherently biased, reflecting broader debates over institutional integrity and cultural issues."
+      "Left-Leaning coverage frames the leadership choice within the Gaza war and October 7 context, highlighting institutional details and religious composition to suggest deeper political shifts, while right-leaning pieces de-emphasize war linkage and foreground candidate identities and a closed, factual contest, using \"final stage\" and \"internal elections\" to underscore closure; center employs a dramatic metaphor .",
+      "All sides rely on AFP/\"senior Hamas official\"/\"informed sources\" and agree two main candidates are contenders, revealing partisan priorities rooted in geopolitical versus personal leadership lenses."
     ],
-    "bias_bar_text": null,
-    "center_pct": 31.0,
+    "bias_bar_text": "Left 31% C 23% Right 46%",
+    "center_pct": 23.0,
     "error": null,
-    "left_pct": 11.0,
-    "location": "United States",
-    "right_pct": 58.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the CIA ordered retraction or revision of 19 intelligence products and released three unredacted reports, according to the agency.",
-      "Following an internal review, the agency found the products `fall short of the high standards of impartiality that CIA must uphold and do not reflect the expertise for which our analysts are renowned,' prompting action.",
-      "Notably, the affected reports came from the CIA, including one under Biden, one under the first Trump administration, and one under the Obama administration, with topics like LGBT activism and contraception.",
-      "The response included 'Sen. Tom Cotton' and 'Capitol Hill,' which are not explicitly mentioned in the source; only the CIA Director's actions are detailed in the story.",
-      "While the memo criticized the reports, it did not directly contradict previous assessments, adding nuance to Ratcliffe's declassification efforts, a document released last July."
-    ],
-    "title": "CIA retracts intel reports that agency says failed to meet standards for political bias",
-    "topic": "CIA",
-    "topic_full": "CIA · United States"
-  },
-  {
-    "article_path": "/article/us-imposes-visa-restrictions-on-chilean-officials-for-undermining-regional-security",
-    "article_url": "https://ground.news/article/us-imposes-visa-restrictions-on-chilean-officials-for-undermining-regional-security",
-    "bias": [
-      "Left-Leaning outlets frame U.S. visa restrictions as a \"punishment\" or \"accusation\" against Chile, often questioning the stated rationale by quoting \"Understanding Regional Security\" and linking actions to a \"China cable plan.",
-      "Conversely, right-leaning coverage justifies the U.S. move as counteracting those \"undermining regional security\" or \"subverting sovereignty,\" portraying it as a proactive step for \"improving regional security\" and emphasizing Chile's political transition.",
-      "Center perspectives report Chile's rejection and summoning of the U.S. Ambassador more factually, though sometimes using interpretive terms like \"parting shot.",
-      "While all acknowledge the U.S. imposed visa restrictions on three Chilean officials citing \"regional security\" concerns and Chile's rejection, the ideological divide centers on U.S. foreign policy intervention versus national sovereignty."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "United States",
-    "right_pct": 50.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Secretary of State Marco Rubio announced the United States refused visas to three outgoing Chilean officials and revoked any U.S. visas they held.",
-      "Allegations tied the move to a proposed seabed fiber‑optic cable, as U.S. officials linked restrictions to concerns over the Chile‑China Express involving China Mobile in early evaluation stage.",
-      "Transport Minister Juan Carlos Munoz confirmed Friday he was one of the three and said `I deeply regret this`, while Chile's foreign ministry `categorically denies` wrongdoing and summoned U.S. Ambassador Brandon Judd.",
-      "According to the State Department, the measures reaffirm efforts to promote accountability for Chilean nationals alleged to destabilize the hemisphere, framing the action as accountability for hemispheric security."
-    ],
-    "title": "US imposes visa restrictions on Chilean officials for 'undermining regional security'",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · United States"
-  },
-  {
-    "article_path": "/article/the-revolutionary-guards-are-trying-to-resurrect-hezbollah-preparing-for-war-with-israel-and-the-us",
-    "article_url": "https://ground.news/article/the-revolutionary-guards-are-trying-to-resurrect-hezbollah-preparing-for-war-with-israel-and-the-us",
-    "bias": null,
-    "bias_bar_text": "Right 100%",
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": null,
+    "left_pct": 31.0,
     "location": null,
-    "right_pct": 100.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Saudi Reports IRGC Has Taken Operational Control of Hezbollah as Israeli Strikes Kill 3 of the Group’s Commanders",
+    "right_pct": 46.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, a senior Hamas official told AFP the movement is in the final phase of selecting a new leader with two prominent figures competing after internal elections in the three regions.",
+      "After Israel killed Yahya Sinwar and two former Hamas leaders, vacancies prompted elections and an interim five-member leadership committee based in Qatar, Hamas said.",
+      "Voting mechanics allow members from Gaza, the occupied West Bank and external leadership, including Hamas prisoners in Israeli jails, to elect the council, which chooses the political bureau and head.",
+      "Balancing demands from international actors and the armed wing presents an immediate governance challenge, as the new leader must navigate disarmament calls from the United States and Israel alongside resistance from the Ezzedine Al-Qassem Brigades.",
+      "A third Hamas source says the new leader will serve a one-year transitional period, after thousands voted to choose the council and political bureau, amid ongoing violence despite a recent ceasefire."
+    ],
+    "title": "Hamas official says group in final stage of choosing new chief",
     "topic": null,
     "topic_full": null
   },
@@ -785,13 +638,14 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/palestinian-journalists-recount-abuse-in-israeli-prisons-cpj-report-finds_81deed",
-    "article_url": "https://ground.news/article/palestinian-journalists-recount-abuse-in-israeli-prisons-cpj-report-finds_81deed",
+    "article_path": "/article/prosecutors-plan-to-charge-an-israeli-settler-with-killing-a-palestinian-activist-in-the-west-bank_028503",
+    "article_url": "https://ground.news/article/prosecutors-plan-to-charge-an-israeli-settler-with-killing-a-palestinian-activist-in-the-west-bank_028503",
     "bias": [
-      "Left-Leaning narratives frame alleged abuse as \"sexual abuse\" and \"torture,\" employing emotive terms like \"returned from hell\" and linking it to \"genocide in Gaza\" to portray \"systemic violence.",
-      "Center coverage, conversely, uses neutral \"claims\" and focuses on the report's release, de-emphasizing specific abuse details.",
-      "Right-Leaning reports detail allegations like \"beating, starvation, sexual violence\" and specific journalist numbers, but de-emphasize the left's broader, highly charged framing.",
-      "While all acknowledge a CPJ report on abuse claims, the left's inclusion of a \"genocide\" narrative marks a pivotal dividing line, revealing deep ideological splits in characterizing state actions and broader geopolitical conflicts."
+      "Left-Leaning outlets frame the planned prosecution of an Israeli settler for killing a Palestinian activist by emphasizing systemic injustice, detailing a \"settler incursion\" and the settler \"wildly firing his gun after antagonising locals.",
+      "They highlight the family's view that the \"manslaughter\" charge \"doesn’t rise to the level of the crime\" and contextualize it with statistics on nationalist violence.",
+      "Conversely, right-leaning coverage presents the event with a more neutral tone, focusing on the legal process and individual accountability, de-emphasizing broader context.",
+      "Center-Leaning reports note the \"Rare Prosecution Sparks Debate.",
+      "All perspectives acknowledge the rarity of such prosecutions and a spike in settler attacks, yet their divergent portrayals reveal underlying ideological priorities regarding the conflict."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -801,59 +655,223 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "The Committee to Protect Journalists collected 59 testimonies from Palestinian media professionals who reported abuse while detained by Israel since October 7, 2023.",
-      "The majority of the 94 journalists arrested were held under administrative detention without charges or trial for periods over two years.",
-      "The report includes graphic descriptions of sexual, physical and mental violence against Palestinian detainees, with Israeli minister Itamar Ben-Gvir boasting about imposing harsh conditions on prisoners."
+      "On Monday, Israel 's State Attorney General's office said it had initiated proceedings to indict Yinon Levi, an Israeli settler, over the killing of a Palestinian activist, opening a rare prosecution of settler violence.",
+      "Amid a sharp rise in settler attacks over two years, Hathaleen's death last July drew attention due to his role in the 2025 Oscar-winning film No Other Land and his funeral in Umm al-Khair on Aug. 7, 2025.",
+      "Multiple camera angles captured the confrontation in Umm al-Khair, including footage Alaa Hathaleen filmed showing Yinon Levi waving a pistol, firing two shots, shoving people, and later being detained, placed under house arrest and released.",
+      "Eitan Peleg, an attorney for Hathaleen's family, said prosecutors planned to indict Levi for reckless homicide, which the family called insufficient and described as an intentional, premeditated killing, a rare legal step in West Bank cases.",
+      "On Sunday, Israel's Foreign Ministry announced a land-registration process, with rights groups warning it could strip Palestinians of land and drawing condemnation from Saudi Arabia and Egypt."
     ],
-    "title": "Palestinian journalists recount abuse in Israeli prisons, CPJ report finds",
+    "title": "Prosecutors plan to charge an Israeli settler with killing a Palestinian activist in the West Bank",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/what-a-supreme-court-tariff-ruling-may-mean-for-your-money",
-    "article_url": "https://ground.news/article/what-a-supreme-court-tariff-ruling-may-mean-for-your-money",
+    "article_path": "/article/macron-asks-trump-to-lift-visa-bans-on-french-judge-and-former-eu-commissioner",
+    "article_url": "https://ground.news/article/macron-asks-trump-to-lift-visa-bans-on-french-judge-and-former-eu-commissioner",
     "bias": [
-      "Left-Leaning coverage frames the Supreme Court's tariff decision as a continuation of \" Donald Trump 's Trade Wars,\" emphasizing his \"obsession\" with protectionism and predicting he will \"assert his protectionism\" through other means.",
-      "In contrast, right-leaning outlets portray the ruling as \"Outrageous,\" arguing it \"handcuffs ability\" to fight \"unfair trade\" that has \"harmed the American worker,\" highlighting corporate efforts to \"Race to Recover Billions\" in payments and Trump's \"angry reaction.",
-      "Center-Leaning reports, while noting \"scuttled\" tariffs and regional business impacts, also feature calls to codify the tariffs and acknowledge divided opinions, presenting a more balanced view of immediate political and economic consequences.",
-      "The core dividing line emerges in how the ruling impacts the fight against \"unfair trade\" and the characterization of presidential trade policy.",
-      "All perspectives agree the Supreme Court ruled on and invalidated some of the tariffs, with political figures reacting strongly, reflecting broader ideological splits on executive power and economic nationalism."
+      "News coverage of Macron's appeal to Trump reveals distinct partisan framing.",
+      "Left-Leaning outlets emphasize Macron \"urges\" action, portraying sanctions as \"unfairly imposed\" and arguing they \"undermine European regulatory autonomy.",
+      "Conversely, right-leaning coverage highlights the US State Department's accusation of \"censorship\" against Breton, providing context for the sanctions, even while quoting Macron's view of them as \"unjustly imposed.",
+      "Center-Leaning reports remain neutral, stating Macron \"asks\" for lifting sanctions he \"judges unfair,\" de-emphasizing both the US rationale and broader sovereignty concerns.",
+      "All agree on Macron's request regarding Breton and Guillou, but perspectives diverge sharply on the sanctions' legitimacy, reflecting ideological divides over international relations and national interests."
     ],
-    "bias_bar_text": "7% Center 50% Right 43%",
-    "center_pct": 50.0,
+    "bias_bar_text": "Left 47% C 24% Right 29%",
+    "center_pct": 24.0,
     "error": null,
-    "left_pct": 7.0,
+    "left_pct": 47.0,
     "location": null,
+    "right_pct": 29.0,
+    "status": "ok",
+    "summary": [
+      "On Feb 22, French President Emmanuel Macron wrote to US President Donald Trump asking him to lift US sanctions on former European Commission commissioner Thierry Breton and ICC judge Nicolas Guillou, urging reconsideration as confirmed by the Élysée Palace.",
+      "The US placed visa bans in December targeting Breton and others over extraterritorial censorship, while Macron contends the measures undermine judicial independence in Guillou's case and harm European regulatory autonomy.",
+      "Guillou has been barred from US entry since December 2025 and had his US-issued Visa card withdrawn, losing access to American digital services like Airbnb and Amazon.",
+      "The EU `strongly condemned` the sanctions and Macron will make social media and free speech a G7 priority, planning to raise the issue directly with the US president.",
+      "Macron also asked Trump to lift sanctions on a French magistrate linked to ICC proceedings, while Breton's role in the Digital Services Act ties the dispute to transatlantic tech debates."
+    ],
+    "title": "Macron Asks Trump to Lift Visa Bans on French Judge and Former EU Commissioner",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/the-most-draconian-measure-watch-scott-bessent-lay-out-future-of-trumps-tariffs-trade-deals-worldnetdaily-by-harold-hutchison-daily-c",
+    "article_url": "https://ground.news/article/the-most-draconian-measure-watch-scott-bessent-lay-out-future-of-trumps-tariffs-trade-deals-worldnetdaily-by-harold-hutchison-daily-c",
+    "bias": [
+      "Left-Leaning coverage frames Bessent's response to the $134 billion tariff refund question with a sarcastic \"Bless Your Heart,\" asserting he'll \"tie this up in the courts.",
+      "Center reports use \"dodges questions,\" implying evasion.",
+      "In contrast, right-leaning outlets emphasize \"Trump's Tariffs \" and Bessent's \"No Retreat\" stance, portraying his actions as a strategic \"plan B\" for continued trade enforcement under \"other statutes,\" while de-emphasizing refunds.",
+      "All acknowledge the Supreme Court ruling on tariffs and the refund question, yet none detail the ruling's specifics, revealing divergent priorities on government transparency and economic policy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "Treasury Secretary Scott Bessent deferred to lower courts to decide how refunds for President Trump's IEEPA tariffs will be handled after the Supreme Court ruled against them in a 6-3 decision.",
+      "Over $133 billion had been collected from the IEEPA tariffs by last December, and companies have sued for refunds following the Supreme Court's rejection of the tariffs, with the refund process left unresolved.",
+      "President Trump has moved to reimpose tariffs using Section 122 of the Trade Act of 1974, increasing them to 15%, with the tariffs limited to 150 days and requiring Congressional approval to continue.",
+      "Bessent assured that tariff revenue will remain unchanged despite the Supreme Court ruling, as the administration plans to study and potentially increase tariffs under Sections 232 and 301 to maintain tariff revenue."
+    ],
+    "title": "Bessent dodges questions about tariff refunds",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/appeals-court-says-trump-administration-can-halt-work-on-slavery-exhibit-in-philadelphia-amid-appeal_f60000",
+    "article_url": "https://ground.news/article/appeals-court-says-trump-administration-can-halt-work-on-slavery-exhibit-in-philadelphia-amid-appeal_f60000",
+    "bias": [
+      "Left-Leaning outlets emphasize the \" Trump administration \" halting \"slavery exhibit\" work, highlighting the partial restoration of \"16 out of 34 exhibits\" and using terms like \"unprecedented week.",
+      "Right-Leaning coverage frames the judge's action as a \"reprieve to Trump\" after exhibits were \"already restored,\" portraying the administration's objective as a \"battle to take down\" displays.",
+      "Center-Leaning reports neutrally focus on legal outcomes, noting the court \"upholds\" or \"can halt work\" without loaded language.",
+      "While all acknowledge a legal dispute, the left focuses on historical accountability, the right on executive vindication, revealing ideological divides over government action and cultural memory."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "A U.S. appeals court allowed the Trump administration to temporarily halt work on a National Park Service slavery exhibit in Philadelphia while appealing an order to reinstall it.",
+      "About half of the exhibit panels on the lives of enslaved people under George Washington had been restored when the court issued a stay.",
+      "The city argued the public is being harmed by erasing this history ahead of Philadelphia's 250th anniversary celebrations in 1776."
+    ],
+    "title": "Appeals court says Trump administration can halt work on slavery exhibit in Philadelphia amid appeal",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/ruling-against-trumps-tariffs-creates-new-uncertainty-in-us-trade-relations-with-china",
+    "article_url": "https://ground.news/article/ruling-against-trumps-tariffs-creates-new-uncertainty-in-us-trade-relations-with-china",
+    "bias": [
+      "Left-Leaning outlets frame the Supreme Court's tariff ruling as a \"setback\" for Trump's agenda and a \"win for the wallets\" of consumers, employing terms like \"chaos\" and \"stole money\" to criticize past policies and highlight Democratic reactions.",
+      "In contrast, right-leaning coverage downplays the ruling's impact, asserting it \"won’t change US– China trade relations\" and emphasizing \"workarounds\" to maintain revenue, projecting an image of unwavering policy.",
+      "Center-Leaning analysis focuses on broader \"uncertainty\" for businesses and the ruling's role as an \"encouraging step\" for the balance of power, noting limited market reaction.",
+      "While all perspectives acknowledge the 6-3 Supreme Court decision and the USTR's confirmation that existing trade deals remain, the left uniquely highlights Trump's appointees in the ruling.",
+      "These divergent portrayals reflect underlying ideological priorities, from consumer protection and executive accountability to policy resilience and national trade stance."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
+    "right_pct": 27.0,
+    "status": "ok",
+    "summary": [
+      "A court ruling against Trump's tariffs has created uncertainty in US trade relations with China.",
+      "China is expected to be cautious in exploiting the advantage, while both sides want to maintain a fragile trade truce.",
+      "The ruling also creates new uncertainty for other US trading partners, especially those with existing trade deals."
+    ],
+    "title": "Ruling against Trump’s tariffs creates new uncertainty in US trade relations with China",
+    "topic": "Tariffs",
+    "topic_full": "Tariffs · United States"
+  },
+  {
+    "article_path": "/article/the-us-deported-a-gay-asylum-seeker-to-a-third-country-where-homosexuality-is-illegal_100156",
+    "article_url": "https://ground.news/article/the-us-deported-a-gay-asylum-seeker-to-a-third-country-where-homosexuality-is-illegal_100156",
+    "bias": [
+      "Left-Leaning coverage frames the deportation of a \"gay asylum-seeker\" as \"problematic and unjust,\" emphasizing human rights violations with terms like \"illegal\" to evoke moral condemnation.",
+      "Center-Leaning outlets, while generally factual, introduce emotional framing with phrases like \"Seeking Freedom\" and \"The Ordeal,\" highlighting \"challenges faced by many seeking asylum\" and uniquely mentioning a \"US protection order.",
+      "Right-Leaning coverage, unexpectedly lacking typical ideological framing in headlines, also focuses on the individual's plight, including direct quotes about \"fear of being tracked.",
+      "All perspectives agree on the core facts of the deportation under the \"Trump administration's third-country deportation system,\" revealing a shared concern for the individual's safety despite differing levels of explicit criticism or contextual details."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 48.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "United States",
+    "right_pct": 17.0,
+    "status": "ok",
+    "summary": [
+      "Farah, a 21-year-old gay woman, was handcuffed and flown to Cameroon, where homosexuality is illegal, after nearly a year in U.S. detention facilities in Arizona and Louisiana.",
+      "The U.S. has relied on third-country agreements, with internal documents citing seven African nations, including Cameroon, to deport migrants, including protected asylum seekers .",
+      "Records show the first flight's nine deportees had protection orders issued by U.S. immigration judges, despite claims of legal `loopholes`.",
+      "The deportees were held in a Yaounde detention facility managed by Cameroon authorities, which currently holds 15 deportees from two flights, while Farah returned to Morocco where same-sex relations are illegal.",
+      "The U.S. State Department on Friday declined to comment, and the IOM says it is aware of removals while journalists were briefly detained."
+    ],
+    "title": "The US deported a gay asylum-seeker to a third country where homosexuality is illegal",
+    "topic": "US Immigration",
+    "topic_full": "US Immigration · United States"
+  },
+  {
+    "article_path": "/article/india-delays-us-trade-talks-after-supreme-court-rejects-trump-tariffs-reuters",
+    "article_url": "https://ground.news/article/india-delays-us-trade-talks-after-supreme-court-rejects-trump-tariffs-reuters",
+    "bias": [
+      "Left-Leaning outlets frame the Supreme Court's action as \"rejecting\" or \"striking down\" \"Trump tariffs ,\" emphasizing opposition \"demands\" for renegotiation.",
+      "Right-Leaning coverage, while also referencing \"Trump tariffs,\" amplifies partisan calls like \"should put trade deal on hold\" and strong criticisms such as \"PM compromised, will surrender,\" yet simultaneously reassures that \"trade talks remain on track.",
+      "Center-Leaning reports neutrally on \"tariff policy shifts\" and \"uncertainty,\" detailing specific figures like a \"15%\" temporary tariff, which other perspectives de-emphasize.",
+      "This reveals ideological splits on trade policy and government accountability, despite agreement on India's delay and its Commerce Ministry \"studying implications.\"."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": "Delhi",
     "right_pct": 43.0,
     "status": "ok",
     "summary": [
-      "The Supreme Court may rule on the constitutionality of President Trump's tariffs, impacting consumer costs.",
-      "Economists estimate Trump's tariffs cost the average U.S. consumer $1,000-$1,700 annually, and striking down tariffs could halve this burden.",
-      "While the administration could potentially reimpose similar tariffs under different laws, some analysts believe the impact would be limited."
+      "On Saturday, the Union Commerce Ministry said it is studying all developments and implications after the US Supreme Court struck down reciprocal tariffs on February 20.",
+      "The judges said `does not authorise` the president to impose tariffs, and Mr. Trump signed a temporary 10% levy for 150 days soon after the ruling.",
+      "Under the India‑US interim trade framework, US tariffs were to fall to 18% from a combined 50%, and the US suspended `de minimis` exemptions , affecting small exporters and e‑commerce sellers.",
+      "A three-day meeting to finalise the legal text begins in the United States on February 23, with chief negotiator Darpan Jain leading the Indian delegation.",
+      "Remaining tariffs like Section 232 carry 50% steel and aluminium duties, and recent US trade deals are rendered one-sided, with Congress urging renegotiation."
     ],
-    "title": "Moreno calls for GOP to codify scuttled Trump tariffs",
-    "topic": null,
-    "topic_full": null
+    "title": "India delays U.S. trade talks after Supreme Court rejects Trump tariffs: Reuters",
+    "topic": "India Economy",
+    "topic_full": "India Economy · Delhi"
   },
   {
-    "article_path": "/article/exclusive-doj-axed-ny-judge-who-handed-out-more-asylum-claims-97-percent-of-the-time",
-    "article_url": "https://ground.news/article/exclusive-doj-axed-ny-judge-who-handed-out-more-asylum-claims-97-percent-of-the-time",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "Judge Vivienne Gordon-Uruakpa was fired by the Department of Justice in September 2025 for approving asylum claims at a 97% rate, the highest in New York State.",
-      "From 2019 to 2024, Gordon-Uruakpa granted asylum in 806 out of 924 cases, significantly higher than the national average where about 60% of claims were denied.",
-      "Over 100 immigration judges with more lenient records were dismissed during President Trump's second term amid efforts to prioritize stricter asylum decisions.",
-      "Around 80% of asylum seekers were deported in late 2025, reflecting a tougher stance on immigration court decisions and the appointment of new judges, including military lawyers."
+    "article_path": "/article/trump-calls-for-netflix-to-fire-susan-rice-after-she-warned-corporations-for-bending-a-knee_a627f5",
+    "article_url": "https://ground.news/article/trump-calls-for-netflix-to-fire-susan-rice-after-she-warned-corporations-for-bending-a-knee_a627f5",
+    "bias": [
+      "Left-Leaning outlets frame Trump's \"demands\" and \"threatens\" as authoritarian, highlighting his perceived hypocrisy on small government, using terms like \"oust\" and referencing \"fringe MAGA influencer\" origins.",
+      "Right-Leaning coverage portrays Rice's comments as \"threats\" or \"vows of revenge,\" justifying Trump's \"pressures\" and labeling her an \"Infamous Obama Official\" or \"Deep State Hack.",
+      "Center-Leaning reports neutrally on Trump's \"calls for\" action, focusing on the \"political headache\" for Netflix 's merger.",
+      "All perspectives agree Trump demanded Rice's removal over her \"accountability\" comments, revealing ideological splits on executive influence, corporate autonomy, and the nature of political retribution."
     ],
-    "title": "DOJ axed NY judge who handed out more asylum claims 97% percent of the time",
-    "topic": null,
-    "topic_full": null
+    "bias_bar_text": null,
+    "center_pct": 33.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
+    "right_pct": 40.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, President Donald Trump used Truth Social to demand Netflix fire Susan Rice, amplifying conservative activist Laura Loomer's calls and warning Netflix to `pay the consequences`.",
+      "On Thursday, Rice warned that companies that `take a knee` to Trump could face an `accountability agenda` if Democrats regain power, speaking on Preet Bharara's podcast.",
+      "Netflix's co-CEO, Ted Sarandos, testified before a Senate Judiciary antitrust subcommittee earlier this month and said he didn't seek political concessions during talks for the $72 billion deal with Warner Bros. Discovery.",
+      "The dispute comes as the Department of Justice antitrust division reviews the $83 billion Netflix-Warner Bros. Discovery merger, with shareholders voting on March 20, 2026, and Netflix and Rice did not immediately respond to requests for comment.",
+      "President Trump previously said he `shouldn't be involved` but has since engaged publicly amid the seven-day deliberation period and DOJ review of the Netflix-Warner Bros. deal."
+    ],
+    "title": "Trump calls for Netflix to fire Susan Rice after she warned corporations for bending ‘a knee’",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/epstein-survivor-who-voted-for-trump-will-be-at-his-state-of-the-union-address",
+    "article_url": "https://ground.news/article/epstein-survivor-who-voted-for-trump-will-be-at-his-state-of-the-union-address",
+    "bias": [
+      "The left frames the State of the Union as a \"Speech on the State of Disunity,\" emphasizing broader national issues like a \"president who prepares a war\" and a \"people dissatisfied with the economy.",
+      "In contrast, right-leaning coverage portrays the boycott as a \"rant\" by \"Big Babies,\" using dismissive language and focusing on the perceived illegitimacy of the opposition.",
+      "While the center neutrally reports Schiff's \"boycott\" and the \"unusually provocative moment\" surrounding the address, it de-emphasizes the left's systemic critiques and the right's pejorative attacks.",
+      "Both sides acknowledge the SOTU and the boycott, revealing a deep ideological divide over presidential authority and political dissent."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 60.0,
+    "error": null,
+    "left_pct": 7.0,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "1- Adam Schiff plans to boycott Donald Trump ’s State of the Union address and instead attend an alternative event. 2- Schiff is scheduled to speak at the “People’s State of the Union” rally on the National Mall, organized by MeidasTouch and MoveOn Civic Action. 3- Other Democratic lawmakers joining the counter-event include Sens. Ed Markey, Jeff Merkley, Chris Murphy and Tina Smith, along with at least seven House members."
+    ],
+    "title": "Schiff to boycott Trump’s State of the Union, speak at alternative event",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
   }
 ]
