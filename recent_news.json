@@ -1,224 +1,715 @@
 [
   {
-    "article_path": "/article/anthropic-wins-court-order-pausing-trump-ban-on-ai-tool_4d4170",
-    "article_url": "https://ground.news/article/anthropic-wins-court-order-pausing-trump-ban-on-ai-tool_4d4170",
-    "bias": null,
+    "article_path": "/article/tiger-woods-arrested-at-crash-scene-on-suspicion-of-dui-sheriff-says_1fa5d1",
+    "article_url": "https://ground.news/article/tiger-woods-arrested-at-crash-scene-on-suspicion-of-dui-sheriff-says_1fa5d1",
+    "bias": [
+      "Coverage splits: left-leaning pieces emphasize legal nuance and pattern—noting Woods \"refused test,\" the breathalyzer zero, and career implications, calling it a \"troubling pattern\"; right-leaning pieces foreground culpability and spectacle—highlighting the \"mugshot,\" \"bloodshot\" eyes, enumerated charges and phrases like \"he was impaired behind the wheel\" to imply moral failing.",
+      "Pivotal divides are the refusal to test, reliance on visual cues, and framing of prior crashes .",
+      "Both sides agree on the crash facts and arrest timing , reflecting broader ideological splits over blame versus medical/legal nuance."
+    ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "no_change",
+    "status": "ok",
     "summary": [
-      "On Thursday, U.S. District Judge Rita Lin granted a preliminary injunction blocking the Department of Defense and President Donald Trump from enforcing a 'supply chain risk' designation against Anthropic, halting the federal directive ordering agencies to cease using the company's technology .",
-      "A failed $200 million contract negotiation led to the blacklisting, as the Pentagon sought unrestricted AI use while Anthropic demanded guarantees against autonomous weapons and mass surveillance. Defense Secretary Pete Hegseth labeled the company a 'supply chain risk' in February.",
-      "Judge Lin found the administration's actions appeared to 'punish' the company for public criticism rather than addressing national security, characterizing the government's measures as 'classic illegal First Amendment retaliation' in her 43-page ruling.",
-      "The injunction pauses enforcement of the designation and federal agency cut-offs, though Lin stayed the order for seven days to allow the administration an opportunity to appeal, restoring the status quo during ongoing litigation.",
-      "This case serves as a critical legal test regarding whether the executive branch can use national security designations to exclude domestic tech firms, with the outcome likely influencing future defense procurement and AI governance standards."
+      "On Friday, professional golfer Tiger Woods was arrested for driving under the influence following a rollover crash near his home in Jupiter Island, Florida.",
+      "According to Martin County Sheriff John Budensiek, Woods' Land Rover clipped a pickup truck's trailer while overtaking on a two-lane road with a 30 mph speed limit, causing the vehicle to roll onto its side.",
+      "Woods blew 0.0 on a breathalyzer test but refused a urinalysis, leading to misdemeanor charges of DUI, property damage, and refusal to submit to a lawful test.",
+      "Florida law mandates an eight-hour jail detention for DUI suspects, and Woods' attendance at the Masters tournament starting April 9 remains uncertain following the arrest.",
+      "This incident compounds a history of prior driving-related issues, including crashes in 2009, 2017, and February 2021, while Woods recovers from back surgery and an Achilles tendon rupture."
     ],
     "title": "Source Icon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-says-hell-order-dhs-to-start-paying-tsa-officers-as-shutdown-drags-on_55ccb0",
-    "article_url": "https://ground.news/article/trump-says-hell-order-dhs-to-start-paying-tsa-officers-as-shutdown-drags-on_55ccb0",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 49.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": null,
-    "right_pct": 21.0,
-    "status": "no_change",
-    "summary": [
-      "On Thursday, President Donald Trump announced he will sign an emergency order instructing the Department of Homeland Security to immediately pay TSA agents, aiming to stop 'Chaos at the Airports' amid the ongoing partial government shutdown.",
-      "The 41st-day partial DHS shutdown stems from Democrats withholding funding support while demanding changes to immigration enforcement operations and accountability measures for federal agents involved in controversial incidents.",
-      "Acting TSA administrator Ha Nguyen McNeill warned of potential airport closures, reporting over 500 officers have quit, callout rates exceed 40% at multiple airports, and assaults on staff surged over 500% during the funding lapse.",
-      "Senate Majority Leader John Thune said lawmakers reviewed a 'last and final' offer to resolve the impasse, though negotiations stalled as the White House indicated the emergency order may face legal challenges while bypassing Congress.",
-      "With spring break travel surging, the Department of Transportation announced plans to reduce flights by 10% at 40 major airports, raising concerns the funding standoff could trigger broader travel disruptions and security vulnerabilities."
-    ],
-    "title": "Trump says he'll order DHS to start paying TSA officers as shutdown drags on",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/trumps-signature-to-appear-on-paper-currency-in-a-first-for-a-sitting-president_919c0b",
-    "article_url": "https://ground.news/article/trumps-signature-to-appear-on-paper-currency-in-a-first-for-a-sitting-president_919c0b",
+    "article_path": "/article/trump-signs-executive-action-to-pay-tsa-employees-after-congress-fails-to-agree-on-dhs-funding",
+    "article_url": "https://ground.news/article/trump-signs-executive-action-to-pay-tsa-employees-after-congress-fails-to-agree-on-dhs-funding",
     "bias": [
-      "Left-Leaning coverage frames Treasury's decision as vanity and tone-deaf, using phrases like \"personal billboard\" and \"plastered on the nation's currency\" and stressing timing amid economic strain, whereas right pieces frame it as celebratory patriotism—calling it a \"presidential first,\" \"historic\" and a way to \"immortalize\" leadership tied to the \"US 250th anniversary.",
-      "Rhetorically, left uses skeptical, accusatory verbs and irony; right uses triumphalist, honorific language.",
-      "Pivotal divides include removal of the Treasurer’s signature and the 165-year tradition, plus fiscal/timing costs and public opinion , while center coverage is more procedural; all agree it’s a first linked to 250th."
+      "Left outlets frame the move as worker-focused relief—highlighting \"receive paychecks,\" \"chaos,\" and easing \"long lines\"—while right outlets cast it as decisive leadership, using terms like \"ensuring,\" \"thanks,\" \"unprecedented emergency situation\" and blaming opponents with labels such as \"Schumer shutdown.",
+      "Center coverage emphasizes \"orders,\" \"national security concerns,\" and timing .",
+      "Pivotal divides include the \"emergency\" claim, attribution of blame, and whether to stress scale ; all sides agree the order was signed, TSA worked without pay, and payments were imminent, reflecting broader ideological splits over state power versus worker welfare."
     ],
     "bias_bar_text": null,
-    "center_pct": 57.0,
+    "center_pct": 65.0,
     "error": null,
-    "left_pct": 28.0,
-    "location": null,
+    "left_pct": 20.0,
+    "location": "United States",
     "right_pct": 15.0,
     "status": "ok",
     "summary": [
-      "On Thursday, March 26, 2026, the Treasury Department announced that U.S. paper currency will bear President Donald Trump 's signature, a first for a sitting president, while removing the Treasurer of the United States' signature for the first time in 165 years.",
-      "Treasury Secretary Scott Bessent stated the move is appropriate for the U.S. 250th anniversary, citing 'lasting dollar dominance' and arguing bills bearing Trump's name offer 'no more powerful way to recognize the historic achievements of our great country.'",
-      "Beginning in June, the Treasury will print the first $100 bills featuring Trump's and Bessent's signatures, replacing Treasurer Lynn Malerba and ending an unbroken line of Treasurers whose signatures appeared on U.S. federal currency since 1861.",
-      "This decision aligns with a broader effort by the Trump administration to place the President's name on U.S. institutions, buildings, and programs, having previously renamed the U.S. Institute of Peace, the Kennedy Center, and a new class of battleships.",
-      "Efforts to place Trump's likeness on coins face legal hurdles, as experts note a longstanding tradition against depicting sitting presidents on U.S. coins, even though laws only explicitly prohibit living persons on bonds and notes."
+      "On Friday, President Donald Trump signed an executive order directing the Department of Homeland Security to pay Transportation Security Administration employees, including back pay and current paychecks, amid a six-week funding lapse.",
+      "House Republicans rejected a Senate-passed funding bill, leaving the impasse in its 42nd day; Democrats refuse to fund Immigration Enforcement without clear limits on ICE agents.",
+      "Nearly 500 TSA Agents have resigned during the shutdown, with absenteeism rates exceeding 40%, resulting in security wait times exceeding three hours at major airports nationwide.",
+      "Homeland Security Secretary Markwayne Mullin said TSA Agents should begin receiving paychecks as early as Monday; American Federation of Government Employees president Everett Kelley urged Congress to pass a permanent funding deal.",
+      "While ICE operations remain funded through a prior $75 billion tax package, House Speaker Mike Johnson seeks a funding extension until May 22, highlighting persistent political divisions over departmental priorities."
     ],
-    "title": "Trump's signature to appear on paper currency in a first for a sitting president",
-    "topic": null,
-    "topic_full": null
+    "title": "Trump signs executive action to pay TSA employees after Congress fails to agree on DHS funding",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/trump-extends-pause-on-attacking-iran-energy-facilities-to-april-6-says-talks-with-tehran-going-very-well_7def06",
-    "article_url": "https://ground.news/article/trump-extends-pause-on-attacking-iran-energy-facilities-to-april-6-says-talks-with-tehran-going-very-well_7def06",
+    "article_path": "/article/house-republicans-poised-to-reject-senate-passed-dhs-funding-bill-likely-extending-standoff_366df6",
+    "article_url": "https://ground.news/article/house-republicans-poised-to-reject-senate-passed-dhs-funding-bill-likely-extending-standoff_366df6",
     "bias": [
-      "Left outlets frame the 10‑day extension to April 6 as skeptical, de-emphasizing upbeat claims while highlighting denials and labeling threats to 'destroy' energy plants as possible 'war crimes' and using phrases like 'maniacal tyrant'; right outlets portray the pause as a tactical 'reprieve' and evidence of leverage, echoing Trump's 'begging' and softening risk with 'extends pause' and 'potential strikes.' Key divides: whether Iran requested the pause and the legality of targeting energy infrastructure; centrist coverage focuses more on markets and process.",
-      "Both sides agree on the pause, deadline and market reactions, reflecting deeper geopolitical and normative divides."
+      "Left-Leaning coverage frames House Republicans as obstructionist—using words like \"erupt,\" \"rejects,\" and \"prolonging shutdown\" and labeling Trump's memo \"dubious authority\"—emphasizing traveler hardship and TSA pay.",
+      "Right-Leaning coverage frames the refusal as principled, spotlighting the absence of ICE/CBP funding, deploying phrases like \"taking government hostage,\" \"stand firm,\" and warning of \"airport chaos,\" while praising a proposed \"60‑day/8‑week\" stopgap and Trump's payroll action as pragmatic.",
+      "Center outlets de-emphasize partisan rhetoric, focusing on legislative mechanics and intra‑GOP \"revolt.",
+      "Both sides agree the Senate bill omitted ICE, airports are disrupted, and a stopgap was proposed, reflecting deeper divides over border enforcement versus worker relief and executive fixes."
     ],
     "bias_bar_text": null,
-    "center_pct": 38.0,
+    "center_pct": 43.0,
     "error": null,
-    "left_pct": 27.0,
-    "location": null,
-    "right_pct": 35.0,
+    "left_pct": 31.0,
+    "location": "United States",
+    "right_pct": 26.0,
     "status": "ok",
     "summary": [
-      "On Thursday, President Donald Trump announced a 10-day extension to the pause on strikes against Iranian energy infrastructure, setting a new deadline of April 6, 2026.",
-      "Washington delivered a 15-point peace framework via Pakistani intermediaries, though Iranian officials initially dismissed the proposal as \"one-sided and unfair.\"",
-      "Iran maintains its \"de facto\" control over the Strait of Hormuz, where 20% of global oil flows, keeping the waterway effectively closed and driving Brent crude prices up more than 40%.",
-      "Amid the diplomatic efforts, Israel reported killing IRGC naval commander Commodore Alireza Tangsiri, while authorities confirmed more than 1,900 deaths in Iran and over 1,100 in Lebanon.",
-      "Trump claimed during a Cabinet meeting that Iran is \"begging\" to make a deal, though Foreign Minister Abbas Araghchi denied Tehran is engaging in any direct talks."
+      "On Friday, March 27, 2026, House Republicans rejected a Senate-passed bill to fund most of the Department of Homeland Security, citing its exclusion of Immigration and Customs Enforcement and Border Patrol. Speaker Mike Johnson proposed an eight-week continuing resolution to fully fund DHS through May 22.",
+      "Early Friday, the Senate unanimously passed a funding measure to end the 42-day DHS shutdown, but excluded ICE and parts of Border Patrol. This left more than 60,000 employees without pay and created severe staffing shortages at airports nationwide.",
+      "Callout rates exceeded 40% at multiple airports, and nearly 500 TSA officers quit during the shutdown. President Donald Trump signed an executive order Thursday directing DHS to immediately pay TSA employees using funds from his 2025 tax bill.",
+      "House conservatives, including Rep. Chip Roy, called the Senate proposal \"garbage\" and a \"non-starter,\" while many senators left Washington for a two-week recess. Johnson confirmed the House will vote on his stopgap measure \"as soon as possible.\"",
+      "Senate Democratic Leader Chuck Schumer vowed that any legislation lacking immigration enforcement reforms is \"dead on arrival\" in the Senate. If Congress fails to reach an agreement by Saturday, the DHS shutdown will break the record for the longest government closure in American history."
     ],
-    "title": "Trump extends pause on attacking Iran energy facilities to April 6, says talks with Tehran 'going very well'",
+    "title": "House Republicans poised to reject Senate-passed DHS funding bill, likely extending standoff",
+    "topic": "Politics",
+    "topic_full": "Politics · United States"
+  },
+  {
+    "article_path": "/article/house-ethics-subcommittee-finds-rep-cherfilus-mccormick-guilty-of-25-violations_352c70",
+    "article_url": "https://ground.news/article/house-ethics-subcommittee-finds-rep-cherfilus-mccormick-guilty-of-25-violations_352c70",
+    "bias": [
+      "Left outlets emphasize the lawmaker’s denials and defense—highlighting phrases like \"maintaining her innocence\" and arguing the 25 violations and roughly $5 million could be leveraged by Republicans, and often de-emphasized indictment details in skeptical, contextual tones; right outlets amplify criminal framing, foregrounding words like \"indicted,\" \"guilty,\" \"scandal-ridden,\" and \"one step closer\" and treating \"25 counts\" and $5 million as proof of corruption and urgent grounds for expulsion; center coverage is more procedural and bipartisan, focusing on process and timing.",
+      "Both sides nonetheless agree a bipartisan panel found 25 violations and that expulsion is possible, reflecting deeper partisan priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 35.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, an eight-member House Ethics adjudicatory subcommittee found Rep. Sheila Cherfilus-McCormick guilty of 25 ethics counts by summary judgment following a rare, hours-long public hearing on Capitol Hill.",
+      "The investigation centers on allegations that the congresswoman funneled approximately $5 million in disaster relief funds from Trinity Health Care Services to finance her 2022 congressional campaign.",
+      "During Thursday's hearing, attorney William Barzee argued she was entitled to the funds through a \"handshake agreement,\" a defense Ethics Committee Chair Michael Guest rejected as \"frankly offensive.\"",
+      "The full Ethics Committee will convene after the spring recess to recommend sanctions, potentially including expulsion, as Republican Rep. Greg Steube vowed to force a vote on her removal.",
+      "Cherfilus-McCormick faces a separate federal criminal trial in the coming months regarding misappropriation of the same disaster relief funds, where conviction carries a potential sentence of up to 53 years in prison."
+    ],
+    "title": "House Ethics Subcommittee Finds Rep. Cherfilus-McCormick Guilty of 25 Violations",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/senate-unanimously-passes-dhs-funding-bill-excluding-ice-and-border-patrol-moving-to-end-airport-crisis_2db3b2",
+    "article_url": "https://ground.news/article/senate-unanimously-passes-dhs-funding-bill-excluding-ice-and-border-patrol-moving-to-end-airport-crisis_2db3b2",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 53.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
+    "right_pct": 20.0,
+    "status": "no_change",
+    "summary": [
+      "Early Friday, the U.S. Senate unanimously approved a bill funding most of the Department of Homeland Security, including the Transportation Security Administration, ending a 42-day partial shutdown that disrupted nationwide air travel.",
+      "The partial shutdown, which began on February 14, left thousands of employees without pay, prompting hundreds of TSA officers to resign and causing historically long security lines at major airports.",
+      "Lawmakers excluded Immigration and Customs Enforcement and parts of Customs and Border Protection from the funding package after Democrats demanded policy reforms, including warrant requirements, which Republicans rejected.",
+      "The legislation heads to the House for a potential Friday vote; if enacted, the measure could render President Donald Trump's executive order to pay TSA agents temporary or unnecessary.",
+      "Senate Majority Leader John Thune indicated Republicans may pursue separate funding for the excluded agencies through reconciliation, a strategy facing uncertain success amid the midterm election year."
+    ],
+    "title": "Senate Unanimously Passes DHS Funding Bill Excluding ICE and Border Patrol, Moving to End Airport Crisis",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/us-house-passes-temporary-funding-bill-to-end-homeland-security-shutdown",
+    "article_url": "https://ground.news/article/us-house-passes-temporary-funding-bill-to-end-homeland-security-shutdown",
+    "bias": [
+      "Left outlets portray the House GOP bill as PR-driven, doomed—highlighting Democrats' \"dead on arrival\" charge and framing Trump's pay order as a stopgap—whereas right outlets cast the move as bold resistance, using \"showdown,\" \"rival plan\" and \"fully\" to valorize GOP action and stress Trump support.",
+      "The left leans on derisive terms and a skeptical tone; the right uses combative, urgent language .",
+      "Center coverage is more clinical—using \"short-term\" and vote totals—while flashpoints like the TSA pay order and ICE/Border Patrol exclusions reveal divides; both agree the bill will likely stall in the Senate and the shutdown persists."
+    ],
+    "bias_bar_text": "Left 36% Center 46% R 18%",
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 36.0,
+    "location": null,
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, House Republicans passed a short-term Department of Homeland Security funding bill in a 213-203 vote, extending appropriations through May 22 while including Immigration and Customs Enforcement and Customs and Border Protection funding.",
+      "House Speaker Mike Johnson advanced the measure after rejecting a bipartisan Senate-passed bill that would have funded most of the department while withholding money for immigration enforcement agencies.",
+      "Senate Minority Leader Chuck Schumer denounced the House GOP bill as \"dead on arrival in the Senate,\" citing Democrats' insistence on reform guardrails for immigration enforcement agencies before providing funding.",
+      "With Congress in a two-week recess and no viable path for the House measure, the partial government shutdown is now set to last until at least April 13.",
+      "President Donald Trump ordered the Department of Homeland Security to pay Transportation Security Administration employees during the impasse, though operational disruptions and travel delays persist at airports."
+    ],
+    "title": "US House passes temporary funding bill to end Homeland Security shutdown",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/wall-street-has-its-worst-day-since-the-war-with-iran-started-and-crude-oil-prices-rise_490334",
-    "article_url": "https://ground.news/article/wall-street-has-its-worst-day-since-the-war-with-iran-started-and-crude-oil-prices-rise_490334",
+    "article_path": "/article/vp-vance-claims-rep-ilhan-omar-definitely-committed-immigration-fraud-by-allegedly-marrying-brother",
+    "article_url": "https://ground.news/article/vp-vance-claims-rep-ilhan-omar-definitely-committed-immigration-fraud-by-allegedly-marrying-brother",
     "bias": [
-      "Left outlets frame the market tumble—S&P about 1.7%, Nasdaq ~2.4% and over 10% below its record, Dow down ~469 points—as proof investors grew \"doubt\" and were \"whipsawed\" by President Trump's mixed signals , stressing bond-yield moves and political skepticism; right outlets present the same drops as driven by a diplomatic \"stalemate,\" Iran's denial of talks and \"harsh rhetoric,\" using terms like \"worst day\" and \"suffer\" to stress external threat.",
-      "Center coverage is more data-driven; all agree stocks fell and oil rose, revealing deeper hawkish vs. anti‑ war divides."
+      "Left outlets frame Vance's accusation as sensational and unsubstantiated—using dismissive phrasing like \"wildly claims\" and locating the rumor in \"MAGA circles,\" stressing Omar's repeated denials and prior debunking.",
+      "Right outlets present it as near‑certain wrongdoing—foregrounding \"definitely committed immigration fraud,\" the scandalous \"allegedly married her brother\" detail, and action‑oriented \"go after\" language that emphasizes investigation and prosecution.",
+      "Center coverage de‑emphasizes provenance, attributing the charge with neutral \"claims.",
+      "The pivotal divides are evidentiary substantiation and provenance; all agree Vance accused Omar, she denied it, and the White House is involved—reflecting broader ideological and cultural splits."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 19.0,
+    "error": null,
+    "left_pct": 5.0,
+    "location": "United States",
+    "right_pct": 76.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, Vice President JD Vance asserted that Representative Ilhan Omar \"definitely committed immigration fraud\" during an interview on The Benny Show, claiming she married her brother to secure his U.S. citizenship.",
+      "The long-standing claim alleges Omar entered a sham marriage with Ahmed Nur Said Elmi in 2009 to facilitate citizenship; Omar has repeatedly rejected these accusations as \"bigoted lies,\" asserting Trump remains obsessed with her.",
+      "Chairman James Comer and the House Oversight Committee are investigating Omar's finances, which reached at least $6 million—a 3,500% increase—coinciding with probes into the Quality Learning Center fraud scheme.",
+      "Vance confirmed he is working with senior advisor Stephen Miller to determine \"what are the legal remedies\" available, emphasizing that \"impunity breeds more corruption\" while questioning Omar's knowledge of community fraud.",
+      "The Justice Department and Congress are conducting separate investigations into Omar's financial disclosures, though Vance acknowledged he cannot yet prove she had direct knowledge of the Quality Learning Center scandal."
+    ],
+    "title": "JD Vance Alleges Immigration Fraud by Rep. Ilhan Omar, Cites Talks With Stephen Miller on Legal Options",
+    "topic": "JD Vance",
+    "topic_full": "JD Vance · United States"
+  },
+  {
+    "article_path": "/article/tehran-will-exact-heavy-price-warns-iran-foreign-minister-after-attacks-on-nuclear-sites-steel-factories",
+    "article_url": "https://ground.news/article/tehran-will-exact-heavy-price-warns-iran-foreign-minister-after-attacks-on-nuclear-sites-steel-factories",
+    "bias": [
+      "Left-Leaning coverage frames the strikes as undermining diplomacy, emphasizing phrases like \"contradict Trump’s extended diplomacy\" and spotlighting hits on steel factories and diplomatic timelines to portray escalation; right-leaning pieces legitimize force, stressing \"confirms strikes,\" the Arak \"key plutonium production site,\" and warnings like \"vows revenge\" or \"evacuate,\" adopting a securitized, authoritative tone.",
+      "Center coverage sits between, repeating Iran ’s \"exact 'heavy price'\" vow but de-emphasizing technical plutonium claims.",
+      "Both sides agree facilities were struck and Iran vowed retaliation, exposing a core split between diplomatic restraint and security-prioritization."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 23.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "Iran",
+    "right_pct": 44.0,
+    "status": "ok",
+    "summary": [
+      "The Israel Defense Forces announced Friday airstrikes targeting Iran's Arak heavy-water plant and Mobarakeh Steel Company, claiming the operation was coordinated with the United States to degrade Iran's military -industrial supply chain.",
+      "Isfahan Governor Mehdi Jamalnejad reported 25 workers killed in strikes across the province, with two power plants destroyed at capacities of 914 and 250 megawatts. Iranian Foreign Minister Abbas Araghchi vowed to exact a 'heavy price for Israeli crimes.'",
+      "The International Atomic Energy Agency is investigating an attack on a uranium processing facility in Yazd, confirming no off-site radiation leaks. Iran separately agreed to 'facilitate the passage of humanitarian shipments through the Strait of Hormuz' per United Nations requests."
+    ],
+    "title": "Iran says Israeli strikes violated Trump’s deadline; pledges to ‘exact heavy price’",
+    "topic": "2026 Iran Conflict",
+    "topic_full": "2026 Iran Conflict · Iran"
+  },
+  {
+    "article_path": "/article/bank-of-america-agrees-to-pay-725-million-to-settle-epstein-accusers-lawsuit",
+    "article_url": "https://ground.news/article/bank-of-america-agrees-to-pay-725-million-to-settle-epstein-accusers-lawsuit",
+    "bias": [
+      "Left-Leaning outlets frame the $72.5 million settlement as corporate accountability, using terms like \"victim\" and \"facilitating\" to emphasize the bank's responsibility.",
+      "Conversely, right-leaning coverage portrays the payout as a \"dramatic move\" to avoid \"courtroom drama,\" suggesting the bank is \"turning a blind eye\" to scandal.",
+      "While the left presents the figure as a win for justice, the right de-emphasizes judicial oversight, framing the payment as a strategic tactic.",
+      "Center-Leaning reports provide broader context, noting a \"plethora\" of ignored warnings.",
+      "Ultimately, all sides agree the payout ends litigation involving Epstein’s sex-trafficking, reflecting a shared focus on institutional failure."
     ],
     "bias_bar_text": null,
     "center_pct": 48.0,
     "error": null,
-    "left_pct": 39.0,
-    "location": null,
-    "right_pct": 13.0,
+    "left_pct": 26.0,
+    "location": "United States",
+    "right_pct": 26.0,
     "status": "ok",
     "summary": [
-      "U.S. stocks slid sharply on Thursday, with the S&P 500 falling 1.7% and the Nasdaq sinking 2.4%, putting major indexes on track for a fifth straight losing week. The Dow Jones Industrial Average dropped 1%.",
-      "Rising oil prices fueled the decline as Iran tightened control of the Strait of Hormuz, which carries one-fifth of global oil. Brent crude climbed 4.8% to $101.89 per barrel, creating a \"toll booth\" effect for tankers.",
-      "The jump in energy prices pushed the 10-year Treasury yield to 4.41%, increasing borrowing costs for households and businesses. Meta Platforms fell 8.1% and Alphabet sank 3.3% in a landmark social-media addiction trial aftermath.",
-      "President Donald Trump softened his rhetoric Thursday, delaying a threat to \"obliterate\" Iranian power plants until April 6 to allow more time for talks. Trump stated, \"They better get serious soon, before it is too late.\"",
-      "This sustained downturn marks the longest losing streak in nearly four years, reflecting deep market uncertainty. Apple was an outlier, inching up 0.1%, as investors weigh potential for further economic pain."
+      "On Friday, Bank of America agreed to pay $72.5 million to settle a civil lawsuit brought by women who accused the institution of facilitating sexual abuse by Jeffrey Epstein, court records showed.",
+      "Jane Doe, the plaintiff using a pseudonym, alleged the bank ignored suspicious financial transactions despite a \"plethora\" of information about Epstein's crimes, prioritizing profit over victim protection.",
+      "Attorneys David Boies and Bradley Edwards called the settlement the \"best option for their clients\" given many suffered harm years ago, while counsel may seek up to 30% of the settlement, or about $21.8 million, for legal fees.",
+      "A Bank of America spokesperson stated the bank denies facilitating \"sex trafficking crimes,\" yet the settlement allows the institution to provide closure for plaintiffs pending U.S. District Judge Jed Rakoff's approval at a Thursday hearing.",
+      "Epstein's associates faced prior settlements of $290 million with JPMorgan Chase and $75 million with Deutsche Bank, while Apollo Global Management co-founder Leon Black paid $158 million for tax planning related to Epstein."
     ],
-    "title": "Wall Street has its worst day since the war with Iran started and crude oil prices rise",
-    "topic": null,
-    "topic_full": null
+    "title": "Bank of America agrees to pay $72.5 million to settle Epstein accusers' lawsuit",
+    "topic": "Bank of America",
+    "topic_full": "Bank of America · United States"
   },
   {
-    "article_path": "/article/senate-passes-homeland-security-budget-deal-after-tsa-airport-chaos",
-    "article_url": "https://ground.news/article/senate-passes-homeland-security-budget-deal-after-tsa-airport-chaos",
+    "article_path": "/article/arctic-sea-ice-just-dropped-to-an-alarming-new-low",
+    "article_url": "https://ground.news/article/arctic-sea-ice-just-dropped-to-an-alarming-new-low",
     "bias": [
-      "Left-Leaning coverage frames the Senate action as urgent and operational—highlighting \"airport chaos,\" a \"rare overnight session\" and restoration of services—while right-leaning coverage frames the same vote as a partisan sacrifice, using phrases like \"at cost for Republicans,\" \"ceding ground,\" and spotlighting the bill moving \"without ICE funding\" to signal conservative loss; center outlets use procedural, forward-looking language that de-emphasizes partisan blame.",
-      "The pivotal divides are ICE funding and airport impacts; all sides agree the Senate funded most of DHS and sent the measure to the House, reflecting a split between humanitarian and enforcement/party-preservation priorities."
-    ],
-    "bias_bar_text": "Left 40% C 20% Right 40%",
-    "center_pct": 20.0,
-    "error": null,
-    "left_pct": 40.0,
-    "location": null,
-    "right_pct": 40.0,
-    "status": "ok",
-    "summary": [
-      "The Senate unanimously passed a funding bill for the Department of Homeland Security, moving to end a six-week partial shutdown that caused historic security wait times at airports nationwide.",
-      "While the bill excludes Immigration and Customs Enforcement and parts of Customs and Border Protection, both divisions remain operational because they received funds last year via the \"One Big, Beautiful Bill Act.\"",
-      "Senate Minority Leader Chuck Schumer told reporters, \"We need reforms to ICE,\" while Republicans and the White House rejected Democratic demands for judicial warrants for immigration raids and mask-wearing bans."
-    ],
-    "title": "Senate Approves Funding for Most of DHS, Moving to End Airport Crisis",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/newsom-signs-bill-renaming-californias-cesar-chavez-day",
-    "article_url": "https://ground.news/article/newsom-signs-bill-renaming-californias-cesar-chavez-day",
-    "bias": [
-      "Left-Leaning coverage frames the change as corrective—using verbs and closure language like \"is no more\" and \"officially scrap\" and stressing communities are \"reshaping\" memorials—while right-leaning coverage foregrounds scandal with sensational terms such as \"horrific,\" \"rape,\" \"bombshell\" and phrases like \"renamed, postponed or canceled,\" implying swift retribution.",
-      "Key divides are whether allegations are presented as the causal driver, whether accusers or investigative sourcing are named, and whether legislative specifics or community impacts are emphasized; left de-emphasized the UFW stance.",
-      "Both sides report the renaming to Farmworkers Day and the governor’s signature, reflecting debates over memorialization versus accountability."
-    ],
-    "bias_bar_text": "Left 28% Center 51% R 21%",
-    "center_pct": 51.0,
-    "error": null,
-    "left_pct": 28.0,
-    "location": null,
-    "right_pct": 21.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, California Governor Gavin Newsom signed Assembly Bill 2156 into law, immediately renaming Cesar Chavez Day statewide to Farmworkers Day, shifting focus toward recognizing agricultural workers' broader contributions.",
-      "Following public allegations reported by The New York Times that Chavez sexually abused women and girls, labor rights activist Dolores Huerta among those accusing him, lawmakers moved to act.",
-      "The measure cleared the California Senate with a unanimous 37-0 vote on Thursday, including an urgency clause enabling immediate implementation. State Senator Melissa Hurtado said the change honors \"generations of sacrifice.\"",
-      "California State University, Fresno, covered a statue of the former leader, while the United Farm Workers announced it will not participate in events named after him.",
-      "Beyond California, jurisdictions across the U.S. are actively removing the labor leader's name from public landmarks. Denver officials recently renamed their annual celebration to Si Se Puede Day, while other cities cancel or rebrand events."
-    ],
-    "title": "Newsom signs bill renaming California’s Cesar Chavez Day",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/appeals-court-pauses-ruling-that-limits-federal-force-outside-portland-ice-building",
-    "article_url": "https://ground.news/article/appeals-court-pauses-ruling-that-limits-federal-force-outside-portland-ice-building",
-    "bias": [
-      "Left-Leaning coverage frames the appeals court as having \"paused\" limits on federal officers' \"use\" of \"tear gas,\" terse and de-emphasizing legal detail, while right-leaning coverage emphasizes restoration of federal authority with law-and-order language—\"pauses,\" \"restricting\"—and partisan or derisive phrases like \"crime crackdown\" and \"inflatable frog protesters.",
-      "Center pieces foreground procedural specifics and local reactions—residents calling it \"really disappointing\" and officials \"alarmed.",
-      "Pivotal divides include portrayals of protesters and the Trump administration 's role; all agree a pause occurred and protests continue, exposing enforcement-versus-civil-liberties fault lines."
+      "Left-Leaning coverage frames the tied record low as evidence of human-caused crisis—using words like \"alarming,\" \"destruction,\" and \"smashed/shattered records\" and stressing ecosystem and Greenland impacts—while right-leaning pieces emphasize scientists’ warning , geopolitical stakes and precise metrics , de-emphasizing attribution and local impacts; center reports focus on technical definitions and preliminary methods .",
+      "All sides cite the NSIDC and the tied record, revealing a split between environmental urgency and strategic/technical framing rooted in broader ideological priorities."
     ],
     "bias_bar_text": null,
-    "center_pct": 82.0,
+    "center_pct": 51.0,
     "error": null,
-    "left_pct": 6.0,
-    "location": "Portland",
-    "right_pct": 12.0,
+    "left_pct": 29.0,
+    "location": "United States",
+    "right_pct": 20.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, the Ninth Circuit Court of Appeals temporarily blocked lower court rulings that restricted federal agents from using tear gas and crowd-control methods at the Portland Immigration and Customs Enforcement facility.",
-      "Earlier this month, federal judges in Oregon issued preliminary injunctions after lawsuits from the ACLU of Oregon and residents of Gray's Landing alleged that federal officers' use of chemical munitions violated their rights.",
-      "In a 2-1 decision, the three-judge panel sided with the Trump administration, while the Department of Homeland Security maintains it is authorized to take necessary actions to diffuse violence against officers.",
-      "Kelly Simon, ACLU of Oregon's legal director, expressed disappointment that the appeals court paused the injunction before hearing from clients, adding, \"We look forward to discussing the law and facts with the court."
+      "Arctic sea ice shrank to its lowest recorded winter level this year, tying with last year's level.",
+      "Temperature records were broken across multiple continents, with climatologists describing the March heat as the most extreme in world history.",
+      "The melting sea ice continues a downward trend observed over the last several decades, giving a head start to the spring and summer melt season."
     ],
-    "title": "Appeals Court Pauses Orders Restricting Federal Officers’ Use of Tear Gas at Portland ICE Building",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · Portland"
+    "title": "Arctic sea ice at lowest recorded winter level as heat records smashed",
+    "topic": "Environment & Climate",
+    "topic_full": "Environment & Climate · United States"
   },
   {
-    "article_path": "/article/state-department-reveals-worlds-most-dangerous-countries-for-americans",
-    "article_url": "https://ground.news/article/state-department-reveals-worlds-most-dangerous-countries-for-americans",
+    "article_path": "/article/vance-rebuked-netanyahu-for-overselling-iran-war-to-trump-officials-say_24fd7b",
+    "article_url": "https://ground.news/article/vance-rebuked-netanyahu-for-overselling-iran-war-to-trump-officials-say_24fd7b",
     "bias": [
-      "Right-Leaning coverage frames the State Department map as an urgent national-security story—using language like \"reveals,\" \"most dangerous,\" \"for Americans,\" and stressing specifics such as a \"Level 4\" advisory for Iran, \"evacuation flights\" and embassy closures and citing \"more than 20 countries,\" thereby portraying concrete government action and regional confrontation; center coverage emphasizes a broader trend—phrases like \"huge number of countries\"—de-emphasizing country-level and operational details; left-leaning angles are de-emphasized in these analyses; both sides nonetheless portray rising travel warnings, reflecting deeper divides over threat-focus versus global-context framing."
+      "Left coverage frames the exchange as hostile manipulation—using \"smear campaign\" and alleging Tehran influences who the U.S. negotiates with—portraying Vance as targeted; right coverage elevates Vance as a \"key player,\" calls his role \"most critical,\" says Netanyahu \"sold\" an \"overly optimistic\" war view and uses \"bamboozling.",
+      "Center pieces use \"pressed\" and the vivid \"rips into\" to report friction.",
+      "All rely on a single primary report, lack direct confirmations from principal actors, unevenly report Vance's formal mandate, and leave smear/Tehran claims uncorroborated—differences rooted in ideological and geopolitical priorities."
     ],
-    "bias_bar_text": "Center 33% Right 67%",
-    "center_pct": 33.0,
+    "bias_bar_text": null,
+    "center_pct": 19.0,
     "error": null,
-    "left_pct": null,
-    "location": null,
+    "left_pct": 14.0,
+    "location": "Washington",
     "right_pct": 67.0,
     "status": "ok",
     "summary": [
-      "The U.S. State Department updated its travel advisory map, listing Iran as a Level 4 'Do Not Travel' country due to risks including wrongful detention, kidnapping, terrorism, and civil unrest.",
-      "Saudi Arabia, Oman, Kuwait, and Bahrain have been raised from Level 2 to Level 3, advising Americans to reconsider travel there because of serious safety risks.",
-      "Parts of Mexico, such as Sinaloa and Colima, are rated Level 4 due to cartel violence, while other regions have lower risk levels.",
-      "Americans traveling abroad are encouraged to enroll in the Smart Traveler Enrollment Program for security alerts and emergency notices from U.S. embassies and consulates worldwide."
+      "On Friday, Vice President JD Vance emerged as the administration's primary negotiator for potential peace talks with Iran, replacing previous envoys Steve Witkoff and Jared Kushner.",
+      "Friction between Washington and Tel Aviv intensified after Vance confronted Israeli Prime Minister Benjamin Netanyahu on Monday, criticizing his \"overly optimistic\" predictions about the war.",
+      "Administration officials suspect Israeli operatives are attempting to undermine the vice president, with one source calling the narrative \"It's an Israeli op against JD.\"",
+      "While Iran reportedly views Vance as a more attractive interlocutor than his predecessors, he remains bound by President Donald Trump's instructions to achieve outcomes the president prefers.",
+      "Iran insists on its own timeline for ending the war, while Vance coordinates with senior Emirati officials and the prime minister of Qatar to advance diplomatic objectives."
     ],
-    "title": "State Department reveals world's most dangerous countries for Americans",
+    "title": "Vance Rebuked Netanyahu for Overselling Iran War to Trump, Officials Say",
+    "topic": "JD Vance",
+    "topic_full": "JD Vance · Washington"
+  },
+  {
+    "article_path": "/article/iranian-attack-on-saudi-base-injures-at-least-10-us-troops-and-damages-several-planes_351574",
+    "article_url": "https://ground.news/article/iranian-attack-on-saudi-base-injures-at-least-10-us-troops-and-damages-several-planes_351574",
+    "bias": [
+      "Left-Leaning coverage emphasizes humanitarian and diplomatic consequences—using terms like \"injured,\" \"damages,\" and \"retaliation\" and spotlighting a U.S. 15‑point ceasefire offer alongside simultaneous troop deployments—framing a policy contradiction; right-leaning coverage foregrounds security and national sentiment—using words like \"wounded,\" \"missile,\" \"drone,\" \"Americans,\" and rhetoric about widening war and leaders who \"boasted\"—often stressing casualty counts and specific base names.",
+      "Key dividing lines are attribution uncertainty, the ceasefire-versus-escalation narrative, and cumulative casualty framing; center outlets hedge with sourcing caveats.",
+      "All sides agree at least 10 U.S. service members were wounded and aircraft damaged, exposing broader ideological and geopolitical priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 54.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "United States",
+    "right_pct": 17.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, an Iranian missile and drone strike hit Prince Sultan Airbase in Saudi Arabia, wounding 10 American service members, two of whom remain in serious condition.",
+      "The strike comes as the American military continues pouring assets into the region to combat Iranian attacks, with Defense Secretary Pete Hegseth approving a request from Central Command to deploy additional Marines.",
+      "Central Command reported earlier Friday that more than 300 service members have been wounded in the monthlong conflict, with Captain Tim Hawkins noting 273 have returned to active duty.",
+      "President Donald Trump recently extended his deadline for Iran to open the Strait of Hormuz to April 6, while Israeli Defense Minister Israel Katz warned that attacks on the regime will escalate.",
+      "Thousands of American troops remain en route to the region, though Secretary of State Marco Rubio stated objectives can be achieved without ground forces, providing \"maximum optionality and maximum opportunity."
+    ],
+    "title": "Iranian attack on Saudi base injures at least 10 U.S. troops and damages several planes",
+    "topic": "2026 Iran Conflict",
+    "topic_full": "2026 Iran Conflict · United States"
+  },
+  {
+    "article_path": "/article/workers-strike-at-one-of-the-largest-us-meatpacking-plants-will-continue-for-a-3rd-week",
+    "article_url": "https://ground.news/article/workers-strike-at-one-of-the-largest-us-meatpacking-plants-will-continue-for-a-3rd-week",
+    "bias": [
+      "Left-Leaning coverage frames this as a worker-centered fight—using terms like \"walkout\" and \"pushing for higher wages and better health care,\" noting thousands extending into a third week and a March 16 start—while right-leaning pieces emphasize operational strain, citing company language such as \"operating at limited capacity\" and shifted production.",
+      "The left uses sympathetic, persistence-focused rhetoric; the right uses disruption- and management-focused language.",
+      "Center reporting is concise and often de-emphasizes expert and mitigation details.",
+      "Key dividing lines are start-date/context, potential price impacts, and mitigation steps; both agree the strike is ongoing and has reduced plant output, reflecting labor-versus-business fault lines."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 24.0,
+    "error": null,
+    "left_pct": 60.0,
+    "location": "Colorado",
+    "right_pct": 16.0,
+    "status": "ok",
+    "summary": [
+      "Employees at the JBS Beef Plant in Greeley, Colorado , are extending their strike into a third week as they demand higher wages and improved health care benefits.",
+      "The walkout began March 16 with 99% support from 3,800 workers represented by the United Food and Commercial Union Local, who rejected the company's 2% wage hike offer as insufficient.",
+      "Owner JBS USA is operating the facility at limited capacity and shifting production elsewhere, marking the first U.S. slaughterhouse strike since the 1985 Hormel walkout in Minnesota.",
+      "Jennifer Martin at Colorado State University noted the industry may see increased profits from reduced harvest capacity, benefiting larger competitors despite operational challenges for the $17 billion JBS.",
+      "President Kim Cordova stated the union remains ready to meet with JBS at any time, but workers will continue their fight until the company resolves pay and benefit concerns."
+    ],
+    "title": "Workers' strike at one of the largest US meatpacking plants will continue for a 3rd week",
+    "topic": "Labor Strike",
+    "topic_full": "Labor Strike · Colorado"
+  },
+  {
+    "article_path": "/article/microsoft-takes-over-a-texas-ai-data-center-expansion-after-openai-backs-away_321fb8",
+    "article_url": "https://ground.news/article/microsoft-takes-over-a-texas-ai-data-center-expansion-after-openai-backs-away_321fb8",
+    "bias": [
+      "Left-Leaning coverage frames the shift as a corporate retreat and takeover, using charged phrasing like \"backs away\" and \"takes over\" to emphasize OpenAI's pullback and perceived consolidation; right-leaning pieces foreground scale and market triumph, highlighting \"900 MW,\" \"~2.1 GW,\" and promotional labels such as \"AI Factory Campus\" while using words like \"boosting capacity\" or \"aggressively expand.",
+      "Center coverage stresses a strategic split—a \"telling sign\" that the partners have \"drifted apart.",
+      "The pivotal divides are OpenAI’s decision to drop expansion versus technical/energy and commercial details ; all sides nonetheless agree Microsoft is taking the project and the sites will be neighbors, reflecting deeper ideological splits between skepticism of corporate power and enthusiasm for technological growth."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 42.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "Texas",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, data center developer Crusoe announced it is working with Microsoft to build two new \"AI factory\" buildings and an on-site power plant in Abilene, Texas, adjacent to an existing computing campus.",
+      "Microsoft is taking over the project after OpenAI declined to pursue it earlier this month, marking a shift as the two companies increasingly develop AI separately despite remaining neighbors on the same tract of land.",
+      "The expansion adds 900 megawatts of power generation and two data halls, bringing total site capacity to 2.1 gigawatts across 10 facilities expected to supply computing power for artificial intelligence infrastructure.",
+      "Currently in the \"land-clearing and site preparation\" phase, Crusoe CEO Chase Lochmiller said the project will \"continue building the industrial foundation for American AI at a velocity the industry has never seen.\"",
+      "Crusoe does not anticipate the new facilities will be operational until the middle of next year, while the firm completes six additional buildings for OpenAI and Oracle due by year-end."
+    ],
+    "title": "Microsoft takes over a Texas AI data center expansion after OpenAI backs away",
+    "topic": "Technology",
+    "topic_full": "Technology · Texas"
+  },
+  {
+    "article_path": "/article/polands-tusk-warns-of-imminent-escalation-in-iran-war_a042e3",
+    "article_url": "https://ground.news/article/polands-tusk-warns-of-imminent-escalation-in-iran-war_a042e3",
+    "bias": [
+      "Left coverage presents Tusk's remark as a near-term risk—framing \"escalation in the coming days\" straightforwardly—whereas right outlets amplify threat and material stakes, using language like \"fears escalation,\" warning about \"oil prices,\" and stressing it could be \"drawing more players into the fray\" while linking to U.S.-Iran diplomacy.",
+      "Center reports emphasize Tusk's conviction with \"I have reason to believe this\" and cites wire sourcing, while the left de-emphasizes sourcing and economic context.",
+      "Crucial dividing lines are economic impact, U.S. diplomatic signals, and sourcing; all agree a near-term escalation is possible and tie it to regional instability, reflecting security‑vs.-caution ideological priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "Poland",
+    "right_pct": 38.0,
+    "status": "ok",
+    "summary": [
+      "Polish Prime Minister Donald Tusk warned that stabilization in the Middle East is unlikely in the coming days, citing information from allies and the potential for escalation following US and Israeli strikes on Iran.",
+      "Tusk described the conflict as moving toward a regional war that could destabilize the world and called the situation the most dangerous since World War II.",
+      "Poland has taken precautionary measures, including urging citizens to leave Iran and launching evacuation efforts in the Middle East.",
+      "Tusk emphasized that coordination with NATO and EU allies is crucial while warning that further escalation could directly impact European security."
+    ],
+    "title": "Poland's Tusk Warns of Imminent Escalation in Iran War",
+    "topic": "Europe",
+    "topic_full": "Europe · Poland"
+  },
+  {
+    "article_path": "/article/idaho-legislature-passes-bill-to-expand-prison-sex-abuse-law",
+    "article_url": "https://ground.news/article/idaho-legislature-passes-bill-to-expand-prison-sex-abuse-law",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": 43.0,
+    "location": "Idaho",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "On Tuesday, the Idaho Senate passed House Bill 696, which simplifies prosecuting prison staff for sexual abuse; the legislation now awaits final approval from Governor Brad Little.",
+      "Current statutes, over 30 years old, restrict definitions of abuse to genital contact, often failing to address incidents like groping. InvestigateWest reporters found 37 prison workers accused of sexual misconduct in the last decade, with most avoiding consequences.",
+      "The legislation classifies willful physical contact for sexual gratification as a felony. This update aligns state regulations with federal standards under the Prison Rape Elimination Act, prohibiting inappropriate touching and harassment.",
+      "Idaho Falls Republican Rep. Marco Erickson and Middleton Republican Sen. Tammy Nichols sponsored the measure, which received 34 votes in favor. The Department of Correction supports the bill, stating it \"gives us more teeth.\"",
+      "Governor Little's communications director, Emily Callihan, did not respond to inquiries regarding his plans to sign the legislation. Previously, the governor's office supported concealing officer employment histories, complicating efforts to ensure accountability."
+    ],
+    "title": "Idaho Legislature passes bill to expand prison sex abuse law",
+    "topic": "Idaho Politics",
+    "topic_full": "Idaho Politics · Idaho"
+  },
+  {
+    "article_path": "/article/inside-montanas-conflict-with-its-capital-city-over-immigration-enforcement",
+    "article_url": "https://ground.news/article/inside-montanas-conflict-with-its-capital-city-over-immigration-enforcement",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 75.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "Montana",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "On Thursday, the Helena City Commission voted 4-1 to rescind its January immigration resolution, which had limited local police cooperation with federal immigration agents, following legal threats from the state.",
+      "Montana Attorney General Austin Knudsen alleged the resolution violated a 2021 state law banning \"sanctuary cities,\" threatening $10,000 fines every five days and potential loss of $14 million in annual state funding.",
+      "More than 200 attendees packed the Helena Civic Center Thursday, where residents debated fiercely; many criticized state tactics as \"political theater\" and \"bullying,\" while others warned of financial peril.",
+      "Commissioners directed city attorneys to draft amended language for a potential new resolution and present it to Attorney General Austin Knudsen's office within 30 days to gauge compliance.",
+      "Mayor Emily Dean called the state's intervention \"infuriating,\" expressing alarm over \"state overreach\" regarding local values and control, though the city remains committed to negotiating a lawful compromise with state officials."
+    ],
+    "title": "Helena city commission scraps immigration resolution, citing legal risk",
+    "topic": "Montana Politics",
+    "topic_full": "Montana Politics · Montana"
+  },
+  {
+    "article_path": "/article/breonna-taylors-mother-speaks-out-after-charges-against-officers-dropped",
+    "article_url": "https://ground.news/article/breonna-taylors-mother-speaks-out-after-charges-against-officers-dropped",
+    "bias": [
+      "Left-Leaning coverage frames the dismissal through victim-centered, accusatory language—highlighting the family's voice and phrases like \"killed because of their lies and negligence\" and calls that \"somebody should be held accountable,\" while using charged terms such as \"falsifying,\" \"raid,\" and \"crafted\" to imply misconduct; center outlets emphasize the procedural outcome with neutral words like \"dismissed\" or \"dropped,\" de-emphasizing family outrage and prosecutors' reasoning; right-leaning coverage is de-emphasized here, so contrasts center on moral outrage versus legal process, though both report the judge's dismissal and the officers' names."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 31.0,
+    "error": null,
+    "left_pct": 56.0,
+    "location": "Kentucky",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, U.S. District Court Judge Charles Simpson III dismissed all remaining charges against former Louisville Metro Police Department officers Joshua Jaynes and Kyle Meany with prejudice, ending federal prosecution in the case.",
+      "Prosecutors previously accused Jaynes and Meany of falsifying the affidavit used to obtain the search warrant for Breonna Taylor's apartment; the Department of Justice requested dismissal under the new administration.",
+      "Tamika Palmer, mother of Breonna Taylor, criticized the decision on Tuesday, stating her daughter \"always deserved more than the scraps of justice she got\" and that for her, \"every day\" has been March 13.",
+      "U.S. Rep. Morgan McGarvey sent a letter to Attorney General Pam Bondi on Friday, urging the Justice Department to \"stop interfering with and undermining Louisville's efforts to deliver justice\" for the Taylor family.",
+      "While these charges ended, former officer Brett Hankison is currently appealing a 33-month sentence for civil rights violations, and Kelly Goodlett, who pleaded guilty to conspiracy charges in 2022, awaits sentencing."
+    ],
+    "title": "Federal judge dismisses charges against ex-Louisville officers who crafted Breonna Taylor warrant",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Kentucky"
+  },
+  {
+    "article_path": "/article/5-defendants-each-sentenced-to-5-years-in-plea-deal-for-fatal-alabama-birthday-party-shooting",
+    "article_url": "https://ground.news/article/5-defendants-each-sentenced-to-5-years-in-plea-deal-for-fatal-alabama-birthday-party-shooting",
+    "bias": [
+      "Coverage divides along narrative lines: left outlets foreground victims’ families’ outrage—using phrases like \"did not match the nature of the crime\" and \"sharply criticized\"—framing five-year sentences as morally insufficient, while right outlets emphasize legal and procedural updates—\"plea deal,\" \"guilty pleas,\" \"court records\"—adopting a technical, case-focused tone and de-emphasizing emotional reaction.",
+      "Pivotal flashpoints include the adequacy of five-year terms and casualty details , which trigger starkly different framings; center reporting stays neutral and restrained.",
+      "Both sides, however, agree on the plea deals and sentence outcomes, reflecting deeper ideological splits over justice and accountability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "Alabama",
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "Five men—Willie Brown, Wilson Hill, Travis McCollough, Tyreese McCollough, and Sherman Peters—pleaded guilty to reckless murder Friday and received five-year prison sentences plus 15 years of probation for their roles in the 2023 Dadeville, Alabama, birthday party shooting that killed four people.",
+      "Erupting during a birthday party in 2023, gunfire killed four and wounded more than 30 in Dadeville, a city of 3,200 residents in Alabama, drawing national attention to the tragedy.",
+      "District Attorney Mike Segrest defended the plea deals as the best outcome, citing evidentiary limits that prevented determining who fired first during the exchange with Corbin Holston, whose murder charge was dropped.",
+      "Some victims' families sharply criticized the sentences as inadequate, with Amy Jackson, cousin of Shaunkivia Nicole KeKe Smith, telling WSFA that justice would require \"at least 30 years\" in prison.",
+      "Only Tyreese McCollough addressed the court, saying he was \"very sorry\" for what happened, while a sixth defendant received youthful offender status, keeping their court records non-public regarding the deaths of Philstavious Phil Dowdell, Marsiah Emmanuel Siah Collins, and Smith."
+    ],
+    "title": "5 defendants each sentenced to 5 years in plea deal for fatal Alabama birthday party shooting",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Alabama"
+  },
+  {
+    "article_path": "/article/a-federal-judge-orders-better-attorney-access-at-floridas-alligator-alcatraz",
+    "article_url": "https://ground.news/article/a-federal-judge-orders-better-attorney-access-at-floridas-alligator-alcatraz",
+    "bias": [
+      "Left coverage emphasizes the facility’s punitive image—using the nickname \"Alligator Alcatraz\" and portraying the judge as remedying rights violations by saying he \"orders\" \"better\" attorney access—deploying moralized, sympathetic language; right coverage frames the same ruling in a law‑and‑order register, casting the order as a judicial grant of privileges and using a terse, skeptical tone that implies overreach.",
+      "Rhetorical tactics differ: evocative labels and grievance language on the left versus clipped, punitive framing on the right; a pivotal dividing line is inclusion of the \"preliminary injunction\" specifics and senators’ calls about \"abuses,\" which center reporting foregrounds.",
+      "Both agree the judge required improved attorney access, reflecting broader civil‑liberties versus security and immigration fault lines."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 66.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "Florida",
+    "right_pct": 6.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, U.S. District Judge Sheri Polster Chappell ruled that the Alligator Alcatraz immigration detention facility in the Florida Everglades must improve attorney access for detainees.",
+      "Republican Gov. Ron DeSantis' administration built the facility to \"support President Donald Trump's immigration policies,\" yet attorneys allege that restrictive visiting and communication protocols violate detainee rights.",
+      "Mandating free, unmonitored legal calls, the preliminary injunction requires at least one operable telephone for every 25 people held at the facility, addressing scheduling delays that hindered representation.",
+      "Plaintiffs claim their First Amendment rights were violated by forced three-day advance scheduling requirements, while state officials deny restricting access, citing security and staffing challenges.",
+      "The Florida Department of Emergency Management, which oversees the detention center, did not respond to inquiries Friday, leaving the facility's immediate operational adjustments uncertain."
+    ],
+    "title": "A Federal Judge Orders Better Attorney Access at Florida’s ‘Alligator Alcatraz’",
+    "topic": "Florida Politics",
+    "topic_full": "Florida Politics · Florida"
+  },
+  {
+    "article_path": "/article/education-department-sets-deadline-for-student-loan-borrowers-to-get-out-of-save-plan",
+    "article_url": "https://ground.news/article/education-department-sets-deadline-for-student-loan-borrowers-to-get-out-of-save-plan",
+    "bias": [
+      "Left-Leaning coverage frames the move as politically driven and harmful, using victim-centered, urgent language—terms like \"shameful,\" \"axes,\" \"forced onto costly plans\" and \"at risk\"—to spotlight low‑income borrowers' plight; right-leaning coverage was de-emphasized in the provided analyses, while center coverage treats it as bureaucratic fallout from a court termination, emphasizing deadlines and specifics—\"sets deadline,\" \"prepare,\" \"limbo\"—and cites 7 million versus 7.5 million and a July‑1/'end of summer' timeline.",
+      "A pivotal dividing line is attribution , yet both report notices to roughly 7–7.5 million borrowers and the need to pick new repayment plans, reflecting ideological splits over protection versus process."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 72.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "United States",
+    "right_pct": 3.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, the Department of Education began notifying 7 million borrowers enrolled in the Saving on a Valuable Education Plan that they must select a new repayment option following a federal court ruling.",
+      "The SAVE Plan, launched by President Joe Biden to reduce Americans' student debt burden, was struck down earlier this month by the U.S. Court of Appeals for the 8th Circuit.",
+      "Under Secretary of Education Nicholas Kent said loan servicers will provide borrowers at least 90 days to select a new plan; those failing to switch within three months will be automatically re-enrolled in the Standard Plan.",
+      "Transitioning borrowers could pay more than $300 extra per month under the Standard Plan, which typically carries the highest monthly payments, with poorest borrowers facing the sharpest increases.",
+      "All but one repayment program will dissolve on July 1, 2028, following Republican budget legislation, while officials stated borrowers will receive additional guidance over the next week."
+    ],
+    "title": "Education Department sets deadline for student loan borrowers to get out of SAVE Plan",
+    "topic": "Student Loans",
+    "topic_full": "Student Loans · United States"
+  },
+  {
+    "article_path": "/article/2-students-dead-and-at-least-7-others-injured-in-tennessee-school-bus-crash_69c382",
+    "article_url": "https://ground.news/article/2-students-dead-and-at-least-7-others-injured-in-tennessee-school-bus-crash_69c382",
+    "bias": [
+      "Left coverage emphasizes the human tragedy—portraying victims as middle‑school children, highlighting the \"field trip\" context and citing \"25 students and five adults\"—while right pieces are terse, foregrounding outcomes and operational details like people \"flown to hospitals,\" often framed with \"Officials say.",
+      "Rhetorically the left uses sympathetic, situational detail, the center leans \"devastating\"/\"tragic\" plus investigatory specifics, and the right favors detached summary; disputes over vehicle details and passenger counts are pivotal dividing lines.",
+      "Both sides nevertheless report the deaths, injuries, and official sources, reflecting differing ideological priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 54.0,
+    "error": null,
+    "left_pct": 42.0,
+    "location": "Tennessee",
+    "right_pct": 4.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, a Kenwood Middle School bus collided with a Tennessee Department of Transportation dump truck and a Chevrolet Trailblazer near Highway 70 in Carroll County, killing two students and injuring at least seven others.",
+      "The bus carried 25 students and five adults traveling to Jackson, Tennessee, for a Green Power curriculum field trip when the crash occurred around noon on Friday.",
+      "Emergency responders airlifted several patients to trauma centers in Nashville and Memphis, while four injured students were admitted to Monroe Carell Jr. Children's Hospital at Vanderbilt and listed in stable condition.",
+      "Clarksville-Montgomery County School System officials contacted families of all passengers and directed them to a reunification site in Huntingdon, Tennessee, following the collision.",
+      "Major Travis Plotzer of the Tennessee Highway Patrol confirmed an active investigation into the crash's cause, while State Rep. Aron Maberry urged the community to support those affected by the tragedy."
+    ],
+    "title": "2 students dead and at least 7 others injured in Tennessee school bus crash",
+    "topic": "Accident",
+    "topic_full": "Accident · Tennessee"
+  },
+  {
+    "article_path": "/article/rubio-denies-zelenskyys-claim-that-the-us-asked-ukraine-to-cede-land-to-russia-for-security-deal_8f2f35",
+    "article_url": "https://ground.news/article/rubio-denies-zelenskyys-claim-that-the-us-asked-ukraine-to-cede-land-to-russia-for-security-deal_8f2f35",
+    "bias": [
+      "Coverage splits into two narratives: left-leaning pieces foreground Rubio’s forceful rebuttal, repeating labels like \"lie\"/\"lying\" and framing Zelenskyy’s claim as false, while right-leaning pieces amplify that denunciation with pejoratives such as \"Kiev regime\" and absolutist language like \"This is a lie\" to delegitimize Kyiv and stress colder U.S.– Ukraine ties.",
+      "Center outlets de-emphasize moralizing labels, emphasizing wire-service sourcing and the G7 diplomatic context .",
+      "The pivotal flashpoints—Zelenskyy’s allegation about ceding Donbas and the mischaracterized official title for Rubio—reveal partisan framing even as all report the same core dispute, reflecting deeper ideological and geopolitical divides."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 31.0,
+    "location": "United States",
+    "right_pct": 19.0,
+    "status": "ok",
+    "summary": [
+      "Secretary of State Marco Rubio denied Friday that the US demanded Ukraine cede the Donbas region to Russia to receive security guarantees, rejecting recent assertions by Ukrainian President Volodymyr Zelenskyy.",
+      "In an interview published this week, Zelenskyy told Reuters that Washington made security guarantees contingent on ceding Donbas, the industrial heartland that Russian President Vladimir Putin has long sought.",
+      "Rubio clarified the US role, stating, \"It's not for us to make for them,\" while explaining the US attempts to bridge the middle ground between both sides.",
+      "Zelenskyy warned that Kyiv will face shortages of Patriot systems because Washington redirects military resources toward its conflict against Iran, creating tensions over competing priorities.",
+      "Rubio emphasized an \"America First\" defense policy, stating no weapons have been diverted from Ukraine sales yet, though resources could be reallocated if deemed necessary for American interests."
+    ],
+    "title": "Rubio Denies Zelenskyy’s Claim that the U.S. Asked Ukraine to Cede Land to Russia for Security Deal",
+    "topic": "Russia-Ukraine War",
+    "topic_full": "Russia-Ukraine War · United States"
+  },
+  {
+    "article_path": "/article/vance-holds-first-meeting-of-a-new-anti-fraud-task-force-targeting-benefit-programs_c3c55a",
+    "article_url": "https://ground.news/article/vance-holds-first-meeting-of-a-new-anti-fraud-task-force-targeting-benefit-programs_c3c55a",
+    "bias": [
+      "Left-Leaning coverage frames the meeting as procedural and a performative \"cracking down\" on misuse of benefit programs, de-emphasizing Minnesota and immigrant specifics, while right-leaning pieces dramatize scale and culpability—using phrases like \"turned off\" protections, \"Somali schemes,\" and \"theft of billions\"—and elevate Vance's role with words such as \"hosts\" and reports of suspensions.",
+      "Center outlets invoke a \"fraud crisis\" and a \"whole-of-government approach,\" noting potential scrutiny of Somali communities.",
+      "Pivotal divides are Minnesota/Somali focus, accusations of relaxed protections, and claims of concrete enforcement; all agree a task force was convened to address fraud."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 31.0,
+    "error": null,
+    "left_pct": 17.0,
+    "location": "United States",
+    "right_pct": 52.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, Vice President JD Vance convened the inaugural meeting of the White House anti-fraud task force in the Indian Treaty Room, aiming to \"turn back on\" protections the administration claims were removed under the Biden administration.",
+      "President Donald Trump formalized the task force via executive order on March 16 after Vice President Vance claimed fraud became a \"massive, massive problem\" under the previous administration, implementing a whole-of-government recovery approach.",
+      "Federal agencies recently suspended 70 hospice and home-health providers in Los Angeles while pausing more than $250 million in Medicaid payments to Minnesota, illustrating the task force's strategy of halting payments before investigations conclude.",
+      "Minnesota Governor Tim Walz labeled the task force's actions a \"campaign of retribution,\" claiming the administration is \"weaponizing the entirety of the federal government\" to punish blue states rather than address genuine fraud.",
+      "The task force plans to develop a national strategy targeting high-spend, low-verification programs like Medicare and the Supplemental Nutrition Assistance Program , prioritizing criminal prosecutions and systemic oversight to restore public trust."
+    ],
+    "title": "Vance holds first meeting of a new anti-fraud task force targeting benefit programs",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/hamas-considers-a-proposal-to-disarm-in-gaza-thats-central-to-the-territorys-future_d09e94",
+    "article_url": "https://ground.news/article/hamas-considers-a-proposal-to-disarm-in-gaza-thats-central-to-the-territorys-future_d09e94",
+    "bias": [
+      "Left-Leaning coverage frames disarmament as a humanitarian, solution-oriented pivot—using terms like \"grim limbo,\" \"war-ravaged,\" and highlighting Gaza’s roughly 2 million residents and Hamas ' founding charter to stress ideological obstacles—while center/right reporting emphasizes procedural and security implications, favoring neutral verbs like \"considers\" and phrases such as \"major concession,\" \"lay down arms,\" and \"clear the way\" for a U.S. rebuilding plan.",
+      "Rhetorically, the left uses emotive, normative language; the right/center use sober, policy-focused diction and probe implementation details .",
+      "Both agree disarmament would be consequential and could enable reconstruction, reflecting humanitarian versus security priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 45.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "Gaza Strip",
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "Hamas is weighing a new disarmament proposal that could clear the way for President Donald Trump 's plan to rebuild Gaza, a major concession after nearly two years of war.",
+      "Nickolay Mladenov, director of the U.S.-backed Board of Peace, told the United Nations Security Council this week that mediators from Turkey, Qatar and Egypt presented the proposal demanding \"complete decommissioning\" of all Hamas weapons.",
+      "While accepting the proposal \"in principle,\" Hamas officials seek to differentiate between \"heavy\" and \"light\" weapons and demand guarantees that Israel will halt its attacks and not resume the war.",
+      "Senior Hamas official Bassem Naim accused Mladenov of siding with Israel, illustrating tensions as discussions include placing Gaza under a new Palestinian technocratic committee.",
+      "For Gaza's 2 million people living in limbo since the ceasefire nearly six months ago, the response carries profound stakes as Israeli strikes have killed nearly 700 Palestinians and reconstruction remains stalled."
+    ],
+    "title": "Hamas Considers a Proposal to Disarm in Gaza that's Central to the Territory's Future",
+    "topic": "Israel-Gaza",
+    "topic_full": "Israel-Gaza · Gaza Strip"
+  },
+  {
+    "article_path": "/article/private-investigators-who-removed-epstein-evidence-from-his-home-must",
+    "article_url": "https://ground.news/article/private-investigators-who-removed-epstein-evidence-from-his-home-must",
+    "bias": [
+      "Left-Leaning coverage frames Democrats as aggressively pursuing accountability—using charged phrases like 'Hunt Down' and alleging items 'never turned over'—portraying investigators as potentially culpable and implying a cover-up; center coverage emphasizes procedural specifics and shock, calling the custody gap a 'bombshell,' quoting calls for 'critical information' and describing a 'trove' of removed materials; right-leaning treatment is de-emphasized in these analyses.",
+      "Pivotal dividing lines include custody of 'hard drives,' whether removal is framed as 'removed evidence' versus neutral collection, and the question of legal consequences; both sides nonetheless note the committee sought testimony and that investigators removed items, reflecting trust‑versus‑institutional‑accountability divides."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 71.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "United States",
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "Democrats on the House Oversight Committee are seeking testimony from private investigators who removed evidence from Jeffrey Epstein 's Palm Beach mansion before police searched it in 2005, aiming to understand the removal and whereabouts of key materials.",
+      "More than 100 items, including computers, phone directories, and sexually explicit materials, were removed shortly before the police raid; some computers linked to Epstein's surveillance system were missing during the search.",
+      "The Department of Justice and Epstein's attorneys monitored the evidence to prevent its disclosure to victims' lawyers, and the exact location of the materials has remained unclear for over a decade.",
+      "Oversight Committee members are concerned that critical evidence may never have been reviewed by law enforcement, demanding preservation of all relevant materials and warning of legal consequences and possible subpoenas to compel cooperation."
+    ],
+    "title": "House Oversight panel seeks testimony from private investigators who removed evidence from Epstein's home",
+    "topic": "Epstein Files",
+    "topic_full": "Epstein Files · United States"
+  },
+  {
+    "article_path": "/article/iran-says-it-will-facilitate-and-expedite-humanitarian-aid-through-the-strait-of-hormuz-following-un-request-the-morning-sun",
+    "article_url": "https://ground.news/article/iran-says-it-will-facilitate-and-expedite-humanitarian-aid-through-the-strait-of-hormuz-following-un-request-the-morning-sun",
+    "bias": [
+      "Left-Leaning coverage frames Iran ’s pledge as a humanitarian, de‑escalatory \"breakthrough,\" foregrounding regional violence and \"wounded U.S. service members\" to stress human cost and urgency; right-leaning pieces frame it as compliance with a \"UN request,\" highlighting \"safe passage\" and reversal of a supposed \"blockade,\" emphasizing sovereignty and security.",
+      "Centers lean on the procedural phrase \"facilitate and expedite\" and note strategic stakes .",
+      "Pivotal divides center on mentions of strikes on nuclear sites and casualty details, while all agree the Iranian envoy announced the aid passage commitment."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 58.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": "Iran",
+    "right_pct": 21.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, Iran agreed to \"facilitate and expedite\" humanitarian aid through the Strait of Hormuz, with Iranian ambassador to the United Nations Ali Bahreini confirming Tehran accepted the U.N. request for safe passage of aid and agriculture shipments.",
+      "The announcement followed Israeli strikes on the Shahid Khondab Heavy Water Complex in Arak and the Ardakan yellowcake production plant in Yazd Province, with Israel claiming responsibility and threatening to \"escalate and expand\" its campaign against Tehran.",
+      "President Donald Trump claimed ceasefire talks were going \"very well\" while threatening to destroy Iran's energy plants if the Strait remains closed after April 6, following Washington's rejected 15-point \"action list\" proposal.",
+      "Aerospace Force commander Seyed Majid Moosavi warned Iran would retaliate, posting that \"this time, the equation will no longer be an eye for an eye,\" as U.S. ships carrying 2,500 Marines moved closer to the region.",
+      "The International Organization for Migration reported Friday that conflict damaged 82,000 civilian buildings in Iran, including homes of 180,000 people, while Brent crude prices rose 2.9% to $104.81 per barrel amid regional instability."
+    ],
+    "title": "Iran Says It Will ‘Facilitate and Expedite’ Humanitarian Aid Through the Strait of Hormuz Following UN Request",
+    "topic": "2026 Iran Conflict",
+    "topic_full": "2026 Iran Conflict · Iran"
+  },
+  {
+    "article_path": "/article/rand-paul-tells-cbs-hes-eyeing-a-presidential-run-claims-some-republicans-dont-want-party-led-by-populism",
+    "article_url": "https://ground.news/article/rand-paul-tells-cbs-hes-eyeing-a-presidential-run-claims-some-republicans-dont-want-party-led-by-populism",
+    "bias": [
+      "Left-Leaning coverage frames Paul’s comments as an intra‑party critique, using distancing verbs like \"claims\" and the phrase \"led by populism\" to emphasize GOP division and skepticism, while right-leaning pieces promote him as a substantive alternative—foregrounding labels like \"GOP,\" sensational verbs like \"reveals,\" the \"50‑50\" chance, a post‑midterms decision timeline, and his free‑trade/libertarian pitch to business voters.",
+      "Rhetorically, the left deploys distancing and critical tones, the right uses promotional and declarative language; centers are neutral and de‑emphasize detail.",
+      "Both agree he’s considering a run and that the remarks came in an interview—differences map to populist vs. pro‑business ideological splits."
+    ],
+    "bias_bar_text": "7% C 13% Right 80%",
+    "center_pct": 13.0,
+    "error": null,
+    "left_pct": 7.0,
+    "location": null,
+    "right_pct": 80.0,
+    "status": "ok",
+    "summary": [
+      "Senator Rand Paul of Kentucky is considering a 2028 presidential run, describing his chances as 50-50 and planning to decide after the midterm elections.",
+      "Paul positions himself as an alternative to the Republican Party's populist wing, identifying as a representative of the libertarian-leaning faction and a proponent of free trade.",
+      "He has frequently opposed key Republican positions, including voting against GOP tariff policies, certain military actions, and tax legislation, as well as the nomination of Markwayne Mullin to lead the Department of Homeland Security.",
+      "Paul previously ran for president in 2016 but withdrew after poor results in the Iowa caucuses; he has not formally announced a 2028 campaign, though media outlets consider him a potential candidate."
+    ],
+    "title": "Rand Paul Considering Running for President in 2028",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/convicted-killer-leroy-mcgill-to-be-executed-in-arizona-in-may_cf76c8",
-    "article_url": "https://ground.news/article/convicted-killer-leroy-mcgill-to-be-executed-in-arizona-in-may_cf76c8",
+    "article_path": "/article/canadians-dna-taken-at-blue-water-bridge-by-border-agents-retiree-says_d95e7b",
+    "article_url": "https://ground.news/article/canadians-dna-taken-at-blue-water-bridge-by-border-agents-retiree-says_d95e7b",
     "bias": null,
     "bias_bar_text": "Left 33% Center 67%",
     "center_pct": 67.0,
@@ -228,503 +719,23 @@
     "right_pct": null,
     "status": "no_change",
     "summary": [
-      "On Thursday, the Arizona Supreme Court issued an execution warrant for Leroy Dean McGill, scheduling his execution for May 20, 2026, marking the state's first use of the death penalty this year.",
-      "McGill was convicted in 2004 of murdering Charles Perez and attempting to murder Nova Banta during a July 2002 Phoenix apartment attack; authorities said he poured gasoline on the couple and lit a match.",
-      "Jurors convicted McGill in 2004, finding he committed the offenses in an \"especially cruel\" and \"especially heinous or depraved\" manner; prosecutors stated he had exhausted all state and federal appeals by 2022.",
-      "Defense lawyer Jennifer Garcia expressed disappointment in the warrant, stating her team will \"continue to stand by\" McGill while acknowledging the \"profound loss for the victims and their families.\"",
-      "Arizona currently holds 108 prisoners on death row, having resumed executions in 2022 following a nearly eight-year hiatus caused by difficulties obtaining drugs and criticism of a botched 2014 procedure."
+      "On Wednesday, U.S. Rep. Debbie Dingell and Maryland Rep. Jamie Raskin questioned Trump administration officials about why a Canadian retiree was forced to provide a DNA sample under threat of jail at the Blue Water Bridge.",
+      "Kevin Larson, 68, was denied entry to Michigan on October 18, 2025, while attempting to attend a No Kings protest; border agents fingerprinted him and collected his DNA via cheek swab.",
+      "Department of Homeland Security guidance from December 2020 states agents should not collect DNA from individuals held during admissibility checks, yet Larson provided the sample to avoid a longer-term ban after agents threatened jail time.",
+      "Dingell and Raskin warned that such arbitrary border treatment damages bilateral relations, while Larson stated the incident was \"chilling and upsetting\" and decided to stop crossing the border.",
+      "NPR reported that six other protesters in Illinois, Oregon and Minnesota faced similar DNA collection by federal immigration officers in recent months, prompting lawmakers to demand clarity on total individuals affected."
     ],
-    "title": "Arizona court sets May 20 execution for prisoner convicted of killing man by setting him on fire",
+    "title": "Canadian man says he was denied entry, forced to submit DNA sample at U.S. border",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/fda-inspecting-raw-farm-dairy-because-of-link-to-outbreak",
-    "article_url": "https://ground.news/article/fda-inspecting-raw-farm-dairy-because-of-link-to-outbreak",
+    "article_path": "/article/cheering-for-dead-american-soldiers-at-a-philly-protest-is-indefensible-and-im-not-going-to-pretend-otherwise",
+    "article_url": "https://ground.news/article/cheering-for-dead-american-soldiers-at-a-philly-protest-is-indefensible-and-im-not-going-to-pretend-otherwise",
     "bias": [
-      "Left-Leaning coverage foregrounds harm and corporate responsibility—using emotionally charged words like \"sickened,\" \"outbreak,\" and \"expanding\" and framing the producer connection with \"tied to\"—while right-leaning pieces emphasize precise counts and official sourcing, citing CDC data and state-by-state breakdowns and favoring more neutral phrasing such as \"linked.",
-      "The left adopts a more urgent, accountability-focused tone; the right leans on institutional authority and chronology.",
-      "Pivotal divides include CDC citation and corporate culpability; both report nine people linked to Raw Farm per health officials."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "California",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, health officials reported an expanding E. coli outbreak linked to Raw Farm products in Fresno, California, that has sickened nine people. Cases involve raw milk and cheddar cheese, with seven in California and others in Texas and Florida.",
-      "Genetic sequencing shows patients share a \"common source of infection,\" the FDA said. Over half of those sickened are children younger than five, with three hospitalized and one developing a dangerous kidney infection.",
-      "Of eight people interviewed by health officials, seven reported consuming Raw Farm-brand products. Raw milk lacks pasteurization, which kills germs like E. coli, salmonella, listeria, and campylobacter.",
-      "FDA officials previously advised Raw Farm to recall its raw milk cheddar cheese, but the company refused. While the agency continues investigating, no Raw Farm products have tested positive for E. coli to date.",
-      "The Congressional Food Safety Caucus, led by Rep. Rosa DeLauro, has asked the FDA to use its authority to force Raw Farm to recall products. The agency has not yet done so, though it continues investigating."
-    ],
-    "title": "9 Sickened in E. Coli Outbreak Tied to a California Company's Raw Milk and Cheese",
-    "topic": "Health",
-    "topic_full": "Health · California"
-  },
-  {
-    "article_path": "/article/florida-supreme-court-stays-james-duckett-execution-over-dna-testing-in-murder-case",
-    "article_url": "https://ground.news/article/florida-supreme-court-stays-james-duckett-execution-over-dna-testing-in-murder-case",
-    "bias": [
-      "Left-Leaning coverage frames the stay as potential exoneration, foregrounding the defense claim that DNA testing \"could prove his innocence\" and using emotive phrasing about the 11‑year‑old victim and words like \"police officer\" and \"raping and murdering\"; right-leaning coverage emphasizes due process and the prior conviction, humanizing the defendant with \"former police officer\" and procedural language such as \"stayed\" and \"orders DNA testing,\" de-emphasizing innocence claims.",
-      "Center reports focus on procedure — a swab from the victim's underwear and \"pending DNA results\" — and all agree the court issued a temporary halt, reflecting broader ideological divides over justice and institutional trust."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 59.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "Florida",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "The execution of a former Florida police officer convicted of raping and murdering an 11-year-old girl was temporarily halted by the Florida Supreme Court.",
-      "The officer, James Aren Duckett, was sentenced to death in 1988 after being convicted of first-degree murder and sexual battery of 11-year-old Teresa McAbee.",
-      "Duckett had sought DNA testing that he argued could exonerate him, which was granted by a circuit court and is still pending."
-    ],
-    "title": "Florida Supreme Court halts the execution of police officer convicted of raping and murdering a girl",
-    "topic": "Florida Politics",
-    "topic_full": "Florida Politics · Florida"
-  },
-  {
-    "article_path": "/article/north-carolinas-photo-voter-id-mandate-can-continue-as-a-judge-upholds-the-law",
-    "article_url": "https://ground.news/article/north-carolinas-photo-voter-id-mandate-can-continue-as-a-judge-upholds-the-law",
-    "bias": [
-      "Coverage splits into two clear narratives: left outlets foreground plaintiffs' \"discriminatory intent\" claims and portray the ruling as a setback for minority voters, while right outlets celebrate judicial validation—using terms like \"upholds the law,\" \"mandate,\" and \"can continue\"—to frame a GOP \"win\" and stress election security.",
-      "Rhetorically the left adopts accusatory, rights-focused tones while de-emphasizing procedural detail; the right favors legitimizing, law-and-order language and de-emphasizes discrimination claims; center coverage emphasizes procedural history .",
-      "Both note the judge \"rejected\" the claims and see political stakes, revealing divides over access versus authority."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 56.0,
-    "location": "North Carolina",
-    "right_pct": 7.0,
-    "status": "ok",
-    "summary": [
-      "North Carolina 's photo voter identification law was upheld by a federal judge, rejecting arguments that it discriminated against Black and Latino voters.",
-      "The ID mandate was carried out for the first time in the fall 2023 municipal elections, and over 5.7 million voters were subject to it in the November 2024 presidential election.",
-      "North Carolina law offers free ID cards for voting, and voters lacking photo ID can still have their votes counted if they fill out an exception form or bring their ID later."
-    ],
-    "title": "North Carolina’s photo voter ID mandate can continue as a judge upholds the law",
-    "topic": "North Carolina Politics",
-    "topic_full": "North Carolina Politics · North Carolina"
-  },
-  {
-    "article_path": "/article/han-kangs-i-dont-say-goodbye-wins-national-book-critics-association-award",
-    "article_url": "https://ground.news/article/han-kangs-i-dont-say-goodbye-wins-national-book-critics-association-award",
-    "bias": [
-      "Left-Leaning headlines emphasize the accolade with terse, celebratory diction—using terms like \"honor\"—and present the event as straightforward recognition, de-emphasizing broader ceremony context; right-leaning pieces frame the same outcome as a triumph, employing words such as \"wins,\" \"prestigious,\" and claims that it \"proves the global standing\" or marks a \"first,\" amplifying national-cultural significance.",
-      "Rhetorically, the left favors restrained praise, the right uses booster language and historical-importance claims, while center coverage enumerates additional winners and institutions; all agree Han Kang was recognized, exposing a cultural-status versus institutional-context divide."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 44.0,
-    "location": "United States",
-    "right_pct": 6.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, the National Book Critics Circle announced its annual awards, naming novelist Han Kang, author Karen Hao, and author Arundhati Roy as major winners for their literary contributions published in the past year.",
-      "Founded in 1974 in New York, the National Book Critics Circle comprises more than 850 critics and editors who evaluate the best literary works published annually in the United States.",
-      "Additional winners included biographer Alex Green for 'A Perfect Turmoil,' poet Kevin Young for 'Night Watch,' and translator Neige Sinno for 'Sad Tiger,' demonstrating the breadth of recognized literary categories.",
-      "Journalist Frances FitzGerald received the lifetime achievement award, while NPR and PBS were honored for contributions to book culture and American democracy, recognizing public media's cultural role.",
-      "Kang's novel 'We Do Not Part' explores the 1948-1949 Jeju uprising in South Korea; Hao's 'Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI ' examines artificial intelligence; Roy's 'Mother Mary Comes to Me' is a memoir addressing personal and historical themes."
-    ],
-    "title": "US Book Critics Honor Nobel Laureate and South Korean Novelist Han Kang",
-    "topic": "Books",
-    "topic_full": "Books · United States"
-  },
-  {
-    "article_path": "/article/pa-supreme-court-strikes-down-mandatory-life-sentences-for-felony-murder-convictions",
-    "article_url": "https://ground.news/article/pa-supreme-court-strikes-down-mandatory-life-sentences-for-felony-murder-convictions",
-    "bias": [
-      "Left outlets frame the ruling as a moral, systemic win—using words like \"historic,\" \"abolishes,\" and \"cruel\"—foregrounding reform, individual resentencings and the claim that more than 1,000 inmates could gain a \"chance at parole.",
-      "Right outlets portray a judicial reassessment of \"punishment,\" emphasizing the \"mandatory life sentence\" frame and official reactions while de-emphasizing inmate-counts and rehabilitative language.",
-      "Center outlets stick to neutral legal wording and stress policy consequences like legislative review.",
-      "Key dividing lines are the \"cruel\" label, victim perspectives , and whether the numbers are heralded as vindication or warrant caution; all agree sentences will change."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 38.0,
-    "error": null,
-    "left_pct": 48.0,
-    "location": "Pennsylvania",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, March 26, 2026, the Pennsylvania Supreme Court ruled that mandatory life sentences for second-degree murder are unconstitutional, citing violations of the state's \"cruel punishments\" clause.",
-      "Pennsylvania's felony murder rule previously mandated life imprisonment for anyone participating in a felony resulting in death, regardless of intent. Chief Justice Debra Todd wrote the mandatory scheme \"prevents the sentencer from considering whether this harshest of sentences proportionately punishes the offender.\"",
-      "Derek Lee, who was upstairs during a 2014 robbery where his accomplice committed a killing, received an automatic life sentence. More than 1,000 people in Pennsylvania currently serve similar sentences, 70 percent of them Black, according to the Philadelphia Bar Association.",
-      "The justices stayed their ruling for 120 days to allow the Pennsylvania General Assembly time to \"consider remedial procedures\" regarding resentencing. This affects one of the world's highest rates of life sentencing.",
-      "Governor Josh Shapiro praised the ruling, stating he has \"long believed this law is unjust and wrong\" and called on the legislature to create a just process for those serving life sentences."
-    ],
-    "title": "Pennsylvania court upends mandatory use of life-without-parole for second-degree murder",
-    "topic": "Pennsylvania Politics",
-    "topic_full": "Pennsylvania Politics · Pennsylvania"
-  },
-  {
-    "article_path": "/article/investigators-find-gas-utility-pipes-separated-before-deadly-mississippi-explosions",
-    "article_url": "https://ground.news/article/investigators-find-gas-utility-pipes-separated-before-deadly-mississippi-explosions",
-    "bias": [
-      "Left-Leaning pieces foreground human cost and systemic failure—using terms like \"deadly,\" \"leaks went unrepaired,\" and \"spongy clay\" to stress infrastructure neglect—while right-leaning coverage sticks to a neutral investigative tone, repeatedly using \"investigators find\" and framing the cause as natural soil movement, de‑emphasizing the utility and victim.",
-      "The center pivots toward accountability with language such as \"preventable\" and \"failed to repair known leaks for weeks,\" naming Atmos Energy and Clara Barbour, 82—a pivotal dividing line that reveals left/right splits between culpability-focused versus technical explanations; all agree on the NTSB finding of separated pipes and gas leaks."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 36.0,
-    "location": "Mississippi",
-    "right_pct": 9.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, the National Transportation Safety Board released a report faulting Dallas-based Atmos Energy Corp. for two natural gas explosions in Jackson, Mississippi , in January 2024, noting the company identified gas leaks but failed to prioritize repairs.",
-      "Yazoo clay soil expansion caused gas pipes to disconnect from couplings, allowing dangerous gas buildup, investigators found; these couplings are not resistant to pulling out, a specific factor in pipe failure.",
-      "Atmos technicians previously evaluated leaks at the Barbour home on Nov. 17, 2023, and a second property on Dec. 1, 2023, as nonhazardous, causing the company to delay repairs for one or more years.",
-      "Siloed state operations hindered safety, as the board wrote that if stricter rules from Kansas had been applied in Mississippi, the explosions could have been prevented; investigators recommended the company find and replace all faulty couplings."
-    ],
-    "title": "Investigators find gas utility pipes separated before deadly Mississippi explosions",
-    "topic": "Police",
-    "topic_full": "Police · Mississippi"
-  },
-  {
-    "article_path": "/article/doj-to-investigate-maine-over-transgender-inmate-at-womens-prison_19ea8c",
-    "article_url": "https://ground.news/article/doj-to-investigate-maine-over-transgender-inmate-at-womens-prison_19ea8c",
-    "bias": [
-      "Left-Leaning coverage frames the DOJ probe as a political and civil‑rights story, using identity‑affirming language like \" transgender women\" and linking the action to broader Trump‑era policy shifts and debates over \"keeping men out of women’s prisons\"; right‑leaning coverage frames it as a security exposé, often using attention‑grabbing tactics like \"exclusive,\" labeling subjects as \"trans prisoners,\" and amplifying criminal terms such as \"raped\"; center pieces stress procedure and the Civil Rights Division, use cautious phrasing like \"sexual harassment and assault,\" and occasionally deploy the loaded phrase \"biological men\" .",
-      "The pivotal dividing line is alleged sexual violence versus institutional/political motive, though all sides agree the DOJ has opened investigations and foreground rights and safety concerns."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 58.0,
-    "error": null,
-    "left_pct": 26.0,
-    "location": "California",
-    "right_pct": 16.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, the U.S. Department of Justice notified California Governor Gavin Newsom and Maine Governor Janet Mills of a federal civil rights investigation into their practices of housing transgender inmates in women's prisons.",
-      "Attorney General Pamela Bondi described the move as part of a \"National Initiative Examining the Housing of Biological Men in Women's Prisons,\" asserting that keeping men out of such facilities is a matter of \"safety and constitutional rights.\"",
-      "Investigators will examine allegations of sexual assault, voyeurism, and intimidation at the California Institution for Women, the Central California Women's Facility, and the Maine Correctional Center under the Civil Rights of Institutionalized Persons Act.",
-      "Dismissing the probe as a \"politically motivated, predetermined investigation,\" a spokesperson for Mills stated the state opposes the Trump administration, while the California Department of Corrections and Rehabilitation affirmed its commitment to a safe environment.",
-      "While the DOJ has not reached conclusions, the agency previously pulled grant funding from Maine's correctional system in 2025 over similar housing policies, a move that remains contested."
-    ],
-    "title": "Justice Department probes California and Maine over housing transgender women with female inmates",
-    "topic": "Transgender",
-    "topic_full": "Transgender · California"
-  },
-  {
-    "article_path": "/article/federal-judge-extends-order-requiring-access-to-lawyers-for-minnesota-immigration-detainees",
-    "article_url": "https://ground.news/article/federal-judge-extends-order-requiring-access-to-lawyers-for-minnesota-immigration-detainees",
-    "bias": [
-      "Left coverage emphasizes the judge’s sharp rebuke and human-impact testimony, using charged language like \"dunks,\" \"bogus info,\" and \"misstating the law/misquotations\" to portray a moral and partisan takedown, while right-leaning pieces focus on the ruling’s practical legal effect, describing detainees as \"entitled\" to counsel and using restrained, legalistic diction; center coverage frames the action as a \"preliminary injunction\" and procedural enforcement.",
-      "The pivotal divides are the judge’s criticism and immigrant testimony—flashpoints revealing priorities —yet all report the extension and ICE’s duty to ensure access."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 36.0,
-    "error": null,
-    "left_pct": 46.0,
-    "location": "Minnesota",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, U.S. District Judge Nancy Brasel extended a preliminary injunction requiring U.S. Immigration and Customs Enforcement to ensure detainees at the Bishop Henry Whipple Federal Building in Minneapolis have immediate, private access to legal counsel.",
-      "The ruling addresses constitutional concerns from the Trump administration's \"Operation Metro Surge,\" during which noncitizens were arrested and transported without counsel, cutting off their ability to communicate with attorneys.",
-      "According to attorney Jeffrey Dubner, evidence presented by attorneys showed it was often impossible to reach clients or get information about transfers, with compliance described as \"fitful at best.\"",
-      "Brasel criticized government attorneys for misquoting legal precedents, warning that \"due process is not a game of keep-away\" as she ordered improved access to basic legal services.",
-      "Court-Mandated protections remain in place pending further proceedings as The Advocates for Human Rights welcomed the decision, even as government officials claim new detentions have subsided to levels of over 100."
-    ],
-    "title": "Federal Judge Extends Order Requiring Access to Lawyers for Minnesota Immigration Detainees",
-    "topic": "Minnesota Politics",
-    "topic_full": "Minnesota Politics · Minnesota"
-  },
-  {
-    "article_path": "/article/doj-lawsuit-seaworlds-walker-rollator-ban-violated-americans-with-disabilities-act",
-    "article_url": "https://ground.news/article/doj-lawsuit-seaworlds-walker-rollator-ban-violated-americans-with-disabilities-act",
-    "bias": [
-      "Left frames the DOJ suit as a civil‑rights corrective, stressing \"discriminates\" and portraying the rollator/wheeled‑walker ban as denying disabled visitors' access, while right casts the DOJ as overreaching, using phrases like \"in the spotlight,\" \"targets,\" and emphasizing \"ban\" and \"sued\" to elicit sympathy for parks.",
-      "Center coverage leans legalistic, quoting DOJ's \"equal access\" and saying the ban \"violated the ADA.",
-      "Rhetorically, left uses moral, activist language; right favors adversarial, local‑sensational tones and cites operational specifics to question enforcement—both, however, report the DOJ suit and ADA allegation, revealing regulation‑versus‑rights fault lines."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 72.0,
-    "error": null,
-    "left_pct": 16.0,
-    "location": "Florida",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, the U.S. Department of Justice filed a lawsuit against United Parks & Resorts, alleging the company's ban on rollator walkers violates the Americans with Disabilities Act.",
-      "UPR implemented the ban in November 2025, citing safety concerns about devices used as wheelchairs, which sparked complaints from veterans and children to the Civil Rights Division.",
-      "Federal prosecutors allege UPR imposed \"impermissible surcharges\" by requiring guests to rent park-approved equipment. \"The ADA requires equal access for people with disabilities, and theme parks such as SeaWorld are no exception,\" said Assistant Attorney General Harmeet K. Dhillon.",
-      "UPR disputes the allegations, stating its policy remains \"consistent with the requirements of the ADA\" and asserting it provides free alternative mobility devices to ensure guest safety.",
-      "This lawsuit marks the second high-profile legal action against UPR this month, as Sesame Workshop separately sued the operator for refusing to pay royalty payments spanning a 45-year partnership."
-    ],
-    "title": "Justice Department Sues SeaWorld Parent Company over Wheeled Walker Ban",
-    "topic": "US Politics",
-    "topic_full": "US Politics · Florida"
-  },
-  {
-    "article_path": "/article/education-department-greatly-reduced-by-trump-changing-dc-headquarters",
-    "article_url": "https://ground.news/article/education-department-greatly-reduced-by-trump-changing-dc-headquarters",
-    "bias": [
-      "Left‑leaning coverage frames the relocation as intentional harm, using \"dismantling\" and \"depleted,\" foregrounding union condemnation and linking it to Trump promises; right‑leaning pieces call it pragmatic \"downsizing\" or an effort to \"reduce the department's footprint\" , stressing the building was \"70% vacant\" and citing workforce reductions reported by center/right.",
-      "Centrist coverage sits between those tones, often emphasizing vacancy figures.",
-      "Key fault lines are union reaction versus vacancy/layoff metrics and whether the change is ideological or managerial; both report the HQ will relocate and another agency will take the space, reflecting broader divides over federal role."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 72.0,
-    "error": null,
-    "left_pct": 18.0,
-    "location": "United States",
-    "right_pct": 10.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, officials announced the Education Department will relocate from its Lyndon B. Johnson headquarters to a smaller office at 500 D Street SW this August. The Energy Department will assume the lease for the vacated facility.",
-      "President Trump's administration aims to dismantle the agency, having cut staff to 2,300 and offloaded programs to other agencies. Officials stated the headquarters building has been 70% vacant, prompting the move as part of broader downsizing efforts.",
-      "The administration claims the relocation will save taxpayers more than $350 million in deferred maintenance costs, while Education Secretary Linda McMahon noted the move saves the agency $4.8 million in annual operating expenses.",
-      "Virginia Rep. Bobby Scott condemned the move as an effort to reduce federal education access rather than a cost-saving measure. Union leader President Rachel Gittleman said the announcement confirms \"education is next on the chopping block.\"",
-      "Although the administration continues offloading programs to the Treasury Department, officials acknowledge Congress is the only entity with the authority to fully close the department. Legal and political disputes likely remain."
-    ],
-    "title": "Education Department, greatly reduced by Trump, changing DC headquarters",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/experts-warn-iran-wars-environmental-toll-could-persist-for-decades_6fc0b9",
-    "article_url": "https://ground.news/article/experts-warn-iran-wars-environmental-toll-could-persist-for-decades_6fc0b9",
-    "bias": [
-      "Left-Leaning coverage frames the strikes as an environmental and public‑health catastrophe, using emotive terms like \"nightmare,\" \"unleashing,\" \"toxic\" and \"black rain,\" citing WHO warnings and a 5 million‑tonne CO2 estimate to emphasize climate harm; right‑leaning coverage reframes the story as a strategic security crisis, using militarized phrasing such as \"Fight for Water,\" \"dark future,\" and \"big weak point\" to spotlight desalination and infrastructure vulnerability while de‑emphasizing emissions figures and direct health‑agency sourcing.",
-      "Pivotal divides center on emissions accounting versus water‑infrastructure risk, yet all sides concur on fires, pollution , lingering contaminants and threats to regional water/food supplies, reflecting an environmental‑versus‑security ideological split."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 44.0,
-    "error": null,
-    "left_pct": 45.0,
-    "location": "Iran",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "The Iran war has unleashed a toxic mix of chemicals and heavy metals threatening agriculture, drinking water and human health, with environmental damage and health risks potentially persisting for decades, experts warn.",
-      "Oil depots hit by military strikes sent black smoke over Tehran, with soot and toxic chemicals combining with atmospheric moisture to fall as oily, acidic rain two weeks ago.",
-      "Doug Weir, director of the Conflict and Environment Observatory, has recorded more than 400 environmentally concerning incidents; microscopic particles smaller than 2.5 micrometers penetrate deep into lungs, posing severe respiratory and long-term cancer risks.",
-      "Environmental damage isn't addressed properly after conflicts because cleanup is expensive and humanitarian needs come first, Weir said, yet people remain exposed to dust and chemicals long after rebuilding begins.",
-      "Risks from buried military sites create 'huge uncertainties' about long-term impacts, Weir said, while carbon platform Greenly estimated the U.S. military released almost 2 billion metric tons of greenhouse gases in six days."
-    ],
-    "title": "Experts Warn Iran War's Environmental Toll Could Persist for Decades",
-    "topic": "Environment & Climate",
-    "topic_full": "Environment & Climate · Iran"
-  },
-  {
-    "article_path": "/article/utah-gops-citizen-ballot-initiative-to-repeal-prop-4-wont-be-on-november-ballot",
-    "article_url": "https://ground.news/article/utah-gops-citizen-ballot-initiative-to-repeal-prop-4-wont-be-on-november-ballot",
-    "bias": [
-      "Left-Leaning coverage frames the outcome as a political rout with charged terms like \"huge blow,\" \"plot,\" and \"flops,\" portraying a partisan scheme, while right-leaning pieces foreground conservative legitimacy with \"Trump-endorsed\" and describe the result as a practical setback—\"fails to make the ballot.",
-      "The left uses adversarial, celebratory rhetoric and protest visuals; the right emphasizes endorsements and consequences; the center de-emphasizes partisanship and supplies procedural detail .",
-      "Both agree the petition failed and the new map will likely stand, highlighting deeper electoral and partisan divides."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 59.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "Utah",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "A proposal to repeal a 2018 redistricting measure failed to make the Utah ballot, according to reports.",
-      "The Republican Party vowed to continue the fight to repeal the redistricting measure through litigation or future initiatives.",
-      "The current map splits Democratic-leaning Salt Lake City into multiple Republican-favored districts, but a new map will create a Democratic-favored district."
-    ],
-    "title": "Utah GOP redistricting push fails to make ballot",
-    "topic": "Utah Politics",
-    "topic_full": "Utah Politics · Utah"
-  },
-  {
-    "article_path": "/article/usc-study-finds-stroke-survivors-undamaged-brain-regions-appear-younger_92ef47",
-    "article_url": "https://ground.news/article/usc-study-finds-stroke-survivors-undamaged-brain-regions-appear-younger_92ef47",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 75.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "Scientists at Stevens INI discovered in The Lancet Digital Health that undamaged brain regions may 'rejuvenate' following severe strokes, showing unexpected structural changes as the brain adapts to injury.",
-      "Paradoxically, while stroke damage accelerates aging in the injured hemisphere, the brain makes the undamaged side appear 'younger' to compensate for lost motor function.",
-      "Analyzing MRI scans from over 500 survivors, the ENIGMA Stroke Recovery Working Group detected subtle patterns of brain reorganization across eight countries, building the world's largest stroke neuroimaging dataset.",
-      "Survivors with severe movement deficits showed the most 'youthful' structural patterns in the frontoparietal network, a key system for motor planning, attention, and coordination, even after more than six months of rehabilitation.",
-      "Hosung Kim, PhD, associate professor of research neurology at the Keck School of Medicine of USC, described this as the brain's way of 'retooling' healthy networks to compensate for damaged motor systems."
-    ],
-    "title": "USC Study Finds Stroke Survivors' Undamaged Brain Regions Appear 'Younger'",
-    "topic": "Neuroscience",
-    "topic_full": "Neuroscience"
-  },
-  {
-    "article_path": "/article/ghost-forests-along-us-coast-reveals-clues-to-climate-resilience_ef3350",
-    "article_url": "https://ground.news/article/ghost-forests-along-us-coast-reveals-clues-to-climate-resilience_ef3350",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 100.0,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": "Delaware",
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "'Ghost Forests' Along US Coast Reveals Clues to Climate Resilience",
-    "topic": "Climate Change",
-    "topic_full": "Climate Change · Delaware"
-  },
-  {
-    "article_path": "/article/justice-department-tells-judge-it-incorrectly-used-ice-memo-to-justify-immigration-court-arrests_ae92f9",
-    "article_url": "https://ground.news/article/justice-department-tells-judge-it-incorrectly-used-ice-memo-to-justify-immigration-court-arrests_ae92f9",
-    "bias": [
-      "Left coverage frames the story as proof of ICE deception and human‑rights abuse—using charged words like \"lying,\" \"abductions,\" \"bogus\" and highlighting overcrowding and \"inhuman\" conditions at 26 Federal Plaza—while right coverage emphasizes a procedural misstep, foregrounding the DOJ's characterization as a \"regrettable error\" and focusing on law‑enforcement procedure and correction.",
-      "Center outlets treat it as a legal/procedural error, sometimes dubbing the admission a \"bombshell,\" rather than assigning malice.",
-      "Pivotal divides are detainee conditions, alleged intentional deception, and legal consequences for prior arrests ; both sides agree DOJ relied on an ICE memo and litigation continues."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 43.0,
-    "error": null,
-    "left_pct": 45.0,
-    "location": "United States",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "In a court filing Tuesday, the Department of Justice conceded it incorrectly relied on a 2025 Immigration and Customs Enforcement memo to justify arrests at immigration courts, admitting the document never authorized such enforcement actions.",
-      "For over a year, ICE officials claimed a May 2025 memorandum authorized mass arrests at courthouses, a justification now revealed as false by U.S. Attorney Jay Clayton in a letter to District Judge Kevin Castel.",
-      "A lawsuit by the New York Civil Liberties Union brought this issue to light, challenging ICE's practice that critics argue transforms legal proceedings into zones of fear for immigrants.",
-      "Following the admission, the government will withdraw briefs and oral arguments from a September hearing, while attorneys for the plaintiffs described the development as 'hugely consequential' for their pending challenge.",
-      "Rep. Dan Goldman called for immediate investigations and a halt to courthouse arrests, citing the thousands of immigrants impacted by the practice over the past year."
-    ],
-    "title": "Justice Department tells judge it incorrectly used ICE memo to justify immigration court arrests",
-    "topic": "Immigration and Customs Enforcement",
-    "topic_full": "Immigration and Customs Enforcement · United States"
-  },
-  {
-    "article_path": "/article/ice-age-fossils-found-by-snorkeling-in-texas-cave_c42ded",
-    "article_url": "https://ground.news/article/ice-age-fossils-found-by-snorkeling-in-texas-cave_c42ded",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 87.0,
-    "error": "Message: \n",
-    "left_pct": 13.0,
-    "location": "Comal County",
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Ice Age Fossils Found by Snorkeling in Texas Cave",
-    "topic": "Nature & Animals",
-    "topic_full": "Nature & Animals · Comal County"
-  },
-  {
-    "article_path": "/article/report-trump-weighs-sending-another-10-000-ground-troops-to-the-middle-east_8f2dd9",
-    "article_url": "https://ground.news/article/report-trump-weighs-sending-another-10-000-ground-troops-to-the-middle-east_8f2dd9",
-    "bias": [
-      "Left-Leaning coverage frames the plan as escalatory and leader-centered—using terms like \"mulls\" and \"buildup\" and juxtaposing 10,000 troops with peace talks and regional incidents—while right-leaning pieces emphasize force and readiness, invoking \"Infantry,\" \"Armored\" and phrasing such as \"for a war with Iran \" or \"reportedly\" to portray preparation for large-scale conflict.",
-      "Center coverage is more procedural, stressing that the president \"weighs\" options and detailing force composition and timing.",
-      "The key divides are peace-talk vs. war framings and intent; all sides nonetheless cite the 10,000 figure and defense sources."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "United States",
-    "right_pct": 27.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, the Pentagon is considering sending up to 10,000 additional ground troops to the Middle East to provide President Donald Trump with expanded military options, the Wall Street Journal reported.",
-      "Following the Feb. 28 U.S. and Israeli bombing campaign, Iran closed the Strait of Hormuz, a waterway carrying about 20% of global crude oil, escalating regional tensions.",
-      "Current deployments include roughly 5,000 Marines and thousands of 82nd Airborne Division paratroopers, with 2,200 Marines from the 31st Expeditionary Unit and 2,500 from the 11th Expeditionary Unit arriving by Friday.",
-      "President Trump announced on Thursday a ten-day pause on \"energy plant destruction\" until April 6, stating talks with the Iranian regime are \"going very well.\"",
-      "Deputy Press Secretary Anna Kelly stated all deployment announcements must come from the Department of Defense, though it remains unclear where additional forces would be stationed."
-    ],
-    "title": "Report: Trump weighs sending another 10,000 ground troops to the Middle East",
-    "topic": "Military Operations",
-    "topic_full": "Military Operations · United States"
-  },
-  {
-    "article_path": "/article/russia-arrests-alleged-creator-of-leakbase-cybercrime-forum_2acde2",
-    "article_url": "https://ground.news/article/russia-arrests-alleged-creator-of-leakbase-cybercrime-forum_2acde2",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 75.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "Taganrog",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Wednesday, Russian police arrested the alleged administrator of LeakBase in Taganrog, with Russian Ministry of Internal Affairs spokesperson Irina Volk announcing the detention of the unidentified suspect.",
-      "Europol coordinated an international operation known as \"Operation Leak\" that seized LeakBase earlier this month, with the Justice Department calling it \"one of the world's largest online forums for cybercriminals.\"",
-      "LeakBase surfaced in 2021 as a project supported by the ARES group and grew to over 142,000 members hosting databases containing millions of stolen credentials and hacking tools.",
-      "Law enforcement agents in 14 countries executed search warrants and arrests, while Federal Bureau of Investigation seizure banners warn that the forum's database and contents will serve as evidence in future investigations.",
-      "Officials confirmed 13 arrests and around 100 enforcement actions worldwide, as the operation enters a prevention phase aimed at deterring future criminal activity and raising awareness of cybercrime consequences."
-    ],
-    "title": "Russia Arrests Alleged Creator of LeakBase Cybercrime Forum",
-    "topic": "Cybersecurity",
-    "topic_full": "Cybersecurity · Taganrog"
-  },
-  {
-    "article_path": "/article/us-colleges-revive-oral-exams-as-ai-erodes-trust-in-written-work_6f8f2f",
-    "article_url": "https://ground.news/article/us-colleges-revive-oral-exams-as-ai-erodes-trust-in-written-work_6f8f2f",
-    "bias": [
-      "Left-Leaning coverage frames oral exams as a human response to an \"AI crisis,\" highlighting student struggles and warning about erosion of critical thinking with phrasing like \"Perfect homework, blank stares.",
-      "Right-Leaning coverage frames the shift as restoring standards, portraying oral defenses as an \"Ancient Greek-style solution\" to \"combat\" technological threats in a corrective, moralizing tone.",
-      "Center pieces use assertive lines such as \"You won’t be able to AI your way through...\" and include the line \"That’s not why we’re doing this.",
-      "Pivotal divides include long-term learning impacts and student equity—de-emphasized on the right; all report device-free oral defenses are growing."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 32.0,
-    "error": null,
-    "left_pct": 53.0,
-    "location": "Ithaca",
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "American college instructors are increasingly adopting oral exams to verify student understanding as generative AI renders standard take-home assignments unreliable. Students submit perfect written work but often cannot explain their answers.",
-      "Interest in oral assessments intensified after the launch of ChatGPT in 2022, building on earlier COVID-19 pandemic shifts to address online cheating. Educators now implement these methods to combat skill loss and ensure cognitive capacity.",
-      "Cornell University requires 20-minute Socratic-style defenses for classes of 70 students, Pennsylvania pairs oral exams with written papers, and NYU unveiled AI-powered oral assessments, calling it \"fighting fire with fire.\"",
-      "Students report mixed feedback; some found AI-powered interfaces awkward, while others valued accountability. Cornell's Carolyn Aslan notes one-on-one sessions help identify students lacking foundational knowledge.",
-      "Scaling these labor-intensive exams remains challenging and requires substantial faculty training. Professors view this return to oral testing as essential for ensuring students maintain problem-solving skills in the AI age."
-    ],
-    "title": "US Colleges Revive Oral Exams as AI Erodes Trust in Written Work",
-    "topic": "Artificial Intelligence",
-    "topic_full": "Artificial Intelligence · Ithaca"
-  },
-  {
-    "article_path": "/article/the-israeli-offensive-in-lebanon-could-lead-to-the-long-term-occupation-of-the-southern-part-of-the-country",
-    "article_url": "https://ground.news/article/the-israeli-offensive-in-lebanon-could-lead-to-the-long-term-occupation-of-the-southern-part-of-the-country",
-    "bias": [
-      "Left-Leaning coverage foregrounds civilian suffering and long-term control—using phrases like \"sustainable occupation,\" \"fear\" and \"Gaza tactics\" and citing figures —while right-leaning pieces emphasize alleged intent and existential threat, invoking language such as \"completely depopulate the south,\" \"planned ground invasion\" and \"lasting invasion\" to portray operations as deliberate strategy; center voices are more cautious, framing questions and linking regional drivers to Iran.",
-      "Key dividing lines are attribution of motive and use of specific casualty figures; all sides nonetheless stress fighting, deeper incursions and mass displacement, reflecting a human-rights versus security/geopolitical split."
-    ],
-    "bias_bar_text": "Left 50% Center 37% R 13%",
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 50.0,
-    "location": null,
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "Defense Minister Israel Katz announced on Tuesday that Israel has launched a limited ground operation in southern Lebanon to create a \"security zone\" up to the Litani River, 30 kilometers from the border.",
-      "Israeli leaders justified the operation as necessary to shield northern communities from daily rocket attacks by Hezbollah , citing the Gaza campaign model that destroyed homes in Beit Hanoun and Rafah to neutralize threats.",
-      "Kandice Ardel, spokesperson for the U.N. mission known as UNIFIL, reported that Israeli troops and engineering assets are operating near U.N. positions, amid air raids killing more than 1,000 people and displacing over a million.",
-      "Seven bridges over the Litani have been bombed to restrict movement, while Bezalel Smotrich, Israel's far-right finance minister, declared the war must end with \"fundamental change\"—the river becoming the \"new border with the state of Lebanon.\"",
-      "Many in Lebanon fear the strategy signals an open-ended occupation and territorial loss, as Mohanad Hage Ali, a senior fellow at the Carnegie Middle East think tank in Beirut, observed that Israel has already established \"different shades\" of control."
-    ],
-    "title": "Lebanese Fear Another Occupation as Israel Threatens to Use Gaza Tactics There",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/idf-soldier-falls-in-combat-in-south-lebanon_4bcdc6",
-    "article_url": "https://ground.news/article/idf-soldier-falls-in-combat-in-south-lebanon_4bcdc6",
-    "bias": [
-      "Coverage splits starkly: left-leaning pieces humanize the 21‑year‑old Staff Sergeant—emphasizing family quotes like \"Mom screamed, our world turned upside down,\" \"weeks before discharge,\" and using the more neutral \"militants\"—while right-leaning outlets foreground security and strategy, naming \" Hezbollah ,\" calling it \"Iranian‑backed,\" using alarmist terms like \"attack,\" \"rocket strike,\" and valorizing \"fell in combat\" alongside unit-level framing .",
-      "Centrist reports lean on attribution and de‑emphasize personalization and grand strategy.",
-      "All sides agree on the death, brigade, time and wounded soldiers, revealing deeper divides over militarism versus human cost."
+      "Left-Leaning pieces foreground outrage and moral shock—highlighting words like \"applaud\" and \"coffin\" and framing the footage as indignation at an individual rejoicing in death—while right-leaning coverage amplifies delegitimizing labels and punitive remedies and uses the macabre \"in caskets\" language to provoke disgust and blame Democrats .",
+      "Center coverage emphasizes \"condemns\" and \"hateful speech\" via Sen. Fetterman’s rebuke.",
+      "Key pivots are alleged terrorist links and whether remarks were isolated or representative; all sides agree footage circulated, the protest occurred, and Fetterman condemned it, reflecting deeper divides over patriotism and security."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -734,13 +745,10 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Thursday, Staff Sergeant Ori Greenberg, 21, of Petah Tikva, was killed in southern Lebanon during the first direct ground engagement of the ongoing operations against Hezbollah .",
-      "The incident began at 2:10 a.m. when a Golani Reconnaissance Unit patrol identified and engaged Hezbollah terrorists in the Galilee Finger area, triggering a close-range firefight.",
-      "Greenberg served under the 36th Division and was scheduled to complete military service in two months before pursuing an educational mission in the United States through the Jewish Agency.",
-      "Prime Minister Netanyahu stated, \"He fought with bravery and courage to defend our northern border,\" and Greenberg's burial was scheduled for 4 p.m. at Har HaMenuchot Cemetery in Jerusalem.",
-      "Meanwhile, the IDF Golani Brigade destroyed over 200 Hezbollah infrastructure sites in southern Lebanon, as Israel considers mobilizing up to 400,000 reservists to expand ground operations in the region."
+      "Senator John Fetterman condemned protesters in Philadelphia who cheered the deaths of U.S. service members returning in caskets during an anti-Iran war demonstration.",
+      "A video from the protest showed speakers praising terrorist groups Hamas and Hezbollah, advocating for Iranian strength against Israel, and calling for the U.S. to be brought to its knees."
     ],
-    "title": "IDF Soldier Falls In Combat In South Lebanon",
+    "title": "Sen. Fetterman Condemns Hateful Speech About U.S. Service Members",
     "topic": null,
     "topic_full": null
   },
@@ -767,36 +775,36 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/sarah-ferguson-stripped-of-freedom-of-city-of-york-title",
-    "article_url": "https://ground.news/article/sarah-ferguson-stripped-of-freedom-of-city-of-york-title",
+    "article_path": "/article/as-fuel-prices-rise-us-lawmakers-push-to-suspend-the-federal-gas-tax",
+    "article_url": "https://ground.news/article/as-fuel-prices-rise-us-lawmakers-push-to-suspend-the-federal-gas-tax",
     "bias": [
-      "Left-Leaning headlines emphasize punitive accountability and public shaming—using words like \"humiliation\" and \"stripped\" and highlighting the charity closure—while right-leaning coverage frames a dramatic fall from grace with tabloid tones such as \"bombshell,\" \"latest blow,\" and explicit ties to the \"Epstein Scandal;\" centrist pieces de-emphasize moralizing language and focus on the unanimous vote and timeline.",
-      "Pivotal dividing lines include whether coverage spotlights charity closure or personal disgrace versus institutional procedure, and contested claims about losing a substantive \"Duchess\" title—which appear on left and right but lack official corroboration.",
-      "All converge on the removal, the unanimous vote, and Epstein links."
+      "Left coverage frames rising gas prices as consumer pain—using verbs like \"soar/soaring\" and casting a \"tax holiday\" as needed relief—while right coverage frames a \"push to suspend\" the federal gas tax as an urgent policy fix, calling it \"much-needed relief\" and linking the \"war in Iran\" to broader shocks, including a global fertilizer shortage.",
+      "Rhetorically, the left relies on repeated emotive verbs, the right on vivid causal language and market-focused framing; centers use \"surging energy costs.",
+      "The $4-a-gallon benchmark is highlighted by both but framed as harm versus justification, reflecting deeper ideological divides."
     ],
-    "bias_bar_text": "Left 44% Center 39% R 17%",
-    "center_pct": 39.0,
+    "bias_bar_text": "Left 42% Center 53%",
+    "center_pct": 53.0,
     "error": null,
-    "left_pct": 44.0,
+    "left_pct": 42.0,
     "location": null,
-    "right_pct": 17.0,
+    "right_pct": 5.0,
     "status": "ok",
     "summary": [
-      "On Thursday, the City of York Council voted unanimously to revoke Sarah Ferguson 's Freedom of the City honour, which she received in 1987 following her marriage to Andrew Mountbatten-Windsor.",
-      "Councillors cited Ferguson's ongoing associations with convicted sex offender Jeffrey Epstein, which became widely known after the United States Department of Justice released thousands of documents earlier this year.",
-      "During the debate, Liberal Democrat councillor Darryl Smalley stated they should not expect recipients to be \"best friends of convicted paedophiles,\" while Labour councillor Anna Baxter argued the honour must reflect York's modern values."
+      "Lawmakers are pushing to suspend the federal gas tax as the war in Iran drives national fuel prices toward $4 a gallon, aiming to control surging energy costs for Americans.",
+      "Suspending the federal tax, currently 18.4 cents on gasoline and 24.4 cents on diesel, requires Congressional approval; given Republican control of both the House and Senate, the bill remains unlikely to advance without President Donald Trump's support.",
+      "Georgia Republican Gov. Brian Kemp signed a 60-day tax suspension on March 20, but Florida Republican Gov. Ron DeSantis remains skeptical, claiming, \"Sometimes the prices get raised so the consumer doesn't see any difference.\"",
+      "Research suggests retailers often fail to pass tax savings directly to consumers, and the American Road & Transportation Builders Association warns that suspension could jeopardize the Highway Trust Fund, which provides more than $23 billion annually for infrastructure."
     ],
-    "title": "Sarah Ferguson stripped of another honour over Epstein ties",
+    "title": "As fuel prices rise, US lawmakers push to suspend the federal gas tax",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-marks-greek-independence-day-with-white-house-event-highlighting-shared-ideals_155b74",
-    "article_url": "https://ground.news/article/trump-marks-greek-independence-day-with-white-house-event-highlighting-shared-ideals_155b74",
+    "article_path": "/article/more-than-300-us-troops-injured-since-start-of-iran-war",
+    "article_url": "https://ground.news/article/more-than-300-us-troops-injured-since-start-of-iran-war",
     "bias": [
-      "Right-Leaning coverage frames the White House Greek Independence Day event as ceremonially patriotic and leader-focused—using phrases like \"National Day of Celebration,\" \"celebration,\" \"LIVE NOW,\" and citing that the \"debt of the US and Western Civilization to the Greeks is eternal\"—a reverential, high-energy tone that includes proclamation text, timing and guest lists.",
-      "Left coverage is de-emphasized; center emphasizes a succinct, value-framing summary—\"highlighting shared ideals\"—using formal honorifics and omitting speech excerpts.",
-      "Pivotal divides are inclusion of the proclamation/speech, event logistics, and named attendees; both agree it was ceremonial and stressed US–Greece democratic ties."
+      "Left-Leaning headlines emphasize human cost by foregrounding terms like \"injured\" and the >300 toll while de-emphasizing operational specifics; right-leaning coverage foregrounds threat and escalation with phrases such as \"grim battlefield reality,\" \"ground invasion fears,\" and alarming claims of \"brain injuries,\" adding exacts and partisan attributions like \"President Donald Trump’s war\"; center coverage stresses official attribution and mitigation .",
+      "Dividing flashpoints—the brain-injury claim, use of the operational name, and the anonymous \"10 serious\" figure—expose security‑versus‑humanitarian priorities, though all cite official U.S. figures and the >300 count."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -806,39 +814,11 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Wednesday, President Donald Trump proclaimed March 25, 2026, as 'Greek Independence Day: A National Day of Celebration of Greek and American Democracy,' urging Americans to mark the occasion with 'appropriate ceremonies and activities.'",
-      "The proclamation honors the 205th anniversary of the Greek War of Independence, which began in 1821, emphasizing the enduring shared democratic ideals that unite the United States and Greece as 'allies in freedom,' Trump noted.",
-      "Trump emphasized the deep historical roots of democracy, noting that self-government 'first dawned in Greece' where citizens were given 'a direct voice' in shaping their nation's future.",
-      "This official declaration recognizes the contributions of the Greek American community, continuing a tradition of engagement that included a March 24, 2025, White House celebration where Archbishop Elpidophoros presented the President with a holy cross.",
-      "Emphasizing that 'our two nations are allies in freedom,' the proclamation positions the observance as a platform for diplomatic outreach, showcasing shared commitment to Western ideals and cooperation in promoting global peace."
+      "On Friday, Central Command reported that more than 300 American troops have been wounded since the Iran war began on Feb 28.",
+      "The conflict began on Feb 28 when the United States and Israel launched strikes on Iran, killing Ayatollah Ali Khamenei; it has since spread across the Middle East .",
+      "Navy Captain Tim Hawkins reported 273 troops have returned to duty, while 10 remain seriously wounded and 13 have been killed—seven in the Gulf and six in Iraq."
     ],
-    "title": "Trump Marks 'Greek Independence Day' with White House Event, Highlighting Shared Ideals",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/us-eases-belarus-sanctions-as-trump-says-hell-help-us-farmers-impacted-by-iran-war",
-    "article_url": "https://ground.news/article/us-eases-belarus-sanctions-as-trump-says-hell-help-us-farmers-impacted-by-iran-war",
-    "bias": [
-      "Left-Leaning coverage frames the move as geopolitically fraught, emphasizing terms like \"autocratic leader\" and naming specific companies and human‑rights concerns, portraying easing as a risky rapprochement; right-leaning pieces emphasize pragmatism and domestic benefit, using phrases like \"help US farmers\" and \"latest sign of improving ties\" to cast it as a win and present the administration as problem‑solving.",
-      "Center outlets de-emphasize politics with neutral wording such as \"eased/lifted sanctions\" and economy-focused framing.",
-      "The pivotal divides are labeling Lukashenko and naming beneficiaries; both sides agree the sanctions were eased and link it to aid for farmers."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Thursday, the United States eased sanctions on Belarus-linked financial and potash companies, with the Treasury Department determining that current circumstances no longer warrant the previous prohibitions.",
-      "Amid severe fertilizer shortages, President Donald Trump aims to support American farmers as the war with Iran has stalled nitrogen fertilizer exports from the Persian Gulf.",
-      "The Treasury Department's Office of Foreign Assets Control authorized transactions with Belinvestbank and removed major potash producers Belaruskali, the Belarusian Potash Company, and Agrorozkvit from the sanctions list, though assets remain frozen.",
-      "Improving ties between Alexander Lukashenko and Washington follow a deal earlier this month where Presidential envoy John Coale met Lukashenko in Minsk and secured the release of 250 political prisoners.",
-      "Broader sanctions from 2022 regarding Belarus' support for Russia's incursion into Ukraine remain in place, as the administration continues to enforce those original restrictions despite the recent policy adjustment."
-    ],
-    "title": "US Eases Belarus Sanctions on Banks and Potash Firms Amid Fertilizer Shortages",
+    "title": "More than 300 US Troops Injured Since Start of War",
     "topic": null,
     "topic_full": null
   }
