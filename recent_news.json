@@ -1,15 +1,69 @@
 [
   {
-    "article_path": "/article/republican-rep-tony-gonzales-of-texas-says-he-will-retire-after-admitting-to-affair-with-staffer_3058d7",
-    "article_url": "https://ground.news/article/republican-rep-tony-gonzales-of-texas-says-he-will-retire-after-admitting-to-affair-with-staffer_3058d7",
-    "bias": null,
+    "article_path": "/article/court-orders-dc-judge-to-end-criminal-contempt-inquiry-into-trump-officials-involved-in-deportation-flights",
+    "article_url": "https://ground.news/article/court-orders-dc-judge-to-end-criminal-contempt-inquiry-into-trump-officials-involved-in-deportation-flights",
+    "bias": [
+      "Left outlets emphasize accountability and human-rights, spotlighting March 2025 deportations to a \"brutal CECOT prison\" and saying the appeals panel \"shielded\" the administration; right outlets present the ruling as vindication of executive power, using triumphant terms like \"orders\" to \"halt\" a \"rogue probe\" or \"witch hunt\" and deriding an \"activist\" judge, often de-emphasizing migrant conditions.",
+      "Center coverage foregrounds legal mechanics—quoting \"intrusive\" and \"abused his discretion\" and the 2-1 split.",
+      "Pivotal dividing lines are Boasberg’s prior \"probable cause\" finding and judges’ appointing presidents; all agree the appeals court ended the contempt inquiry, revealing a clash over oversight versus executive authority."
+    ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "no_change",
+    "status": "ok",
+    "summary": [
+      "A U.S. appeals court ruled that a federal judge must end a contempt investigation into Donald Trump ’s administration over deportation flights.",
+      "The court said Chief Judge James Boasberg overstepped his authority in pursuing criminal contempt proceedings.",
+      "The ruling affirmed the administration’s right to halt the case, according to the majority opinion by the appeals panel."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/husband-of-woman-missing-in-bahamas-has-been-released-from-police-custody_ef3224",
+    "article_url": "https://ground.news/article/husband-of-woman-missing-in-bahamas-has-been-released-from-police-custody_ef3224",
+    "bias": [
+      "Coverage splits along a domestic‑abuse versus law‑and‑order axis: left outlets emphasize the daughter’s concerns and frame the story around possible domestic violence, using phrasing like \"evokes episodes of domestic violence,\" a domestic‑violence angle de‑emphasized in center and right; right outlets stress investigative urgency and institutional lapse, foregrounding terms such as \"furiously searching\" and \"let deadline pass\" while framing him as an \"American husband.",
+      "Center focuses on investigatory specifics—the nearly 40‑minute call and \"chilling messages\"—and uses \"deadline looms,\" a phrasing used in some right pieces.",
+      "All agree he was arrested and released without charges; he maintains his innocence and searches continued."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 71.0,
+    "error": null,
+    "left_pct": 16.0,
+    "location": null,
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Bahamian authorities face a 7:20 p.m. deadline to charge or release 59-year-old Brian Hooker in connection with his wife Lynette's disappearance after she allegedly fell overboard near Elbow Cay on April 4.",
+      "Brian Hooker claims that on April 4, Lynette fell off their 8-foot dinghy amid winds around 20 mph near Elbow Cay, forcing him to paddle four miles to Marsh Harbour Boat Yards before notifying police .",
+      "Attorney Terrel Butler stated that Brian Hooker \"categorically and unequivocally denies any wrongdoing,\" while daughter Karli Aylesworth expressed suspicion the disappearance was \"probably preplanned.\"",
+      "Investigators questioned Hooker Friday for more than three hours about potential murder charges; however, no body has been recovered and Butler noted there is \"so far no evidence\" linking his client to a crime.",
+      "Challenging weather conditions, including gusts exceeding 40 mph, hampered search efforts as Royal Bahamas Defense Force Cmdr. Origin Deleveaux confirmed that land, air, and sea searches for Lynette Hooker remain ongoing."
+    ],
+    "title": "Husband of woman missing in Bahamas has been released from police custody",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/republican-rep-tony-gonzales-of-texas-says-he-will-retire-after-admitting-to-affair-with-staffer_3058d7",
+    "article_url": "https://ground.news/article/republican-rep-tony-gonzales-of-texas-says-he-will-retire-after-admitting-to-affair-with-staffer_3058d7",
+    "bias": [
+      "Left-Leaning coverage foregrounds institutional accountability and moral outrage—using phrases like \"predatory behavior\" and \"bipartisan calls to expel\"—portraying the exit as a consequence of cross‑party backlash; right-leaning pieces lean into sensational, moralizing language—\"lewd texting scandal,\" \"disgraced,\" \"embattled\"—sometimes casting the member as besieged and questioning the sincerity of his \"retirement.",
+      "Center coverage is more procedural, quoting his intent to \"file my retirement\" and de‑emphasizing explicit‑text allegations.",
+      "Key dividing lines are the weight given to sexually explicit‑text claims and party culpability; all sides nonetheless agree on the affair, the staffer’s suicide, and bipartisan pressure."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": null,
+    "right_pct": 29.0,
+    "status": "ok",
     "summary": [
       "On Monday, GOP Rep. Tony Gonzales announced his retirement from Congress, effective when Congress returns tomorrow.",
       "Facing potential expulsion from Congress, Gonzales admitted last month to an extra-marital affair with a staffer who died by suicide last year.",
@@ -17,24 +71,24 @@
       "Shortly after Democrat Rep. Eric Swalwell resigned on Monday, Gonzales announced his departure, compounding departures from Congress.",
       "In a statement, Gonzales remarked, \"It has been my privilege to serve the great people of Texas,\" adding, \"There is a season for everything."
     ],
-    "title": "Source Icon",
+    "title": "Republican Rep. Tony Gonzales of Texas says he will retire after admitting to affair with staffer",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/rep-eric-swalwell-resigns-from-us-house-after-sexual-misconduct-allegations_d2381f",
-    "article_url": "https://ground.news/article/rep-eric-swalwell-resigns-from-us-house-after-sexual-misconduct-allegations_d2381f",
+    "article_path": "/article/rep-eric-swalwell-resigns-from-us-house-after-sexual-misconduct-allegations_be66a3",
+    "article_url": "https://ground.news/article/rep-eric-swalwell-resigns-from-us-house-after-sexual-misconduct-allegations_be66a3",
     "bias": [
-      "Left-Leaning coverage frames a swift political fall and emphasizes constituent impact, due-process concerns and logistics, using restrained terms like \"resign/resigns\" and \"mistakes in judgment\"; right-leaning coverage spotlights scandal, using charged words—\"torpedoed,\" \"caves,\" \"resigns in disgrace,\" \"sex scandal\"—foregrounding accusers and implying guilt.",
-      "Key divides are whether to stress due process versus presumption of wrongdoing, how much accuser detail or corroboration to include, and the urgency of expulsion threats.",
-      "Both sides converge on the resignation, the allegations, Swalwell’s denial and an Ethics inquiry, reflecting deeper ideological and cultural rifts over accountability."
+      "Left-Leaning coverage frames Swalwell’s exit as a contextualized \"downfall,\" using softer phrasing like \"says he plans\" and \"sexual misconduct allegations\" while stressing internal Democratic fallout—noting more than 50 former staffers demanding resignation as accountability.",
+      "Right-Leaning pieces cast it as a \"scandal,\" deploying charged words such as \"torpedoed,\" \"caved,\" and \"disgrace,\" amplifying \"sexual assault\" claims and hinting at leaked videos.",
+      "Center outlets emphasize process—\"resign,\" \"after,\" and the House Ethics inquiry —and all sides agree on the resignation, bipartisan pressure, and an Ethics probe, reflecting broader ideological divides over punishment versus context."
     ],
     "bias_bar_text": null,
-    "center_pct": 46.0,
+    "center_pct": 44.0,
     "error": null,
-    "left_pct": 27.0,
+    "left_pct": 25.0,
     "location": null,
-    "right_pct": 27.0,
+    "right_pct": 31.0,
     "status": "ok",
     "summary": [
       "On Monday, Democratic Rep. Eric Swalwell of California announced his resignation from Congress, ending his seven-term tenure following multiple sexual assault allegations that prompted bipartisan calls for him to step down.",
@@ -48,17 +102,17 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/judge-dismisses-trumps-wall-street-journal-lawsuit-over-epstein-birthday-note",
-    "article_url": "https://ground.news/article/judge-dismisses-trumps-wall-street-journal-lawsuit-over-epstein-birthday-note",
+    "article_path": "/article/judge-dismisses-trumps-wsj-defamation-suit-over-epstein-letter",
+    "article_url": "https://ground.news/article/judge-dismisses-trumps-wsj-defamation-suit-over-epstein-letter",
     "bias": [
-      "Left-Leaning coverage frames the judge’s action as a rebuke—using colloquial verbs like \"tossed,\" moralizing terms such as \"lewd\" and phrases like \"campaign of litigation\" and \"blow to the president,\" and emphasizes the $10B figure as evidence of excess; center outlets adopt formal legal language—\"dismissed,\" \"for now,\" \"bawdy,\" and procedural detail—de-emphasizing partisan framing and noting refiling is allowed.",
-      "Right-Leaning perspective is largely de-emphasized in these analyses.",
-      "Pivotal divides center on the Epstein tie and the judge’s legal reasoning; coverage nonetheless converges on the dismissal, the $10B claim, and Epstein’s status, reflecting broader ideological and cultural divides."
+      "Left-Leaning coverage frames the judge’s action as a rebuke to Trump—using verbs like \"tosses\" and phrases like \"crushing legal blow\" and spotlighting the WSJ’s \"bawdy\" Epstein-related reporting to stress press‑freedom implications—while right-leaning pieces foreground the $10B figure and terms like \"throws out\" or \"Obama judge,\" emphasizing victimization, Trump’s vow to \"refile,\" context, and often de-emphasized procedural timeline and reporting basis.",
+      "Center outlets emphasize neutral legal mechanics—\"dismissed for now\" and the \"actual malice\" standard.",
+      "Dividing lines include the Epstein link, the malice threshold, and motives for suing; all agree on dismissal and leave to amend, reflecting deeper cultural fault lines."
     ],
     "bias_bar_text": null,
-    "center_pct": 51.0,
+    "center_pct": 50.0,
     "error": null,
-    "left_pct": 26.0,
+    "left_pct": 27.0,
     "location": null,
     "right_pct": 23.0,
     "status": "ok",
@@ -74,550 +128,613 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/pope-leo-says-he-has-no-fear-of-trump-vows-to-keep-speaking-out-against-iran-war_f8c7ca",
-    "article_url": "https://ground.news/article/pope-leo-says-he-has-no-fear-of-trump-vows-to-keep-speaking-out-against-iran-war_f8c7ca",
+    "article_path": "/article/justice-department-moves-to-toss-seditious-conspiracy-convictions-of-oath-keepers-and-proud-boys",
+    "article_url": "https://ground.news/article/justice-department-moves-to-toss-seditious-conspiracy-convictions-of-oath-keepers-and-proud-boys",
     "bias": [
-      "Left coverage frames the clash as moral defiance—highlighting the Pope’s \"no fear,\" calling Trump’s posts a \"diatribe\" and stressing the offensive AI image—while right coverage privileges Trump’s framing and emphasizes the Pope’s insistence he is \"not a politician\" and the geopolitical stakes.",
-      "Rhetorically, the left uses morally charged, solidaristic language; the right uses defensive, delegitimizing terms and policy framing.",
-      "Pivotal divides are the AI image, allegations of anti‑Catholic bias, and whether remarks are pastoral or political; both sides still report the exchange and the Pope’s Gospel‑rooted appeal for peace."
+      "Left narratives emphasize threats to accountability and democracy, using words like \"toss,\" \"erase,\" \"far‑right extremist,\" and phrases such as \"turning the lies...\" to portray the DOJ motion as a rollback of justice; right narratives frame the filings as corrective vindication, using \"vacate,\" \"sweeping,\" \"HUGE,\" and labels like \"witch hunts\" and \"lawfare,\" while stressing ties to Trump as legitimate authority .",
+      "Center coverage is more procedural and de‑emphasizes partisan claims.",
+      "Pivotal divides are defendant labels and whether the move corrects overreach or erases consequences; both sides agree the DOJ filed motions that could vacate convictions."
     ],
-    "bias_bar_text": null,
-    "center_pct": 42.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": null,
-    "right_pct": 26.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Pope Leo XIV told reporters he will continue speaking out against war, defying public criticism from President Donald Trump during his first major international trip to Algiers.",
-      "President Donald Trump attacked Pope Leo on Truth Social on Sunday, labeling him 'terrible for Foreign Policy' following the pontiff's peace appeals regarding the U.S.-Israeli war on Iran.",
-      "Trump accused Pope Leo of catering to the 'Radical Left' and being 'WEAK on Crime,' also claiming the pontiff supports Iran having a 'Nuclear Weapon.'",
-      "The pontiff stressed he has 'no fear' of the Trump administration, insisting his remarks were not directed at any individual but reflected broader concerns about what he called the 'delusion of omnipotence.'",
-      "Pope Leo began a 10-day tour of four African countries, including Algeria, as the exchange marks a rare, visible disagreement between the White House and the Vatican over contrasting moral approaches."
-    ],
-    "title": "Pope Leo says he has ‘no fear’ of Trump, vows to keep speaking out against Iran war",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/eric-swalwell-drops-bid-for-california-governor-after-sexual-misconduct-allegations_5fa8be",
-    "article_url": "https://ground.news/article/eric-swalwell-drops-bid-for-california-governor-after-sexual-misconduct-allegations_5fa8be",
-    "bias": [
-      "Left-Leaning coverage frames the story as moral reckoning, emphasizing detailed reporting and words like \"disturbing,\" \"appalling,\" and \"downfall\" to stress reputational damage and party turmoil; right-leaning pieces sensationalize and punish, using terms such as \"kicks,\" \"heinous,\" \"implosion\" and even spotlight donor fallout to portray a disgraced, politically toxic figure and party hypocrisy.",
-      "The key dividing lines are evidentiary detail versus scandal theater and donor/personal fallout versus procedural investigation; center outlets de-emphasize moralizing, focusing on \"suspends,\" numbers of accusers and probes, while all agree he suspended his campaign, multiple women accused him, and prosecutors are reviewing allegations."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 38.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": null,
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, Rep. Eric Swalwell suspended his California gubernatorial campaign, stating he is \"deeply sorry for mistakes in judgment\" while vowing to fight what he called \"serious, false allegations\" of sexual misconduct.",
-      "Reports from the San Francisco Chronicle and CNN published Friday detailed accounts from four women alleging sexual misconduct, including accusations that Swalwell raped a former staffer in 2019 and again in 2024 while she was intoxicated.",
-      "The Manhattan District Attorney's Office confirmed Saturday it is investigating the 2024 allegation, while more than 50 former staffers issued a joint statement calling the allegations \"serious and credible\" and urging Swalwell to resign from Congress.",
-      "House Minority Leader Hakeem Jeffries and other prominent Democrats withdrew support within hours, while Republican Rep. Anna Paulina Luna said Saturday she plans to file a motion \"to expel Eric Swalwell from Congress.\"",
-      "Swalwell's withdrawal reshapes California's June 2 primary, where Democratic leaders feared a crowded field could split votes and allow two Republican candidates to advance to November's general election unchallenged."
-    ],
-    "title": "Eric Swalwell drops bid for California governor after sexual misconduct allegations",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/husband-of-woman-missing-in-bahamas-has-been-released-from-police-custody_ef3224",
-    "article_url": "https://ground.news/article/husband-of-woman-missing-in-bahamas-has-been-released-from-police-custody_ef3224",
-    "bias": [
-      "Coverage splits along a domestic‑abuse versus law‑and‑order axis: left outlets emphasize the daughter’s concerns and frame the story around possible domestic violence, using phrasing like \"evokes episodes of domestic violence,\" a domestic‑violence angle de‑emphasized in center and right; right outlets stress investigative urgency and institutional lapse, foregrounding terms such as \"furiously searching\" and \"let deadline pass\" while framing him as an \"American husband.",
-      "Center focuses on investigatory specifics—the nearly 40‑minute call and \"chilling messages\"—and uses \"deadline looms,\" a phrasing used in some right pieces.",
-      "All agree he was arrested and released without charges; he maintains his innocence and searches continued."
-    ],
-    "bias_bar_text": "L 17% Center 71% 12%",
-    "center_pct": 71.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": null,
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Bahamian authorities face a 7:20 p.m. deadline to charge or release 59-year-old Brian Hooker in connection with his wife Lynette's disappearance after she allegedly fell overboard near Elbow Cay on April 4.",
-      "Brian Hooker claims that on April 4, Lynette fell off their 8-foot dinghy amid winds around 20 mph near Elbow Cay, forcing him to paddle four miles to Marsh Harbour Boat Yards before notifying police .",
-      "Attorney Terrel Butler stated that Brian Hooker \"categorically and unequivocally denies any wrongdoing,\" while daughter Karli Aylesworth expressed suspicion the disappearance was \"probably preplanned.\"",
-      "Investigators questioned Hooker Friday for more than three hours about potential murder charges; however, no body has been recovered and Butler noted there is \"so far no evidence\" linking his client to a crime.",
-      "Challenging weather conditions, including gusts exceeding 40 mph, hampered search efforts as Royal Bahamas Defense Force Cmdr. Origin Deleveaux confirmed that land, air, and sea searches for Lynette Hooker remain ongoing."
-    ],
-    "title": "Husband of woman missing in Bahamas has been released from police custody",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/novo-nordisk-partners-with-openai-as-ai-drug-discovery-hopes-mount",
-    "article_url": "https://ground.news/article/novo-nordisk-partners-with-openai-as-ai-drug-discovery-hopes-mount",
-    "bias": [
-      "Left coverage frames the deal as a targeted push to \"accelerate\" obesity/weight‑loss drugs and patient impact, while right casts it as a triumphant \"new era,\" \"revolutionizing\" medical science—optimistic, market‑celebratory rhetoric.",
-      "Left's tone is policy‑and‑health focused; right's is grandiose and technocratic, using phrases like \"coming for\" to dramatize AI's reach.",
-      "Center sits between, saying \"hopes mount\" and that Novo Nordisk \"fallen behind,\" and details AI use across discovery, manufacturing and commercial ops.",
-      "Pivotal divides are obesity versus industry‑wide transformation and the de‑emphasized regulatory/governance questions; all agree AI will speed drug development, reflecting deeper ideological splits."
-    ],
-    "bias_bar_text": "L 20% Center 40% Right 40%",
-    "center_pct": 40.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": null,
-    "right_pct": 40.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Danish drugmaker Novo Nordisk announced a partnership with OpenAI to deploy artificial intelligence across drug discovery, manufacturing, and commercial operations to improve efficiency.",
-      "Seeking to regain ground in the competitive obesity-drug market, Novo Nordisk initiated this collaboration following Indianapolis-based Lilly's recent U.S. approval for its Foundayo weight-loss pill.",
-      "Pilot programs begin immediately across research, development, and commercial operations, with full integration planned by the end of 2026; OpenAI will train Novo Nordisk's workforce to boost AI literacy and productivity.",
-      "CEO Mike Doustdar emphasized the partnership aims to \"supercharge\" employees rather than replace them, intending to lift productivity and curb future hiring pace after last year's 9,000 job cuts.",
-      "OpenAI CEO Sam Altman stated the collaboration will \"accelerate scientific discovery\" and redefine patient care, as analysts project annual revenue from weight-loss drugs will exceed $100 billion this decade."
-    ],
-    "title": "Wegovy-maker Novo Nordisk partners with OpenAI to speed drug development",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/chinese-ai-solves-decade-old-math-problem-in-80-hours_e2f600",
-    "article_url": "https://ground.news/article/chinese-ai-solves-decade-old-math-problem-in-80-hours_e2f600",
-    "bias": [
-      "Left-Leaning coverage foregrounds celebratory language—terms like \"breakthrough\" and promotional framing—portraying the Peking University-led result as a scientific win, while right-leaning pieces foreground national competition and speed, using short phrases like \"Chinese,\" \"80 hours,\" \"autonomously resolved,\" and \"unattainable by humans\" to imply geopolitical threat or exceptional performance; center pieces emphasize a technical \"dual-agent\" explanation and use charged words like \"AI Revolution\" and \"shocked\" to signal a tipping point.",
-      "Pivotal divides are the method details and problem provenance/runtime, yet all agree the team claims an autonomous, formally verified solution, reflecting deeper technological-optimism versus geopolitical-competition faultlines."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 28.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "China",
-    "right_pct": 43.0,
-    "status": "ok",
-    "summary": [
-      "A Chinese AI framework independently solved a decade-old mathematical problem posed by Dan Anderson within 80 hours without human intervention.",
-      "The dual-agent system uses one AI for natural language reasoning and another for formal proof verification, automating key stages of mathematical research .",
-      "This AI approach bridges human-like reasoning with machine proof validation, completing the formalisation almost without human help.",
-      "Researchers say this achievement shows how AI can substantially automate mathematical research by relieving humans of repetitive tasks while ensuring proof accuracy."
-    ],
-    "title": "Chinese AI Solves Decade-Old Math Problem in 80 Hours",
-    "topic": "Mathematics",
-    "topic_full": "Mathematics · China"
-  },
-  {
-    "article_path": "/article/us-military-kills-2-men-in-another-alleged-drug-boat-strike-in-eastern-pacific_1de19d",
-    "article_url": "https://ground.news/article/us-military-kills-2-men-in-another-alleged-drug-boat-strike-in-eastern-pacific_1de19d",
-    "bias": [
-      "Left-Leaning coverage frames the strike as a human‑cost and accountability story—foregrounding phrases like \"leaves 2 dead\" and \"did not provide evidence,\" and stressing the campaign's roughly 170 deaths and legal/rights concerns—while right‑leaning pieces frame it as law‑and‑order action, using terms such as \"kills,\" \"suspected cartel operatives,\" and \"lethal strike,\" foregrounding SOUTHCOM's intelligence and operational detail; center outlets lean toward cautious tags like \"alleged\" or \"said.",
-      "Key divides are evidence/verification, legality, and casualty emphasis versus operational justification; both agree the strike occurred, two died, and SOUTHCOM is the primary source, reflecting a security‑vs‑rights split."
-    ],
-    "bias_bar_text": null,
+    "bias_bar_text": "Left 33% Center 57% 10%",
     "center_pct": 57.0,
     "error": null,
-    "left_pct": 26.0,
-    "location": "United States",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, U.S. Southern Command conducted a lethal strike in the eastern Pacific, killing two people on a vessel allegedly engaged in narco-trafficking operations.",
-      "Operation Southern Spear, a campaign launched in September, targets vessels allegedly linked to designated terrorist organizations involved in drug trafficking across the region.",
-      "Monday's action brings the death toll to at least 170 since the campaign began, though military officials provided no evidence the vessel was ferrying drugs.",
-      "International law experts and Democratic lawmakers have questioned the legality of these strikes, citing a lack of definitive evidence that targeted vessels were involved in drug trafficking.",
-      "The administration maintains these operations are necessary to combat cartels, even as the military balances maritime efforts with ongoing commitments in the Middle East."
-    ],
-    "title": "U.S. Military Kills 2 Men in Another Alleged Drug Boat Strike in Eastern Pacific",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · United States"
-  },
-  {
-    "article_path": "/article/vance-says-us-made-a-lot-of-progress-in-talks-with-iran_d82266",
-    "article_url": "https://ground.news/article/vance-says-us-made-a-lot-of-progress-in-talks-with-iran_d82266",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 34.0,
-    "error": null,
-    "left_pct": 22.0,
-    "location": "United States",
-    "right_pct": 44.0,
-    "status": "no_change",
-    "summary": [
-      "On Monday, Vice President JD Vance stated that the \"ball is in the Iranian court\" regarding a potential peace deal after returning from Islamabad, where negotiations with Iranian officials concluded without a final agreement.",
-      "Discussions spanned over 21 hours in Pakistan after initial expectations of a brief meeting, as Iranian representatives could not secure a deal without authorization from Supreme Leader Mojtaba Khamenei in Tehran.",
-      "The United States maintained strict \"red lines\" requiring Iran to remove enriched uranium and implement verification measures to prevent nuclear weapons development, while demanding the full reopening of the Strait of Hormuz.",
-      "President Donald Trump initiated a blockade of ships entering or exiting Iranian ports in the Strait, providing \"additional economic pressure\" on Tehran to return to negotiations.",
-      "Vance noted \"there really is, I think, a grand deal to be had,\" but emphasized Iran must demonstrate progress on opening the Strait and ending nuclear pursuit to normalize economic relations."
-    ],
-    "title": "Vance says US made a lot of progress in talks with Iran",
-    "topic": "JD Vance",
-    "topic_full": "JD Vance · United States"
-  },
-  {
-    "article_path": "/article/whoopi-goldberg-launches-whoopink-a-blackstone-publishing-imprint",
-    "article_url": "https://ground.news/article/whoopi-goldberg-launches-whoopink-a-blackstone-publishing-imprint",
-    "bias": [
-      "Left-Leaning coverage frames Whoopi Goldberg ’s WhoopInk as mission-driven, using promotional language like \"elevate 'influential voices'\" and \"spotlight\" to emphasize diversity and emerging talent, while right-leaning pieces adopt a transactional, mentoring tone—phrases such as \"wants to help others do the same\" present the launch as a career-driven move with de-emphasized diversity claims.",
-      "A key dividing line is Goldberg’s editorial role—center outlets cite the publisher saying she'll be \"deeply involved,\" a detail left and right de-emphasize differently.",
-      "Both sides agree she launched WhoopInk to support other writers, reflecting broader ideological priorities about platforming versus professional mentoring."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 18.0,
-    "error": null,
-    "left_pct": 73.0,
-    "location": "United States",
-    "right_pct": 9.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Oscar-winning actor and co-host of The View Whoopi Goldberg launched WhoopInk, a partnership with Blackstone Publishing to bring \"fresh, diverse new talent to the marketplace.\"",
-      "Goldberg described the imprint as a platform for \"influential voices,\" signaling a broader mission to expand representation in publishing after authoring more than a dozen books herself.",
-      "Blackstone executive Rick Bleiweiss will publish the next installment in \"Pignon Scorbion & the Barbershop Detectives\" mystery series, having previously signed Goldberg's memoir \"Bits and Pieces: My Mother, My Brother, and Me.\"",
-      "Goldberg will be \"intimately involved\" with the imprint, overseeing cover design and promotion while releasing a follow-up to \"Bits and Pieces.\"",
-      "This venture joins Goldberg with other celebrities who have launched imprints in recent years, including Sarah Jessica Parker, John Legend, and Questlove, while Reese Witherspoon and Dua Lipa have formed book clubs."
-    ],
-    "title": "Whoopi Goldberg launches WhoopInk, a Blackstone Publishing imprint",
-    "topic": "Whoopi Goldberg",
-    "topic_full": "Whoopi Goldberg · United States"
-  },
-  {
-    "article_path": "/article/texas-tech-system-to-end-sexual-orientation-and-gender-identity-degrees-limit-course-content",
-    "article_url": "https://ground.news/article/texas-tech-system-to-end-sexual-orientation-and-gender-identity-degrees-limit-course-content",
-    "bias": [
-      "Coverage splits: left outlets emphasize threats to academic freedom, framing the move as \"academic censorship\" and a \"dramatically expanded policy\" that \"cancels\" SOGI programs, using alarmed, protective language; right outlets frame the same action as a victorious purge of DEI -era courses—invoking combative metaphors like \"on the chopping block\" and conflict-driven tones that portray programs as targeted.",
-      "Centers de-emphasize rhetoric, focusing on procedure—\"phase out,\" admissions freezes, deadlines and teach-out provisions.",
-      "Flashpoints such as the memo’s instruction to recognize \"two human sexes\" and who can finish degrees reveal the deepest partisan fault lines, even as all report programs will be pared back."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 69.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "Texas",
-    "right_pct": 6.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Texas Tech University System Chancellor Brandon Creighton ordered campuses to phase out academic programs centered on sexual orientation and gender identity, requiring the system's five universities to freeze admissions by June 15.",
-      "Creighton, a former Republican state senator who sponsored a 2023 law banning diversity, equity and inclusion, framed the directive as ensuring programs are \"rigorous, relevant, and produce degrees of value.\"",
-      "The policy requires the \"legal recognition of only two human sexes\" and prohibits teaching gender identity as a spectrum; Creighton implemented an AI algorithm to review roughly 14,000 courses across the system.",
-      "Texas AAUP-AFT president Andrew Martin called the policy a \"brazen disregard\" for delivering a complete education , while students said the university can no longer provide an \"honest education.\"",
-      "Public higher education leaders across Texas have been moving to limit instruction on race, sex, and gender over the past year amid intense political pressure, though currently enrolled students may complete their degrees."
-    ],
-    "title": "Texas Tech System to End Sexual Orientation & Gender Identity Degrees, Limit Course Content",
-    "topic": "Education",
-    "topic_full": "Education · Texas"
-  },
-  {
-    "article_path": "/article/musk-amplifies-ex-pfizer-toxicologists-vaccine-death-claims",
-    "article_url": "https://ground.news/article/musk-amplifies-ex-pfizer-toxicologists-vaccine-death-claims",
-    "bias": [
-      "Left-Leaning coverage frames the former Pfizer toxicologist’s testimony as a regulatory exposé—using phrases like \"human experiment,\" stressing that studies were reportedly skipped and citing up to \"60,000\" deaths—portraying systemic failure; right-leaning pieces amplify personal testimony and conspiratorial frames—invoking \"Big Pharma,\" \"blows whistle,\" claims vaccines \"killed thousands\" and links to \"cancer and infertility\"—treating causation as likely; centrist reports foreground Elon Musk’s \"felt like I was dying\" anecdote while labeling the assertions \"scientifically unfounded\"; both sides nevertheless center Sterz’s testimony as newsworthy, reflecting deeper trust-versus-skepticism divides."
-    ],
-    "bias_bar_text": "6% Center 38% Right 56%",
-    "center_pct": 38.0,
-    "error": null,
-    "left_pct": 6.0,
+    "left_pct": 33.0,
     "location": null,
-    "right_pct": 56.0,
+    "right_pct": 10.0,
     "status": "ok",
     "summary": [
-      "On March 19, 2026, former Pfizer Europe chief toxicologist Dr. Helmut Sterz testified before the Bundestag's Corona Enquete Commission, alleging the Pfizer-BioNTech Comirnaty vaccine approval process was \"dangerously rushed\" and bypassed fundamental safety studies.",
-      "Sterz alleged 10 essential preclinical safety studies, including carcinogenicity and reproductive toxicity tests, were skipped \"due to time constraints,\" and claimed mass-produced vaccine material differed from clinical trials due to bacterial DNA contamination.",
-      "Citing internal reports of over 1,200 suspected deaths within two months of approval, Sterz argued official reporting systems underestimate adverse events and suggested the actual death toll in Germany could be as high as 60,000.",
-      "German Health Minister Karl Lauterbach rejected the claims as false, while tech billionaire Elon Musk amplified the testimony on X, reigniting global vaccine safety debate.",
-      "Health regulators worldwide maintain that vaccines met safety standards and saved lives, though the German inquiry is expected to continue taking evidence from scientists and critics in the coming months."
+      "On Tuesday, the Justice Department asked the Columbia Circuit to vacate seditious conspiracy convictions for Proud Boys and Oath Keepers leaders, aiming to permanently dismiss their indictments.",
+      "Following President Donald Trump's commutation of these leaders' sentences last January, Attorney Jeanine Pirro signed the filing, citing prosecutorial discretion to dismiss cases in the interests of justice.",
+      "Democrats on Capitol Hill criticized the administration's rhetoric as a dangerous attempt to rewrite history, slamming the president for pardoning over 1,500 convicted rioters last year."
     ],
-    "title": "Musk Amplifies Ex-Pfizer Toxicologist's Vaccine Death Claims",
+    "title": "Justice Department moves to toss seditious conspiracy convictions of Oath Keepers and Proud Boys",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/yukon-mine-in-2024-failure-will-discharge-treated-water-in-preparation-for-snow-melt",
-    "article_url": "https://ground.news/article/yukon-mine-in-2024-failure-will-discharge-treated-water-in-preparation-for-snow-melt",
+    "article_path": "/article/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade",
+    "article_url": "https://ground.news/article/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade",
     "bias": null,
-    "bias_bar_text": "Left 83% C 17%",
-    "center_pct": 17.0,
+    "bias_bar_text": "L 23% Center 31% Right 46%",
+    "center_pct": 31.0,
     "error": null,
-    "left_pct": 83.0,
+    "left_pct": 23.0,
     "location": null,
-    "right_pct": null,
+    "right_pct": 46.0,
     "status": "no_change",
     "summary": [
-      "The Eagle Gold Mine in Yukon had a catastrophic heap leach failure in June 2024, spilling about two million tonnes of cyanide-soaked ore that contaminated local groundwater.",
-      "The Yukon government says that ditches, culverts, and pumping systems have been set up to divert spring runoff from cyanide-contaminated water onsite.",
-      "Storage ponds at the mine have about 315,000 cubic metres of storage capacity to handle expected influxes of water from the spring snowmelt.",
-      "Since April 2025, interception wells have captured over 670,000 cubic metres of cyanide-containing water for treatment, and the receiver is recovering gold from this water to fund site remediation while seeking a new buyer."
+      "On Wednesday, the United States Central Command announced a full blockade of Iranian ports, with Commander Admiral Brad Cooper stating that U.S. forces completely halted economic maritime trade within 36 hours.",
+      "The blockade follows the collapse of high-level talks in Pakistan last weekend, which failed to resolve disputes over Iran's nuclear program; Washington aims to increase economic pressure to force a deal.",
+      "CENTCOM is deploying more than 10,000 personnel and over a dozen warships to enforce the operation, affecting international trade that fuels about 90% of Iran's economy; six merchant vessels turned back during the first 24 hours.",
+      "China's foreign ministry spokesperson Guo Jiakun called the blockade a \"dangerous and irresponsible\" act, while oil markets fluctuated as analysts warned of disruptions to energy supplies through the Strait of Hormuz.",
+      "French President Emmanuel Macron and British Prime Minister Keir Starmer will co-chair a conference Friday in Paris to coordinate a mission aimed at restoring freedom of navigation in the Strait of Hormuz."
     ],
-    "title": "Yukon mine in 2024 failure will discharge treated water in preparation for snow melt",
+    "title": "US military says blockade of Iran ports ‘completely’ halts economic trade",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/ice-detention-center-contractors-host-a-hotbed-of-legal-problems-regulatory-violations-and-deadly-conditions",
-    "article_url": "https://ground.news/article/ice-detention-center-contractors-host-a-hotbed-of-legal-problems-regulatory-violations-and-deadly-conditions",
+    "article_path": "/article/in-its-50th-boat-strike-us-military-kills-4-narco-terrorists-in-eastern-pacific_5cf60f",
+    "article_url": "https://ground.news/article/in-its-50th-boat-strike-us-military-kills-4-narco-terrorists-in-eastern-pacific_5cf60f",
     "bias": [
-      "Left coverage foregrounds systemic negligence, using charged phrases like \"hotbed of legal problems,\" \"dark histories,\" and \"deadly conditions,\" and highlights a watchdog report and claims contractors were awarded \"billions\" to run Camp East Montana; right coverage emphasizes OSHA's action, uses the milder term \"cited,\" and frames culpability on contractors while normalizing a \"major ICE detention camp.",
-      "Center coverage stresses OSHA's \"serious violations\" finding and the \"campaign donor\" ownership tie.",
-      "A pivotal split is watchdog/contract-scale focus versus victim identification—center and right include Hector Gonzalez ; all agree OSHA cited three contractors and a worker died."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 58.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": "Texas",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "On July 21, 2025, the U.S. Occupational Safety and Health Administration cited three subcontractors for safety violations following the death of Hector Gonzalez, 38, at Camp East Montana in El Paso, Texas.",
-      "Contractors raced to build the massive Camp East Montana detention facility at Fort Bliss, a project that commenced shortly after the Army awarded an initial contract worth up to $1.3 billion.",
-      "Investigators found companies exposed workers to \"struck-by hazards\" from unstable loads and failed to certify forklift operators; JMJ Production Services and Fulfillment Personnel Services each settled for $15,000 in February while Base International contests its $11,585 penalty.",
-      "Public Citizen researcher Douglas Pasternak authored a report scrutinizing the administration's awarding of contracts to inexperienced firms, warning that \"things are not likely to improve.\"",
-      "The Department of Homeland Security replaced prime contractor Acquisition Logistics with Amentum Services last month via no-bid contract, while Communities Not Cages organizes nationwide protests on April 25."
-    ],
-    "title": "3 Contractors Cited for Violations in Death of Worker Building Detention Camp",
-    "topic": "US Crime",
-    "topic_full": "US Crime · Texas"
-  },
-  {
-    "article_path": "/article/ex-army-contractor-accused-of-leaking-classified-information-to-be-released-to-home-detention",
-    "article_url": "https://ground.news/article/ex-army-contractor-accused-of-leaking-classified-information-to-be-released-to-home-detention",
-    "bias": [
-      "Left-Leaning coverage frames the case around identity and procedure—repeating \"accused,\" noting an \"Army veteran\" was \"allowed to return home\" under monitoring and using restrained legal language—while right-leaning pieces amplify national-security stakes by naming \"Delta Force,\" using \"leak\"/\"leaking\" and stressing \"released to home detention\" as evidence of leniency, and flagging indictment timing; center coverage emphasizes operational specifics and court restrictions .",
-      "Key dividing lines are unit identification, indictment timeline, and media bans, though all report four charges and the judge’s release order."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 28.0,
-    "location": "North Carolina",
-    "right_pct": 22.0,
-    "status": "ok",
-    "summary": [
-      "An ex-Army contractor, accused of leaking classified information, will be released to home detention.",
-      "The indictment alleges that between 2022 and 2025, Williams unlawfully disclosed sensitive military information to an author.",
-      "Williams is facing multiple counts, each punishable by up to 10 years in prison and monetary penalties, according to the government."
-    ],
-    "title": "Ex-Army contractor, accused of leaking classified information, to be released to home detention",
-    "topic": "US Crime",
-    "topic_full": "US Crime · North Carolina"
-  },
-  {
-    "article_path": "/article/camp-mystic-official-says-he-didnt-see-flood-warnings-issued-the-day-before-storm-hit",
-    "article_url": "https://ground.news/article/camp-mystic-official-says-he-didnt-see-flood-warnings-issued-the-day-before-storm-hit",
-    "bias": [
-      "Left-Leaning pieces foreground the human toll and apparent negligence, de-emphasizing legal context—repeating the director’s claim that he 'didn't see' federal and state 'warnings' and using terms like 'devastating' to frame the 27 deaths as institutional failure—while right-leaning coverage reframes the story as procedural, stressing 'preserving damaged areas,' courtroom testimony, and evidence management, treating warnings and meetings as defensible gaps.",
-      "Center outlets emphasize court timing and contested reopening, calling the hearing 'high‑stakes' and noting 'victims.' Pivotal divides include naming the director and legal context; both sides, however, accept that warnings were issued and acknowledge the fatalities, reflecting ideological priorities."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 63.0,
-    "error": null,
-    "left_pct": 28.0,
-    "location": "Texas",
-    "right_pct": 9.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Camp Mystic director Edward Eastland testified he did not see federal and state flood warnings issued before the 2025 storm that killed 27 campers and counselors on the Guadalupe River.",
-      "Eastland relied on the local \"CodeRED\" mobile phone alert system and weather apps, but did not follow National Weather Service or Texas Department of Emergency Management social media posts on July 2 and 3.",
-      "The camp played \"Taps\" over loudspeakers at 10 p.m. July 3, though Eastland confirmed those speakers were not used to issue weather warnings as floodwaters approached.",
-      "Families of victims have sued the camp operators, and Gov. Dan Patrick said the state should deny the license for the camp to reopen this summer.",
-      "Texas health regulators are investigating hundreds of complaints filed against the camp owners, while The Texas Rangers are helping examine allegations of neglect."
-    ],
-    "title": "Camp Mystic official says he didn't see flood warnings issued the day before storm hit",
-    "topic": "Natural Disasters",
-    "topic_full": "Natural Disasters · Texas"
-  },
-  {
-    "article_path": "/article/alleged-white-supremacist-pleads-guilty-in-fire-at-tennessee-center-that-trained-civil-rights-icons",
-    "article_url": "https://ground.news/article/alleged-white-supremacist-pleads-guilty-in-fire-at-tennessee-center-that-trained-civil-rights-icons",
-    "bias": [
-      "Left-Leaning coverage frames the case as an ideologically driven attack, foregrounding terms like \"white supremacist\" and emphasizing the target as a \"historic social justice center\" that \"trained civil rights icons,\" using moralized, sympathetic language; right-leaning pieces instead amplify broader extremist and security implications—highlighting an alleged link to \"Hezbollah,\" naming the defendant and timing—adopting a law-and-order, threat-focused tone.",
-      "Center coverage is more cautious, using \"alleged\" and \"linked\" and sticking to courtroom facts.",
-      "Key dividing lines are the Hezbollah charge, naming/timing, and cultural significance; both sides nonetheless report the arson plea."
+      "Left outlets emphasize repetition and human cost—using words like \"Another,\" \"kills,\" and \"admits\"—portraying the strike as a controversial revival and demanding independent evidence while highlighting larger cumulative fatalities; right outlets celebrate decisive force with militaristic, demonizing language—\"Smokes,\" \"narco-terrorists,\" \"poison\"—framing the action as effective law-and-order.",
+      "Center coverage generally relays SOUTHCOM claims and \"aerial video,\" often qualifying the target as \"alleged/suspected,\" and sometimes calls this the fourth in days .",
+      "All sides report a U.S. strike that killed four, but they diverge sharply on terrorist designation, evidence, and policy implications."
     ],
     "bias_bar_text": null,
     "center_pct": 41.0,
     "error": null,
-    "left_pct": 42.0,
-    "location": "Tennessee",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "Regan Prater pleaded guilty on Monday to setting a fire that destroyed an office at the Highlander Research and Education Center in Tennessee , and admitted to attempting to aid Hezbollah by providing personally identifiable information on individuals linked to Israel.",
-      "The historic Highlander site trained Civil Rights Movement figures including Rosa Parks and John Lewis, but decades of irreplaceable documents were lost in the blaze that occurred in East Tennessee in 2019.",
-      "An affidavit linked Prater to the crime through group chats and a spray-painted \"triple cross\" found near the scene; authorities identified a screen name, \"Rooster,\" who described using Napalm to set the fire.",
-      "Prater faces a maximum of 20 years in prison under the plea agreement, with sentencing scheduled for Sept. 9 in Knoxville, having been previously sentenced to five years for a separate fire in East Tennessee.",
-      "Prater's Hezbollah charge involved efforts to provide the Lebanese group with information on individuals purportedly affiliated with the government of Israel, as federal officials filed the criminal information, replacing an earlier indictment."
-    ],
-    "title": "Alleged white supremacist pleads guilty in fire at Tennessee center that trained civil rights icons",
-    "topic": "Tennessee Politics",
-    "topic_full": "Tennessee Politics · Tennessee"
-  },
-  {
-    "article_path": "/article/project-2025-architect-quits-south-carolina-senate-race-and-endorses-lindsey-graham-challenger_21242d",
-    "article_url": "https://ground.news/article/project-2025-architect-quits-south-carolina-senate-race-and-endorses-lindsey-graham-challenger_21242d",
-    "bias": [
-      "Left-Leaning coverage frames Dans’ exit as evidence of intra‑GOP strife and media influence, foregrounding Project 2025 ties and Trump’s claim that Tucker Carlson’s endorsement was the \"KISS OF DEATH,\" while right-leaning pieces celebrate Trump’s decisive backing—using verbs like \"throws support\" and amplifying his attack on a \"LUNATIC\" challenger—to legitimize Graham and denigrate opponents.",
-      "Rhetorically, the left uses skeptical, conflict‑focused language; the right uses celebratory, combative tones.",
-      "Centrists de‑emphasize partisanship, focusing on the procedural June 9 ballot deadline and timeline.",
-      "Both sides agree on the withdrawal, endorsement, and Trump’s public role, reflecting deeper ideological and media‑culture divides."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 44.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "South Carolina",
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, conservative operative Paul Dans withdrew from the South Carolina Republican Senate primary, endorsing businessman Mark Lynch to challenge incumbent Senator Lindsey Graham.",
-      "President Donald Trump celebrated the exit on Truth Social, reaffirming his support for Graham while attacking Lynch as a \"lunatic\" who would \"be a DISASTER\" for the party.",
-      "Attributing the failure to conservative commentator Tucker Carlson, Trump claimed Dans' campaign collapsed because he received the \"kiss of death\" from Carlson's endorsement, whom Trump recently sparred with over Iran.",
-      "Citing his desire to oust the senator, Dans declared \"we cannot Make America Great Again until Lady Graham is taken out of office,\" while urging voters to support Lynch.",
-      "Ahead of the June 9 primary, Senator Lindsey Graham remains the incumbent frontrunner seeking a fifth term, despite facing a crowded field of Republican and third-party challengers."
-    ],
-    "title": "Project 2025 architect quits South Carolina Senate race and endorses Lindsey Graham challenger",
-    "topic": "South Carolina Politics",
-    "topic_full": "South Carolina Politics · South Carolina"
-  },
-  {
-    "article_path": "/article/dangerous-super-typhoon-barrels-toward-remote-us-islands",
-    "article_url": "https://ground.news/article/dangerous-super-typhoon-barrels-toward-remote-us-islands",
-    "bias": [
-      "Left-Leaning coverage frames the storm as a human-centered crisis—using words like \"monster\" and \"barrels,\" linking intensity to climate change, quoting \"I’m more than a bit worried,\" and noting military orders to shelter—emphasizing vulnerability and systemic causes.",
-      "Right-Leaning pieces foreground an immediate, nationalized threat—using \"monster,\" \"bearing down,\" \"dangerous,\" and \"U.S.\"—favoring dramatic, context-light wording and de-emphasizing climate links and NWS attribution.",
-      "Center coverage leans technical , notes \"approved emergency help,\" but sometimes adopts sensational terms.",
-      "Both sides stress urgent danger and severe impacts, diverging on cause, response, and authority attribution."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 33.0,
-    "error": null,
-    "left_pct": 39.0,
+    "left_pct": 31.0,
     "location": "United States",
     "right_pct": 28.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, Super Typhoon Sinlaku is expected to make landfall in the Northern Mariana Islands, generating sustained winds of 173 mph and widespread flooding, according to the National Weather Service.",
-      "About 50,000 residents live on the islands, with most on Saipan, a region resident Glen Hunter describes as 'Typhoon Alley' where many are sheltering in place.",
-      "President Donald Trump approved emergency disaster declarations for the Northern Mariana Islands on Saturday, while the Federal Emergency Management Agency dispatched almost 100 staff and activated a $3.6 billion relief fund.",
-      "Guam, a U.S. territory with about 170,000 residents and military installations, remains under a tropical storm warning as forecasters warn of potential lengthy power cuts and damaging winds.",
-      "This super typhoon is the strongest to hit the region so far this year, marking one of more than 300 such storms identified by the Joint Typhoon Warning Center since 1947."
+      "On Tuesday, U.S. Southern Command conducted a lethal strike in the Eastern Pacific, destroying a vessel and killing four people claimed to be operated by Designated Terrorist Organizations, though no evidence was provided.",
+      "This operation continues a campaign that began in September under President Donald Trump to combat narco-trafficking in Latin America, which the Pentagon says aims to dismantle networks and restore peace through strength.",
+      "The latest attack brings the total death toll to at least 175 people across approximately 50 strikes since September, though the administration has offered little evidence to support its narco-terrorist labels.",
+      "International legal experts and rights groups characterize these military actions as \"extrajudicial killings,\" arguing that suspected traffickers should face legal processes rather than lethal force in international waters.",
+      "Critics question the campaign's effectiveness, noting that fentanyl causing fatal overdoses is typically trafficked overland from Mexico, relying on chemical precursors imported from China and India."
     ],
-    "title": "Super Typhoon Sinlaku could bring significant impacts to US islands in Pacific Ocean",
-    "topic": "Typhoon",
-    "topic_full": "Typhoon · United States"
+    "title": "In Its 50th Boat Strike, US Military Kills 4 ‘Narco-Terrorists’ in Eastern Pacific",
+    "topic": "Venezuelan Boat Strikes",
+    "topic_full": "Venezuelan Boat Strikes · United States"
   },
   {
-    "article_path": "/article/dozens-arrested-as-protesters-demand-schumer-and-gillibrand-block-sale-of-bombs-to-israel",
-    "article_url": "https://ground.news/article/dozens-arrested-as-protesters-demand-schumer-and-gillibrand-block-sale-of-bombs-to-israel",
+    "article_path": "/article/what-happens-to-eric-swalwells-congressional-seat",
+    "article_url": "https://ground.news/article/what-happens-to-eric-swalwells-congressional-seat",
     "bias": [
-      "Left-Leaning coverage frames the action as principled anti-war protest —using words like \"demand,\" \"bombs,\" \"anti-war\" and \"anti‑genocide\" to moralize calls to block U.S. munitions—while right-leaning pieces stress disruption and law‑and‑order, highlighting \"blocking traffic,\" \"dozens arrested,\" and demeaning labels such as \"hauling the trash\" or \"condemned whistleblower\" for Chelsea Manning; the charge that senators are \"abetting\" attacks in Lebanon is a pivotal dividing line—emphasized by some center/right accounts and de‑emphasized on the left—whereas center outlets largely present neutral facts ; both sides agree on arrests, organizer, and Manning’s presence."
+      "Left-Leaning coverage frames the resignation around misconduct—often using phrases like \"amid sexual assault allegations\"—portraying the vacancy as accountability-driven, while right-leaning pieces foreground administrative logistics, using neutral terms such as \"set\" or \"vacated\" to highlight the Aug. 18 special election and de-emphasize the allegations.",
+      "The left deploys more charged, moralizing language; the right favors managerial, calendar-focused tone.",
+      "Center outlets bridge these by noting allegations and explaining procedural rules.",
+      "Both agree Gov.",
+      "Newsom scheduled the Aug. 18 special election to fill the vacated 14th District seat, revealing deeper accountability-versus-procedure priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": "California",
+    "right_pct": 27.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, California Governor Gavin Newsom announced a special election for August 18 to fill the 14th Congressional District seat vacated by Representative Eric Swalwell .",
+      "Swalwell resigned from Congress on Tuesday amid sexual assault and misconduct allegations from multiple women, having suspended his gubernatorial campaign two days earlier as scrutiny intensified.",
+      "While the House Ethics Committee opened an investigation, Swalwell's attorney issued a statement Tuesday that he \"categorically and unequivocally denies each and every allegation of sexual misconduct.\"",
+      "Unlike Senate vacancies where governors appoint replacements, the U.S. Constitution requires House seats be filled through elections, necessitating Newsom's proclamation for the August contest.",
+      "Nine candidates are competing for the seat in a June primary, with the top two vote-getters advancing to a November runoff to determine who serves the next term."
+    ],
+    "title": "Special Election to Fill Eric Swalwell's California Congressional Seat Set by Gov. Newsom",
+    "topic": "California Politics",
+    "topic_full": "California Politics · California"
+  },
+  {
+    "article_path": "/article/banks-see-economy-as-resilient-but-warn-about-rising-energy-prices_cb2ad4",
+    "article_url": "https://ground.news/article/banks-see-economy-as-resilient-but-warn-about-rising-energy-prices_cb2ad4",
+    "bias": [
+      "Left-Leaning coverage frames the economy with skepticism, using terms like \"warn\" and \"negative impacts\" to emphasize fragility.",
+      "It highlights systemic risks like \"large deficits\" to portray a \"complex\" landscape.",
+      "Conversely, right-leaning outlets celebrate corporate success, using phrases like \"profits jump\" to signal \"resilience\" and consumer fortitude.",
+      "While the right portrays households as \"surviving\" energy costs, the left de-emphasizes individual strength in favor of broader economic peril.",
+      "Center-Leaning reports balance these views, noting a \"clouded\" outlook for 2026.",
+      "Ultimately, both sides acknowledge a \"resilient\" present while clashing over whether the future is threatened by policy failures or market volatility."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "United States",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, JPMorgan, Wells Fargo, and Citigroup reported strong first-quarter profits of $16.5 billion, $5.2 billion, and $5.8 billion, respectively, driven by a resilient economy and dealmaking activity.",
+      "Volatile markets and a surge in dealmaking fueled revenue growth, with JPMorgan reporting a 30% jump in investment banking fees and Citigroup seeing a 12% rise in advisory fees across Wall Street.",
+      "Wells Fargo Chief Financial Officer Mike Santomassimo reported customers are spending 30% to 40% more on gasoline, forcing cutbacks in discretionary purchases as national fuel prices climbed above $4 a gallon.",
+      "JPMorgan raised credit loss provisions by about $600 million, citing macroeconomic uncertainty, with Chief Financial Officer Gonzalo Luchetti stating the bank wants to be \"well reserved for a range of environments.\"",
+      "Major banks disclosed significant private credit exposures—JPMorgan $50 billion, Citigroup $22 billion, and Wells Fargo roughly $36 billion—though executives remain \"broadly comfortable\" despite some funds facing redemption requests."
+    ],
+    "title": "Banks See Economy as 'Resilient' but Warn About Rising Energy Prices",
+    "topic": "US Economy",
+    "topic_full": "US Economy · United States"
+  },
+  {
+    "article_path": "/article/tennessee-senate-passes-amended-trans-healthcare-tracking-bill",
+    "article_url": "https://ground.news/article/tennessee-senate-passes-amended-trans-healthcare-tracking-bill",
+    "bias": [
+      "Left-Leaning headlines frame the measure using terms like \"Trans Healthcare\" and \"tracking\" to emphasize privacy intrusion and foreground \"activists\"—even vivid details such as protesters forming a wall and singing—to cast the story as a rights conflict; right-leaning pieces use the same \"tracking\" language to stress oversight, regulation and procedural legitimacy, treating passage as a legislative development; center coverage is more procedural, using neutral verbs like \"passes\" and \"amended.",
+      "Dividing lines—privacy concerns, the use of \"detransition,\" and protesters versus procedure—drive the partisan split, though all note passage, reporting requirements and protests."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 36.0,
+    "location": "Tennessee",
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Tennessee State Senators passed Senate Bill 676 in a 24 to 7 vote, requiring doctors to report on transgender -related healthcare; the House must take a second floor vote to reconcile disparate versions.",
+      "Tensions surrounding anti-LGBTQIA bills have remained high throughout the session, with protesters from the Tennessee Equality Project gathering at the Capitol ahead of the vote.",
+      "Dahron Annelise Johnson, co-chair of the Nashville Committee of TEP, called the bill \"inherently problematic,\" arguing it singles out non-cisgender patients to track medical treatments and hormone therapy.",
+      "Senators approved two amendments: one removing county-level data from reports to protect patient privacy, and another authorizing the attorney general to investigate providers who fail to comply.",
+      "Sen. Raumesh Akbari opposed the bill, warning it could push vulnerable individuals toward self-harm while navigating their gender identity, citing privacy concerns and conversion therapy provisions."
+    ],
+    "title": "Tennessee Senate Passes Amended Trans Healthcare Tracking Bill",
+    "topic": "Tennessee Politics",
+    "topic_full": "Tennessee Politics · Tennessee"
+  },
+  {
+    "article_path": "/article/student-loan-update-trump-admin-changes-math-to-calculate-forgiveness",
+    "article_url": "https://ground.news/article/student-loan-update-trump-admin-changes-math-to-calculate-forgiveness",
+    "bias": [
+      "Left outlets frame the story around borrower harm and redistribution, highlighting \"forgiveness,\" warnings about losing \"pledged relief,\" and calling the changes \"political\"; right outlets personalize and legitimize the move as \"Trump's\" while portraying Democrats as obstructive with phrasing like \"seek to overturn.",
+      "Center coverage stresses procedural mechanics—\"changes math\" and a \"PSLF buyback\"—details de-emphasized by both partisan sides.",
+      "Key dividing lines are technical calculation versus borrower impact and the absent administration rationale and borrower voices; all sides nonetheless report the rules changed and lawmakers seeking reversal, reflecting a broader split over redistribution versus partisan legitimacy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 70.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": "United States",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "Democrats in Congress are attempting to block a new Trump administration rule that changes eligibility for the Public Service Loan Forgiveness program, arguing it could deny relief to some borrowers.",
+      "The rule would allow the Education Department to exclude certain employers from the program if their activities are deemed to have a “substantial illegal purpose,” potentially affecting workers at some nonprofits and public organizations.",
+      "Supporters say the policy prevents taxpayer funds from supporting unlawful activities, while critics argue it could be applied broadly and make it harder for some public service workers to qualify for loan forgiveness."
+    ],
+    "title": "Democrats Seek to Overturn Trump's New Rules for Student Loan Forgiveness",
+    "topic": "Student Loans",
+    "topic_full": "Student Loans · United States"
+  },
+  {
+    "article_path": "/article/los-angeles-da-says-swalwell-under-investigation",
+    "article_url": "https://ground.news/article/los-angeles-da-says-swalwell-under-investigation",
+    "bias": [
+      "Right-Leaning outlets frame the story as scandalous and criminal—using charged phrases like \"possible rape,\" \"string of allegations,\" and naming the accuser while highlighting parallel probes; left-leaning coverage is de-emphasized in the sample, whereas center outlets emphasize process, stressing \"under investigation,\" the DA assigning its \"Sex Crimes Division,\" and quoting the prosecutor, which de-emphasizes sensational language.",
+      "Rhetorically, the right employs accusatory, moralizing tones; the center uses procedural, cautious diction.",
+      "Pivotal divides include whether the accuser is named and whether \"rape\" replaces \"allegation.",
+      "Both sides converge on DA confirmation and that a new accuser has come forward."
+    ],
+    "bias_bar_text": "Center 57% Right 43%",
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": 43.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Los Angeles County District Attorney Nathan Hochman confirmed the Sex Crimes Division is investigating former Congressman Eric Swalwell following sexual assault allegations from Lonna Drewes regarding a 2018 incident.",
+      "Drewes accused Swalwell of drugging, choking, and raping her at a hotel, filing a report with the Los Angeles County Sheriff that includes supporting evidence like photos and journal entries.",
+      "Multiple women, including a former staffer, also alleged misconduct, while Swalwell's attorney Sara Azari called the accusations a \"ruthless and shameless attempt to smear\" her client.",
+      "Swalwell resigned from Congress on Tuesday and dropped his gubernatorial bid Sunday, as the House Ethics Committee and the Manhattan District Attorney launched separate investigations into the allegations.",
+      "Detectives from the Special Victims Bureau are currently gathering evidence to present to the DA for filing consideration, as Swalwell denied the allegations, stating he has spent twenty years serving the public."
+    ],
+    "title": "Los Angeles DA says Swalwell under investigation",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/strait-of-hormuz-traffic-barely-affected-on-first-day-of-us-blockade-data-shows",
+    "article_url": "https://ground.news/article/strait-of-hormuz-traffic-barely-affected-on-first-day-of-us-blockade-data-shows",
+    "bias": [
+      "Left coverage frames the action as coercive—using \"US blockade ,\" stressing the Strait as a \"crucial route\" and linking the move to failed peace talks—while right coverage presents it as part of a wartime posture , emphasizing economic risk and \"heightened uncertainty\" for shipping, oil flows and insurers and describing movement as \"remained limited.",
+      "Both sides, citing \"data shows,\" note at least eight transits including three Iran-linked tankers and describe traffic as \"barely affected\"; center coverage de-emphasizes wider context and leans on the empirical \"barely affected\" framing.",
+      "Differences expose deeper ideological and geopolitical priorities."
+    ],
+    "bias_bar_text": "Left 50% Center 37% R 13%",
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 50.0,
+    "location": null,
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, at least eight ships crossed the Strait of Hormuz despite the U.S. blockade of Iranian ports announced by President Donald Trump on Sunday.",
+      "The blockade followed failed peace talks in Islamabad between the United States and Iran, creating significant uncertainty for shippers, oil companies, and war risk insurers.",
+      "Shipping data shows the Iran-linked tankers that crossed were not heading to Iranian ports, while the Rich Starry carries about 250,000 barrels of methanol through the Strait.",
+      "China's foreign ministry said on Tuesday the blockade is \"dangerous and irresponsible,\" warning it would aggravate tensions. War risk insurance coverage is reviewed every 48 hours by underwriters.",
+      "Ship broker BRS reported that normality \"arguably now appears more distant\" than one week ago, with industry experts anticipating little or no commercial traffic through the Strait for the foreseeable future."
+    ],
+    "title": "Strait of Hormuz traffic barely affected on first day of US blockade, data shows",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/us-treasury-sanctions-casinos-and-operators-of-the-northeast-cartel-on-the-border-with-mexico",
+    "article_url": "https://ground.news/article/us-treasury-sanctions-casinos-and-operators-of-the-northeast-cartel-on-the-border-with-mexico",
+    "bias": [
+      "Left-Leaning coverage foregrounds that two casinos and three individuals include a \"human rights activist,\" framing sanctions as potentially targeting civic actors and using the qualifier \"alleged\" to signal skepticism, whereas right-leaning pieces emphasize a decisive \"crackdown,\" label venues \"cartel-connected\" and stress the Mexican border context and prior \"terrorist\" designations to amplify law‑and‑order threats; center reporting focuses more on money‑laundering operational detail and de‑emphasizes naming civic figures.",
+      "Dividing lines include the human‑rights actor designation and use of \"terrorist\" language; all agree on sanctions, Tamaulipas location and asset freezes, reflecting civil‑society caution versus enforcement and border‑security priorities."
     ],
     "bias_bar_text": null,
     "center_pct": 50.0,
     "error": null,
-    "left_pct": 23.0,
-    "location": "New York",
-    "right_pct": 27.0,
-    "status": "ok",
-    "summary": [
-      "Nearly 100 protesters were arrested during a demonstration urging Senators Chuck Schumer and Kirsten Gillibrand to block a proposed US weapons sale to Israel.",
-      "The protest, led by the antiwar group Jewish Voice for Peace, aimed to pressure the senators to support legislation halting the sale of bombs to Israel.",
-      "Demonstrators, including Chelsea Manning and Hari Nef, blocked traffic chanting 'fund people, not bombs' as they were arrested and loaded onto buses."
-    ],
-    "title": "Dozens arrested as protesters demand Schumer and Gillibrand block sale of bombs to Israel",
-    "topic": "New York State Politics",
-    "topic_full": "New York State Politics · New York"
-  },
-  {
-    "article_path": "/article/texas-attorney-general-probes-lululemon-over-potential-forever-chemicals-in-its-activewear",
-    "article_url": "https://ground.news/article/texas-attorney-general-probes-lululemon-over-potential-forever-chemicals-in-its-activewear",
-    "bias": [
-      "Left outlets frame the story as a public‑health, consumer‑protection focus, foregrounding the 'attorney general' and a 'probe' into 'forever chemicals' and using words like 'toxic' and 'lurking in everyday clothing' to heighten alarm—while right outlets emphasize legal and market stakes, spotlighting an active 'launches' investigation, a reported CID, and stock 'slips', sometimes distancing the label with 'so‑called \"forever chemicals\"'.",
-      "The center de-emphasizes rhetoric, noting the company’s denial and that it 'phased out' PFAS in FY23.",
-      "Dividing lines include the company's timeline, legal paperwork, and absent independent testing; both sides agree a probe into PFAS and possible consumer deception is underway."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 68.0,
-    "error": null,
-    "left_pct": 16.0,
-    "location": "Texas",
-    "right_pct": 16.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Texas Attorney General Ken Paxton initiated a civil investigation into Lululemon , examining whether the retailer misled consumers about the presence of PFAS, or \"forever chemicals,\" in its activewear.",
-      "Investigators are examining if Lululemon's athletic apparel contains synthetic PFAS, which are linked to cancer and endocrine disruption, potentially contradicting the brand's wellness-focused marketing claims.",
-      "Cooperating with the Texas Office inquiry, Lululemon stated it \"does not use PFAS in its products\" and phased out the substance in FY23, requiring vendors to conduct regular third-party testing.",
-      "Shares of Lululemon plummeted more than 3% following the announcement, compounding a 2026 decline of nearly 22% amid weakening revenue, leadership changes, and an ongoing proxy fight.",
-      "Texas joins states increasing scrutiny of health-conscious marketing claims, with the investigation aligning with the \"Make America Healthy Again\" agenda led by Health and Human Services Secretary Robert."
-    ],
-    "title": "Texas Attorney General Probes Lululemon over Potential 'Forever Chemicals' in Its Activewear",
-    "topic": "Texas Politics",
-    "topic_full": "Texas Politics · Texas"
-  },
-  {
-    "article_path": "/article/suspect-in-attack-at-sam-altmans-house-charged-with-attempted-murder-and-attempted-arson_a334c1",
-    "article_url": "https://ground.news/article/suspect-in-attack-at-sam-altmans-house-charged-with-attempted-murder-and-attempted-arson_a334c1",
-    "bias": [
-      "Left-Leaning coverage frames the Molotov attack as evidence of a \"growing AI divide,\" emphasizing systemic tensions and using words like \"Violence\"; right-leaning coverage casts it as a \"rising tide\" of \"anti‑AI violence,\" foregrounding \"firebombing,\" \"Molotov cocktail,\" and calling it a \"wake-up call\" about radicalized \"AI doomers.",
-      "Rhetorically the left situates the act in political context while the right uses alarmist, law‑and‑order language; center reporting is more procedural and humanizing—noting Altman's blog post—but all sides report the charges, the recovered anti‑AI document, and no injuries, mirroring broader cultural and security divides."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 62.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": "Texas",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, authorities charged Daniel Moreno-Gama, 20, with attempted murder and arson after he was arrested Friday outside OpenAI 's San Francisco offices for allegedly attacking OpenAI CEO Sam Altman.",
-      "Moreno-Gama allegedly threw a Molotov cocktail at Altman's home on Friday night, then struck OpenAI's glass doors with a chair while threatening \"to burn it down and kill anyone inside.\"",
-      "A document found on the suspect identified \"views opposed to Artificial Intelligence\" and discussed the purported risk to humanity, while listing names and addresses of industry leaders including Altman.",
-      "The FBI described the attack as \"planned, targeted and extremely serious,\" while Attorney Craig Missakian stated prosecutors may pursue domestic terrorism charges if evidence shows intent to coerce officials.",
-      "FBI agents raided Moreno-Gama's Texas home on Monday, and FBI Director Kash Patel thanked investigation teams for their coordination as authorities continue weighing charges against the suspect."
-    ],
-    "title": "Suspect in attack at Sam Altman’s house charged with attempted murder and attempted arson",
-    "topic": "US Crime",
-    "topic_full": "US Crime · Texas"
-  },
-  {
-    "article_path": "/article/trump-tells-pope-leo-xiv-hes-wrong-and-refuses-to-apologise_dae5f0",
-    "article_url": "https://ground.news/article/trump-tells-pope-leo-xiv-hes-wrong-and-refuses-to-apologise_dae5f0",
-    "bias": [
-      "Left-Leaning pieces cast the clash as a moral indictment—foregrounding \"backlash,\" \"refuses,\" claims \"littered with falsehoods,\" and leaning on clergy to frame Trump as having \"picked a fight\" with spiritual authority—while right-leaning pieces valorize his firmness with phrases like \"Doubles Down,\" \"Refuses To Apologize,\" and \"very weak,\" framing the pope as politicized and Trump as principled on security.",
-      "Rhetorically, the left emphasizes moral outrage and skepticism , the right uses assertive, legitimizing language; pivotal divides include the messianic \"saint-like/Jesus\" image, the pope's \"delusion of omnipotence\" line, and calls for an apology.",
-      "Center coverage often quotes directly and tempers tone.",
-      "Both sides, however, note Trump’s refusal to apologize, the pope’s plea for negotiation, and broad clergy/media attention—differences reflecting moral versus security-cultural priorities."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 24.0,
-    "error": null,
-    "left_pct": 42.0,
+    "left_pct": 17.0,
     "location": "United States",
-    "right_pct": 34.0,
+    "right_pct": 33.0,
     "status": "ok",
     "summary": [
-      "On Monday, President Donald Trump escalated criticism of Pope Leo XIV, labeling him \"WEAK on Crime\" and questioning his foreign policy stance on the Iran war.",
-      "Tensions flared after Pope Leo suggested over the weekend that a \"delusion of omnipotence\" is fueling the Iran war, prompting Trump to accuse him of catering to the \"Radical Left.\"",
-      "Trump shared an image portraying himself as Christ, which Catholics and Protestants labeled \"blasphemous,\" though Trump defended it as depicting him as a doctor \"making people better.\"",
-      "Archbishop Paul S. Coakley, president of the United States Conference of Catholic Bishops, and Bishop Robert Barron of the Diocese of Winona-Rochester called on Trump to apologize for his \"entirely inappropriate and disrespectful\" statements.",
-      "Pope Leo pushed back Monday, stating he is \"not afraid of the Trump administration\" and stressing his appeal for peace is a mission rooted in the Gospel, not an attack."
+      "On Tuesday, the Treasury Department sanctioned three individuals and two casinos for alleged ties to the Northeast Cartel, which the Trump administration designated as a terrorist organization last year.",
+      "Based in Nuevo Laredo, the Northeast Cartel serves as the heir to Los Zetas, with Washington intensifying crackdowns on the group for its alleged involvement in trafficking weapons, drugs, and people.",
+      "Sanctions target Casino Centenario in Nuevo Laredo and Tampico-based Diamante Casino, alongside alleged enablers including Eduardo Javier Islas Valdez, the alleged \"gatekeeper\" of smuggling routes, and attorney Juan Pablo Penilla Rodríguez.",
+      "The sanctions block assets the targeted individuals or entities hold in the United States and prohibit citizens from doing business with them, restricting financial access for cartel operatives."
     ],
-    "title": "Trump Tells Pope Leo XIV 'He's Wrong' and Refuses to Apologise",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
+    "title": "US Sanctions 2 Casinos and 3 Persons over Alleged Links to Mexico's Northeast Cartel",
+    "topic": "US Foreign Policy",
+    "topic_full": "US Foreign Policy · United States"
   },
   {
-    "article_path": "/article/ontario-family-mourns-canadian-man-killed-in-israeli-attack-in-lebanon",
-    "article_url": "https://ground.news/article/ontario-family-mourns-canadian-man-killed-in-israeli-attack-in-lebanon",
-    "bias": null,
-    "bias_bar_text": "Left 80% C 20%",
-    "center_pct": 20.0,
+    "article_path": "/article/federal-government-denies-disaster-declarations-for-colorado-fires-floods",
+    "article_url": "https://ground.news/article/federal-government-denies-disaster-declarations-for-colorado-fires-floods",
+    "bias": [
+      "Left outlets frame the denial as political harm, using phrases like \"playing politics ,\" \"historic,\" and \"will not receive\" to foreground rural victims; right outlets label critics' claims \"accusations,\" stress \"again rejects\" to signal resolve and cast complaints as partisan theater; center coverage uses blunt terms like \"denies,\" cites details and notes \"blocked millions,\" details left/right de-emphasize.",
+      "Pivotal divides are allegations of partisan favoritism and the missing FEMA rationale; both sides nonetheless report the denial and flag partisan-pattern concerns, reflecting larger ideological and political fault lines."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 54.0,
     "error": null,
-    "left_pct": 80.0,
-    "location": null,
+    "left_pct": 41.0,
+    "location": "Colorado",
+    "right_pct": 5.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, the Trump administration denied Colorado's two appeals for major disaster declarations, blocking federal aid for rural communities recovering from historic wildfires and flooding.",
+      "The decision follows wildfires that scorched more than 137,000 acres in Rio Blanco County last August and southwestern floods causing more than $13 million in infrastructure damage.",
+      "Democratic Governor Jared Polis called the rejection \"incredibly disappointing,\" marking the first time in 35 years Colorado has been denied federal assistance for a major disaster declaration.",
+      "Senators John Hickenlooper and Michael Bennet labeled the move \"callous,\" warning that rural Coloradans would be \"footing the bill\" in recovery efforts.",
+      "Analysis by the Urban Institute shows nearly 84% of disaster requests from states that voted for Trump were approved in his second term, compared to about 42% for states supporting Kamala Harris."
+    ],
+    "title": "Trump Again Rejects Colorado Amid Accusations of Playing Politics with Disaster Aid",
+    "topic": "US Politics",
+    "topic_full": "US Politics · Colorado"
+  },
+  {
+    "article_path": "/article/camp-mystic-official-testifies-that-deaths-still-havent-officially-been-reported-to-state-agency",
+    "article_url": "https://ground.news/article/camp-mystic-official-testifies-that-deaths-still-havent-officially-been-reported-to-state-agency",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 67.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "Texas",
     "right_pct": null,
     "status": "no_change",
     "summary": [
-      "On Thursday, Hassan Haidar, 38, a Canadian from Windsor, was killed in southern Lebanon after being shot while attempting to help a man, his family says.",
-      "Haidar had moved his wife and five children to a safer area in Lebanon in November, staying behind on family property to care for his horses amid Israeli attacks.",
-      "A mechanical engineer, Haidar finished an automotive technician program at Clair College and later earned an engineering degree at the University in Windsor.",
-      "At a press conference in Windsor on Monday, Haidar's sister Fatima stated there are 'no words that can describe the pain' his death has caused.",
-      "Twenty years ago, the family immigrated to Canada from Qana to escape conflict; the Lebanese Health Ministry reports the current war has exceeded 1,700 deaths."
+      "On Tuesday, Camp Mystic medical officer Mary Liz Eastland testified she has not officially reported the July 4 flood deaths of 25 campers and two counselors to Texas health regulators reviewing the camp's reopening application.",
+      "Texas administrative code mandates that camps report deaths within 24 hours, a requirement Eastland admitted she failed to consider following the flood or before submitting the camp's March 31 application.",
+      "The lawsuit filed by the family of 8-year-old Cile Steward prompted the hearing, where camp operators detailed delayed evacuations while facing outrage over plans to host nearly 900 girls.",
+      "State regulators will visit the camp during the pending license review, as Gov. Dan Patrick stated no license should be issued until all investigations conclude.",
+      "Describing Edward Eastland as a 'genuine hero,' attorney Mikal Watts highlighted the camp operator's actions grabbing two girls before they were washed away during the July 4 flood."
     ],
-    "title": "Ontario family mourns Canadian man killed in Israeli attack in Lebanon",
+    "title": "Camp Mystic official testifies that deaths still haven’t officially been reported to state agency",
+    "topic": "Natural Disasters",
+    "topic_full": "Natural Disasters · Texas"
+  },
+  {
+    "article_path": "/article/fuller-sworn-in-on-house-floor",
+    "article_url": "https://ground.news/article/fuller-sworn-in-on-house-floor",
+    "bias": [
+      "Left-Leaning pieces frame the event as a terse procedural update—calling him the \"newest member of the House\" and de-emphasizing Fuller's background and House arithmetic—while right-leaning coverage emphasizes partisan continuity by foregrounding \"Republican,\" invoking \" Marjorie Taylor Greene \" or the shorthand \"MTG,\" and highlighting Fuller's credentials as \"former district attorney\" and service to \"hard-working people.",
+      "Center outlets pivot to power math, using phrases like \"razor-thin majority\" and noting a \"small cushion\" for the Speaker and Trump's agenda.",
+      "Pivotal divides—background versus arithmetic—trigger sharply different tones; all sides agree on the swearing-in and seat succession, reflecting deeper ideological and cultural priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 72.0,
+    "error": null,
+    "left_pct": 14.0,
+    "location": "Georgia",
+    "right_pct": 14.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, April 14, 2026, Republican Rep. Clay Fuller was sworn into the House on Capitol Hill, replacing Marjorie Taylor Greene and maintaining the Republicans' slim majority.",
+      "Fuller won a special election representing his deep red Georgia district after Greene resigned following a contentious public fallout with President Donald Trump.",
+      "In an X post Tuesday night, Congressman Fuller announced support for the 'SAVE America Act,' which requires proof of U.S. citizenship to register to vote in federal elections.",
+      "Addressing the House, Fuller stated, \"To my Democratic colleagues, I look forward to working with each and every one of you,\" while pledging to fight for constituents daily.",
+      "While Fuller serves out the remainder of the term, he faces a primary election next month against a slate of Republicans and Democrat Shawn Harris."
+    ],
+    "title": "Republican Clay Fuller Sworn in to Take House Seat Formerly Held by Marjorie Taylor Greene",
+    "topic": "Georgia Politics",
+    "topic_full": "Georgia Politics · Georgia"
+  },
+  {
+    "article_path": "/article/the-highest-court-in-massachusetts-meta-must-respond-in-court-to-the-way-instagram-designed-to-create-dependence-on-children",
+    "article_url": "https://ground.news/article/the-highest-court-in-massachusetts-meta-must-respond-in-court-to-the-way-instagram-designed-to-create-dependence-on-children",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 39.0,
+    "error": null,
+    "left_pct": 61.0,
+    "location": "Massachusetts",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "On Friday, Massachusetts' highest court heard oral arguments in the state's lawsuit claiming Meta designed Facebook and Instagram features to be addictive to young users.",
+      "Attorney General Andrea Campbell filed the lawsuit in 2023, alleging Meta's profit-driven design choices affected hundreds of thousands of teenagers in Massachusetts using the social media platforms.",
+      "Meta attorney Mark Mosier argued the lawsuit \"would impose liabilities for performing traditional publishing functions,\" citing First Amendment protections for the platform's content decisions.",
+      "State Solicitor David Kravitz countered that claims target tools designed to \"encourage addiction,\" while Justice Scott Kafker questioned whether Meta's algorithms prioritize engagement over content accuracy.",
+      "Whistleblower Arturo Bejar and nonprofit groups this year said Meta has avoided \"real steps\" to address safety concerns, though Meta maintains its commitment to supporting young people."
+    ],
+    "title": "Massachusetts court hears arguments in lawsuit alleging Meta designed apps to be addictive to kids",
+    "topic": "Meta",
+    "topic_full": "Meta · Massachusetts"
+  },
+  {
+    "article_path": "/article/florida-doctor-faces-manslaughter-charge-after-removing-wrong-organ-in-veteran-says-sheriffs-office",
+    "article_url": "https://ground.news/article/florida-doctor-faces-manslaughter-charge-after-removing-wrong-organ-in-veteran-says-sheriffs-office",
+    "bias": [
+      "Left-Leaning headlines emphasize accountability—using terms like \"manslaughter charge\" and framing it as \"one of the worst medical errors\"—while right-leaning pieces foreground individual culpability with blunt language such as \"wrong organ\" and \"fatal mistake\" and noting the physician as a \"former surgeon.",
+      "Center coverage stresses procedure—\"indicted,\" \"The Grand Jury has spoken,\" suspension order and possible prison terms .",
+      "Pivotal divides include severity versus mistake framing and whether prior discipline or systemic safeguards are probed; both sides nevertheless highlight the indictment, the wrong-organ removal, and the patient’s death."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 64.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": "Florida",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, authorities arrested Florida surgeon Dr. Thomas Shaknovsky after a grand jury indicted him for second-degree manslaughter in the 2024 death of William Bryan.",
+      "At Ascension Sacred Heart Emerald Coast in Miramar Beach, Shaknovsky allegedly removed Bryan's liver instead of his spleen during an August 21, 2024, laparoscopic splenectomy, causing catastrophic blood loss.",
+      "Florida Surgeon General Dr. Joseph Ladapo previously suspended Shaknovsky's license, citing \"egregious surgical errors\" and \"egregious conduct of fabricating medical records.\" A 2023 incident involved removing a patient's pancreas while claiming an adrenal gland had \"migrated.\"",
+      "Walton County Sheriff Michael Adkinson said, \"The Grand Jury has spoken, and our responsibility is to ensure the charges are carried out through the proper legal process.\" An extensive investigation preceded the indictment."
+    ],
+    "title": "Florida Doctor Faces Manslaughter Charge for Allegedly Removing Wrong Organ During Surgery",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Florida"
+  },
+  {
+    "article_path": "/article/mexicos-sheinbaum-pushes-back-on-trump-over-migrant-deaths-and-cuba_4769eb",
+    "article_url": "https://ground.news/article/mexicos-sheinbaum-pushes-back-on-trump-over-migrant-deaths-and-cuba_4769eb",
+    "bias": [
+      "Coverage splits: left emphasizes humanitarian urgency, highlighting \"migrant deaths,\" Sheinbaum \"orders\" \"increased scrutiny\" and cites a 15-death toll, framing a rebuke; right emphasizes diplomatic posture, calling her response a \"firmer stance\" by a \"progressive\" leader with a \"measured tone\" who stresses leverage, while center frames the shift as tactical and geopolitically linked.",
+      "Rhetorically, the left uses activist verbs and moralized language , while the right uses restraint-affirming terms; naming a victim and the exact death count are pivotal dividing lines.",
+      "Both sides agree she has pushed back and protested the deaths, revealing broader fault lines."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 61.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "Mexico",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, President Claudia Sheinbaum ordered Mexican consular staff to conduct daily visits to U.S. immigration detention centers, replacing weekly check-ins amid mounting outrage over deaths of Mexican nationals in custody.",
+      "The order followed the death of 49-year-old Mexican citizen Alejandro Cabrera Clemente, found unresponsive Saturday at the Winn Correctional Center in Louisiana. His death marked at least the 15th fatality in U.S. immigration custody since President Donald Trump took office.",
+      "Mexico's government is referring cases of alleged medical neglect to the Inter-American Commission and considering appeals to the United Nations. Officials are also assisting families in filing legal complaints against U.S. authorities over poor detention conditions.",
+      "Sheinbaum recently challenged the Trump administration's energy blockade of Cuba, calling the sanctions \"unjust.\" The president is taking a harder diplomatic line after previously maintaining a measured tone on administration policies.",
+      "Analyst Palmira Tapia noted Sheinbaum has \"raised her tone,\" while former Mexican ambassador Arturo Sarukhan cautioned she must balance this vocal stance with upcoming USMCA renegotiations. The shift reflects both diplomatic leverage and negotiation risk."
+    ],
+    "title": "Mexico’s Sheinbaum pushes back on Trump over migrant deaths and Cuba",
+    "topic": "Claudia Sheinbaum",
+    "topic_full": "Claudia Sheinbaum · Mexico"
+  },
+  {
+    "article_path": "/article/thune-dems-antics-forced-gop-to-open-govt-the-hard-way",
+    "article_url": "https://ground.news/article/thune-dems-antics-forced-gop-to-open-govt-the-hard-way",
+    "bias": [
+      "Left outlets frame the GOP move as a \"risky go-it-alone strategy,\" stressing the Department has been shut down for \"almost two months\" and highlighting Democratic demands on immigration, while right outlets recast the same \"the hard way\" language as justified—blaming \"Dems antics\" and saying Republicans were \"forced\" into a tough response; center coverage de-emphasizes blame and focuses on how the budget process could get \"messy.",
+      "Pivotal divides are responsibility for the impasse, shutdown duration, and the specifics of Democratic demands; all sides nonetheless echo Thune’s \"the hard way\" line and flag procedural complications, reflecting deeper ideological and governance splits."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "United States",
+    "right_pct": 20.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Senate Majority Leader John Thune announced Republicans are pursuing a partisan budget reconciliation bill to fund Immigration and Customs Enforcement and Border Patrol , bypassing Democrats after negotiations stalled.",
+      "The Department of Homeland Security has been shut down since mid-February following protests in Minneapolis in January, with negotiations failing to resolve disputes over the administration's immigration enforcement tactics.",
+      "Using budget reconciliation, Republicans plan to pass the measure with a simple majority in the 53-47 Senate; some members estimate the legislation could cost around $75 billion.",
+      "Thune said Republicans will fund the agencies for three years to prevent another shutdown, telling Democrats they would get \"none of that\" in the final package.",
+      "Senate Budget Committee Chairman Lindsey Graham is preparing a budget resolution for introduction as soon as next week, though many Republicans remain skeptical about passing it this year."
+    ],
+    "title": "Republicans Are Moving to Fund Homeland Security 'the Hard Way' After End of Talks",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/showed-great-respect-mike-johnson-praises-trump-over-sacrilegious-jesus-post",
+    "article_url": "https://ground.news/article/showed-great-respect-mike-johnson-praises-trump-over-sacrilegious-jesus-post",
+    "bias": [
+      "Left-Leaning coverage foregrounds moral outrage, emphasizing words like \"sacrilegious,\" \"blasphemy,\" and verbs such as \"refuses\" and \"praised\" to portray evasiveness and moral culpability, while center outlets frame the episode as procedural resolution, using phrases like \"convinced,\" \"delete/remove/take down,\" and \"misunderstood\" to minimize controversy.",
+      "Rhetorically the left deploys accusatory, emotionally charged language; the center opts for outcome-focused, mitigating terms.",
+      "Dividing lines include whether the image is blasphemous, Johnson's tone , and Trump's intent or platform moderation; both agree on the core facts—AI image, Johnson's intervention, and its removal—revealing a clash between moral framing and political management."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 36.0,
+    "location": "United States",
+    "right_pct": 21.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, President Donald Trump deleted an AI-generated image depicting himself as Jesus Christ after the post triggered widespread backlash from conservative media and political allies.",
+      "The controversy coincided with President Trump's ongoing feud with Pope Leo XIV regarding the war in Iran, prompting Former Rep. Marjorie Taylor Greene to publicly denounce the artwork.",
+      "House Speaker Mike Johnson said he advised the president to remove the image, telling him it was not being received as intended; Johnson called the deletion \"the right thing to do.\"",
+      "Vice President Vance defended the post on Fox News as a misunderstood attempt at humor, while Trump claimed the image depicted him as a Red Cross worker.",
+      "North Carolina Sen. Thom Tillis described the imagery as \"absurd,\" joining Republicans who condemned the post as unacceptable and blasphemous across the political spectrum."
+    ],
+    "title": "Johnson Says He Asked Trump to Take Down AI Jesus Image",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/largest-us-civil-rights-group-sues-xai-for-violating-the-federal-clean-air-act",
+    "article_url": "https://ground.news/article/largest-us-civil-rights-group-sues-xai-for-violating-the-federal-clean-air-act",
+    "bias": [
+      "Left-Leaning coverage frames the story as a David‑vs‑Goliath environmental-justice fight—using terms like 'community,' 'colossus,' 'illegal power plant,' and 'spewing pollution' and de-emphasized specific counts like '27' turbines—while right-leaning pieces foreground legal conflict and enforcement language such as 'violating the Federal Clean Air Act' and stress that '27' count to portray a statutory breach and activist overreach.",
+      "Center outlets sit between—using qualifiers like 'alleging' and quantifying 'more than two dozen.' Pivotal divides are the justice framing and turbine scale; all sides agree a lawsuit alleges unpermitted methane turbines, reflecting broader ideological splits over corporate power and regulation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 79.0,
+    "error": null,
+    "left_pct": 14.0,
+    "location": "United States",
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, the NAACP sued xAI, accusing Elon Musk 's company of violating the Clean Air Act by operating 27 gas turbines in Southaven, Mississippi, without required air permits.",
+      "Rev. Robert Tipton, DeSoto County NAACP branch president, claims the facility emits visible pollution; Tipton, who battles sarcoidosis, said the smog \"attacked my lungs, and got into my nervous system.\"",
+      "At maximum capacity, the unpermitted turbines supply xAI's Colossus 2 data center with energy for 400,000 homes, vastly exceeding Southaven's population of about 58,000 residents.",
+      "Legal filings seek to force xAI to cease operations until obtaining permits and applying pollution controls; separately, the NAACP wants Mississippi regulators to revoke a permit granted in March for 41 permanent turbines."
+    ],
+    "title": "NAACP sues Musk’s xAI, alleging illegal air pollution",
+    "topic": "Environment & Climate",
+    "topic_full": "Environment & Climate · United States"
+  },
+  {
+    "article_path": "/article/ultraprocessed-foods-are-turning-human-thighs-into-well-marbled-steaks_4087ad",
+    "article_url": "https://ground.news/article/ultraprocessed-foods-are-turning-human-thighs-into-well-marbled-steaks_4087ad",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 70.0,
+    "location": "United States",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "On Tuesday, a study published in the journal Radiology found that consuming ultraprocessed foods is linked to increased fat marbling in thigh muscles, analyzing MRI scans from 615 people.",
+      "Ultraprocessed foods are often nutrient-poor, potentially driving fat accumulation in muscle fibers and streaks, which alters muscle structure and contributes to knee osteoarthritis.",
+      "One 61-year-old woman consuming 87.1% ultraprocessed foods showed dramatically more fat marbling in her thighs than a peer with a 29.5% ultraprocessed diet and higher BMI.",
+      "Radiologist Dr. Miriam Bredella of NYU Langone Health noted this is a systemic process impacting muscles throughout the body, with increased intramuscular fat linked to cardiovascular disease and Type 2 diabetes."
+    ],
+    "title": "Ultraprocessed foods are turning human thighs into well-marbled steaks",
+    "topic": "Health",
+    "topic_full": "Health · United States"
+  },
+  {
+    "article_path": "/article/house-speaker-honors-holocaust-survivors-awards-congressional-gold-medal-to-ferencz",
+    "article_url": "https://ground.news/article/house-speaker-honors-holocaust-survivors-awards-congressional-gold-medal-to-ferencz",
+    "bias": [
+      "The right-leaning coverage foregrounds a contemporary, combative moral imperative—quoting language like \"crushing antisemitism \" and \"burying it in the ground\" and valorizing the \"Congressional Gold Medal\"—framing the ceremony as a forceful political commitment; center outlets instead emphasize biographical and honorific context, using terms such as \"courage,\" \"servant leadership,\" \"one of the nation’s highest civilian honors,\" and detailing Ferencz’s Nuremberg role; left-leaning angles are de-emphasized in these materials.",
+      "Pivotal divides are present-day anti‑antisemitism activism versus historical legacy and ceremony, though all agree on honoring Ferencz and opposing antisemitism."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 43.0,
+    "status": "ok",
+    "summary": [
+      "The House passed legislation to award the Congressional Gold Medal to Ben Ferencz, recognizing his role as the last surviving prosecutor of the Nuremberg trials and his contributions to international justice.",
+      "Lawmakers from both parties supported the measure, citing Ferencz’s decades-long work in prosecuting war crimes and advocating for human rights and the rule of law.",
+      "The Congressional Gold Medal, one of the highest civilian honors in the United States , was awarded to acknowledge Ferencz’s lifetime efforts to promote accountability for crimes against humanity."
+    ],
+    "title": "Johnson gives Congressional Gold Medal to late Nuremberg prosecutor during Holocaust remembrance ceremony",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/desantis-considers-little-tweak-to-redistricting-schedule",
+    "article_url": "https://ground.news/article/desantis-considers-little-tweak-to-redistricting-schedule",
+    "bias": [
+      "Left-Leaning headlines frame the story as evasive and problem-filled—using language like \"murkier,\" \"sidestepped,\" \"hit a snag\" and treating a \"little tweak\" skeptically—emphasizing obstruction and opacity; center outlets instead use hedging verbs and add analytic context , reframing stakes quantitatively.",
+      "Right-Leaning coverage is de-emphasized in the provided set.",
+      "Pivotal divides are whether DeSantis offered a proposed map and the partisan seat math; both sides nonetheless note the session \"could be delayed\" and that lawmakers will convene \"one way or another.\"."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 50.0,
+    "location": "Florida",
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "DeSantis initially called a special session on redistricting in Florida to start on Monday, but has signaled a possible delay.",
+      "Republicans hold a slim majority in the U.S. House, but recent Democratic victories in special elections, including in Florida, have led some Republican members to warn against an aggressive redistricting map.",
+      "The Supreme Court's pending decision on a Louisiana case, expected to be written by Justice Alito, could affect the Voting Rights Act and racial considerations in redistricting, which DeSantis cited as a reason for the session."
+    ],
+    "title": "DeSantis signals possible redistricting special session delay",
+    "topic": "Florida Politics",
+    "topic_full": "Florida Politics · Florida"
+  },
+  {
+    "article_path": "/article/raskin-introduces-long-shot-bill-to-assess-presidents-fitness-under-25th-amendment",
+    "article_url": "https://ground.news/article/raskin-introduces-long-shot-bill-to-assess-presidents-fitness-under-25th-amendment",
+    "bias": [
+      "Left-Leaning coverage frames the move as urgent accountability, using phrases like \"dangerous precipice\" and \"get rid of Trump\" to stress national-security and fitness concerns, while right-leaning pieces frame Democrats as partisan actors—using words like \"dodge,\" \"open door,\" and \"rank-and-file push\"—and emphasize procedural hurdles to cast the effort as impractical or theatrical; center outlets de-emphasized alarm in favor of calling it a \"long-shot\" and listing sponsors.",
+      "The key dividing lines are claims of imminent danger versus questions of motive and legal feasibility; all sides nonetheless note Raskin’s bill, briefings, and that success is unlikely."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 25.0,
+    "error": null,
+    "left_pct": 44.0,
+    "location": "United States",
+    "right_pct": 31.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, 50 House Democrats led by Rep. Jamie Raskin introduced the Commission on Presidential Capacity Act, establishing a 17-member panel to assess President Donald Trump 's fitness for office under the 25th Amendment.",
+      "Lawmakers cite recent threats to destroy Iranian civilization as evidence of unfitness, arguing that Congress must take a more assertive role in determining Trump's mental capacity to serve.",
+      "The proposed commission would possess authority to \"carry out a medical examination of the President\" to determine if he is mentally or physically unable to discharge his duties, with expedited emergency procedures for activation.",
+      "Passage remains unlikely in the Republican-controlled Congress, and even if enacted, Vice President JD Vance must sign off on findings—a Trump loyalist whose approval is highly improbable.",
+      "While the 25th Amendment outlines procedures for presidential incapacity, Section 4 has never been invoked this way. Raskin acknowledges the political constraints surrounding these constitutional pathways."
+    ],
+    "title": "Raskin introduces long-shot bill to assess president’s fitness under 25th Amendment",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/pittsburgh-post-gazette-finds-new-owner-less-than-a-month-before-planned-shutdown",
+    "article_url": "https://ground.news/article/pittsburgh-post-gazette-finds-new-owner-less-than-a-month-before-planned-shutdown",
+    "bias": [
+      "Left-Leaning coverage emphasizes preservation—using terms like \"rescued\" and \"lifeline,\" stressing that a nonprofit buyer will \"keep\" the paper and preserve \"trusted local journalism\" weeks before a planned shutdown.",
+      "Right-Leaning pieces foreground legal and ownership narratives—citing a Supreme Court \"loss\" and the \"end of family control,\" framing the sale as tied to labor disputes and institutional decline.",
+      "Center outlets are more transactional and note staff-retention is unclear .",
+      "Both agree on the nonprofit transfer and industry strain, revealing deeper ideological divides over unions, institutions, and media stewardship."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 65.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "United States",
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "The Pittsburgh Post-Gazette announced Tuesday it found a buyer in the Venetoulis Institute for Local Journalism , averting the planned May 3 shutdown of the historic publication.",
+      "Block Communications announced in January that the paper would cease publication, facing severe business model strain that has affected local journalism across the country.",
+      "Effective May 4, the Maryland-based Venetoulis Institute will assume control, retaining the newsroom and local leadership in Pittsburgh while integrating technology and business operations with its own teams.",
+      "The Post-Gazette will continue printing on Thursday and Sunday, with a website operating on the other days to maintain reader access across the week."
+    ],
+    "title": "Pittsburgh Post-Gazette sold to nonprofit, no longer planning to shut down",
+    "topic": "Media",
+    "topic_full": "Media · United States"
+  },
+  {
+    "article_path": "/article/children-killed-in-lebanon-as-israeli-strikes-hit-homes-far-from-front-lines-of-war-with-hezbollah",
+    "article_url": "https://ground.news/article/children-killed-in-lebanon-as-israeli-strikes-hit-homes-far-from-front-lines-of-war-with-hezbollah",
+    "bias": null,
+    "bias_bar_text": "Left 50% Center 37% R 13%",
+    "center_pct": 37.0,
+    "error": "Message: \n",
+    "left_pct": 50.0,
+    "location": null,
+    "right_pct": 13.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Children killed in Lebanon as Israeli strikes hit homes far from front lines of war with Hezbollah",
     "topic": null,
     "topic_full": null
   },
@@ -638,58 +755,8 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/palestinian-killed-in-west-bank-as-violence-surges-during-iran-war",
-    "article_url": "https://ground.news/article/palestinian-killed-in-west-bank-as-violence-surges-during-iran-war",
-    "bias": [
-      "Left outlets frame the death as a humanitarian crisis—foregrounding the victim's Palestinian identity and using terms like \"killed\" and \"surges\" to tie it to the Iran war and systemic causes—creating moral urgency; right outlets offer briefer, security‑focused coverage that de‑emphasizes shooter identity while using the same charged words to signal threat.",
-      "Center coverage stands apart by naming agency—\"shot and kills\"—and adding humanizing detail like \"young.",
-      "The pivotal divides are attribution of responsibility and contextual detail ; all agree on the casualty, the ministry report and the broader wave."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "A Palestinian man was killed in West Bank amid ongoing violence that has left 22 people dead since the start of the Iran war .",
-      "Israel Defense Forces said a reservist soldier shot the man during a violent riot near Ramallah; he later died in hospital.",
-      "The military has opened an investigation, while Palestinians and rights groups question accountability in such incidents."
-    ],
-    "title": "Palestinian killed in West Bank as violence surges during Iran war",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/keir-starmer-issues-update-on-kings-royal-visit-to-usa",
-    "article_url": "https://ground.news/article/keir-starmer-issues-update-on-kings-royal-visit-to-usa",
-    "bias": [
-      "Left outlets frame the story as moral alarm—highlighting Ed Davey’s \"corrupt gangster\" label and quoting a reported Trump line about Iran—using verbs like \"blasts\" and phrases such as \"despite concerns\" to stress legitimate danger and calls to cancel; right outlets frame the same remarks as theatrical political warfare, using sensational language like \"torn apart\" and \"dangerous\" to portray Davey’s intervention as a dramatic attack and de-emphasize Starmer’s confirmation the visit \"will go ahead.",
-      "The center offers a neutral \"issues update.",
-      "Both sides agree the visit and parliamentary comments are newsworthy, reflecting deeper ideological and diplomatic fault lines."
-    ],
-    "bias_bar_text": "Left 63% C 24% R 13%",
-    "center_pct": 24.0,
-    "error": null,
-    "left_pct": 63.0,
-    "location": null,
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "Prime Minister Sir Keir Starmer confirmed Monday the King's state visit to the United States will proceed as planned, marking the 250th anniversary of American independence.",
-      "Liberal Democrat leader Sir Edward Davey urged the Government to cancel the trip, describing President Donald Trump as a \"dangerous and corrupt gangster\" and warning the King should not be forced to stand alongside him.",
-      "Davey cited the President's recent rhetoric regarding the potential destruction of \"a whole civilization\" in Iran, calling the statement \"words I never thought I would hear from an American president.\"",
-      "Addressing the House of Commons on Monday, Starmer condemned the President's threat against Iranian civilians as \"wrong,\" maintaining the Government's commitment to the visit as essential for diplomatic bonds.",
-      "This state visit marks the first such trip to America since Queen Elizabeth II traveled there in 2007, underscoring the monarchy's role in bridging decades of diplomatic history between the United Kingdom and the United States."
-    ],
-    "title": "King's visit to US to go ahead despite concerns, Keir Starmer confirms",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/anthropic-says-we-keep-conversations-with-trump-government-on-a-new-ia-model",
-    "article_url": "https://ground.news/article/anthropic-says-we-keep-conversations-with-trump-government-on-a-new-ia-model",
+    "article_path": "/article/pro-palestinian-protesters-in-court-after-arrest-for-montreal-scotiabank-sit-in_41dc71",
+    "article_url": "https://ground.news/article/pro-palestinian-protesters-in-court-after-arrest-for-montreal-scotiabank-sit-in_41dc71",
     "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
@@ -699,165 +766,36 @@
     "right_pct": null,
     "status": "no_change",
     "summary": [
-      "On Monday, Anthropic Co-founder Jack Clark confirmed the company is discussing its frontier AI model Mythos with the Trump administration, even after a contract dispute led the Pentagon to label Anthropic a supply-chain risk.",
-      "The Pentagon designated Anthropic a supply-chain risk last month following disagreements over guardrails for military AI use, effectively barring defense employees and contractors from using the company's technology .",
-      "Mythos, announced April 7, features advanced coding and autonomous capabilities; experts warn it can identify cybersecurity vulnerabilities, prompting Anthropic to grant early access to 40 major technology firms including Apple and Google to secure their systems.",
-      "A Washington, D.C., federal appeals court declined to block the Pentagon's blacklisting of Anthropic last week, marking a legal win for the Trump administration and clarifying the Defense Department's authority to restrict the firm's access.",
-      "Clark emphasized that despite the narrow contracting dispute, Anthropic remains committed to national security, stating, \"Our position is the government has to know about this stuff,\" regarding current and future AI models."
+      "Pro-Palestinian protesters were arrested in April 2024 during a sit-in at a Montreal Scotiabank and faced mischief charges, with 30 of the 44 charges dropped.",
+      "A lawyer argues that the 14 protesters still charged were unlawfully detained and denied their rights, including the right to protest , peaceful assembly, and freedom of expression.",
+      "The lawyer claims that police did not read the rights of the detained protesters, infringing on their rights.",
+      "Scotiabank's 1832 Asset Management has sold its remaining shares in Israeli weapons manufacturer Elbit Systems according to regulatory filings."
     ],
-    "title": "Anthropic talking to the Trump administration about its next AI model, co-founder says",
+    "title": "Pro-Palestinian protesters in court after arrest for Montreal Scotiabank sit-in",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/conservative-pastor-rep-scott-bottoms-wins-top-billing-for-governor-on-colorado-republican-primary-ballot",
-    "article_url": "https://ground.news/article/conservative-pastor-rep-scott-bottoms-wins-top-billing-for-governor-on-colorado-republican-primary-ballot",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
+    "article_path": "/article/us-destroyer-interdicts-2-oil-tankers-attempting-to-leave-iran",
+    "article_url": "https://ground.news/article/us-destroyer-interdicts-2-oil-tankers-attempting-to-leave-iran",
+    "bias": [
+      "Left-Leaning pieces frame the interdiction as enforcement of a U.S. \" blockade \" aimed to \"weaken Iran's leverage,\" stressing political intent, while right-leaning coverage foregrounds militarized diction—words like \"destroyer,\" \"interdicts/intercepts,\" \"orders them to turn back\"—and supplies operational specifics ; center reporting emphasizes attribution and a neutral procedural tone.",
+      "All rely on the same anonymous U.S. official and report the action a day after the blockade with the ships instructed to turn around, while legal justification, Iran’s response, and independent corroboration are de-emphasized across outlets."
+    ],
+    "bias_bar_text": "Left 25% Center 25% Right 50%",
+    "center_pct": 25.0,
     "error": null,
-    "left_pct": null,
+    "left_pct": 25.0,
     "location": null,
-    "right_pct": null,
-    "status": "no_change",
+    "right_pct": 50.0,
+    "status": "ok",
     "summary": [
-      "On Saturday, April 11, 2026, Colorado Republicans selected State Rep. Scott Bottoms and evangelical pastor Victor Marx as the two candidates to advance to the gubernatorial primary ballot during their state assembly at Colorado State University Pueblo.",
-      "To qualify for the primary, candidates needed 30% of the delegate vote; Bottoms secured 45% of the roughly 2,200 delegates, while Marx advanced with 39% support from a field of 11 gubernatorial candidates.",
-      "Bottoms vowed to \"reclaim parenthood and childhood for all Coloradans,\" while Marx stated, \"Teamwork should make the difference in Colorado as we take it back.\" Both will appear on the June 30 primary ballot.",
-      "Delegates also selected State Sen. Mark Baisley for U.S. Senate, while James Wiley and Fremont County Commissioner Kevin Grantham qualified for secretary of state and treasurer respectively. Attorney general hopefuls Michael Allen and David Wilson both advanced.",
-      "The primary winner will face the Democratic nominee to replace term-limited Gov. Jared Polis next year. Republicans have not held the governorship since 2002 and have not won a statewide election since 2016."
+      "A U.S. destroyer has interdicted two oil tankers attempting to depart Iran, according to a U.S. official, marking a significant escalation in the enforcement of the maritime blockade .",
+      "A U.S. official confirmed that a destroyer intercepted two tankers trying to leave Iranian waters, as Washington continues its efforts to halt the nation's maritime trade.",
+      "Two oil tankers attempting to exit Iran were interdicted by a U.S. destroyer, a U.S. official reported, signaling a tightening of the naval corridor in the Persian Gulf."
     ],
-    "title": "Pastors Scott Bottoms, Victor Marx Win Spots in Colorado GOP’s Gubernatorial Primary at Party Assembly",
+    "title": "US Destroyer Interdicts Two Oil Tankers Attempting to Leave Iran, Official Says",
     "topic": null,
     "topic_full": null
-  },
-  {
-    "article_path": "/article/so-will-be-the-scene-of-the-topuria-fight-in-the-white-house-an-octagon-with-a-giant-metal-arc",
-    "article_url": "https://ground.news/article/so-will-be-the-scene-of-the-topuria-fight-in-the-white-house-an-octagon-with-a-giant-metal-arc",
-    "bias": [
-      "Left-Leaning coverage frames the plan as intrusive spectacle—highlighting proximity with phrases like \"right at the front door\" and stressing Trump's boast about \"more interest\" to imply provocation—while right-leaning coverage frames the same move as celebratory, patriotic theater, using language like \" UFC Freedom 250,\" \"historic,\" and \"combat zone\" to dramatize triumph.",
-      "Center outlets focus on logistics, noting \"massive screens\" and crowd figures .",
-      "The pivotal divides are proximity versus patriotism and institutional norms; all sides agree an event and a 4,500-seat arena were announced."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 14.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "United States",
-    "right_pct": 57.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, April 13, President Donald Trump announced a temporary 4,500-seat arena will be built on the White House South Lawn to host \"UFC Freedom 250\" on June 14, 2026.",
-      "Coinciding with Flag Day and President Trump's 80th birthday, the event serves as a centerpiece of the \"Salute to America 250\" initiative marking America's 250th anniversary.",
-      "Officials plan to install massive screens on the Ellipse to accommodate 50,000 to 100,000 additional spectators, while the UFC is investing more than $20 million for the arena construction.",
-      "UFC President Dana White confirmed the card includes six prime-time fights, with President Trump personally asking, \"Why is Derrick Lewis not on the White House card?\" leading to the heavyweight's addition.",
-      "Security, crowd management, and infrastructure logistics remain key focus areas as federal agencies prepare for substantial operational demands on White House grounds in the coming weeks."
-    ],
-    "title": "Trump says 4,500-seat arena will be built for UFC fight at White House",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/man-charged-with-murder-of-21-year-old-at-primrose-hill-appears-in-court",
-    "article_url": "https://ground.news/article/man-charged-with-murder-of-21-year-old-at-primrose-hill-appears-in-court",
-    "bias": [
-      "Left-Leaning coverage emphasizes the defendant's denials—phrases like 'I didn't kill' and 'they've got the wrong person'—framing skepticism of police, humanizing the defendant; right-leaning pieces foreground criminality and drama with terms such as 'murder,' 'stabbing,' 'fatal,' 'outburst,' label Primrose Hill a 'beauty spot' and flag ages to heighten threat.",
-      "Pivotal divides: is the dock protest a claim of innocence or a sensational 'outburst,' and is the victim a 'filmmaking student' or 'music‑video producer.' Center de-emphasized spectacle, stressing family vows and procedure.",
-      "Both report the charge and ages , underscoring a split between institutional skepticism and law‑and‑order priorities."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 31.0,
-    "location": "London",
-    "right_pct": 19.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, Oliuwadamilola Ogunyankinnu, 27, appeared at Stratford Magistrates Court charged with murdering filmmaking student Finbar Sullivan, 21, who died following a stabbing at Primrose Hill last week.",
-      "Christopher Sullivan, 65, told the Daily Mail his son had gone to the viewpoint to use a new camera received for his birthday when the alleged attack occurred on Tuesday evening.",
-      "Sullivan described his son as 'the most beautiful, lovely, outgoing, loving boy' with aspirations to follow his grandfather, cameraman Michael Seresin, who worked on Harry Potter And The Prisoner and Rambo III.",
-      "During the two-minute hearing, Ogunyankinnu told the court, 'I didn't kill anybody, I didn't stab anybody,' claiming officers 'have the wrong person.' District Judge Ashwinder Gill remanded him into custody.",
-      "Ogunyankinnu will appear at the Central Criminal Court on Wednesday after District Judge Gill deemed the case too serious for magistrates court. Police released a 25-year-old man arrested on suspicion of assisting an offender with no further action."
-    ],
-    "title": "Man Charged with Murder of 21-Year-Old at Primrose Hill Appears in Court",
-    "topic": "UK Police",
-    "topic_full": "UK Police · London"
-  },
-  {
-    "article_path": "/article/california-republican-party-wont-endorse-a-candidate-for-governor",
-    "article_url": "https://ground.news/article/california-republican-party-wont-endorse-a-candidate-for-governor",
-    "bias": [
-      "Left outlets frame the convention as a personal repudiation of Trump—using phrases like 'stark rebuke,' 'rejoice,' and 'giddy' to stress intra‑party defiance—while right coverage foregrounds loyalty and consequence, warning of 'Trump’s wrath,' 'risk,' and celebrating opposition with terms like 'jubilant' or quips that Bianco 'left with nothing,' and even prescribing that Trump 'Needed..",
-      "Stay Out.' Center pieces de‑emphasize emotion and focus on procedure—'snub,' 'suffers blow,' the 60% threshold and reported vote shares .",
-      "All agree no endorsement occurred and Trump had backed Hilton, exposing a split between loyalty culture and electoral pragmatism."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 34.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "California",
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "Steve Hilton, the candidate backed by President Donald Trump , failed to secure the endorsement of the California Republican Party in the 2026 gubernatorial race.",
-      "The California Republican Party decided not to endorse any candidate after Hilton and his main rival, Chad Bianco, fell short of the required votes needed for the party's backing.",
-      "Hilton and Bianco remain competitive in early polling despite the lack of endorsement, as the crowded Democratic field has split voters in the historically blue state of California."
-    ],
-    "title": "California’s GOP will not endorse Trump favorite Steve Hilton for governor",
-    "topic": "California Politics",
-    "topic_full": "California Politics · California"
-  },
-  {
-    "article_path": "/article/us-iran-leave-door-open-to-dialogue-after-tense-islamabad-talks",
-    "article_url": "https://ground.news/article/us-iran-leave-door-open-to-dialogue-after-tense-islamabad-talks",
-    "bias": [
-      "Left-Leaning narratives emphasize a \"viable path\" for \"de-escalation,\" using optimistic phrases like \"leave door open\" to prioritize \"reconciliation.",
-      "Conversely, right-leaning outlets focus on \"tense\" interactions, framing the encounter with \"skepticism\" to underscore \"American resolve\" against a \"hostile\" actor.",
-      "While center-leaning coverage balances these elements with \"neutral idiomatic language,\" the primary divide remains whether the lack of a \"breakthrough\" suggests \"guarded diplomacy\" or \"ongoing potential.",
-      "Both sides cite \"eleven sources\" to confirm dialogue continues, yet they interpret the \"sleepless night\" as either a diplomatic effort or a sign of deep-seated geopolitical friction."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 34.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "Pakistan",
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, United States and Iran officials concluded their highest-level talks in decades at Islamabad's Serena Hotel without a formal agreement, though sources confirmed the diplomatic channel remains open.",
-      "This weekend meeting, the first direct encounter since Iran's 1979 Islamic Revolution, aimed to chart a long-term settlement following a Pakistan -brokered ceasefire that paused six weeks of war.",
-      "Negotiators endured a tense, 20-hour session with 11 sources indicating parties were '80% there' before stalling over nuclear enrichment, Hormuz Strait control, and frozen assets.",
-      "President Donald Trump said on Monday that Iran 'called this morning' and that 'they'd like to work a deal,' while Prime Minister Shehbaz Sharif pledged a 'full effort' to resolve issues.",
-      "While dialogue persists, core disputes over Iran's nuclear programme and regional security remain unresolved, leaving global energy markets and shipping sectors facing ongoing sanctions uncertainty and maritime disruptions."
-    ],
-    "title": "US, Iran leave door open to dialogue after tense Islamabad talks",
-    "topic": "2026 Iran Conflict",
-    "topic_full": "2026 Iran Conflict · Pakistan"
-  },
-  {
-    "article_path": "/article/trump-34-ships-cross-hormuz-amid-rising-gulf-tensions",
-    "article_url": "https://ground.news/article/trump-34-ships-cross-hormuz-amid-rising-gulf-tensions",
-    "bias": [
-      "Left coverage is mixed—one outlet neutrally attributes the president’s claim while another uses pejorative terms like \"confusingly\" and \"brags\" to question the coherence of boasting about ship counts amid U.S. actions—whereas right outlets foreground the \"34 ships\" figure without skeptical qualifiers, using words like \"surged\" and \"foolish closure\" to present the count as evidence disruptions are easing.",
-      "Center pieces stress policy context, invoking \"blockade\" and oil prices \"soar\" and sometimes use \"says\"/\"claims\" with mild skepticism.",
-      "A key dividing line is the absence of independent AIS verification and how the U.S. blockade is characterized; all sides nevertheless foreground the 34-ship claim and recent Strait disruptions."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 56.0,
-    "error": null,
-    "left_pct": 22.0,
-    "location": "United States",
-    "right_pct": 22.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, President Donald Trump confirmed a U.S. blockade of the Strait of Hormuz and touted that \"34 Ships went through the Strait of Hormuz yesterday, which is by far the highest number since this foolish closure began.\"",
-      "U.S. Central Command began enforcing the blockade at 10 a.m. Eastern Monday, warning that vessels \"entering or departing the blockaded area without authorization is subject to interception, diversion and capture\" across the entire Iranian coastline.",
-      "Negotiations in Pakistan concluded after 21 hours without a ceasefire agreement, while Trump is reportedly weighing limited strikes against Iran following the diplomatic breakdown.",
-      "Oil prices rose above $100 a barrel on Monday as markets reacted to blockade uncertainty, while European Commission President Ursula von der Leyen called for the \"restoration of the freedom of navigation.\"",
-      "Tehran dismissed the blockade as \"bluster,\" warning that \"no port in the Persian Gulf and the Sea of Oman will be safe,\" while Iranian Parliament Speaker Mohammad Bagher Qalibaf declared Sunday, \"If you fight, we will fight."
-    ],
-    "title": "Trump says 34 ships passed through Strait of Hormuz on Sunday",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
   }
 ]
