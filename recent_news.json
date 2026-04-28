@@ -1,5 +1,27 @@
 [
   {
+    "article_path": "/article/cole-allen-attacks-whca-dinner-sends-manifesto-investigation-continues",
+    "article_url": "https://ground.news/article/cole-allen-attacks-whca-dinner-sends-manifesto-investigation-continues",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "On Saturday, Cole Tomas Allen, 31, stormed a security checkpoint at the Washington Hilton during the White House Correspondents' Association Dinner, armed with a shotgun, a handgun, and multiple knives before being detained.",
+      "Minutes before the attack, Allen sent a manifesto to family calling himself the 'Friendly Federal Assassin' and detailing plans to target 'administration officials' prioritized by rank.",
+      "One Secret Service agent was shot but saved by a bulletproof vest, while Allen mocked hotel security as 'insane' in his writings, claiming he walked in with weapons unchallenged.",
+      "President Donald Trump and First Lady Melania Trump were evacuated safely and the gala was canceled; King Charles contacted the president to express relief following the 'shocking scenes'.",
+      "Trump stated the dinner will be rescheduled within 30 days, while the attack marks his third suspected assassination attempt following incidents in Butler, Pennsylvania, and West Palm Beach, Florida, in 2024."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
     "article_path": "/article/sen-tillis-says-hes-ready-to-move-ahead-with-confirming-warsh-as-trumps-pick-as-fed-chair",
     "article_url": "https://ground.news/article/sen-tillis-says-hes-ready-to-move-ahead-with-confirming-warsh-as-trumps-pick-as-fed-chair",
     "bias": [
@@ -9,11 +31,11 @@
       "All agree Tillis drops opposition after the probe ends, reflecting broader clashes on Fed independence versus Trump-aligned reforms."
     ],
     "bias_bar_text": null,
-    "center_pct": null,
+    "center_pct": 50.0,
     "error": null,
-    "left_pct": null,
+    "left_pct": 24.0,
     "location": null,
-    "right_pct": null,
+    "right_pct": 26.0,
     "status": "ok",
     "summary": [
       "On Sunday, Sen. Thom Tillis of North Carolina dropped his opposition to President Donald Trump's Federal Reserve nominee, Kevin Warsh, removing a major hurdle for the GOP-controlled Senate Banking Committee to advance the nomination.",
@@ -22,43 +44,54 @@
       "Massachusetts Sen. Elizabeth Warren denounced the nomination, arguing Warsh \"proved in his nomination hearing to be nothing more than President Trump's sock puppet\" and questioned his ability to lead the Fed independently.",
       "Since appointing Jerome Powell in 2017, President Trump has pressured the Federal Reserve to cut interest rates. Even if replaced, Powell could elect to remain on the board as a governor until January 2028."
     ],
-    "title": "Source Icon",
+    "title": "Sen. Tillis says he’s ready to move ahead with confirming Warsh as Trump’s pick as Fed chair",
     "topic": null,
     "topic_full": null
   },
   {
     "article_path": "/article/cole-thomas-allen-identified-as-suspect-in-white-house-correspondents-dinner-shooting_d4f02a",
     "article_url": "https://ground.news/article/cole-thomas-allen-identified-as-suspect-in-white-house-correspondents-dinner-shooting_d4f02a",
-    "bias": null,
+    "bias": [
+      "Left-Leaning outlets emphasize \"low level\" security lapses and attendee \"terror,\" humanizing the suspect as a \"California teacher\" while quoting Trump's \"lone wolf freak\" dismissively, whereas right-leaning ones frame it as an \"assassination attempt\" by a Harris donor from blue-state California who \"charged\" checkpoints and \"took a shot,\" using terms like \"evil\" to evoke threats from progressive elites.",
+      "Pivotal divides emerge over the suspect's $25 Harris contribution—touted by right as Democratic motive, de-emphasized by left—and anti-Trump manifesto.",
+      "Center coverage neutrally profiles via \"suspect\" facts without speculation.",
+      "Amid shared details like the evacuation and custody, these portrayals underscore ideological rifts on elite vulnerabilities versus systemic safeguards."
+    ],
     "bias_bar_text": null,
     "center_pct": 47.0,
     "error": null,
-    "left_pct": 27.0,
+    "left_pct": 29.0,
     "location": null,
-    "right_pct": 26.0,
-    "status": "no_change",
+    "right_pct": 24.0,
+    "status": "ok",
     "summary": [
-      "FBI agents investigated a Torrance, California address Sunday connected to Cole Tomas Allen, identified as the suspect in Saturday night's shooting at the White House Correspondents Dinner attended by President Donald Trump .",
-      "In writings sent to family members minutes before the attack, the 31-year-old described himself as 'Friendly Federal Assassin' and expressed opposition to recent government actions under Trump, according to a law enforcement official.",
-      "Allen earned a bachelor's degree in mechanical engineering from the California Institute of Technology in Pasadena and a master's degree in computer science from California State University, Dominguez Hills, working six years at C2 Education.",
-      "Court records show no prior criminal history for Allen, who contributed $25 to a Democratic Party political action committee supporting Kamala Harris in 2024, while his father Thomas Allen serves as an elder at Grace United Reformed Church Torrance.",
-      "Bin Tang, a computer science professor at California State University, Dominguez Hills, taught Allen before his graduation last year and described him as 'very polite, a good fellow,' expressing shock upon learning of his arrest."
+      "On Saturday, April 25, 2026, a gunman rushed a security checkpoint at the White House Correspondents' Dinner in Washington, D.C., prompting the immediate evacuation of President Donald Trump and other senior officials from the ballroom.",
+      "Authorities identified the suspect as 31-year-old Cole Tomas Allen of Torrance, California, who was armed with a shotgun, a handgun, and multiple knives when he stormed the checkpoint near the ballroom.",
+      "Secret Service agents neutralized the shooter after he fired shots, striking one officer in his protective vest; Interim Police Chief Jeffery Carroll stated authorities believe Allen acted as a \"lone wolf.\"",
+      "U.S. Attorney Jeanine Pirro confirmed Allen faces charges including assault on a federal officer using a dangerous weapon, with arraignment scheduled for Monday; officials plan to reschedule the dinner within 30 days.",
+      "Investigators are probing Allen's background and electronics to determine a motive, which remains unclear, while leaders from both parties denounced the violence and emphasized that political discourse must remain safe."
     ],
     "title": "Cole Thomas Allen Identified as Suspect in White House Correspondents’ Dinner Shooting",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-evacuated-after-shots-fired-at-white-house-correspondents-dinner_4ea64f",
-    "article_url": "https://ground.news/article/trump-evacuated-after-shots-fired-at-white-house-correspondents-dinner_4ea64f",
-    "bias": null,
+    "article_path": "/article/trump-evacuated-after-shots-fired-at-white-house-correspondents-dinner_b86710",
+    "article_url": "https://ground.news/article/trump-evacuated-after-shots-fired-at-white-house-correspondents-dinner_b86710",
+    "bias": [
+      "Left-Leaning outlets frame the incident through measured terms like \"aftermath\" and \"shots fired,\" emphasizing security gaps and Trump's footage-sharing as publicity, while downplaying personal threats; right-leaning ones amplify drama with \"charged,\" \"deadly arsenal,\" and \"fearless,\" portraying it as another assassination attempt highlighting Trump's resilience.",
+      "Pivotal divides emerge on suspect's teacher background and media \"chaos\" versus heroic evacuation.",
+      "Both note multiple weapons and the officer shot but vest-protected, with left/center stressing lapses and right praising Secret Service.",
+      "Center coverage stays factual via direct quotes.",
+      "Shared praise for rapid apprehension underscores divides on political violence patterns versus individual bravery."
+    ],
     "bias_bar_text": null,
     "center_pct": 49.0,
     "error": null,
-    "left_pct": 23.0,
+    "left_pct": 24.0,
     "location": null,
-    "right_pct": 28.0,
-    "status": "no_change",
+    "right_pct": 27.0,
+    "status": "ok",
     "summary": [
       "On Saturday, an armed suspect opened fire at The Washington Hilton during The White House Correspondents dinner, prompting Secret Service agents to swiftly evacuate President Donald Trump .",
       "Cole Tomas Allen, 31, of Torrance, California, allegedly carried a shotgun and handgun into the hotel and faces charges including assaulting an officer with a dangerous weapon.",
@@ -98,335 +131,584 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-cancels-us-delegations-pakistan-trip-as-iran-peace-talks-stall_1823be",
-    "article_url": "https://ground.news/article/trump-cancels-us-delegations-pakistan-trip-as-iran-peace-talks-stall_1823be",
+    "article_path": "/article/white-house-correspondents-dinner-suspect-charged-with-attempting-to-assassinate-trump_09bfcc",
+    "article_url": "https://ground.news/article/white-house-correspondents-dinner-suspect-charged-with-attempting-to-assassinate-trump_09bfcc",
     "bias": [
-      "Left-Leaning outlets frame Trump's cancellation of envoys' Pakistan trip as a \"stumble\" or abrupt \"pulls out\" from \"peace talks\" and \"war,\" using tones of \"whiplash\" and \"baffling\" blows to diplomacy, personalizing blame on his impulsiveness.",
-      "Right-Leaning coverage counters by emphasizing Iran's \"regime\" \"infighting,\" \"confusion,\" and lack of leadership—\"nobody knows who is in charge\"—portraying the move as decisive strength with \"all the cards.",
-      "Center-Leaning reports neutrally sequence Araghchi's exit first.",
-      "Pivotal divides emerge on Iranian chaos, de-emphasized leftward versus Trump's reversals, rightward.",
-      "All agree on the cancellation, Trump's \"call anytime\" offer, and mediated indirect talks, underscoring divides on U.S. leverage versus diplomatic fragility."
+      "Left-Leaning outlets frame the incident as a generic \"shooting\" with procedural \"faces charges,\" downplaying political targeting, while right-leaning ones portray it as a dramatic \"assassination attempt\" by a \"would-be assassin\" linked to leftist ties like Harris donations and \"No Kings\" rallies.",
+      "Left employs detached tones with \"stormed\" for aggression, right amps emotional urgency via \"foiled attack\" and media incitement blame; pivotal divides emerge on suspect's manifesto \"rage\" at Trump officials versus side distractions like celebrity dresses.",
+      "Center coverage neutrally emphasizes Secret Service scrutiny.",
+      "All align on charges like attempted assassination and court facts, underscoring ideological rifts over threats to conservative figures."
     ],
-    "bias_bar_text": null,
-    "center_pct": 48.0,
+    "bias_bar_text": "Left 32% Center 41% Right 27%",
+    "center_pct": 41.0,
     "error": null,
-    "left_pct": 24.0,
+    "left_pct": 32.0,
     "location": null,
-    "right_pct": 28.0,
+    "right_pct": 27.0,
     "status": "ok",
     "summary": [
-      "On Saturday, President Donald Trump abruptly canceled a planned trip to Islamabad, Pakistan, for Special Envoy Steve Witkoff and senior adviser Jared Kushner to conduct indirect peace talks with Iran.",
-      "Trump cited \"too much time wasted on traveling, too much work\" and internal Iranian \"infighting\" for the decision, after Iranian Foreign Minister Abbas Araghchi departed Pakistan Saturday without meeting U.S. officials.",
-      "Within 10 minutes of canceling the trip, Trump claimed Iran submitted a proposal that \"could have been better,\" yet rejected it, as the U.S. maintains a naval blockade on Iranian ports which Iran characterizes as \"banditry and piracy\" in the Strait of Hormuz.",
-      "Araghchi signaled skepticism regarding Washington's intentions, stating, \"Have yet to see if the U.S. is truly serious about diplomacy,\" leaving direct U.S.-Iran engagement stalled while ceasefire discussions rely on Pakistani mediation.",
-      "While the indefinite ceasefire pauses most fighting, the economic fallout persists as energy shipments face disruption, though Trump indicated the door remains open, stating, \"If they want to talk, all they have to do is call!!!\"."
+      "Jennifer Rauchet, wife of Secretary of War Pete Hegseth, faced online backlash after wearing a dress from Temu to the White House Correspondents' Association dinner on Saturday; content creator Ella Devi claimed the outfit showed \"hypocrisy\" regarding Rauchet's \"America First\" platform.",
+      "The annual event at the Washington Hilton on Saturday, April 25, descended into chaos when an armed man attempted to storm the ballroom; nearly 3,000 attendees sheltered under tables as President Donald Trump and top officials were evacuated.",
+      "Authorities identified the suspect as Cole Tomas Allen, a 31-year-old part-time teacher from California; Allen, armed with multiple firearms and knives, shot one Secret Service agent who was treated and released from the hospital Sunday.",
+      "Acting Attorney General Todd Blanche announced the Department of Justice would bring \"multiple charges surrounding the shooting, around the possession of firearms and anything else that we can get on this guy,\" while lawmakers condemned the violence as having no place in America.",
+      "Experts analyzing Allen's manifesto found he distorted Christian theological traditions to justify political violence; while he cited Scripture to claim a \"moral obligation to resist unjust authority,\" ethicists argue his individualized interpretation fundamentally misrepresented the Gospel's call for nonviolence."
     ],
-    "title": "Trump cancels US delegation’s Pakistan trip as Iran peace talks stall",
+    "title": "White House correspondents' dinner suspect charged with attempting to assassinate Trump",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-says-correspondents-dinner-shooting-suspect-wrote-anti-christian-manifesto_0ca16a",
-    "article_url": "https://ground.news/article/trump-says-correspondents-dinner-shooting-suspect-wrote-anti-christian-manifesto_0ca16a",
+    "article_path": "/article/state-house-oks-access-to-abortion-medication-at-colleges",
+    "article_url": "https://ground.news/article/state-house-oks-access-to-abortion-medication-at-colleges",
     "bias": [
-      "Left-Leaning outlets frame the suspect's manifesto as expressing \"anti-Trump sentiments\" or \"denouncing\" Trump, emphasizing ideological opposition and security \"insane incompetence,\" while right-leaning ones highlight \"anti-Trump manifesto\" rants calling Trump \"Rapist, Traitor,\" \"Hates Christians,\" and \"mocked lack of security..",
-      "Actually insane,\" portraying deranged leftist extremism and vulnerabilities.",
-      "Left employs softening tones like skeptical \"Trump says,\" right uses inflammatory \"Sick Guy\" vilification.",
-      "Pivotal divides include left's focus on Kash Patel's omission sparking speculation, right's on Bluesky anti-Trump boosts tying to partisanship.",
-      "Center coverage offers neutral attributions like straightforward \"Trump says.",
-      "All agree on the 31-year-old suspect sending a 1,052-word manifesto to family, who alerted police, underscoring shared facts amid ideological clashes over violence motives and protections."
+      "Left-Leaning outlets frame the bill's passage as a straightforward \"OKs access\" to abortion medication on campuses, emphasizing empowerment, while right-leaning ones portray it as a coercive \"require\" for colleges to provide \"abortion pills,\" highlighting costs borne by universities and passed to students.",
+      "Left rhetoric employs approving tones like \"access,\" evoking progress, whereas right uses skeptical phrases like \"abortion pills\" to evoke moral and fiscal burdens.",
+      "Pivotal divides emerge over financial implications and mandatory framing, de-emphasized elsewhere; center coverage stays neutral with clinical \"abortion medication.",
+      "All agree on Monday's House approval, underscoring ideological rifts on reproductive rights versus institutional costs."
     ],
-    "bias_bar_text": "Left 29% Center 33% Right 38%",
-    "center_pct": 33.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": null,
-    "right_pct": 38.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, Cole Tomas Allen, 31, charged a security checkpoint at the Washington Hilton during the White House Correspondents' Dinner, firing a shotgun and wounding a Secret Service agent before being tackled and arrested.",
-      "Sent to his family 10 minutes before the attack, Allen's manifesto dubbed him the \"Friendly Federal Assassin\" and detailed plans to kill Trump administration officials, according to law enforcement officials.",
-      "Allen legally purchased a.38-caliber pistol in October 2023 and a 12-gauge shotgun in August 2025, then traveled from Southern California to Washington, D.C. by rail to execute the attack.",
-      "President Donald Trump and other officials were safely evacuated as security personnel formed a protective cordon; the wounded Secret Service agent escaped serious injury because his bulletproof vest stopped the shot.",
-      "Trump intends to reschedule the dinner within 30 days while continuing to lobby for a secure ballroom facility on White House grounds to prevent future security lapses at high-profile events."
-    ],
-    "title": "Trump says Correspondents' dinner shooting suspect wrote anti-Christian manifesto",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/jeffries-says-democrats-will-focus-on-affordability-not-trump-impeachment",
-    "article_url": "https://ground.news/article/jeffries-says-democrats-will-focus-on-affordability-not-trump-impeachment",
-    "bias": [
-      "Left-Leaning outlets emphasize Democratic momentum for \"Day 1 impeachment \" pushes, framing Fox anchors' queries as \"straight-up\" aggression while highlighting bullish House-flip prospects; right-leaning coverage counters with skepticism via \"claims\" and \"downplays,\" portraying Democrats as clashing over \"backfire\" risks and spotlighting 40% support for Raskin's impeachment bill to underscore disunity.",
-      "Pivotal divides emerge on Trump's provocations like Iran threats, de-emphasized leftward but contextualized rightward as disrupting economic focus.",
-      "Center-Leaning reports stay neutral on priorities.",
-      "All align on Jeffries prioritizing cost-of-living over impeachment, revealing ideological rifts between accountability fervor and electoral pragmatism."
-    ],
-    "bias_bar_text": "L 20% Center 30% Right 50%",
-    "center_pct": 30.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": null,
-    "right_pct": 50.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, House Minority Leader Hakeem Jeffries said Democrats will not prioritize impeaching President Trump if they regain the House majority, answering \"Of course not\" when asked.",
-      "Trump warned House Republicans in January that he would be impeached if the party lost the midterms, though removal efforts emerged earlier this year and have largely stalled.",
-      "Jeffries emphasized the party's top priority is driving down the high cost of living, advocating for good-paying jobs, housing, healthcare, education, and retirement security for Americans.",
-      "Rep. Greg Meeks said Democrats must secure votes to achieve legislative goals, adding his efforts will focus on the American economy and people rather than impeachment.",
-      "Democrats are leveraging redistricting efforts nationwide to capture additional House seats and regain working-class voter support following losses in the 2024 election."
-    ],
-    "title": "Jeffries Says Democrats Will Focus on Affordability, Not Trump Impeachment",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/latest-us-military-strike-on-alleged-drug-boat-kills-3-in-eastern-pacific",
-    "article_url": "https://ground.news/article/latest-us-military-strike-on-alleged-drug-boat-kills-3-in-eastern-pacific",
-    "bias": [
-      "Left-Leaning outlets frame the U.S. military's action as an aggressive \"strike\" on an \"alleged drug boat\" that \"kills 3,\" employing skeptical tones with \"latest\" and \"blowing up\" to spotlight casualties and imply overreach, while right-leaning coverage portrays it as a decisive hit on \"narco-traffickers\" and \"drug smugglers,\" using affirmative \"kills\" and \"again\" to emphasize proactive enforcement without qualifiers.",
-      "Pivotal divides emerge over \"alleged\" uncertainty versus definitive threats like \"narco-terrorists,\" and the campaign's 185-186 deaths—critiqued as excessive by left, de-emphasized by right.",
-      "Center hedges with \"suspected\" and military attribution for balance.",
-      "All concur on the Pacific strike and Southern Command's video, underscoring ideological rifts on militarized anti-drug policy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 44.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": "United States",
-    "right_pct": 26.0,
-    "status": "ok",
-    "summary": [
-      "A recent U.S. military strike in the eastern Pacific Ocean killed three people on a boat accused of drug trafficking, according to U.S. Southern Command's social media post.",
-      "Since early September, a campaign to attack alleged drug-trafficking vessels in Latin American waters has resulted in at least 186 deaths.",
-      "The U.S. military has not provided evidence that the targeted vessels were carrying drugs but said it targeted traffickers along known smuggling routes.",
-      "The military campaign coincides with increased U.S. military activity in the region amid concerns about drug trafficking."
-    ],
-    "title": "Latest US military strike on alleged drug boat kills 3 in eastern Pacific",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/trump-calls-for-unity-and-bipartisan-healing-after-another-violent-incident",
-    "article_url": "https://ground.news/article/trump-calls-for-unity-and-bipartisan-healing-after-another-violent-incident",
-    "bias": [
-      "Left-Leaning outlets frame the event as \"another violent incident\" with an \"undeniable\" Trump-violence \"connection,\" skeptical tones like \"But will it last?\" amplifying chaos and pandemonium.",
-      "Right-Leaning coverage counters with \"assassination attempt\" on \"most impactful people,\" emphasizing Trump's \"honored\" defiance, \"fantastic job\" by Secret Service, and doubts over \"lone actor\" narratives.",
-      "Pivotal divides hinge on Trump's resilient honor versus left's disorder focus, with center noting \"growing political violence\" threatening democratic rituals.",
-      "All agree on swift apprehension and Trump's unity plea, underscoring rifts between victimhood heroism and incitement patterns."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "Washington",
-    "right_pct": 20.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, April 25, 2026, gunfire erupted outside the ballroom at the Washington Hilton during the White House Correspondents Association dinner, forcing the rapid evacuation of President Donald Trump , First Lady Melania Trump, and other officials.",
-      "Authorities arrested 31-year-old Cole Tomas Allen of Torrance, California, after he bypassed security checkpoints armed with multiple weapons. Officials described Allen as appearing to act alone, though some intelligence figures have publicly questioned that narrative.",
-      "One Secret Service agent was struck by a bullet but survived thanks to his bulletproof vest. Acting Attorney General Todd Blanche announced that charges would be filed \"shortly\" against the suspect.",
-      "President Trump struck an unusually conciliatory tone during an impromptu briefing, calling on Americans to \"recommit\" and resolve their differences peacefully after the incident. He noted the dinner was intended to unite members of both parties.",
-      "This marks the third assassination attempt on Trump since July 2024, following incidents in Butler, Pennsylvania, and West Palm Beach, Florida. Trump suggested that \"the most impactful people\" face unique threats, framing the pattern as a sign of his presidency's success."
-    ],
-    "title": "Trump calls for unity and bipartisan healing after another violent incident",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · Washington"
-  },
-  {
-    "article_path": "/article/just-in-doj-demands-activist-attorneys-drop-white-house-ballroom-lawsuit",
-    "article_url": "https://ground.news/article/just-in-doj-demands-activist-attorneys-drop-white-house-ballroom-lawsuit",
-    "bias": [
-      "Left-Leaning outlets frame the DOJ’s intervention as an \"attack\" on legal oversight, using terms like \"press\" to suggest coercive \"pressure\" while highlighting $400 million in secret donor funding.",
-      "Conversely, right-leaning coverage emphasizes urgency, portraying the shooting as a \"third assassination attempt\" and labeling opponents \"activist attorneys\" who hinder vital security.",
-      "While center-leaning reports neutrally note the DOJ \"asks\" for dismissal, they provide historical context de-emphasized elsewhere.",
-      "Both sides agree the shooting justifies a security review, yet they diverge on whether the ballroom is a protective \"need\" or a \"pretext\" to bypass transparency."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 64.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": "Washington",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "Donald Trump ’s Justice Department is reportedly using the recent shooting incident at the White House Correspondents’ Dinner to pressure preservationists over a legal dispute.",
-      "The dispute concerns a planned $400 million ballroom project at the site of the former East Wing of the White House.",
-      "Acting Attorney General Todd Blanche publicly urged that construction should proceed, calling for the lawsuit to be dropped.",
-      "Assistant Attorney General Brett Shumate gave the National Trust for Historic Preservation a deadline to withdraw its lawsuit, which seeks to block the project."
-    ],
-    "title": "Justice Department Presses Preservationists to Drop Trump Ballroom Lawsuit After Shooting",
-    "topic": "Department of Justice",
-    "topic_full": "Department of Justice · Washington"
-  },
-  {
-    "article_path": "/article/global-military-spending-rises-29-despite-us-decline-over-ukraine",
-    "article_url": "https://ground.news/article/global-military-spending-rises-29-despite-us-decline-over-ukraine",
-    "bias": [
-      "Left-Leaning outlets frame Europe's 14% military spending surge as dire \"consequences\" of the \"Russian threat,\" employing alarmist tones like \"increasingly visible\" to evoke urgency, while right-leaning coverage portrays the global 2.9% rise to $2.89 trillion as an \"arms race\" that \"accelerates\" or \"surges on insecurity,\" attributing Europe's hike to Trump's \"threats to slam NATO's door\" and spotlighting US decline.",
-      "Pivotal divides emerge in threat attributions—Russia for left, Trump/NATO skepticism for right—amid de-emphasized Ukraine aid freezes.",
-      "Center-Leaning reports stress precise figures like 7.5% US drop neutrally.",
-      "Both sides agree on record highs and top spenders , underscoring ideological rifts over external aggression versus alliance reliability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 42.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "United States",
-    "right_pct": 31.0,
-    "status": "ok",
-    "summary": [
-      "Global military spending reached a record $2.887 trillion in 2025, marking the 11th consecutive year of growth, according to new data from the Stockholm International Peace Research Institute .",
-      "Fueled by the ongoing war in Ukraine, European military budgets spiked 14% to $864 billion, researcher Xiao Liang said. Spending focus shifted toward Central and Western European countries as militarization plans materialized.",
-      "The United States remained the largest spender at $954 billion, though expenditures fell 7.5% because Congress approved no new financial military aid for Ukraine in 2025.",
-      "Rising expenditures pushed the global military burden to 2.5% of worldwide GDP, the highest level since 2009, as nations compensated for increased insecurity.",
-      "Following Congress approval of a 2026 budget signaling increased military spending, the upward trend likely persists through 2026 and beyond, researcher Lorenzo Scarazzato noted, with potential for further rises if President Donald Trump's 2027 proposal passes."
-    ],
-    "title": "Global military spending rises 2.9% despite US decline over Ukraine freeze",
-    "topic": "Military",
-    "topic_full": "Military · United States"
-  },
-  {
-    "article_path": "/article/youre-a-disgrace-trump-slams-cbs-60-minutes-over-gunman-manifesto-question",
-    "article_url": "https://ground.news/article/youre-a-disgrace-trump-slams-cbs-60-minutes-over-gunman-manifesto-question",
-    "bias": [
-      "Left-Leaning outlets frame Trump's response to a reporter reading the shooter's manifesto—accusing him of being a \"pedophile\" and \"traitor\"—as volatile outbursts, emphasizing terms like \"snaps,\" \"berates,\" and \"ashamed\" to portray him as unhinged and thin-skinned.",
-      "Right-Leaning coverage contrasts this by highlighting his rebuke of the host as \"disgraceful\" for airing a \"sick\" \"would-be-assassin's\" claims, using \"torches\" to depict bold media accountability.",
-      "Pivotal divides emerge over labeling the incident an \"assassination attempt,\" de-emphasized elsewhere, and the manifesto's airing.",
-      "Center-Leaning pieces adopt neutral \"slams/snaps\" tones.",
-      "All agree on the \"disgrace\" quote and denials, underscoring ideological rifts on media trust and Trump's resilience."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 17.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "United States",
-    "right_pct": 50.0,
-    "status": "ok",
-    "summary": [
-      "President Donald Trump criticized CBS reporter Norah O'Donnell during a \"60 Minutes\" interview for reading excerpts from the alleged manifesto of the White House Correspondents' Dinner shooting suspect, calling her 'a disgrace' and denying the accusations in the manifesto.",
-      "The suspect, Cole Allen, fired shots at the Washington Hilton during the event, injuring a Secret Service officer, and was apprehended at the scene.",
-      "Federal investigators are reviewing the suspect's writings as part of their ongoing investigation, while the White House Correspondents' Association postponed the event due to security concerns.",
-      "Authorities have charged Cole Allen with using a firearm during a crime of violence and assaulting a federal officer."
-    ],
-    "title": "Trump criticizes “60 Minutes” host over on-air reading of suspect’s alleged manifesto",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
-  },
-  {
-    "article_path": "/article/netanyahu-speaks-about-trumps-assassination-attempt-relieved-hes-safe",
-    "article_url": "https://ground.news/article/netanyahu-speaks-about-trumps-assassination-attempt-relieved-hes-safe",
-    "bias": [
-      "Left-Leaning coverage frames the international response through a broad lens of \"great\" sympathy, de-emphasizing specific diplomatic outreach.",
-      "Conversely, right-leaning outlets emphasize \"solidarity\" and use the honorific \"President Trump,\" portraying him as a unifying global figure.",
-      "While center-leaning coverage focuses narrowly on Israeli leaders’ \"condemnation,\" the right employs emotionally charged terms like \"shocked\" and highlights personal gestures, such as a leader who \"texts Trump,\" to validate his status.",
-      "Despite these framing differences, all sides agree on the universal \"condemnation\" of the violence, reflecting a shared rejection of political attacks across the ideological divide."
-    ],
-    "bias_bar_text": "L 17% C 16% Right 67%",
-    "center_pct": 16.0,
+    "bias_bar_text": "L 17% Center 50% Right 33%",
+    "center_pct": 50.0,
     "error": null,
     "left_pct": 17.0,
     "location": null,
-    "right_pct": 67.0,
+    "right_pct": 33.0,
     "status": "ok",
     "summary": [
-      "Prime Minister Netanyahu explicitly labeled the shooting an \"assassination attempt\" and expressed deep shock over the repeated threats against the President and First Lady .",
-      "President Isaac Herzog offered prayers \"from the Holy Land\" for the safety of the United States and its leadership, describing the event as a \"heinous attack\" on democratic stability.",
-      "Both leaders formally saluted the U.S. Secret Service for their \"swift and decisive action\" in tackling the gunman before he could enter the main ballroom.",
-      "The Israeli leadership sent specific wishes for a \"full and speedy recovery\" to the police officer who was shot and injured during the confrontation in the hotel lobby."
+      "On Monday, the Colorado House passed House Bill 1335, requiring higher education institutions to provide on-site abortion medication services through student health centers.",
+      "Democrats Lorena Garcia and Kenny Nguyen sponsored the legislation after students requested on-campus access to abortion medication, with Garcia reporting no higher education entity in the state opposed it.",
+      "Forty-One Democrats voted for the bill on its third and final reading, while 21 Republicans and one Democrat, Rep. Bob Marshall of Douglas County, opposed it, citing campus burden concerns.",
+      "Rep. Stephanie Luck cited an April 2025 Ethics and Public Policy Center study finding one in 10 patients experience serious adverse health events, though The American College of Obstetricians & Gynecologists says the medication is safe.",
+      "Institutions with sincerely held religious beliefs are exempt from the requirements, while campuses without on-site pharmacies must submit prescriptions to off-campus providers or dispense medication through student health centers."
     ],
-    "title": "Israeli PM Netanyahu, President Herzog Condemn Assassination Attempt on Trump",
+    "title": "Colorado House Approves Campus Abortion Medication Bill",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/teen-boy-wanted-in-fatal-ontario-mall-shooting-turns-himself-in-police-say",
-    "article_url": "https://ground.news/article/teen-boy-wanted-in-fatal-ontario-mall-shooting-turns-himself-in-police-say",
-    "bias": null,
-    "bias_bar_text": "Left 89% 11%",
-    "center_pct": 11.0,
+    "article_path": "/article/swift-attack-plans-these-are-the-gaps-in-the-defence-of-terrorism",
+    "article_url": "https://ground.news/article/swift-attack-plans-these-are-the-gaps-in-the-defence-of-terrorism",
+    "bias": [
+      "Left-Leaning outlets present a minimalist narrative, framing the trial as a \"suspected attack\" while de-emphasizing ISIS ties, security gaps, and confessions.",
+      "Right-Leaning coverage amplifies threats with \"Islamist attack plot,\" \"terror planner,\" \"gaps in the defence,\" and \"mass massacre\" rhetoric, deploying emotionally charged phrases like \"horrific terrorist attack \" to underscore prevention failures and CIA tip-offs.",
+      "Center coverage neutrally highlights prosecutorial claims of ISIS training via \"jihadist group.",
+      "Pivotal divides center on intelligence successes and partial pleas, revealing partisan tones on vulnerability.",
+      "All concur on the 21-year-old's terrorism trial start, reflecting broader security-versus-restraint ideological rifts."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 31.0,
     "error": null,
-    "left_pct": 89.0,
-    "location": null,
+    "left_pct": 37.0,
+    "location": "Austria",
+    "right_pct": 32.0,
+    "status": "ok",
+    "summary": [
+      "A 21-year-old man named Beran A. is on trial in Wiener Neustadt, Austria, charged with planning a terrorist attack on a Taylor Swift concert in Vienna in August 2024. Prosecutors say he started planning the attack by July 21, 2024.",
+      "The CIA foiled the plot after identifying the threat just before Swift's opening concert, when more than 195,000 fans were expected to attend. Swift said the tour narrowly \"dodged a massacre situation\" thanks to the intervention.",
+      "Prosecutors allege Beran obtained instructions for a TATP shrapnel bomb described as \"specific to IS attacks\" and declared allegiance to the Islamic State while spreading online propaganda for the jihadist group.",
+      "Co-Defendants Arda K. and Mohammed A. also face trial in Wiener Neustadt, with prosecutors claiming the cell planned additional attacks in Mecca, Istanbul, and Dubai beyond the Vienna concert.",
+      "If convicted, the two younger suspects face up to 20 years in prison, while a separate case last year in Germany resulted in an 18-month suspended sentence for similar involvement in the foiled plot."
+    ],
+    "title": "Austrian Man Goes on Trial Over Foiled Taylor Swift Concert Plot",
+    "topic": "Taylor Swift",
+    "topic_full": "Taylor Swift · Austria"
+  },
+  {
+    "article_path": "/article/liv-golf-reportedly-postpones-new-orleans-event-amid-funding-struggles",
+    "article_url": "https://ground.news/article/liv-golf-reportedly-postpones-new-orleans-event-amid-funding-struggles",
+    "bias": [
+      "Left-Leaning coverage frames the LIV Golf postponement amid \"financial questions continue,\" emphasizing ongoing instability and state involvement like the Louisiana secretary's outreach, while right-leaning outlets portray \"limbo\" with \"financial concerns swirl\" and CEO hypocrisy after \"full throttle\" boasts, spotlighting Saudi PIF funding cuts.",
+      "Left employs skeptical persistence tones; right uses vivid crisis rhetoric like \"turmoil.",
+      "Pivotal divides emerge over funding sources and leadership contrasts, de-emphasized by center's cautious \"likely postponed.",
+      "All concur on the late-June City Park event delay, underscoring ideological splits on foreign sports investments."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 21.0,
+    "error": null,
+    "left_pct": 42.0,
+    "location": "New Orleans",
+    "right_pct": 37.0,
+    "status": "ok",
+    "summary": [
+      "LIV Golf 's New Orleans tournament, originally planned for June 25-28, is likely postponed until the fall due to financial troubles and restructuring efforts.",
+      "CEO Scott O'Neil and Louisiana Economic Development Secretary Susan Bourgeois agreed to postpone the event while seeking new funding.",
+      "Louisiana provided $5 million in total for the event, including approximately $2 million for course upgrades and a hosting fee, and will refund the $1 million already paid with no additional state funding.",
+      "The postponement follows reports that the Saudi Public Investment Fund may withdraw financial support, prompting LIV Golf to seek new funding and restructure, including exploring selling equity in its teams."
+    ],
+    "title": "LIV Golf Delays New Orleans Event Amid Saudi Funding Cuts",
+    "topic": "Golf",
+    "topic_full": "Golf · New Orleans"
+  },
+  {
+    "article_path": "/article/charlie-crist-officially-in-for-people-first-mayoral-campaign",
+    "article_url": "https://ground.news/article/charlie-crist-officially-in-for-people-first-mayoral-campaign",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 100.0,
+    "error": null,
+    "left_pct": null,
+    "location": "Florida",
     "right_pct": null,
     "status": "no_change",
     "summary": [
-      "A 14-year-old boy wanted in a deadly Ontario mall shooting turned himself in to Hamilton Police on Sunday, ending the search for the suspect.",
-      "The shooting occurred Friday inside Jackson Square mall in Hamilton, where the 16-year-old victim walked toward a store and collapsed after being shot.",
-      "Investigators determined the teens interacted outside Jackson Square before an altercation inside led to the shooting; police have now spoken to everyone involved and seek no further suspects.",
-      "Chief Frank Bergen called the incident a \"community call to action,\" stating that it is deeply troubling another young person is alleged to be responsible.",
-      "Investigators continue to appeal to anyone who may have witnessed the incident to contact police, with details first reported by The Canadian Press on April 26, 2026."
+      "Former Florida Gov Charlie Crist filed Monday to run for mayor of St. Petersburg, challenging incumbent Mayor Ken Welch. Crist posted to social platform X, remarking, \"Well it's official. I'm now a candidate for mayor of St. Pete.\"",
+      "Motivated by what he described as a city \"on a pause,\" Crist, who served as Governor and in Congress, previously supported Welch but now cites need for improved communication and economic development. He has been mulling a mayoral bid since late last year.",
+      "St. Pete Shines, a political committee backing Crist, has raised more than $1.2 million, while Welch raised under $220,000 in the first quarter of 2026. A late March survey placed Crist at 23% support compared to 19% for Welch.",
+      "As seven candidates vie for the seat, the August Primary will determine whether either frontrunner can exceed 50% of the vote to avoid a runoff. Political observers expect the contest to narrow to a showdown between Crist and Welch."
     ],
-    "title": "14-Year-Old Surrenders in Hamilton Mall Shooting That Killed Teen",
+    "title": "Charlie Crist running to be St. Petersburg’s mayor",
+    "topic": "Charlie Crist",
+    "topic_full": "Charlie Crist · Florida"
+  },
+  {
+    "article_path": "/article/texas-police-can-arrest-people-suspected-of-entering-country-illegally",
+    "article_url": "https://ground.news/article/texas-police-can-arrest-people-suspected-of-entering-country-illegally",
+    "bias": [
+      "Left-Leaning outlets emphasize ongoing resistance through terms like \"opponents\" and statements such as \"fight isn’t over,\" linking to Arizona Proposition 314's fate, while right-leaning coverage adopts a direct enforcement tone with \"illegally,\" minimizing caveats.",
+      "These contrasts reveal divides on broader policy implications and opposition voices, de-emphasized in right perspectives.",
+      "Center coverage highlights procedural focus on \"standing\" over merits and \"questions remain.",
+      "All agree the Fifth Circuit lifted the injunction, allowing Texas SB 4 arrests for suspected illegal entry, reflecting ideological splits on state immigration authority."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 62.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "Texas",
+    "right_pct": 5.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, the Fifth Circuit Court of Appeals lifted a lower court's injunction against 2023 Texas Senate Bill 4, allowing state police to arrest people suspected of illegal entry.",
+      "Texas Republicans passed the measure in response to record border crossings they described as an \"invasion,\" asserting the state has a fundamental right to self-defense against unlawful migration.",
+      "In a 10-7 decision, the court ruled that Las Americas Immigrant Advocacy Center, American Gateways, and El Paso County lacked legal standing to sue, avoiding judgment on the law's constitutional merits.",
+      "Enforcement of Arizona Proposition 314, approved by voters in 2024 by a margin of more than 3-2, remains contingent on the final legal fate of the Texas measure.",
+      "ACLU Immigrants' Rights Project deputy director Cody Wofsy called the ruling \"a procedural decision,\" asserting the legal fight over the law's constitutionality is expected to reach the Supreme Court."
+    ],
+    "title": "Texas police can arrest people suspected of entering country illegally, federal court rules",
+    "topic": "Texas Politics",
+    "topic_full": "Texas Politics · Texas"
+  },
+  {
+    "article_path": "/article/wyoming-judge-blocks-law-that-bans-all-but-earliest-abortions",
+    "article_url": "https://ground.news/article/wyoming-judge-blocks-law-that-bans-all-but-earliest-abortions",
+    "bias": [
+      "Left-Leaning outlets frame the judge's \"blocks\" as a heroic stand against sweeping \"bans,\" emphasizing reproductive access, while right-leaning ones portray it as obstructive overreach undermining protective laws post-\"embryonic cardiac activity.",
+      "Left employs alarmist tones with \"bans all but earliest,\" humanizing restrictions, whereas right counters with sympathetic phrasing on fetal safeguards, using sterner \"constitutional\" violations for prior rulings.",
+      "Pivotal divides emerge in de-emphasized details like the judge's \"healthcare decisions\" rationale and Supreme Court context, highlighted rightward.",
+      "Center coverage stays dispassionate, focusing facts.",
+      "All agree on the temporary block amid ongoing suits, underscoring abortion rights versus life-protection ideological chasms."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 33.0,
+    "error": null,
+    "left_pct": 47.0,
+    "location": "Wyoming",
+    "right_pct": 20.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, Natrona County District Judge Dan Forgey blocked Wyoming's new abortion ban by granting a temporary restraining order, writing the law is likely to be overturned on similar constitutional grounds.",
+      "The Republican-dominated Legislature passed the cardiac-activity measure after the Wyoming Supreme Court struck down previous abortion bans in January for violating a 2012 state constitutional amendment protecting healthcare decisions; Gov. Mark Gordon signed it into law in March.",
+      "Wellspring Health Access President Julie Burkhart said the ban reduced the clinic's ability to provide care for nearly two months, while cardiac-activity detection often occurs before women realize they are pregnant.",
+      "Responding to the block, Gov. Mark Gordon said Monday that Wyoming should be able to uphold the law by \"proving a compelling interest to protect human life,\" calling for a state constitutional amendment.",
+      "Currently, 13 states are enforcing total abortion bans, while four others—Iowa, Florida, Georgia, and South Carolina—have restrictions that activate at six weeks gestation or upon cardiac-activity detection."
+    ],
+    "title": "Wyoming judge blocks law that bans all but earliest abortions",
+    "topic": "Wyoming Politics",
+    "topic_full": "Wyoming Politics · Wyoming"
+  },
+  {
+    "article_path": "/article/fact-check-did-ilhan-omar-say-world-war-11-in-viral-alien-enemies-act-clip-as-online-debate-intensifies-heres-the-truth-behind-the-claim",
+    "article_url": "https://ground.news/article/fact-check-did-ilhan-omar-say-world-war-11-in-viral-alien-enemies-act-clip-as-online-debate-intensifies-heres-the-truth-behind-the-claim",
+    "bias": [
+      "Right-Leaning outlets frame Rep. Ilhan Omar 's \"World War II\" misreading as a \"brutal gaffe\" or \"brain fart,\" amplifying \"mocked\" ridicule, backlash, calls for removal, and supporters de-emphasizing it as verbal slip, with Roman numeral confusion as key detail.",
+      "Center-Leaning coverage neutrally terms it a \"mistake,\" mildly skeptical via \"really\" on viral resurgence sans sensationalism.",
+      "Pivotal divides: mockery emphasis and supporter reactions, de-emphasized centrally.",
+      "Both concur on the January 2025 presser clip's social media spread, exposing ideological rifts in vetting progressive competence."
+    ],
+    "bias_bar_text": "C 17% Right 83%",
+    "center_pct": 17.0,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": 83.0,
+    "status": "ok",
+    "summary": [
+      "Rep. Ilhan Omar mistakenly referred to World War II as 'World War Eleven' during a January 2025 speech opposing the Alien Enemies Act and quickly corrected herself.",
+      "Omar was discussing the 1798 Alien Enemies Act, which had been invoked to deport suspected criminals from Venezuela.",
+      "The video of her verbal mistake resurfaced in 2026, prompting widespread ridicule on social media.",
+      "Omar's office did not respond to requests for comment following the viral reaction to her mistake."
+    ],
+    "title": "Rep. Ilhan Omar mocked over brutal World War ‘11’ gaffe in resurfaced video",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/sheila-cherfilus-mccormick-just-resigned-shes-still-seeking-reelection",
-    "article_url": "https://ground.news/article/sheila-cherfilus-mccormick-just-resigned-shes-still-seeking-reelection",
+    "article_path": "/article/islamic-state-militants-kill-at-least-29-in-an-attack-on-a-village-in-northeastern-nigeria_0045ce",
+    "article_url": "https://ground.news/article/islamic-state-militants-kill-at-least-29-in-an-attack-on-a-village-in-northeastern-nigeria_0045ce",
     "bias": [
-      "Left-Leaning outlets portray the lawmaker’s reelection bid as \"defiant,\" using language like \"embattled\" and \"resigned in disgrace\" to frame her departure.",
-      "Conversely, right-leaning coverage emphasizes \"ramped up pressure\" from ethics probes, using labels like \"Dem\" and the incredulous \"no way\" while highlighting the \"$5 million\" figure to suggest \"personal gain.",
-      "While center-leaning reports provide specific details like the \"25 out of 27 counts,\" the primary divide remains between the left’s focus on political audacity and the right’s focus on criminal severity, reflecting broader ideological disagreements over accountability and institutional integrity."
+      "Left-Leaning outlets frame the attack as \"deadly unrest\" in a jihadist hotspot amid gang and land conflicts, employing neutral \"gunmen\" while de-emphasizing religious motives; right-leaning ones portray a \"sickening\" \"Islamist\" \"terrorist attack\" targeting \"Christians,\" torching churches, and fueling \"rising\" pre-election violence with Boko Haram ties.",
+      "Pivotal divides emerge on church destruction and IS's Telegram claim, which right highlights for outrage, versus left's communal context.",
+      "Center coverage stays cautious with \"at random\" killings by \"armed men.",
+      "All emphasize 29 deaths at a soccer pitch, underscoring divides between jihadist persecution alarms and systemic insecurity narratives."
     ],
-    "bias_bar_text": null,
-    "center_pct": 10.0,
+    "bias_bar_text": "Left 75% C 16% 9%",
+    "center_pct": 16.0,
     "error": null,
-    "left_pct": 15.0,
-    "location": "Florida",
-    "right_pct": 75.0,
+    "left_pct": 75.0,
+    "location": null,
+    "right_pct": 9.0,
     "status": "ok",
     "summary": [
-      "Former Rep. Sheila Cherfilus-McCormick is continuing her reelection campaign despite resigning from Congress on Tuesday, four days after filing her candidacy paperwork ahead of an expected expulsion vote.",
-      "The House Ethics Committee found Cherfilus-McCormick responsible for 25 ethics violations, alleging she improperly funneled $5 million in federal funds intended for COVID-19 programs; she faces up to 53 years in prison.",
-      "Cherfilus-McCormick has pleaded not guilty, maintaining that the House Ethics Committee hearing was \"not a fair process\" and a \"witch hunt\" as the investigation involved dozens of subpoenas and over 33,000 documents.",
-      "Florida Democratic Party Chair Nikki Fried condemned the resignation, stating that \"corruption has no place in Congress\" after Cherfilus-McCormick was indicted for misusing COVID-19 funds.",
-      "At least five other Democrats are vying for the Florida 20th congressional district seat, a field that includes educator Elijah Manley and Luther \"Uncle Luke\" Campbell from the 1990s rap group 2 Live Crew."
+      "On Sunday, gunmen killed at least 29 people in Guyaku, a village in Nigeria's Adamawa State, during a violent assault on residents gathered at a football pitch.",
+      "The Islamic State West Africa Province claimed responsibility, stating insurgents 'torched a church and nearly 100 motorcycles' during the assault.",
+      "Resident Philip Agabus told AFP that 'our people converged at a football pitch in Guyaku community, and were attacked by insurgents who entered with guns and began shooting randomly.'",
+      "Adamawa State Governor Ahmadu Umaru Fintiri condemned the attack, vowing 'intensifying security operations immediately to restore peace' while promising it 'will not go unpunished.'",
+      "Multiple extremist factions, including IS-linked Lakurawa and bandit groups, continue threatening rural communities as Nigeria struggles to secure vast areas from coordinated violence."
     ],
-    "title": "Sheila Cherfilus-McCormick Files for Re-Election While Keeping FEC Accounts Active",
-    "topic": "Florida Politics",
-    "topic_full": "Florida Politics · Florida"
+    "title": "Islamic State Militants Kill at Least 29 in an Attack on a Village in Northeastern Nigeria",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/jamie-raskin-is-unaware-of-the-heated-rhetoric-from-democrats-lets-remind-him",
-    "article_url": "https://ground.news/article/jamie-raskin-is-unaware-of-the-heated-rhetoric-from-democrats-lets-remind-him",
+    "article_path": "/article/judge-tosses-murder-conviction-for-man-who-served-25-years-rebuking-a-troubling-prosecution-uk-times",
+    "article_url": "https://ground.news/article/judge-tosses-murder-conviction-for-man-who-served-25-years-rebuking-a-troubling-prosecution-uk-times",
     "bias": [
-      "Left-Leaning outlets frame a CNN host's query on Democratic \"heated rhetoric\" as \"parroting right-wing talking points\" or a \"complete disgrace,\" using incredulous tones to shield allies and skeptically question protester \"Kill Trump\" claims; right-leaning coverage counters by mocking a Democrat's \"deer-in-headlights\" or \"clueless\" reaction, spotlighting \"continuous anti-Trump rhetoric\" amid the \"third assassination attempt.",
-      "Pivotal divides emerge over rhetoric's role in violence and security lapses like unpaid agents, with right touting threat escalation.",
-      "Both agree on the WHCD shooting, evacuations, and backlash to the question, underscoring ideological clashes on incitement blame."
+      "Left-Leaning coverage frames the judge's vacating of a 25-year murder conviction as a triumphant correction of injustice, humanizing the defendant through terms like \"exonerated\" and emotional pleas such as \"I can finally breathe,\" while sharply rebuking a \"troubling\" prosecution.",
+      "Right-Leaning outlets counter by spotlighting withheld payments to the eyewitness's mother and portraying the victim as an \"alleged drug dealer,\" emphasizing prosecutorial corruption over personal vindication.",
+      "Pivotal divides emerge in de-emphasized emotional relief versus concrete misconduct details , with center-leaning reports mirroring dramatic phrasing like \"tosses\" but downplaying extremes.",
+      "All agree on the 1993 Harlem case's overturn due to new evidence, underscoring divides between reform empathy and law enforcement scrutiny."
     ],
     "bias_bar_text": null,
-    "center_pct": null,
+    "center_pct": 29.0,
     "error": null,
-    "left_pct": 23.0,
-    "location": "United States",
-    "right_pct": 77.0,
+    "left_pct": 57.0,
+    "location": "New York",
+    "right_pct": 14.0,
     "status": "ok",
     "summary": [
-      "CNN host Dana Bash faced criticism on Sunday for questioning Representative Jamie Raskin about Democrats' \"heated rhetoric\" toward President Donald Trump following a shooting outside the White House Correspondents' Association dinner.",
-      "Bash suggested divisive rhetoric intersected with a spike in political violence in recent years, pressing Raskin on the party's characterization of Trump as \"terrible for this country.\"",
-      "Raskin responded by asking \"What rhetoric?\" and clarified he has no \"personal problem\" with Trump, emphasizing his focus on the administration's \"authoritarianism\" during the Minneapolis immigration crackdown."
+      "On Monday, a Manhattan judge vacated the murder conviction of Harry Ruiz, 58, who spent 25 years in prison for the 1993 fatal shooting of Emmanuel Felix in Harlem.",
+      "Manhattan District Attorney Alvin Bragg's Post-Conviction Justice Unit found prosecutors had paid $17,000 to the mother of the key witness, a payment never disclosed to the defense as legally required.",
+      "Court records show a man identified as J.M. admitted hiring a hitman known as \"Shorty\" to kill Felix, paying $4,000 before and after the murder and signing an affidavit stating the killer was not Ruiz.",
+      "Judge Robert Mandelbaum rebuked the former assistant district attorney for her \"troubling\" refusal to participate in the reinvestigation, while attorney Ron Kuby stated the office \"knowingly and deliberately suppressed\" evidence.",
+      "Since creating the Post-Conviction Justice Unit in 2022, Bragg has vacated 14 convictions, including eight homicides; Ruiz said he feels relieved to finally live life without a chip on his shoulder."
     ],
-    "title": "Rep. Jamie Raskin questioned about Democratic rhetoric toward Trump after White House Correspondents’ Dinner shooting",
+    "title": "Judge tosses murder conviction for man who served 25 years, rebuking a ‘troubling’ prosecution",
+    "topic": "US Crime",
+    "topic_full": "US Crime · New York"
+  },
+  {
+    "article_path": "/article/pentagon-can-require-reporters-to-be-escorted-during-appeal-process-judges-rule",
+    "article_url": "https://ground.news/article/pentagon-can-require-reporters-to-be-escorted-during-appeal-process-judges-rule",
+    "bias": [
+      "Left-Leaning outlets frame the court's ruling through \"require...escorted,\" portraying Pentagon mandates as coercive restrictions on press freedom during the appeal, evoking concerns over institutional overreach.",
+      "Right-Leaning coverage counters by highlighting \"revives...ban\" on unescorted access and a \"back-and-forth battle\" with the press involving Defense Secretary Pete Hegseth, emphasizing military security triumphs in a 2-1 decision.",
+      "Center-Leaning reports adopt neutral phrasing without such partisan tones.",
+      "Pivotal divides emerge in depicting escorts as vulnerability versus necessity.",
+      "All agree the appeals court permits the requirement amid the Trump administration's challenge to a prior block, underscoring tensions between media access and national security protocols."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 21.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, the U.S. Court of Appeals for the District of Columbia Circuit ruled the Defense Department may require journalist escorts on Pentagon grounds while the Trump administration appeals a judge's decision to block the policy.",
+      "District Judge Paul Friedman, a nominee of Democratic President Bill Clinton, previously ruled the Pentagon's credential policy violated journalists' constitutional rights, prompting the administration's appeal.",
+      "Circuit Judges Justin Walker, J. Michelle Childs, and Bradley Garcia heard the case, with Childs dissenting from the 2-1 majority, writing that escorts prevent reporters from verifying sources or speaking candidly.",
+      "Defense Department spokesperson Sean Parnell stated the department welcomes the decision, arguing the policy reduces \"regular unauthorized disclosure of sensitive and classified national defense information."
+    ],
+    "title": "Pentagon can require reporters to be escorted during appeal process, judges rule",
     "topic": "US Politics",
     "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/conspiracy-theories-flooded-social-media-after-whcd-shooting_ebd1e3",
-    "article_url": "https://ground.news/article/conspiracy-theories-flooded-social-media-after-whcd-shooting_ebd1e3",
+    "article_path": "/article/kid-rock-flies-in-army-helicopter-weeks-after-flights-near-his-house-drew-scrutiny",
+    "article_url": "https://ground.news/article/kid-rock-flies-in-army-helicopter-weeks-after-flights-near-his-house-drew-scrutiny",
     "bias": [
-      "Left-Leaning outlets frame the WHCD shooting as emblematic of a \"post-truth era\" fueled by right-wing \"staged\" conspiracies, using confrontational tones like \"confronted\" and \"attack\" to portray Trump-era paranoia, while de-emphasizing shooter details like Cole Tomas Allen's actions.",
-      "Right-Leaning coverage counters by highlighting \"disturbing\" left-wing \"false flag\" theories from figures like Mia Farrow, employing inflammatory labels such as \"psychopaths\" to demonize liberal reactions.",
-      "Pivotal divides emerge over theory origins—left ties them to Trump spokespeople, right to leftist celebrities—with center-leaning pieces neutrally fact-checking \"falsehoods.",
-      "All agree on the real threat, rapid conspiracies, and no staging evidence, underscoring ideological battles over misinformation blame."
+      "Left-Leaning outlets frame the helicopter flights as a scandalous \"joyride\" and \"disgrace\" involving a \"washed-up\" MAGA star, emphasizing \"scrutiny\" over prior flybys and taxpayer waste with mocking tones like \"roast.",
+      "Right-Leaning coverage highlights thrilling \"Apache attack helicopters \" in a patriotic \"Freedom Tour\" for the \"U.S. Birthday,\" celebrating boldness.",
+      "Center-Leaning reports remain chronologically neutral, noting official \"community relations\" context.",
+      "Pivotal divides emerge on the prior investigation—de-emphasized by right—versus patriotic spin.",
+      "Both agree on the basic flights post-scrutiny, underscoring ideological rifts between elitist favoritism and American exceptionalism."
     ],
     "bias_bar_text": null,
     "center_pct": 56.0,
     "error": null,
-    "left_pct": 25.0,
-    "location": "Washington",
-    "right_pct": 19.0,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Defense Secretary Pete Hegseth and musician Kid Rock rode in two separate Army AH-64 Apache helicopters at Fort Belvoir, Virginia, according to flight data and multiple Army sources cited by Drop Site reporter Ryan Grim.",
+      "This outing followed a March 28 incident where two Apaches hovered near Kid Rock's Nashville home, prompting an Army administrative inquiry and crew suspensions that Hegseth swiftly overturned, declaring 'no punishment' and 'no investigation.'",
+      "Pentagon spokesman Sean Parnell stated the flights supported a 'community relations event' for the Freedom 250 initiative honoring America's 250th anniversary, while critics labeled the outing a taxpayer-funded 'joyride' costing about $7,000 per flight hour.",
+      "Democratic Rep. Jason Crow of Colorado posted on social media: 'Why is Pete Hegseth spending your taxpayer dollars to give Kid Rock joy rides on Apache helicopters?' California Governor Gavin Newsom's office asked why taxpayers pay to fly the musician on '$100 million helicopters.'",
+      "Broader concerns about Pentagon accountability have emerged from the episode, potentially triggering congressional oversight reviews regarding authorization of non-operational aircraft use and whether military resources were appropriately deployed for community relations events."
+    ],
+    "title": "Kid Rock Flies in Army Helicopter Weeks After Flights Near His House Drew Scrutiny",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/rape-accuser-jessica-mann-testifies-against-harvey-weinstein-for-a-third-time",
+    "article_url": "https://ground.news/article/rape-accuser-jessica-mann-testifies-against-harvey-weinstein-for-a-third-time",
+    "bias": [
+      "Left-Leaning outlets frame Jessica Mann's testimony as bold confrontation \"against\" Harvey Weinstein in a \"rape retrial,\" emphasizing her persistence for a \"third time\" and prior ordeals like being \"publicly grilled,\" while right-leaning coverage highlights \"emotional\" testimony by a \"rape accuser\" to underscore potential subjectivity.",
+      "Pivotal divides emerge in de-emphasizing prior trial overturns and Weinstein's denial—stressed by left, omitted elsewhere—revealing left's victim-endurance focus versus right's allegation caution.",
+      "Center-Leaning pieces opt for \"sexual assault trial\" neutrality.",
+      "All agree on \"disgraced movie mogul\" status and emotional delivery, reflecting #MeToo accountability clashes with due-process skepticism."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 58.0,
+    "error": null,
+    "left_pct": 34.0,
+    "location": "New York",
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Mann returned to the witness stand for a third time to testify against Harvey Weinstein regarding an alleged 2013 rape in Manhattan, following legal switchbacks that overturned his 2020 conviction.",
+      "Mann, an aspiring actor from Washington who moved to Los Angeles, met the Oscar-winning producer in 2013, initially believing she had made a professional connection despite his uninvited sexual overtures.",
+      "Testimony revealed the 2013 hotel encounter where Mann stated Weinstein slammed the door shut and raped her after she said \"no,\" and she recalled him telling her, \"He said I was really pretty, prettier than Natalie Portman.\"",
+      "Emails sent over roughly four years showed Mann telling Weinstein, \"There is no one else I would enjoy catching up with that understands me quite like you,\" though she described their relationship as involving jumbled feelings.",
+      "Weinstein denies all sexual assault allegations, and his lawyers characterize Mann as a willing participant who turned on him for gain, while she stated, \"I am ready, willing and able to endure this as many times as it takes."
+    ],
+    "title": "Rape accuser Jessica Mann testifies against Harvey Weinstein for a third time",
+    "topic": "US Crime",
+    "topic_full": "US Crime · New York"
+  },
+  {
+    "article_path": "/article/camp-mystic-relied-on-teen-counselors-with-no-emergency-training-before-flood-investigator-says_d07689",
+    "article_url": "https://ground.news/article/camp-mystic-relied-on-teen-counselors-with-no-emergency-training-before-flood-investigator-says_d07689",
+    "bias": [
+      "Left-Leaning outlets frame Camp Mystic's disaster via \"complacency\" and \"lack of training\" for teen counselors, portraying reckless institutional negligence to demand oversight, while right-leaning emphasize \"inexperienced\" youth \"relied on\" without preparation, stressing individual accountability fears during the flood.",
+      "Left's outraged tone uses \"deadly\" for victim vulnerability; right's indicts staffing choices sharply.",
+      "Pivotal divide: \"complacency\" triggers left's systemic blame, de-emphasized elsewhere.",
+      "Both tout 27 deaths as camp-specific indictment.",
+      "Center differs via broader \"catastrophic\" floods exceeding 100 fatalities.",
+      "Agreement on untrained teens underscores ideological splits on isolated failures versus disaster scale."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 66.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "Texas",
+    "right_pct": 5.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Texas lawmakers convened in Austin for the first public joint hearing of House and Senate committees investigating the July 4, 2025, floods that killed 27 people at Camp Mystic.",
+      "Investigator Casey Garrett testified Camp Mystic lacked emergency training, drills, and evacuation plans; state officials cited the camp for deficiencies, allowing 45 days to correct emergency procedures.",
+      "Garrett interviewed roughly 150 witnesses, describing a camp culture rooted in obedience where counselors feared repercussions for taking initiative during the storm, despite the Eastland family's known awareness of flood risks.",
+      "Beyond the camp, Sen. José Menéndez emphasized the need to examine the broader 119 deaths across Kerr County and statewide preparedness systems during the investigation.",
+      "Lawmakers aim to use these findings to shape future legislation when they return to Austin in 2027, as Camp Mystic currently seeks state approval to reopen a portion of its property."
+    ],
+    "title": "Camp Mystic relied on teen counselors with no emergency training before flood, investigator says",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Texas"
+  },
+  {
+    "article_path": "/article/prosecutors-say-suspect-in-missing-students-killings-asked-chatgpt-about-disposing-of-a-body_f8d7f5",
+    "article_url": "https://ground.news/article/prosecutors-say-suspect-in-missing-students-killings-asked-chatgpt-about-disposing-of-a-body_f8d7f5",
+    "bias": [
+      "Left-Leaning outlets frame the suspect's ChatGPT queries as \"alarming questions\" about body disposal, emphasizing AI's societal risks and victim sympathy through emotive tones, while right-leaning coverage portrays them graphically as ways to \"undo the bodies\" by a \"manslayer,\" highlighting criminal depravity and pushing for OpenAI scrutiny.",
+      "Pivotal divides emerge on the suspect's name, charges, and prior battery history—de-emphasized by left, detailed in center via timelines and family pleas—versus right's raw crime urgency.",
+      "Center differs by prioritizing factual developments like new remains.",
+      "All align on prosecutors' evidence of the pre-disappearance query, reflecting divides over tech accountability versus law-and-order priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 73.0,
+    "error": null,
+    "left_pct": 16.0,
+    "location": "Florida",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, authorities arrested Hisham Abugharbieh, 26, for the murders of University of South Florida doctoral students Zamil Limon and Nahida Bristy, both 27, after Limon's remains were recovered in trash bags on the Howard Frankland Bridge.",
+      "Prosecutors allege Abugharbieh asked ChatGPT about putting a person in a garbage bag on April 13, three days before the students vanished, later writing, \"How would they find out,\" after the AI warned the inquiry was dangerous.",
+      "Investigators discovered blood-stained clothing and personal items belonging to Limon and Bristy in a dumpster near their Avalon Heights apartment, with blood traces found in the hallway leading to Abugharbieh's bedroom.",
+      "Human remains were recovered Sunday near Interstate 275, and while unidentified, the Hillsborough County Sheriff's Office presumes Bristy is dead based on the \"volume of blood\" found at the shared apartment.",
+      "Abugharbieh is being held without bond and faces two counts of first-degree murder with a weapon; a court hearing is scheduled for Tuesday."
+    ],
+    "title": "Prosecutors say suspect in missing students’ killings asked ChatGPT about disposing of a body",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Florida"
+  },
+  {
+    "article_path": "/article/rare-two-colored-lobster-caught-by-fishermen-off-cape-cod-donated-to-aquarium",
+    "article_url": "https://ground.news/article/rare-two-colored-lobster-caught-by-fishermen-off-cape-cod-donated-to-aquarium",
+    "bias": [
+      "Left-Leaning coverage frames the lobster as a \"critter\" spared from the kettle due to its \"remarkable coloration,\" employing folksy, protective tones, while right-leaning outlets portray it as a \"divided lobster\" that \"united New Englanders,\" using metaphorical rhetoric to evoke cultural harmony.",
+      "Pivotal dividing lines include the 1-in-50-million rarity odds and genetic fusion explanation, which center-leaning reports quantify and detail for scientific intrigue, de-emphasized elsewhere.",
+      "All share emphasis on the Cape Cod catch, donation to an aquarium, and dual brown-orange hues, reflecting broader divides in prioritizing whimsy, unity, or empirical wonder over shared novelty."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 79.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": "Massachusetts",
+    "right_pct": 3.0,
+    "status": "ok",
+    "summary": [
+      "On April 16, fishermen caught a rare split-color lobster off Cape Cod, which Wellfleet Shellfish Company donated to Woods Hole Science Aquarium instead of selling it.",
+      "This rare 1-in-50-million specimen is a chimera, formed when two fertilized, unlaid eggs fused and one absorbed the other, creating a lobster with two sets of genetic information.",
+      "The lobster currently resides in a holding tank at Marine Biological Laboratory while the aquarium undergoes repairs. Dan Brandt, chief operating officer of Wellfleet, noted the creature 'has been through a lot' to survive.",
+      "When the aquarium reopens next year, the split-color lobster will be 'one of the first animals going back into the aquarium,' aquarium biotechnician Julia Studley said. Staffers have not yet named the crustacean.",
+      "Genetic mutations produce unusual hues like 'cotton candy' and calico in lobsters, but these distinct markings often prevent survival in the wild because they lack camouflage to avoid predators."
+    ],
+    "title": "Rare two-colored lobster caught by fishermen off Cape Cod donated to aquarium",
+    "topic": "Species",
+    "topic_full": "Species · Massachusetts"
+  },
+  {
+    "article_path": "/article/csp-disqualifies-chihuahua-research-by-us-agents",
+    "article_url": "https://ground.news/article/csp-disqualifies-chihuahua-research-by-us-agents",
+    "bias": [
+      "Left-Leaning coverage frames Sheinbaum's stance as defending \"national sovereignty\" against opposition politicization, employing de-escalatory phrases like \"rules out a conflict\" and \"accident\" to highlight constitutional priorities.",
+      "Right-Leaning outlets contrastingly emphasize \" CIA agents killed,\" using loaded terms to evoke U.S. security skepticism and adversarial tones toward Mexico.",
+      "Pivotal divides center on agents' unauthorized operations—de-emphasized by left, noted neutrally in center via \"seeks to avert\"—revealing portrayals of sovereignty versus violation.",
+      "Center differs by restrained attribution without partisan spin.",
+      "Amid agreement on the \"accident\" and de-escalation, contrasts expose autonomy-security ideological rifts."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 53.0,
+    "location": "Mexico",
+    "right_pct": 6.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Mexican President Claudia Sheinbaum ruled out conflict with the United States over a car accident in Chihuahua that killed two CIA agents, whom Mexico claims were operating without authorization.",
+      "Mexico's Ministry of Security revealed Saturday that one agent entered as a visitor while the other used a diplomatic passport, asserting officials were unaware foreign agents were operating within the country.",
+      "Chihuahua Gov. Eugenia Campos, a prominent opposition figure, must testify in Mexico City on Tuesday alongside the State Attorney regarding the intelligence operation conducted in her state.",
+      "Sheinbaum insisted during her morning briefing that authorities clarify the operation's details, urging the United States to respect Mexico's constitution and national security laws moving forward.",
+      "For decades, the presence of the CIA and the Drug Enforcement Administration in Mexico has sparked controversy, with tensions resurfacing after a past incident near Mexico City where two agents were wounded."
+    ],
+    "title": "Mexico’s Sheinbaum Seeks to Avert Conflict over Dead U.S. Agents",
+    "topic": "Claudia Sheinbaum",
+    "topic_full": "Claudia Sheinbaum · Mexico"
+  },
+  {
+    "article_path": "/article/cdc-investigating-multi-state-salmonella-outbreak-linked-to-backyard-poultry",
+    "article_url": "https://ground.news/article/cdc-investigating-multi-state-salmonella-outbreak-linked-to-backyard-poultry",
+    "bias": [
+      "Left-Leaning coverage frames the outbreak with alarmist terms like \"warns\" and \"drug-resistant,\" using emotive phrases such as \"fall ill\" to evoke sympathy and spotlight health risks from backyard poultry, implying calls for oversight on self-sufficiency.",
+      "Right-Leaning outlets emphasize \"investigating\" and de-emphasize resistance, portraying ties neutrally while highlighting specifics like the Salmonella Saintpaul strain.",
+      "Center perspectives add contextual details on poultry types and state cases, balancing without partisan tones.",
+      "Pivotal divides emerge on antibiotic resistance—amplified leftward, downplayed rightward—and 34 cases across 13 states, touted as underreported risks or factual probes.",
+      "All align on CDC 's core findings, underscoring divides between regulatory caution and individual freedoms in food production."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 75.0,
+    "error": null,
+    "left_pct": 19.0,
+    "location": "United States",
+    "right_pct": 6.0,
+    "status": "ok",
+    "summary": [
+      "A Salmonella outbreak linked to backyard poultry has sickened at least 34 people across 13 states, triggering a federal health investigation.",
+      "The CDC has investigated multiple Salmonella outbreaks involving backyard poultry in recent years, including a 2025 event that sickened 559 people and killed two.",
+      "Sick people range in age from 1 to 78, with more than 40% younger than 5. Nearly 80% of sick people reported contact with backyard poultry.",
+      "Illnesses reported from Feb. 26 include 13 hospitalizations. Bacteria from samples showed potential resistance to at least one drug used to treat Salmonella infections.",
+      "The CDC warns that more illnesses could emerge in additional states. Officials recommend washing hands after handling backyard birds and avoiding kissing or snuggling with poultry."
+    ],
+    "title": "CDC warns of drug-resistant salmonella infections linked to backyard poultry",
+    "topic": "CDC",
+    "topic_full": "CDC · United States"
+  },
+  {
+    "article_path": "/article/us-treasury-secretary-doing-business-with-iranian-airlines-could-face-sanctions-bessant-economic-fury",
+    "article_url": "https://ground.news/article/us-treasury-secretary-doing-business-with-iranian-airlines-could-face-sanctions-bessant-economic-fury",
+    "bias": [
+      "Left-Leaning outlets frame U.S. actions through aggressive terms like \"threatened\" and \"punishment,\" linking sanctions to Trump's retaliation against non-cooperators and portraying policy as coercive imperialism.",
+      "Right-Leaning coverage counters with firm rhetoric like \"warns,\" \"supporting,\" and \"severe,\" spotlighting targeted services such as fuel and maintenance amid Iran's resumed flights, emphasizing adversarial deterrence.",
+      "Pivotal divides emerge on diplomatic urging of governments and Trump ties .",
+      "Center-Leaning reports neutrally via \"says\" and \"risk sanctions.",
+      "All align on the Treasury chief's warning as economic pressure during the U.S.-Israel war against Iran, underscoring hawkish versus conciliatory foreign policy divides."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 27.0,
+    "error": null,
+    "left_pct": 9.0,
+    "location": "United States",
+    "right_pct": 64.0,
+    "status": "ok",
+    "summary": [
+      "Treasury Secretary Scott Bessent warned Monday that companies working with Iranian airlines risk U.S. sanctions , calling the measure part of Washington's campaign to increase economic pressure on Tehran amid the conflict involving Israel and Iran.",
+      "The Treasury Department stated Washington is imposing a \"financial stranglehold\" on the Iranian government, intensifying restrictions on carrier support following the military escalation between the U.S., Israel, and Iran.",
+      "Bessent urged foreign governments to bar services to sanctioned aircraft, including \"jet fuel, catering, landing fees or maintenance,\" to prevent businesses from facing asset freezes or operational disruption.",
+      "Despite the pressure, Iranian state media reported that Tehran resumed commercial flights from its international airport, with scheduled departures to Istanbul, Muscat, Medina, Iraq, and Qatar.",
+      "A fragile ceasefire began three weeks ago, yet the conflict has killed thousands and displaced millions across several countries, including Lebanon, reflecting the wider humanitarian toll."
+    ],
+    "title": "US Treasury chief says businesses working with Iranian airlines risk sanctions",
+    "topic": "US Foreign Policy",
+    "topic_full": "US Foreign Policy · United States"
+  },
+  {
+    "article_path": "/article/supreme-court-turns-away-another-parental-rights-dispute-on-gender-identity-policies-in-schools",
+    "article_url": "https://ground.news/article/supreme-court-turns-away-another-parental-rights-dispute-on-gender-identity-policies-in-schools",
+    "bias": [
+      "Left-Leaning coverage frames the Supreme Court's rejection of a challenge to school gender-identity policies as upholding student privacy efforts, while right-leaning outlets portray it as evasively skipping a \"parental rights fight\" over \"gender secrecy\" and \"socially transitioning child\" without consent, evoking parental betrayal.",
+      "Left employs supportive tones like \"support and protect the privacy,\" contrasting right's accusatory \"gender secrecy\"; pivotal divides emerge on parental notification versus trans youth autonomy, with center-leaning reports neutrally noting \"turns away parental rights dispute.",
+      "All agree the Court declined the Florida appeal on nondisclosure, underscoring cultural clashes over family sovereignty and child gender issues."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 17.0,
+    "location": "Florida",
+    "right_pct": 42.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, the Supreme Court denied without comment a request to hear oral arguments in Littlejohn v. School Board of Leon County, an appeal challenging a Florida policy that allowed a student to socially transition without parental consent.",
+      "The dispute originated in 2020 when officials at Deerlake Middle School in Tallahassee allegedly created a 'covert gender affirmation plan' for the Littlejohns' 13-year-old child without notifying the parents or obtaining their consent.",
+      "A three-judge panel of the 11th Circuit ruled 2-1 against the parents, concluding the school's actions did not 'shock the conscience,' while the Leon County School Board revised its procedures in June 2022 to require parental notification.",
+      "By denying certiorari, the Supreme Court leaves the 11th Circuit's dismissal in place, avoiding a ruling on whether schools violate parental rights when affirming a student's gender transition without parental knowledge.",
+      "The justices also turned away a similar Massachusetts case last week, as disputes over student privacy and parental rights continue across the United States in schools nationwide."
+    ],
+    "title": "US Supreme Court rejects Florida school gender-identity policy challenge",
+    "topic": "Florida Politics",
+    "topic_full": "Florida Politics · Florida"
+  },
+  {
+    "article_path": "/article/dances-with-wolves-actor-nathan-chasing-horse-sentenced-to-life-in-prison-for-sexual-assault",
+    "article_url": "https://ground.news/article/dances-with-wolves-actor-nathan-chasing-horse-sentenced-to-life-in-prison-for-sexual-assault",
+    "bias": [
+      "Left-Leaning coverage emphasizes \"sexual assault\" of \"Indigenous women and girls,\" pairing actor fame from \"Dances With Wolves\" with victim cultural identity in negative-toned portrayals, while right-leaning outlets highlight procedural \"delays\" and severe \"37 years to life\" punishment, de-emphasizing demographics and fame.",
+      "Center coverage adds \"13 counts\" and prosecutors' claim that the actor \"used reputation\" in crimes, bridging details.",
+      "These divides pit victim identity focus against justice finality, yet all converge on the Las Vegas court's life sentence, underscoring shared punitive closure amid ideological priorities on equity versus efficiency."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 65.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "Nevada",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, a Nevada judge sentenced the Dances With Wolves actor Nathan Chasing Horse to life in prison for sexually assaulting Indigenous women and girls, concluding a yearslong prosecution following his 2023 indictment.",
+      "Deputy District Attorney Bianca Pucci told jurors that for almost 20 years, Chasing Horse used his reputation as a Lakota medicine man to prey on victims, allegedly spinning \"a web of abuse\" that ensnared many women.",
+      "Corena Leone-LaCroix was 14 in 2012 when the assaults began; victims and their families testified they struggle with their faith after Chasing Horse betrayed their trust and abused sacred traditions.",
+      "\"This is a miscarriage of justice ,\" Chasing Horse told the judge on Monday, while Dr. Crystal Lee of United Natives said the sentencing shows the importance of holding high-profile perpetrators accountable.",
+      "A warrant against Chasing Horse remains outstanding in Alberta, and the British Columbia Prosecution Service stated it will assess next steps regarding pending sexual assault allegations once his appeals are exhausted."
+    ],
+    "title": "‘Dances With Wolves’ actor Nathan Chasing Horse sentenced to life in prison for sexual assault",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Nevada"
+  },
+  {
+    "article_path": "/article/trump-assassination-attempt-sparks-new-wave-of-unfounded-conspiracy-theories_f2b3da",
+    "article_url": "https://ground.news/article/trump-assassination-attempt-sparks-new-wave-of-unfounded-conspiracy-theories_f2b3da",
+    "bias": [
+      "Left-Leaning outlets frame the White House Correspondents’ Dinner shooting as emblematic of a \"post-truth\" era tied to Trump's \"so weird\" behavior and right-wing paranoia, while right-leaning ones portray left-wing \"false flag\" claims by figures like Mia Farrow as \"disturbing\" and the Left as \"psychopaths,\" spotlighting their hypocrisy.",
+      "Pivotal divides emerge over suspect misinformation like the \"fake wife\" and Trump's \"mentally ill\" retort to conspiracists, de-emphasized by the left.",
+      "Center coverage stresses \"unfounded\" and \"false\" theories with fact-checking restraint.",
+      "All agree on the real threat, no deaths, and rapid conspiracies exceeding 300,000 \"staged\" posts, underscoring ideological battles over misinformation blame."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "United States",
+    "right_pct": 22.0,
     "status": "ok",
     "summary": [
       "On Saturday, April 25, 2026, a gunman opened fire at the Washington Hilton during the White House Correspondents' Association dinner, prompting Secret Service agents to evacuate President Donald Trump and lock down the venue.",
@@ -435,236 +717,106 @@
       "In the immediate aftermath, social media users spread unverified claims the shooting was \"staged,\" while influencer Debra Lea faced backlash for disputed security claims and posting a selfie shortly after the incident.",
       "The incident prompted discussions about rescheduling the dinner and raised security questions at high-profile events, occurring nearly two years after Trump survived two separate assassination attempts."
     ],
-    "title": "Conspiracy Theories Flooded Social Media After WHCD Shooting",
+    "title": "Trump assassination attempt sparks new wave of unfounded conspiracy theories",
     "topic": "Social Media",
-    "topic_full": "Social Media · Washington"
+    "topic_full": "Social Media · United States"
   },
   {
-    "article_path": "/article/despite-criticism-michael-biopic-cleans-up-at-the-box-office-worldwide",
-    "article_url": "https://ground.news/article/despite-criticism-michael-biopic-cleans-up-at-the-box-office-worldwide",
+    "article_path": "/article/trump-to-pay-more-companies-to-abandon-offshore-wind-and-invest-in-fossil-fuels",
+    "article_url": "https://ground.news/article/trump-to-pay-more-companies-to-abandon-offshore-wind-and-invest-in-fossil-fuels",
     "bias": [
-      "Left-Leaning outlets amplify the biopic's triumph with hype like \"juggernaut,\" \"over-the-moon,\" and global $217 million totals—contrasting Straight Outta Compton's $60.2 million—while framing resilience via \"shrugged off\" for troubled production and reviews; right-leaning coverage de-emphasizes such elaboration, focusing minimally on core $97 million record.",
-      "Both employ playful \"moonwalks\" and \"shattering,\" though center-leaning uses these most frequently alongside director and star details.",
-      "Pivotal divides emerge on worldwide scale and comparisons, revealing commercial enthusiasm priorities.",
-      "All converge on estate-backed spectacle shrugging off critics for record biopic debut."
+      "Left-Leaning outlets frame the Trump administration's $885-900 million payouts as paying firms to \"walk away\" from offshore wind leases, employing negative terms like \"kill off\" and \"make wind power go away\" to evoke environmental sabotage, while right-leaning coverage portrays it as proactively \"ends\" projects in exchange for domestic oil, gas, and LNG investments, touting economic redirection.",
+      "Pivotal divides emerge over fossil fuel pledges—emphasized by the right, de-emphasized by the left—and the deals' \"highly unusual\" nature.",
+      "Center-Leaning reports adopt neutral phrasing like \"agrees to deal,\" balancing tones.",
+      "All agree on terminating two leases, underscoring ideological clashes between renewables and traditional energy."
     ],
     "bias_bar_text": null,
+    "center_pct": 66.0,
+    "error": null,
+    "left_pct": 26.0,
+    "location": "United States",
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, the Interior Department announced the cancellation of offshore wind leases for Bluepoint Wind and Golden State Wind, providing nearly $900 million in reimbursements to both companies.",
+      "Interior Secretary Doug Burgum claimed companies were previously sold unviable products reliant on taxpayer subsidies when bidding for leases in 2022 under former President Joe Biden. Now the administration is following a model established by its March deal with TotalEnergies, which received a $1 billion payout to exit offshore projects.",
+      "Bluepoint Wind will recover $765 million contingent on investing in a U.S. LNG facility, while Golden State Wind recovers approximately $120 million by investing in Gulf Coast oil and gas assets. Michael Brown, CEO of Ocean Winds North America, said the deal provided \"clarity.\"",
+      "These cancellations eliminate projects capable of powering more than 1 million homes each, undermining clean energy goals in New Jersey, New York, and California. Democrats and environmental groups have questioned the legality and economic impact of the payouts.",
+      "Federal courts previously vacated Trump's executive order blocking wind projects in December, siding with 17 states that challenged the administration's national security claims. The administration continues to prioritize fossil fuels, citing reliability and cost benefits for American families."
+    ],
+    "title": "Trump to pay more companies to abandon offshore wind and invest in fossil fuels",
+    "topic": "Environment & Climate",
+    "topic_full": "Environment & Climate · United States"
+  },
+  {
+    "article_path": "/article/jeffries-stands-by-maximum-warfare-language-i-dont-give-a-damn-about-your-criticism_bce211",
+    "article_url": "https://ground.news/article/jeffries-stands-by-maximum-warfare-language-i-dont-give-a-damn-about-your-criticism_bce211",
+    "bias": [
+      "Left-Leaning coverage frames Democratic leader Hakeem Jeffries \"hitting back\" at Republican accusations of \"violent rhetoric,\" deflecting to Trump pardons of \"violent rioters\" and urging foes to \"clean up your own house,\" while right-leaning outlets portray him \"doubling down\" on \"maximum warfare\" against Republicans \"days before\" a Trump \"assassination attempt,\" implying incitement.",
+      "Left employs defensive, moralizing tones to highlight hypocrisy; right uses accusatory, temporal links for aggression.",
+      "Pivotal divides emerge over January 6 pardons versus the shooting as leftist plot .",
+      "Center neutrally quotes \"I don’t give a damn\" without blame.",
+      "All agree on Jeffries' redistricting \"maximum warfare\" vow and defiance, underscoring ideological rifts on rhetoric's dangers versus civility lapses."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 13.0,
+    "error": null,
+    "left_pct": 7.0,
+    "location": "United States",
+    "right_pct": 80.0,
+    "status": "ok",
+    "summary": [
+      "House Minority Leader Hakeem Jeffries declared an 'era of maximum warfare, everywhere, all the time' at an April 22 press conference, vowing Democrats would pressure Republicans nationwide after Virginia voters approved a new congressional map on April 21.",
+      "The phrase originated from an anonymous Trump adviser who told The New York Times in August 2025 that the president's redistricting strategy should be described as 'maximum warfare, everywhere, all the time,' which Jeffries borrowed verbatim.",
+      "Three days after Jeffries' press conference, Cole Allen, 31, allegedly stormed a Secret Service checkpoint at the White House Correspondents Dinner on April 26, armed with a shotgun, handgun, and knives, carrying a manifesto with anti-Trump messages.",
+      "On Monday at a Capitol Hill press conference, Jeffries refused Republican demands to apologize, telling reporters 'I stand by it' despite pressure from Rep. Randy Fine and the RNC, while maintaining he condemns political violence unconditionally.",
+      "Fact-Checkers including PolitiFact documented that Republicans extracted Jeffries' redistricting comments from context, though the phrase originated from Trump's own strategy; Democrats countered by citing Trump's pardon of January 6, 2021 rioters as redistricting battles proceed in Virginia and Florida."
+    ],
+    "title": "Jeffries stands by ‘maximum warfare’ language: ‘I don’t give a damn about your criticism’",
+    "topic": "Hakeem Jeffries",
+    "topic_full": "Hakeem Jeffries · United States"
+  },
+  {
+    "article_path": "/article/roy-leads-congressional-delegation-calling-to-halt-federal-funding-for-cair_894a76",
+    "article_url": "https://ground.news/article/roy-leads-congressional-delegation-calling-to-halt-federal-funding-for-cair_894a76",
+    "bias": [
+      "Left-Leaning outlets neutrally frame Rep. Roy's effort as \"calling to halt federal funding for CAIR,\" while right-leaning sources amplify urgency with phrases like \"defund CAIR NOW,\" \" Hamas -linked terror front,\" and \"must cease\" tax dollars, portraying it as decisive national security action.",
+      "Right employs alarmist, accusatory tones praising Roy's \"powerful letter,\" contrasting left's dispassionate emphasis.",
+      "Pivotal divides center on CAIR's terror-linked depiction and debarment calls to RFK Jr., de-emphasized by left.",
+      "Center mirrors left's straightforwardness.",
+      "All concur on Roy leading the delegation, revealing ideological rifts over Islamist funding and taxpayer safeguards."
+    ],
+    "bias_bar_text": "L 14% Center 48% Right 38%",
     "center_pct": 48.0,
     "error": null,
-    "left_pct": 40.0,
-    "location": "United States",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, the Michael Jackson biopic 'Michael' launched with $97 million domestically and $217 million globally in its opening weekend, shattering records for music biopics.",
-      "Following a rocky production, Lionsgate spent up to $50 million on reshoots after discovering a legal settlement barred depicting 1993 child molestation accusations. Director Antoine Fuqua reworked the story to conclude in 1988.",
-      "Critics awarded the film only 38% positive on Rotten Tomatoes, yet audiences strongly disagreed, giving it an A- CinemaScore and 97% positive rating on Saturday.",
-      "The studio's advertising campaign tapped into nostalgia for Jackson's talent, while ticket sales for the Broadway stage musical 'MJ' have also increased. Projections suggest the $200 million production could exceed $700 million worldwide.",
-      "This success marks a significant turnaround for Lionsgate after 2024 flops including 'Borderlands' and 'White Bird,' with the studio expected to greenlight a sequel."
-    ],
-    "title": "‘Michael’ Moonwalks to $97 Million Opening, Shattering Record for Music Biopics",
-    "topic": "Michael Jackson",
-    "topic_full": "Michael Jackson · United States"
-  },
-  {
-    "article_path": "/article/school-buses-should-all-have-alcohol-tests-to-avoid-drunken-driving-ntsb-recommends",
-    "article_url": "https://ground.news/article/school-buses-should-all-have-alcohol-tests-to-avoid-drunken-driving-ntsb-recommends",
-    "bias": [
-      "Coverage splits sharply: left emphasizes victim-centered urgency and prescriptive language—using words like \"should,\" \"all,\" and \"drunken driving\" and foregrounding the child's amputation—framing alcohol-detection as a necessary safety fix; right stresses system-level alarm, highlighting phrases such as \"not an isolated problem\" and \"troubling,\" offering shorter, less graphic accounts and treating the NTSB finding as grounds for broad action; center uses pragmatic verbs like \"urges,\" and frames impacts with \"face\" and \"possible,\" noting this is a first-time recommendation.",
-      "A key dividing line is victim-focused horror versus systemic prevalence; all sides nonetheless accept the NTSB recommendation and the West Virginia crash as the catalyst."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 65.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": "United States",
-    "right_pct": 3.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, the National Transportation Safety Board recommended that all new school buses be equipped with alcohol detection systems capable of disabling the vehicle if the driver appears impaired.",
-      "A 2020 Stateline report identified at least 118 school bus drivers ticketed or arrested for driving under the influence over five years, confirming impairment is not an isolated problem.",
-      "Peter Kurdock, general counsel for Advocates for Highway and Auto Safety, said the number of cases alarmed him. \"Children going to and from the schoolhouse are America's most precious passengers,\" Kurdock said.",
-      "Kurdock predicted industry pushback from owners of the nation's half-million school buses. Federal regulators or states could require the technology, but Congress would need to pass legislation for widespread adoption.",
-      "Similar systems are already used on school buses in parts of Europe. This recommendation follows a previous NTSB push for alcohol detection in all new passenger vehicles, though that rule remains stuck in the rulemaking process."
-    ],
-    "title": "NTSB Recommends Alcohol Detectors for New School Buses to Combat Impaired Driving",
-    "topic": "Education",
-    "topic_full": "Education · United States"
-  },
-  {
-    "article_path": "/article/trump-have-good-conversations-with-putin-and-selensky",
-    "article_url": "https://ground.news/article/trump-have-good-conversations-with-putin-and-selensky",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 30.0,
-    "error": "Message: \n",
-    "left_pct": 41.0,
-    "location": "Ukraine",
-    "right_pct": 29.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Trump says he speaks with Putin and Zelenskyy: Fox News",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · Ukraine"
-  },
-  {
-    "article_path": "/article/trump-tells-fox-news-iran-can-call-us-if-it-wants-to-negotiate_7db283",
-    "article_url": "https://ground.news/article/trump-tells-fox-news-iran-can-call-us-if-it-wants-to-negotiate_7db283",
-    "bias": [
-      "Left-Leaning outlets frame Trump's offer as conciliatory \"peace talks\" and casual \"reach out,\" juxtaposing it with blunt \"killed more than 2,500 people\" in Lebanon and \"war launched by the US and Israel,\" evoking anti-war sympathy, while right-leaning ones portray it as authoritative dominance via \"call US if it wants,\" stressing \"can never have a nuclear weapon\" and Iran's diplomatic scrambling to Russia.",
-      "Left employs sarcastic quotes around \"can call\" for skepticism; right uses assertive tones implying U.S. superiority.",
-      "Pivotal divides include war origins and nuclear bans .",
-      "Center neutrally highlights \"phone diplomacy.",
-      "All concur on Trump's quote and Pakistan mediation, revealing ideological rifts over negotiation versus strength in U.S.-Iran tensions."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 61.0,
-    "error": null,
-    "left_pct": 22.0,
-    "location": "United States",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, President Donald Trump said Iran \"can come to us, or they can call us\" after cancelling planned negotiations in Islamabad on Saturday, citing excessive travel costs and an inadequate Iranian offer.",
-      "Talks appeared to collapse Saturday as Tehran's top diplomat left Pakistan, following a previous round in Islamabad where Vice President JD Vance and Iranian parliamentary speaker Mohammad Baqer Qalibaf ended discussions without agreement.",
-      "Iranian President Masoud Pezeshkian told Pakistani Prime Minister Shehbaz Sharif that Tehran would not enter \"imposed negotiations\" under threats or blockade, while Trump deemed Iran's offer \"not enough\" to justify the 17-hour flight.",
-      "Two US Air Force C-17s carrying security staff and equipment departed Pakistan on Sunday according to Pakistani government sources, while Iranian Foreign Minister Abbas Araqchi traveled to Oman to discuss regional security frameworks.",
-      "Trump reiterated that negotiators know \"they cannot have a nuclear weapon, otherwise there's no reason to meet,\" while Iran has effectively shut the Strait of Hormuz, disrupting global oil shipments and straining US-NATO relations."
-    ],
-    "title": "Trump tells Fox News Iran can call US if it wants to negotiate",
-    "topic": "Iran War",
-    "topic_full": "Iran War · United States"
-  },
-  {
-    "article_path": "/article/tamut-track-member-dies-at-new-orleans-competition",
-    "article_url": "https://ground.news/article/tamut-track-member-dies-at-new-orleans-competition",
-    "bias": [
-      "Left-Leaning outlets emphasize \"collapsed\" and \"medical emergency\" more than right-leaning ones , amplifying the incident's sequence, while right de-emphasizes these neutral terms.",
-      "Center coverage uniquely incorporates \"junior computer science major\" and \"he,\" adding personal background de-emphasized elsewhere.",
-      "Pivotal divides appear in omitted humanizing details like academic status, revealing nuanced priorities.",
-      "All perspectives converge on core elements—Graycen Vargo's death after collapse at the Red River Athletic Conference event in New Orleans , per university announcement—underscoring subtle emphases amid factual alignment."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 64.0,
-    "error": null,
-    "left_pct": 28.0,
-    "location": "New Orleans",
-    "right_pct": 8.0,
-    "status": "ok",
-    "summary": [
-      "University-Texarkana student Graycen Vargo died Friday after collapsing during a track competition at Xavier University in New Orleans . The junior suffered a medical emergency, received immediate onsite care, and was transported to a local hospital where he died.",
-      "Vargo transferred to the university this year from Jacksonville College in Jacksonville, Texas, and was a junior computer science major. He recently received the Eagle Excellence Award for his performance in Cross Country.",
-      "Athletics Director Ryan Wall conveyed the department's \"heartfelt sorrow\" to the Vargo family. The university confirmed student counseling services staff will remain available to assist students in need during this time."
-    ],
-    "title": "Texas A&M-Texarkana runner dies after collapsing during competition in New Orleans",
-    "topic": "Sports",
-    "topic_full": "Sports · New Orleans"
-  },
-  {
-    "article_path": "/article/investigation-underway-after-2-children-found-dead-inside-home-in-wellesley-boston-news-weather-sports",
-    "article_url": "https://ground.news/article/investigation-underway-after-2-children-found-dead-inside-home-in-wellesley-boston-news-weather-sports",
-    "bias": [
-      "Right-Leaning coverage prioritizes criminal accountability, framing the tragedy through the mother being \"arrested,\" while left-leaning outlets de-emphasize suspects to focus on the \"wellbeing check\" and the discovery itself.",
-      "Center-Leaning reports maintain a procedural tone, using neutral terms like \"unresponsive\" and \"wellness check,\" though some introduce speculation regarding \"Vermont ties.",
-      "The pivotal dividing line is the mention of the arrest, providing a person of interest that other perspectives de-emphasize.",
-      "Despite these differences, all sides agree on the core tragedy and the cross-state coordination between Massachusetts and Vermont authorities during the investigation."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 63.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "Wellesley",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "On Friday night, Wellesley Police discovered two children dead inside a home on Edgemoor Avenue after responding to a well-being check request from a Vermont police department around 9:30 p.m.",
-      "Wellesley mother Janette MacAusland, 49, is scheduled for arraignment in Vermont Superior Court on Monday, facing a charge of fugitive from justice after being arrested and lodged at a Rutland facility.",
-      "The Norfolk District Attorney's Office and Massachusetts State Police are investigating while officials maintain there is no risk to the community; neighbors reported not seeing the children since Monday.",
-      "Neighbor David Kessler said police are seeking information about the children's father, stating, \"They're wondering where the father is.\" District Attorney Michael Morrisey said more information is expected soon.",
-      "Wellesley, a suburb 15 miles west of Boston, is considered one of America's safest cities with 30,000 residents; Marjorie Freiman, chair of the town's select board, expressed sympathy to the family."
-    ],
-    "title": "Massachusetts Police Investigate After 2 Children Found Dead in Wellesley Home",
-    "topic": "US Crime",
-    "topic_full": "US Crime · Wellesley"
-  },
-  {
-    "article_path": "/article/4-vying-to-be-the-next-un-chief-try-to-set-themselves-apart-as-race-heats-up",
-    "article_url": "https://ground.news/article/4-vying-to-be-the-next-un-chief-try-to-set-themselves-apart-as-race-heats-up",
-    "bias": [
-      "Left-Leaning outlets highlight intensifying competition via frequent \"race heats up\" phrasing and underscore \"escalating poverty\" urgency, with center-leaning coverage mirroring these high frequencies, while right-leaning sources de-emphasize both through lower usage.",
-      "Shared neutral \"grilled\" depicts intense questioning across all.",
-      "Pivotal divides center on poverty's negative framing and race intensity, evoking left/center focus on global crises versus right restraint.",
-      "Agreements unite on four candidates, peace/poverty queries, \"toughest job interviews,\" and no victor, revealing subtle ideological tensions in multilateral leadership portrayals."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 34.0,
-    "error": null,
-    "left_pct": 58.0,
-    "location": "New York",
-    "right_pct": 8.0,
-    "status": "ok",
-    "summary": [
-      "Four candidates vying to lead the United Nations fielded questions from ambassadors this past week, seeking to distinguish themselves in a high-stakes selection process. Michelle Bachelet, Rafael Grossi, Rebeca Grynspan, and Macky Sall participated in the auditions.",
-      "The 15-nation Security Council will determine the next leader, with the 193-member General Assembly providing final approval. By tradition, the role rotates by region, and this year it is Latin America's turn.",
-      "Candidates faced varied scrutiny, with Bachelet responding to 28 Republican U.S. lawmakers who called her a \"pro-abortion zealot.\" Sall, the only non-Latin American contender, faced demonstrations outside United Nations headquarters regarding corruption allegations he denies.",
-      "Contenders outlined their visions, with Grossi warning of \"huge doubts\" about the institution's effectiveness in solving global problems. Grynspan advocated for a \"moral voice,\" while Sall pledged to be a \"bridge-builder\" to restore trust.",
-      "All four candidates pledged to reform the more than 80-year-old institution as the race intensifies. Minh-Thu Pham, CEO of the Starling Institute, noted a widespread desire for a leader willing to take risks."
-    ],
-    "title": "4 vying to be the next UN chief try to set themselves apart as race heats up",
-    "topic": "United Nations",
-    "topic_full": "United Nations · New York"
-  },
-  {
-    "article_path": "/article/iran-gives-us-proposal-for-reopening-strait-of-hormuz-ending-war",
-    "article_url": "https://ground.news/article/iran-gives-us-proposal-for-reopening-strait-of-hormuz-ending-war",
-    "bias": [
-      "Left-Leaning outlets frame Iran as a proactive \"diplomatic initiator,\" using language like \"fresh proposal\" and \"peace-making\" to highlight a path toward \"ending the war .",
-      "Conversely, right-leaning coverage emphasizes \"skepticism\" toward a \"two-stage plan,\" portraying the offer as a tactic to bypass nuclear requirements.",
-      "While center-leaning reports focus on strategic \"leverage\" and internal Iranian \"divisions,\" the left uniquely attributes the conflict to \"joint U.S.-Israeli attacks.",
-      "Despite these ideological divides, all sides agree a proposal exists to reopen the Strait of Hormuz, reflecting a shared focus on maritime stability amidst deep-seated geopolitical distrust."
-    ],
-    "bias_bar_text": "Left 42% C 14% Right 44%",
-    "center_pct": 14.0,
-    "error": null,
-    "left_pct": 42.0,
+    "left_pct": 14.0,
     "location": null,
-    "right_pct": 44.0,
+    "right_pct": 38.0,
     "status": "ok",
     "summary": [
-      "On Sunday, Iran conveyed a proposal to the United States through Pakistani mediators to reopen the Strait of Hormuz and end the war, with nuclear negotiations postponed to a later stage, Axios reported.",
-      "Iranian Foreign Minister Abbas Araghchi visited Oman for bilateral talks after meeting Pakistani officials in Islamabad, signaling Tehran's diplomatic push to engage regional allies during negotiations with Washington.",
-      "Tehran's proposal requires the United States to lift the blockade on Iranian assets crossing the Strait, which the government identified as a critical red line alongside nuclear matters.",
-      "President Donald Trump signaled on Sunday he plans to keep the blockade active until a complete deal is struck, telling Fox News, \"I think they are under pressure.\"",
-      "The United States president further added that he believes the Iran war will come to an end \"very soon,\" expressing confidence that Washington will emerge as the victor in the conflict."
+      "On Monday, Texas Congressman Chip Roy led a delegation urging Health and Human Services Secretary Robert F. Kennedy Jr. to suspend funding for the Council on American-Islamic Relations and initiate debarment proceedings.",
+      "Roy argues CAIR's documented ties to Hamas, a Foreign Terrorist Organization, alongside alleged financial mismanagement, render the group unfit for federal grants exceeding $15 million since 2022.",
+      "Public records indicate CAIR-CA received more than $7.2 million for an Afghan legal aid project, yet allegedly redirected $3.6 million to itself while failing to report millions in government grants on recent IRS filings.",
+      "Beyond the letter, Roy recently introduced legislation to designate CAIR as a Specially Designated Global Terrorist Organization, which would revoke its tax-exempt status and block federal interactions.",
+      "Florida Governor Ron DeSantis and Texas Governor Greg Abbott have already designated CAIR and the Muslim Brotherhood as foreign terrorist organizations, cutting off state-level public funding, contracts, and support."
     ],
-    "title": "Iran Offers U.S. Deal to Reopen Strait",
+    "title": "Roy leads congressional delegation calling to halt federal funding for CAIR",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/john-fetterman-torches-his-own-party-over-its-surging-antisemitism-problem",
-    "article_url": "https://ground.news/article/john-fetterman-torches-his-own-party-over-its-surging-antisemitism-problem",
-    "bias": [
-      "Right-Leaning outlets frame Senator Fetterman’s remarks as a heroic stand, using phrases like \"last man standing\" to portray him as a lone defender against a party \"abandoning\" Israel .",
-      "They employ charged language like \"Hamas cheerleader\" and \"Nazi-linked\" imagery to highlight internal rot, specifically naming individuals to anchor their critique.",
-      "Center-Leaning coverage similarly utilizes sensational language like \"torches\" and \"surging\" to describe the \"ugly truth\" but de-emphasizes specific names.",
-      "Left-Leaning coverage is de-emphasized.",
-      "Both perspectives converge on Fetterman’s blunt admission that a \"problem\" exists, reflecting a broader ideological divide over the party’s moral direction and foreign policy."
-    ],
+    "article_path": "/article/netanyahu-criminal-trial-hearing-abruptly-canceled-after-six-weeks-of-delays_cae947",
+    "article_url": "https://ground.news/article/netanyahu-criminal-trial-hearing-abruptly-canceled-after-six-weeks-of-delays_cae947",
+    "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
-    "error": null,
+    "error": "Message: \n",
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Saturday, Senator John Fetterman told CNN the Democratic Party \"definitely\" has a problem with antisemitism, describing support for Israel as becoming \"toxic\" within his party.",
-      "Fetterman pointed to Maine Democratic senatorial candidate Graham Platner, who leads primary polls despite controversy over a Nazi-linked tattoo and recently surfaced Reddit comments praising a 2014 Hamas raid.",
-      "The senator also criticized Democratic support for influencer Hasan Piker, who claimed \"America deserved 9/11\" and Hamas is \"1,000 percent better\" than Israel, while noting 80% of Democrats view Israel negatively.",
-      "During a Fox News appearance, Fetterman defended Israel's military actions against Hamas, Hezbollah, and Iran, admitting his pro-Israel stance is \"politically toxic\" within his party but remains committed."
-    ],
-    "title": "Fetterman raises concerns about antisemitism within the Democratic Party",
+    "status": "fail",
+    "summary": null,
+    "title": "Netanyahu criminal trial hearing abruptly canceled after six weeks of delays",
     "topic": null,
     "topic_full": null
   },
@@ -696,218 +848,47 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/republicans-hold-out-hope-for-va-supreme-court-to-intercede-after-referendum-loss_e338e0",
-    "article_url": "https://ground.news/article/republicans-hold-out-hope-for-va-supreme-court-to-intercede-after-referendum-loss_e338e0",
+    "article_path": "/article/us-examining-latest-iran-proposal-to-unblock-strait",
+    "article_url": "https://ground.news/article/us-examining-latest-iran-proposal-to-unblock-strait",
     "bias": [
-      "Left-Leaning outlets frame the saga as a \"defeat\" for the GOP and \"key win\" for Democrats, celebrating lower court rejections of Republican bids while touting potential four additional House seats from the narrowly approved 51%-49% map.",
-      "Right-Leaning coverage counters with sympathetic portrayals of Republicans \"regrouping\" for a \"last-chance fight\" and \"holding out hope\" for Supreme Court \"intercession,\" emphasizing circuit court halts to certification over Democratic gains.",
-      "Pivotal divides emerge on procedural violations by the Democratic-led assembly and map's \"favoring Democrats\" legitimacy, with left legitimizing voter will and right questioning it.",
-      "Center-Leaning reports stay procedural, tracking lawsuits neutrally.",
-      "Amid partisan clashes, all note the Supreme Court hearing and narrow referendum, underscoring divides on electoral integrity versus democratic endorsement."
+      "Left-Leaning coverage frames the proposal through the lens of economic fallout, using language like \"shockwaves\" to describe previous military impacts.",
+      "Conversely, right-leaning outlets emphasize skepticism, questioning Iran’s \"sincerity\" and using \"discussing\" to signal a cautious, non-committal stance.",
+      "While the right notes the offer is \"better than expected,\" it prioritizes internal administration wariness.",
+      "Center-Leaning reports highlight the direct invitation for Iran to \"call us,\" focusing on the potential for personal diplomacy.",
+      "Despite these ideological divides, all sides agree the White House is \"examining\" the proposal following significant regional tensions and global economic disruption."
     ],
-    "bias_bar_text": "Left 38% Center 41% R 21%",
-    "center_pct": 41.0,
+    "bias_bar_text": "L 14% Center 36% Right 50%",
+    "center_pct": 36.0,
     "error": null,
-    "left_pct": 38.0,
+    "left_pct": 14.0,
     "location": null,
-    "right_pct": 21.0,
+    "right_pct": 50.0,
     "status": "ok",
     "summary": [
-      "The Virginia Supreme Court convenes Monday to hear oral arguments in Republican challenges to the redistricting referendum voters narrowly approved last week, which could determine whether a new congressional map takes effect.",
-      "Republican National Committee lawsuits allege the Democrat-controlled General Assembly exceeded its authority by failing to provide the required 90-day notice period before placing the constitutional amendment on the ballot.",
-      "Last Wednesday, Tazewell Circuit Judge Jack Hurley Jr. declared the ballot language unconstitutional and blocked certification, but the Supreme Court stayed his injunction, allowing the April 21 referendum to proceed pending review.",
-      "Attorney General Jay Jones is defending the referendum, arguing a pause preserves both sides' arguments while the court determines whether the new congressional map stands and potentially shifts U.S. House seats.",
-      "Virginia Democrats celebrate the narrow 51%-49% victory as the will of voters, yet a definitive court decision is critical before the May 26 candidate filing deadline for November midterm elections."
+      "The White House said on Monday it was examining Iran's latest proposal to unblock the Strait of Hormuz, two months after a US and Israeli offensive sent shockwaves through the global economy. White House Press Secretary Karoline Leavitt confirmed the proposal was \"being discussed.\"",
+      "Peace talks between the United States and Iran have proven inconclusive since a ceasefire came into force. Iran's Revolutionary Guards maintain their chokehold on the strategic waterway while Tehran demands security guarantees that Washington and Israel will not attack again.",
+      "Asked about the terms, Secretary of State Marco Rubio told Fox News \"it's better than what we thought they were going to submit,\" but questioned whether it was genuine. Iranian Foreign Minister Abbas Araghchi blamed Washington for previous negotiation failures.",
+      "President Donald Trump faces domestic pressure to find an off-ramp as fuel prices rise, with midterm elections due in November and polls showing the war unpopular among Americans. Trump told Fox News if Iran wanted talks, \"they can call us.\"",
+      "In Saint Petersburg, President Vladimir Putin and Iranian Foreign Minister Abbas Araghchi reaffirmed their strategic relationship, with Araghchi stating the war showed Iran's true power. Despite a recently extended ceasefire, violence continues on the Lebanese front, with Beirut's health ministry reporting four killed and 51 wounded including three children."
     ],
-    "title": "Virginia Supreme Court considers whether to block voter-approved US House map favoring Democrats",
+    "title": "US looking at Iran's latest proposal in truce talks",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-says-king-charles-visit-to-us-is-still-happening",
-    "article_url": "https://ground.news/article/trump-says-king-charles-visit-to-us-is-still-happening",
-    "bias": [
-      "Left-Leaning coverage employs skeptical qualifiers like \"says\" to frame Trump's announcement amid tensions, casting doubt on its certainty.",
-      "Right-Leaning outlets counter with authoritative \"confirms\" and resilient phrasing like \"despite shooting incident,\" while highlighting threats via \"gunman stormed\" to underscore conservative fortitude against violence.",
-      "Pivotal divides emerge on the shooter's anti-Trump manifesto, emphasized only by the right, and security ramp-ups, noted neutrally by center-leaning reports attributing Trump's \"brave\" praise without spin.",
-      "Both sides agree the visit proceeds, with Trump hailing the monarch's bravery, exposing ideological rifts on threat resilience versus diplomatic skepticism."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "President Donald Trump confirmed on Sunday that British King Charles III will proceed with his planned four-day state visit to the United States, marking the 250th anniversary of American independence.",
-      "Security concerns emerged after a lone gunman attempted to storm the White House Correspondents' Dinner on Saturday, prompting Secret Service agents to rush President Trump and Vice President JD Vance to safety.",
-      "Trump praised the \"very brave\" King on Sunday, telling Fox News the monarch is \"a fantastic person and a tremendous representative\" of his country who will have a \"great time\" during the visit.",
-      "Buckingham Palace is holding talks with US authorities to determine if Saturday's events require operational changes, as security experts warn of risks regarding the King becoming \"collateral damage\" during future attempts on Trump.",
-      "Prime Minister Keir Starmer's government hopes the visit will reinforce the US-UK \"special relationship\" despite recent diplomatic strains, with senior minister Darren Jones confirming security services remain in close cooperation for the upcoming trip."
-    ],
-    "title": "Trump hails ‘brave’ King Charles for US visit after shooting",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/whca-chair-weijia-jiang-gets-first-question-in-trumps-post-shooting-presser-what-was-going-through-your-mind",
-    "article_url": "https://ground.news/article/whca-chair-weijia-jiang-gets-first-question-in-trumps-post-shooting-presser-what-was-going-through-your-mind",
+    "article_path": "/article/carneys-trade-advisory-group-meets-for-1st-time-welcomes-new-member_e642de",
+    "article_url": "https://ground.news/article/carneys-trade-advisory-group-meets-for-1st-time-welcomes-new-member_e642de",
     "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
-    "error": null,
+    "error": "Message: \n",
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Saturday, April 25, 2026, a gunman fired shots at the White House Correspondents' Dinner, forcing the immediate evacuation of President Donald Trump and other officials. The event, attended by more than 2,500 guests, was canceled following the security breach.",
-      "Following a shootout with Secret Service agents at a security checkpoint, authorities apprehended the suspect, 31-year-old Cole Tomas Allen. The California resident faces charges including assault on a federal officer using a dangerous weapon.",
-      "White House Correspondents' Association President Weijia Jiang, seated beside Trump at the dais, managed evacuation protocols before asking the first question at the president's post-shooting press briefing. Colleagues praised her composure throughout the chaotic evening.",
-      "Trump praised law enforcement for their swift intervention, stating he refuses to let \"thugs\" disrupt the fabric of American life. He vowed to reschedule the dinner within 30 days.",
-      "The suspect's arraignment is set for Monday, where additional charges are expected. The White House Correspondents' Association board is meeting to assess the incident and determine the path forward."
-    ],
-    "title": "CBS journalist Weijia Jiang gets props for poise under pressure after press dinner shooting",
+    "status": "fail",
+    "summary": null,
+    "title": "Carney's trade advisory group meets for 1st time, welcomes new member",
     "topic": null,
     "topic_full": null
-  },
-  {
-    "article_path": "/article/a-small-plane-crash-near-minneapolis-kills-north-dakota-state-legislator-and-the-pilot",
-    "article_url": "https://ground.news/article/a-small-plane-crash-near-minneapolis-kills-north-dakota-state-legislator-and-the-pilot",
-    "bias": [
-      "Left-Leaning outlets frame this tragedy through public service, using reverential language like \"honor\" to eulogize the victim’s legacy.",
-      "Conversely, right-leaning coverage employs sensationalist rhetoric, describing a \"fireball\" event while explicitly tagging the victim as a \"Democrat Lawmaker\" to foreground partisan identity.",
-      "While the right highlights the victim’s age of 67, center-leaning reports maintain a clinical tone, focusing on \"authorities confirm.",
-      "A key divide exists in legislative legacy; the left highlights specific policy work, while the right de-emphasizes it.",
-      "Both sides agree on the two fatalities and the necessity of an NTSB investigation."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 57.0,
-    "error": null,
-    "left_pct": 14.0,
-    "location": "Minneapolis",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, April 25, 2026, a Beech F33A aircraft crashed into Southbrook Park in Brooklyn Park, Minnesota, shortly after departing Crystal Airport, killing both occupants: North Dakota State Representative Liz Conmy and pilot Joe Cass.",
-      "Conmy, a member of the North Dakota Democratic Nonpartisan League representing the 11th District, was serving her first term after election in 2022. Governor Kelly Armstrong ordered state and U.S. flags flown at half-staff to honor her.",
-      "The National Transportation Safety Board and Federal Aviation Administration are investigating the crash. Witnesses described hearing a 'loud boom' followed by massive flames erupting in the park, with fire crews extinguishing the blaze within minutes.",
-      "Conmy's death creates a vacancy in the North Dakota House District 11, disrupting representation and pending committee work. Colleagues remembered her as a champion for public education, environmental stewardship, and transparent elections.",
-      "Crystal Airport handles at least 40,000 operations annually, heightening local scrutiny of aviation safety. The crash follows a March 2025 incident in Brooklyn Park that killed 63-year-old U.S. Bank executive Terry Dolan."
-    ],
-    "title": "A small plane crash near Minneapolis kills North Dakota state legislator and the pilot",
-    "topic": "Aviation Accidents",
-    "topic_full": "Aviation Accidents · Minneapolis"
-  },
-  {
-    "article_path": "/article/chiles-dark-skies-remain-at-risk-despite-energy-project-cancellation-scientists-warn_f6fba2",
-    "article_url": "https://ground.news/article/chiles-dark-skies-remain-at-risk-despite-energy-project-cancellation-scientists-warn_f6fba2",
-    "bias": [
-      "Left-Leaning coverage amplifies \"threat\" and \"at risk\" with heavy repetition, framing light pollution as an existential peril to the Atacama's \"darkest skies,\" evoking urgent environmental advocacy, while right-leaning outlets de-emphasize it via truncation and low frequency, omitting skepticism toward overregulation or economic trade-offs.",
-      "Left employs alarmist, adversarial tones personifying pollution as aggressive, contrasting right's restrained neutrality.",
-      "Pivotal divides emerge on astronomical projects like the Extremely Large Telescope, highlighted by both extremes but absent in center, which adds \"driest place\" details for vivid stakes.",
-      "All agree on clearest views endangered, underscoring preservationist consensus amid development divides."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 29.0,
-    "error": null,
-    "left_pct": 64.0,
-    "location": "Chile",
-    "right_pct": 7.0,
-    "status": "ok",
-    "summary": [
-      "In January, an energy firm canceled a project near Paranal Observatory following massive scientific appeals, but experts warn the Atacama Desert remains vulnerable due to lax, outdated sky preservation laws.",
-      "Eduardo Unda-Sanzana, director of the Astronomy Center at the University of Antofagasta, notes that industrial development and mining threaten the \"ocean of darkness\" that astronomers have relied on for decades.",
-      "The European Southern Observatory is building the $1.5 billion Extremely Large Telescope at Paranal, which will be 20 times more powerful than today's leading telescopes and 15 times sharper than NASA's Hubble Space Telescope.",
-      "Daniela González, director of the Cielos de Chile Foundation, is working to ensure new government criteria strictly protect astronomical areas, following recent ministerial advisory commission recommendations to Chile.",
-      "Without updated regulations, similar projects could be proposed at any moment, and unchecked industrial impacts like light pollution and atmospheric turbulence could render astronomical activities unviable."
-    ],
-    "title": "Chile's Dark Skies Remain at Risk Despite Energy Project Cancellation, Scientists Warn",
-    "topic": "Regulation",
-    "topic_full": "Regulation · Chile"
-  },
-  {
-    "article_path": "/article/trumps-security-again-faces-scrutiny-after-press-dinner-shooting_24ebf7",
-    "article_url": "https://ground.news/article/trumps-security-again-faces-scrutiny-after-press-dinner-shooting_24ebf7",
-    "bias": [
-      "Left-Leaning outlets emphasize repeated \"layers of failure\" and \"lax\" protocols in Trump's protection, framing incidents like agents allegedly forgetting Melania as indictments of incompetence, while right-leaning ones spotlight the Secret Service's outright \"failed\" duty to Trump, portraying him as a victim of institutional negligence amid his praise for responders.",
-      "Left employs dramatic condemnation with terms like \"greatest mistake,\" evoking outrage at leadership lapses; right uses stark accusations to stoke agency distrust.",
-      "Pivotal divides emerge over family oversights versus Trump commendations.",
-      "Center coverage balances scrutiny with \"massive security success\" and bipartisan notes.",
-      "All agree on the shooting's occurrence and protocol questions, underscoring ideological rifts on federal reliability versus political vulnerability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 62.0,
-    "error": null,
-    "left_pct": 11.0,
-    "location": "United States",
-    "right_pct": 27.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday night, a gunman opened fire at the Washington Hilton during the White House Correspondents' Association dinner, wounding a Secret Service agent and prompting immediate evacuation of President Donald Trump and other officials.",
-      "Washington police reported the alleged gunman, Cole Tomas Allen, was staying at the Washington Hilton and reached a floor above the ballroom armed with a shotgun, handgun, and knives, breaching security despite protocols for roughly 2,600 attendees.",
-      "Secret Service agents quickly rushed Trump and Vice President Vance from the head table, while security details for Secretary of State Marco Rubio and Treasury Secretary Scott Bessent formed human shields to protect them during the evacuation.",
-      "President Trump later described the Washington Hilton as \"not particularly a secure building,\" noting the suspect had not been close to \"breaching\" the ballroom. The venue was previously the site of a 1981 assassination attempt against President Ronald Reagan.",
-      "Coming less than two years after assassination attempts during the 2024 campaign, Saturday's incident raises questions about protection afforded to America's political leaders. Investigators are currently reviewing security gaps that allowed the gunman to access the hotel."
-    ],
-    "title": "Trump's security again faces scrutiny after press dinner shooting",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/accused-gunman-at-correspondents-dinner-was-believed-to-be-targeting-top-officials-blanche-says_f491af",
-    "article_url": "https://ground.news/article/accused-gunman-at-correspondents-dinner-was-believed-to-be-targeting-top-officials-blanche-says_f491af",
-    "bias": [
-      "Left-Leaning outlets frame the shooting as tied to \"Trump Dinner\" peril and mock \"MAGA\" reactions as monolithic, using derisive tones like \"crazy,\" \"evil,\" and \"sick guy\" to downplay ideological motives while highlighting family warnings.",
-      "Right-Leaning coverage portrays the suspect as a \"wannabe Trump assassin\" with \"radical ties,\" emphasizing anti-Christian manifesto details and \"No Kings\" protests to evoke conservative victimhood.",
-      "Center-Leaning reports stay neutral with attributed \"likely\" targeting claims and timelines.",
-      "Pivotal divides emerge over suspect's trans gun advice versus prior alerts .",
-      "All agree on Acting AG Blanche's targeting statement and no serious injuries, underscoring partisan lenses on political violence amid cultural rifts."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 38.0,
-    "error": null,
-    "left_pct": 37.0,
-    "location": "United States",
-    "right_pct": 25.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, April 25, 2026, a gunman attempted to breach the White House Correspondents' Dinner at the Washington Hilton, forcing President Donald Trump 's immediate evacuation. Secret Service agents tackled suspect Cole Tomas Allen near the ballroom as gunfire erupted.",
-      "Federal authorities identified the 31-year-old suspect as Cole Tomas Allen of Torrance, California, who allegedly traveled by train to Washington, D.C. Writings recovered by officials suggest Allen intended to target administration members, though he is not cooperating with investigators.",
-      "Acting U.S. Attorney Jeanine Pirro announced Allen faces imminent federal charges including firearm offenses and assault on a federal officer. Armed with a shotgun, handgun, and knives, Allen shot one Secret Service officer, who survived due to protective gear.",
-      "World leaders including Israeli Prime Minister Benjamin Netanyahu and Indian Prime Minister Narendra Modi condemned the violence and praised security's swift response. President Trump vowed the dinner will be rescheduled within 30 days, while officials affirmed layered security measures prevented the gunman from reaching the ballroom.",
-      "Investigators are analyzing a manifesto and electronic devices to determine Allen's full motive and any broader threat. The incident at the Washington Hilton echoes the 1981 assassination attempt on President Ronald Reagan at the same venue, reigniting security protocol discussions."
-    ],
-    "title": "Accused gunman at correspondents’ dinner was believed to be targeting top officials, Blanche says",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
-  },
-  {
-    "article_path": "/article/betrayed-tucker-carlson-opens-up-about-breakup-with-trump-i-assumed-he-was-sincere",
-    "article_url": "https://ground.news/article/betrayed-tucker-carlson-opens-up-about-breakup-with-trump-i-assumed-he-was-sincere",
-    "bias": [
-      "Left-Leaning outlets frame Tucker Carlson 's rift as a personal \"betrayed\" \"breakup,\" emphasizing emotional \"regret\" and a tense final meeting to highlight Trump's insincerity and conservative disunity, while right-leaning coverage portrays it as Trump becoming a \"slave\" to \"neocons,\" violating non-intervention promises and underscoring Carlson's stature as a key re-election ally.",
-      "Left employs dramatic victimhood tones like \"valid question\" on complicity; right uses pejorative hawk critiques.",
-      "Center softens with \"captured\" by neocons.",
-      "Pivotal divides emerge over Iran war direction and neocon influence.",
-      "All agree on Carlson's betrayal sentiment and policy critique, reflecting isolationist versus interventionist ideological tensions."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 20.0,
-    "error": null,
-    "left_pct": 50.0,
-    "location": "United States",
-    "right_pct": 30.0,
-    "status": "ok",
-    "summary": [
-      "Political commentator Tucker Carlson expressed feeling \"betrayed\" by President Donald Trump in a Saturday interview with The Wall Street Journal, citing aggressive military actions in the Middle East as a departure from his \"America First\" campaign promises.",
-      "Carlson, a former informal adviser to Trump, points to the February 28 U.S. and Israeli airstrikes that killed Ayatollah Ali Khamenei as the breaking point that deeply divided conservatives expecting an anti-war stance.",
-      "Trump labeled Carlson a \"low IQ person\" earlier this month, while Carlson responded by calling the president a \"slave\" to external forces and apologizing for \"misleading\" voters in 2024.",
-      "Positioning himself as the \"most prominent opponent of the Iran war,\" Carlson argued that foreign conflicts are a \"generational problem that didn't start with Trump,\" suggesting the system ultimately proved stronger than the president."
-    ],
-    "title": "Tucker Carlson Says He Feels ‘Betrayed’ by Trump Over Iran War: WSJ",
-    "topic": "Tucker Carlson",
-    "topic_full": "Tucker Carlson · United States"
   }
 ]
