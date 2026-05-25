@@ -1,11 +1,11 @@
 [
   {
-    "article_path": "/article/pentagon-intelligence-community-preparing-for-renewed-strikes-on-iran-this-weekend-cbs",
-    "article_url": "https://ground.news/article/pentagon-intelligence-community-preparing-for-renewed-strikes-on-iran-this-weekend-cbs",
+    "article_path": "/article/iran-ready-to-relinquish-enriched-uranium-amid-advancing-trump-deal-new-york-times-reports_55cb3f",
+    "article_url": "https://ground.news/article/iran-ready-to-relinquish-enriched-uranium-amid-advancing-trump-deal-new-york-times-reports_55cb3f",
     "bias": [
-      "Left-Leaning coverage frames the moment as a work-in-progress diplomatic breakthrough, stressing “largely negotiated,” “shortly,” and the practical details of calls with regional leaders plus Netanyahu, while de-emphasizing any celebratory finality; center coverage more directly calls it a “peace agreement,” casting it as a broader regional milestone.",
-      "The key dividing lines are whether the Strait of Hormuz and final details are foregrounded as strategic substance or softened into a general peace narrative.",
-      "Tonally, the left leans cautious and procedural, the center more declarative and upbeat, though both share a de-escalation frame that reflects wider preferences for diplomacy over confrontation in the Iran issue."
+      "Left-Leaning coverage frames the story as a fragile, incomplete negotiation, stressing Iranian denial, “details,” and the fact that the uranium issue is still unresolved, while right-leaning outlets recast it as Trump’s triumph, using sharper terms like “surrender,” “nuclear dust,” and “strategic victory” to portray Iran as conceding.",
+      "The pivotal dividing line is certainty versus capitulation: left coverage highlights “not final” and “potential,” whereas the right amplifies a breakthrough narrative and broader security stakes, including missiles and proxies.",
+      "Both sides agree the deal centers on Iran’s enriched uranium and broader de-escalation, but they attach it to very different ideological lenses."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -15,14 +15,240 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
+      "Iran has tentatively agreed to relinquish its stockpile of highly enriched uranium as a key condition of an emerging nuclear agreement with the United States, according to The New York Times.",
+      "According to the report, Iran stands to recover billions in frozen overseas assets if a broader nuclear agreement is reached, providing Tehran financial incentive to stay engaged in talks.",
+      "However, major differences remain regarding the duration of restrictions on Iran's enrichment program, with the U.S. pushing for a 20-year moratorium and Iran proposing a much shorter timeline."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/pope-leo-xiv-makes-historic-apology-for-holy-sees-own-role-in-legitimizing-slavery_21e5d6",
+    "article_url": "https://ground.news/article/pope-leo-xiv-makes-historic-apology-for-holy-sees-own-role-in-legitimizing-slavery_21e5d6",
+    "bias": [
+      "Left-Leaning coverage frames the apology as a morally charged reckoning, stressing “historic” significance, the Holy See’s “own role,” and even the pope’s first U.S.-born identity and family history to deepen institutional accountability; right-leaning coverage largely shares the “historic apology” emphasis but shifts attention to the pope’s lineage and the encyclical title, treating those details as added weight rather than a broader critique, while center-leaning coverage stays closest to the core apology and is more stripped-down.",
+      "The sharpest dividing line is whether the story is about institutional failure and “failed to condemn” slavery or about a notable papal gesture.",
+      "Both sides agree on the apology itself, but they diverge in whether it is a moral indictment or a symbolic milestone tied to larger cultural and religious divides."
+    ],
+    "bias_bar_text": "Left 50% Center 43% 7%",
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 50.0,
+    "location": null,
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Pope Leo XIV released his first encyclical, \"Magnifica Humanitas,\" issuing a historic apology for the Vatican's role in legitimizing slavery and failing to condemn it for centuries.",
+      "A series of 15th-century Vatican directives, including the papal bull \"Dum Diversas\" issued in 1452, authorized Portuguese sovereigns to \"invade, conquer, fight and subjugate\" non-Christians and reduce them to perpetual slavery.",
+      "The U.S.-born Pope, whose family history includes both enslaved people and slaveholders according to genealogical research, connected the trans-Atlantic slave trade to modern \"forms of slavery\" fueled by unregulated labor for AI chips.",
+      "Leo responded to decades of calls by Black American Catholics, activists, and scholars for the Holy See to atone for its colonial-era role—the first time a pope has publicly acknowledged the Vatican's direct involvement in authorizing subjugation.",
+      "Stating \"This constitutes a wound in Christian memory,\" Leo warned the Church must condemn modern trafficking to avoid needing future pardons, emphasizing respect for human dignity as essential to Christian faith."
+    ],
+    "title": "Pope Leo XIV Apologizes for the Holy See’s Own Role in Legitimizing Slavery",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/pope-leo-xivs-encyclical-on-ai-warns-of-threats-to-human-dignity-in-the-digital-age_80869c",
+    "article_url": "https://ground.news/article/pope-leo-xivs-encyclical-on-ai-warns-of-threats-to-human-dignity-in-the-digital-age_80869c",
+    "bias": [
+      "Left-Leaning coverage turns the encyclical into a confrontation story, using phrases like “anti-AI resistance,” “clash,” and “new forms of slavery” to frame Pope Leo as pushing back against tech power and even Trump-era politics ; right-leaning coverage instead foregrounds moral authority and civilizational stakes, with language like “disarm AI,” “morally neutral,” and “truth of man” casting the pope as a guide in a sweeping anthropological debate.",
+      "The sharpest dividing lines are tech-industry lobbying and partisan conflict on the left versus long-horizon church leadership on the right.",
+      "Both sides agree AI threatens dignity, misinformation, and war, but they diverge on whether that warning signals activism or doctrine."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 21.0,
+    "error": null,
+    "left_pct": 53.0,
+    "location": "Vatican City",
+    "right_pct": 26.0,
+    "status": "ok",
+    "summary": [
+      "Pope Leo XIV released the encyclical Magnifica Humanitas calling for robust regulation of artificial intelligence to protect human dignity and warning against lethal autonomous weapons.",
+      "The encyclical addresses AI's impact on democracy, labor, inequality, and urges prioritization of the common good over profit by developers and governments.",
+      "Anthropic co-founder Christopher Olah was included in the encyclical launch, highlighting a decade-long Vatican dialogue with Silicon Valley on AI's human costs despite controversies surrounding the AI firm.",
+      "The encyclical warns of AI risks including job loss, misinformation, environmental impact, and exploitation, invoking Catholic social teaching to demand AI serve vulnerable populations and the common good."
+    ],
+    "title": "Pope Leo XIV Calls for Slower AI Advances in Manifesto, Likens Threat to Biblical ‘Tower of Babel’",
+    "topic": "Pope Leo XIV",
+    "topic_full": "Pope Leo XIV · Vatican City"
+  },
+  {
+    "article_path": "/article/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-year-long-stay",
+    "article_url": "https://ground.news/article/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-year-long-stay",
+    "bias": [
+      "Left and center coverage frame Shenzhou-23 as a milestone in China’s lunar program, stressing the “record” yearlong stay, docking success, and research on long-duration human physiology, while the left more often folds it into a broader “new race to Moon” narrative.",
+      "Right-Leaning coverage pivots harder toward geopolitical stakes, using phrases like “race,” “challenge,” and “American leadership and security” to cast the launch as a warning about U.S. power, with scientific details de-emphasized.",
+      "The main dividing line is whether the story is a space -achievement update or a strategic contest, though all sides still converge on China’s 2030 moon goal and the mission’s technical significance."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": "China",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, China launched the Shenzhou-23 spacecraft from the Jiuquan Satellite Launch Center, carrying three astronauts who docked successfully with the Tiangong space station after a 3.5-hour flight.",
+      "This mission includes a year-long stay for one astronaut to study long-duration human physiology, a crucial step for China's goal to land humans on the Moon by 2030. Crews previously remained in orbit for only six months.",
+      "Payload specialist Li Jiaying, a former Hong Kong police inspector, is the first astronaut from Hong Kong to join a Chinese space mission. Commander Zhu Yangzhu and pilot Zhang Yuanzhi complete the trio.",
+      "Scientists are conducting the world's first human \"artificial embryo\" experiment in space to study long-term reproduction, while Beijing tests hardware including the Mengzhou spacecraft and Long March-10 rockets for future lunar missions.",
+      "The project accelerates China's space program amid an intensifying race with the United States, which targets a crewed lunar landing in 2028, as Beijing works toward a permanent lunar base with Russia by 2035."
+    ],
+    "title": "China launches Shenzhou 23 spacecraft with 1 of 3 astronauts set for year-long stay",
+    "topic": "Space & Astronomy",
+    "topic_full": "Space & Astronomy · China"
+  },
+  {
+    "article_path": "/article/there-was-a-shooting-near-the-white-house_bcb159",
+    "article_url": "https://ground.news/article/there-was-a-shooting-near-the-white-house_bcb159",
+    "bias": [
+      "Left-Leaning coverage stays tightly on the bystander’s condition, using restrained, rolling-update phrasing like “serious but stable,” while center-leaning copy is even more stripped down and procedural.",
+      "The right-leaning framing pivots sharply to meta-critique, using charged terms like “BREAKING,” “Media Confusion,” and “Misinformation” to portray the event as a failure of reporting rather than just a shooting.",
+      "The key dividing line is whether the story is a medical update or a commentary on media reliability and public perception.",
+      "Both sides still converge on the White House checkpoint shooting and the Secret Service response, but they diverge over what the incident means."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 66.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": "Washington",
+    "right_pct": 16.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, 21-year-old Nasire Best fired toward a White House security checkpoint around 6 p.m. before being fatally shot by Secret Service officers. One bystander sustained injuries during the exchange.",
+      "Best, a 2023 Dundalk High School graduate from Maryland, had previously been arrested near the White House last July for attempting to enter restricted grounds. District of Columbia Metropolitan Police Department records confirmed the prior incident.",
+      "President Donald Trump lobbied Congress for $1 billion in security upgrades, including a ballroom on the East Wing site, claiming the suspect had a \"possible obsession with our country's most cherished structure.\"",
+      "The unidentified bystander remained in serious but stable condition Sunday, with the Secret Service describing the gunshot wound as not life-threatening.",
+      "This incident marks the third shooting near the president in the past month, following an April attack at the White House Correspondents Association Dinner and a separate encounter near the Washington Monument."
+    ],
+    "title": "Bystander in serious condition after fatal shooting near White House checkpoint",
+    "topic": "Gun Violence",
+    "topic_full": "Gun Violence · Washington"
+  },
+  {
+    "article_path": "/article/rubio-says-us-will-find-another-way-if-iran-talks-fail",
+    "article_url": "https://ground.news/article/rubio-says-us-will-find-another-way-if-iran-talks-fail",
+    "bias": [
+      "Left-Leaning coverage frames the Iran talks as stuck and fragile, adding concrete pressure points like enriched uranium, sanctions relief, and the Strait of Hormuz, plus Trump’s warning not to rush; right-leaning coverage is more optimistic, casting the deal as a “work in progress” and treating “another way” as a firm contingency rather than a dead end.",
+      "The center splits the difference with a sharper binary: a “good agreement” or alternative action.",
+      "Across sides, “another way” becomes the key dividing line—hardline on the right, cautionary on the left—while all agree the talks are ongoing, revealing broader tensions between diplomacy-first restraint and coercive fallback posture."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 20.0,
+    "error": null,
+    "left_pct": 47.0,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Secretary of State Marco Rubio said in New Delhi that the United States will secure a \"good agreement\" with Iran or \"deal with the country another way,\" prioritizing diplomacy before exploring \"alternatives.\"",
+      "Oil prices fell 6% to two-week lows Monday as optimism grew for a peace deal, following a conflict that began February 28, 2026, with a tenuous ceasefire since early April driving a global energy crisis.",
+      "President Donald Trump claimed Saturday that Washington and Tehran had \"largely negotiated\" a peace deal, yet he cautioned Sunday that the U.S. blockade would \"remain in full force and effect until an agreement is reached, certified, and signed.\"",
+      "Iranian sources via the Tasnim news agency dispute the progress, claiming the U.S. is obstructing the deal by failing to address Tehran's demands regarding sanctions relief and the release of frozen funds."
+    ],
+    "title": "Rubio says US will find 'another way' if Iran talks fail",
+    "topic": "Iran War",
+    "topic_full": "Iran War · United States"
+  },
+  {
+    "article_path": "/article/iran-backed-hezbollah-actively-trying-to-drag-lebanon-back-into-chaos-rubio",
+    "article_url": "https://ground.news/article/iran-backed-hezbollah-actively-trying-to-drag-lebanon-back-into-chaos-rubio",
+    "bias": [
+      "Left and center coverage largely stay close to Rubio’s accusation, but the right turns it into a broader security narrative: Hezbollah becomes “Iran-backed,” a “terrorist group,” and part of an “end of an era” in which it could “hold” Lebanon “hostage.” The left is the most restrained, foregrounding the “chaos” frame without extra ideological labels; the center adds the specific trigger of a “reckless call” to “overthrow” the government.",
+      "Across all sides, the shared core is U.S. condemnation of Hezbollah and concern over Lebanese stability, revealing a common focus on instability but a sharp split over whether to stress diplomacy, alarm, or geopolitical threat."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 27.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": "Lebanon",
+    "right_pct": 53.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, U.S. Secretary of State Marco Rubio condemned Hezbollah's \"reckless call to overthrow Lebanon's democratically elected government,\" warning the group's \"threats of violence\" would fail to succeed.",
+      "Hezbollah Secretary-General Naim Qassem urged citizens to \"take to the streets\" to bring down the government, citing U.S. sanctions against the Hezbollah-affiliated Al-Qard Al-Hassan financial institution as justification.",
+      "Since March 2, Israeli attacks on Lebanon have killed 3,151 people and wounded 9,571 others, according to the Lebanese Health Ministry, while strikes continue despite a recently extended ceasefire.",
+      "Negotiators are scheduled to hold a fourth round of talks in Washington on June 2 and 3, as the U.S. pursues a potential deal with Iran that could end the conflict.",
+      "Israeli Prime Minister Benjamin Netanyahu said President Trump \"reaffirmed Israel's right to defend itself\" in a phone call, while the U.S. expressed support for the Lebanese government's restoration efforts."
+    ],
+    "title": "Rubio Accuses Hezbollah of Trying to 'Drag Lebanon Back Into Chaos'",
+    "topic": "Marco Rubio",
+    "topic_full": "Marco Rubio · Lebanon"
+  },
+  {
+    "article_path": "/article/white-house-approves-9-billion-for-us-spy-agencies-in-bid-to-catch-up-on-artificial-intelligence-officials-say",
+    "article_url": "https://ground.news/article/white-house-approves-9-billion-for-us-spy-agencies-in-bid-to-catch-up-on-artificial-intelligence-officials-say",
+    "bias": [
+      "Left-Leaning coverage frames the $9 billion as “spy agencies” trying to “catch up on AI,” a phrase that carries skepticism about surveillance power and lagging capability, while right-leaning coverage treats it as a “Pushes” or “Advances” story, stressing a multibillion-dollar “expansion plan” for U.S. intelligence and technological strength.",
+      "The sharpest dividing lines are secrecy and purpose: the center emphasizes a “secret” request and official sourcing, whereas left and right de-emphasize that transparency angle.",
+      "Both sides agree the chips matter for national security, but they part on tone—left leaning on caution, right on urgency and modernization, with terms like “spy,” “catch up,” and “cutting-edge” signaling those priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 17.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "United States",
+    "right_pct": 50.0,
+    "status": "ok",
+    "summary": [
+      "The White House approved a $9 billion request to acquire cutting-edge computer chips for United States spy agencies, boosting infrastructure for Nvidia's Grace Blackwell superchip.",
+      "Intelligence agencies, including the National Security Agency and CIA , have struggled with a chip shortage caused by insufficient funding allocated in past years for adequate computing facilities.",
+      "Agencies primarily run classified models on Amazon Web Services cloud networks; the government is finalizing a contract with Anthropic for its Mythos model, which runs efficiently on the new hardware.",
+      "The administration also reprogrammed $800 million for rapid computing capacity acquisition, while White House spokesperson Steven Cheung stated, \"Sensitive national security deliberations are conducted with the seriousness they demand.\"",
+      "Artificial intelligence platforms have become integral to national security operations, with experts suggesting even larger sums will be necessary in the future to sustain the intelligence community's capabilities."
+    ],
+    "title": "White House Clears $9B for Spy Agencies’ AI Chips",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/suspect-dead-bystander-also-wounded-as-shots-fired-near-white-house-report_0cf8d7",
+    "article_url": "https://ground.news/article/suspect-dead-bystander-also-wounded-as-shots-fired-near-white-house-report_0cf8d7",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 51.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "United States",
+    "right_pct": 26.0,
+    "status": "no_change",
+    "summary": [
+      "Shortly after 6 p.m. Saturday, 21-year-old Nasire Best approached a Secret Service checkpoint at 17th Street and Pennsylvania Avenue NW, pulled a weapon from his bag, and opened fire at officers who returned fire, fatally striking him.",
+      "Court records reveal Best had a documented history of mental health issues and prior law enforcement encounters, including a July 11, 2025, stay-away order from the White House, according to court documents.",
+      "The suspect was pronounced dead at a hospital, while a bystander remained in critical condition; President Donald Trump was inside the White House during the incident and remained unharmed as the complex was briefly locked down.",
+      "FBI Director Kash Patel confirmed federal support for the investigation as officials analyze ballistic evidence from the 15 to 30 gunshots exchanged and determine whether the bystander was struck by the suspect or crossfire.",
+      "This incident marks the third time in the past month that gunfire erupted near President Trump, following the April 25 White House Correspondents' Association Dinner shooting and a separate Washington Monument incident."
+    ],
+    "title": "Suspect dead, bystander also wounded as shots fired near White House: Report",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/pentagon-intelligence-community-preparing-for-renewed-strikes-on-iran-this-weekend-cbs",
+    "article_url": "https://ground.news/article/pentagon-intelligence-community-preparing-for-renewed-strikes-on-iran-this-weekend-cbs",
+    "bias": [
+      "Left-Leaning coverage frames the moment as a work-in-progress diplomatic breakthrough, stressing “largely negotiated,” “shortly,” and the practical details of calls with regional leaders plus Netanyahu, while de-emphasizing any celebratory finality; center coverage more directly calls it a “peace agreement,” casting it as a broader regional milestone.",
+      "The key dividing lines are whether the Strait of Hormuz and final details are foregrounded as strategic substance or softened into a general peace narrative.",
+      "Tonally, the left leans cautious and procedural, the center more declarative and upbeat, though both share a de-escalation frame that reflects wider preferences for diplomacy over confrontation in the Iran issue."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "United States",
+    "right_pct": 26.0,
+    "status": "ok",
+    "summary": [
       "U.S. President Donald Trump said a proposed agreement with Iran has been “largely negotiated,” adding that only final details remain before a formal announcement.",
       "Trump said the arrangement would include reopening the strategic Strait of Hormuz, which has been central to recent regional tensions and disruptions to shipping.",
       "He said the breakthrough followed calls with Israeli leaders and Gulf and Muslim-majority allies, while mediation efforts involving regional partners helped move negotiations closer to completion.",
       "U.S. and Iranian officials signaled cautious optimism, though unresolved disputes remain and negotiators are still discussing final conditions tied to security and nuclear-related demands."
     ],
-    "title": "Source Icon",
-    "topic": null,
-    "topic_full": null
+    "title": "Trump says deal with Iran, including opening Strait of Hormuz, is 'largely negotiated'",
+    "topic": "Iran War",
+    "topic_full": "Iran War · United States"
   },
   {
     "article_path": "/article/one-dead-36-injured-in-explosion-at-new-york-city-shipyard_7e087e",
@@ -34,11 +260,11 @@
       "Both agree on one death, dozens hurt, trapped workers, and an unclear cause, reflecting a shared crisis frame across broader ideological and emotional divides."
     ],
     "bias_bar_text": null,
-    "center_pct": 55.0,
+    "center_pct": 54.0,
     "error": null,
     "left_pct": 29.0,
-    "location": null,
-    "right_pct": 16.0,
+    "location": "New York",
+    "right_pct": 17.0,
     "status": "ok",
     "summary": [
       "On Friday, an explosion at a Staten Island shipyard killed one person and injured 36 others, according to the FDNY. Firefighting and EMS crews arrived within six minutes of initial reports.",
@@ -48,8 +274,8 @@
       "New York City Mayor Zohran Mamdani called the incident a \"complex, fast-developing emergency situation\" with more than 200 firefighters still at the scene Friday night. A comprehensive investigation into the cause will begin as soon as possible."
     ],
     "title": "One dead, 36 injured in explosion at New York City shipyard",
-    "topic": null,
-    "topic_full": null
+    "topic": "New York State",
+    "topic_full": "New York State · New York"
   },
   {
     "article_path": "/article/federal-judge-dismisses-tennessee-criminal-case-against-kilmar-abrego-garcia",
@@ -63,7 +289,7 @@
     "center_pct": 48.0,
     "error": null,
     "left_pct": 28.0,
-    "location": null,
+    "location": "United States",
     "right_pct": 24.0,
     "status": "ok",
     "summary": [
@@ -74,125 +300,395 @@
       "Despite the dismissal, Trump administration officials maintain that Abrego Garcia cannot remain in the United States and have vowed to deport him to a third country, most recently identifying Liberia as the destination."
     ],
     "title": "Federal judge dismisses human smuggling charges against Kilmar Abrego Garcia",
-    "topic": null,
-    "topic_full": null
+    "topic": "Kilmar Abrego Garcia",
+    "topic_full": "Kilmar Abrego Garcia · United States"
   },
   {
-    "article_path": "/article/trump-directs-legal-migrants-to-return-to-home-country-to-apply-for-green-cards_320cc8",
-    "article_url": "https://ground.news/article/trump-directs-legal-migrants-to-return-to-home-country-to-apply-for-green-cards_320cc8",
+    "article_path": "/article/douglas-mccain-the-eldest-son-of-sen-john-mccain-dies-at-66",
+    "article_url": "https://ground.news/article/douglas-mccain-the-eldest-son-of-sen-john-mccain-dies-at-66",
     "bias": [
-      "Left-Leaning coverage frames the memo as coercive, using terms like “forcing,” “upends,” and “hardens access” to stress that legal migrants may be pushed “back” and made to “wait,” with aid groups and “hundreds of thousands” foregrounding humanitarian disruption.",
-      "Right-Leaning coverage instead casts the same move as enforcement, leaning on words like “orders,” “must,” “loophole,” and “restoring the original intent” to portray the rule as closing abuse and restoring control.",
-      "The key dividing line is whether the policy is a punitive barrier or a corrective fix; both sides note the broad impact and “extraordinary circumstances” exception, but interpret that scale through sharply different ideological lenses."
+      "Left-Leaning coverage leans into grief and intimacy, using phrases like “heartbroken,” “shocking,” and “painful loss” to frame Doug McCain’s death as a deep family tragedy, while right-leaning outlets prefer punchier, more sensational wording such as “dead suddenly” and “tragedy,” often pairing it with extra biographical detail about adoption, Navy service, and his low public profile.",
+      "Center coverage is more restrained, sticking to “dies” and “family confirms.” The key dividing line is emotional amplification versus concise biography, though all sides agree on the sudden death, Meghan McCain ’s tribute, and the broader McCain-family loss."
     ],
     "bias_bar_text": null,
-    "center_pct": 45.0,
+    "center_pct": 66.0,
     "error": null,
-    "left_pct": 31.0,
-    "location": null,
-    "right_pct": 24.0,
+    "left_pct": 13.0,
+    "location": "United States",
+    "right_pct": 21.0,
     "status": "ok",
     "summary": [
-      "On Friday, U.S. Citizenship and Immigration Services announced that most foreigners seeking green cards must return to their home countries to apply, with exemptions only for \"extraordinary circumstances.\"",
-      "The Trump administration defended the rule as a return to \"the original intent of the law,\" aiming to close a \"loophole\" that allowed more than 820,000 people to adjust status inside the country last year.",
-      "Immigration experts warn the policy creates a \"Catch-22\" for families, as about 600,000 annual applicants may face indefinite separation while navigating an already overburdened consular processing system, according to Sarah Pierce of Third Way.",
-      "USCIS spokesperson Zach Kahler stated that individuals providing an \"economic benefit\" or \"national interest\" might remain in the U.S., though attorneys like Jessie De Haven expressed confusion about applying these vague exceptions.",
-      "Legal challenges are widely expected to follow this announcement, which marks the latest effort by the Trump administration to restrict legal immigration pathways in the United States alongside ongoing crackdowns on illegal entry."
+      "Doug McCain, the eldest son of late Senator John McCain , died suddenly on May 20 at 66. The McCain Institute confirmed the passing of the former Navy pilot and American Airlines captain.",
+      "A Florida native, McCain served six years as a Navy pilot flying A-6 Intruders before launching a long career with American Airlines. He later rose to captain during his tenure with the carrier.",
+      "Adopted by Senator John McCain, he was married to Ashley for 40 years and is survived by his wife, two children—Caroline and Douglas—and his mother, Carol Shepp McCain.",
+      "Meghan McCain shared the news of her brother's \"sudden passing\" on social media Saturday. She described him as a \"truly wonderful, joyful man\" who brought \"humor, fun and great conversation to every room.\"",
+      "The McCain Institute stated that McCain \"will be remembered as a patriot and friend to the many alumni of Sen. McCain's Institute, campaigns and Senate staff.\" His legacy reflects decades of military and commercial aviation service."
     ],
-    "title": "Trump directs legal migrants to return to home country to apply for green cards",
-    "topic": null,
-    "topic_full": null
+    "title": "Douglas McCain, the Eldest Son of Sen. John McCain, Dies at 66",
+    "topic": "John McCain",
+    "topic_full": "John McCain · United States"
   },
   {
-    "article_path": "/article/tulsi-gabbard-resigns-as-trumps-director-of-national-intelligence_709f19",
-    "article_url": "https://ground.news/article/tulsi-gabbard-resigns-as-trumps-director-of-national-intelligence_709f19",
+    "article_path": "/article/marco-rubio-says-india-us-trade-pact-designed-to-be-beneficial-and-sustainable-for-both-sides_f755a5",
+    "article_url": "https://ground.news/article/marco-rubio-says-india-us-trade-pact-designed-to-be-beneficial-and-sustainable-for-both-sides_f755a5",
     "bias": [
-      "Left-Leaning coverage frames the resignation as a politically fraught exit, stressing her “rocky” or “controversial” tenure, “tensions with the White House,” and hints Trump “wanted her gone,” while right-leaning coverage recasts it as a sympathetic, principled choice to put “family over position,” spotlighting her husband’s “rare” bone cancer and, in some cases, her “major intelligence reforms.” The sharpest dividing line is whether the story is a personal departure or a possible “forced out” ouster.",
-      "Both sides share the resignation facts and June 30 timing, but they diverge on whether to emphasize conflict, compassion, or Trump-era power struggles."
+      "Left-Leaning coverage frames the meeting as a friction point, spotlighting visa restrictions, “legal mobility,” and hints that India is being “sidelined,” with terms like “severe” and “pressure points” casting Trump-era policy as a threat to openness.",
+      "Right-Leaning coverage instead elevates strategic alignment—“key partner,” “strategic partners,” and “India First”—while stressing trade progress, energy security, and defense, and softening tension by dismissing racist remarks as a few “stupid people.” The dividing line is whether the talks signal exclusion or partnership; both sides still agree the relationship is important, but they read its meaning through very different ideological lenses."
     ],
     "bias_bar_text": null,
-    "center_pct": 44.0,
+    "center_pct": 8.0,
     "error": null,
-    "left_pct": 28.0,
-    "location": null,
-    "right_pct": 28.0,
+    "left_pct": 25.0,
+    "location": "India",
+    "right_pct": 67.0,
     "status": "ok",
     "summary": [
-      "On Friday, Director of National Intelligence Tulsi Gabbard announced her resignation from the Trump administration, effective June 30, 2026, to care for her husband.",
-      "Gabbard is stepping down after her husband, Abraham Williams, was recently diagnosed with an extremely rare form of bone cancer and faces significant health challenges ahead.",
-      "President Donald Trump praised Gabbard for doing an \"incredible job\" and announced that Principal Deputy Director of National Intelligence Aaron Lukas will serve as Acting Director of National Intelligence.",
-      "Her departure makes her the fourth female cabinet member to leave Trump's administration this year, following Attorney General Pam Bondi, Homeland Security Secretary Kristi Noem, and Labor Secretary Lori Chavez-DeRemer.",
-      "Senate Intelligence Committee Democrat Mark Warner expressed sympathy for Gabbard's family while emphasizing the need for an experienced intelligence professional to restore trust in the office."
+      "On Sunday, External Affairs Minister S. Jaishankar met United States Secretary of State Marco Rubio in New Delhi to discuss energy security, trade negotiations, regional security, and visa delays affecting Indian travelers.",
+      "Jaishankar reaffirmed that India prioritizes an \"India First\" policy to secure \"affordable and reliable\" energy, while Rubio confirmed the Trump administration maintains its \"America First\" outlook, emphasizing that national interests guide both nations.",
+      "Rubio described the relationship as a \"strategic alliance,\" noting over $20 billion in Indian investment in the United States and extending an invitation from President Donald Trump for Prime Minister Narendra Modi to visit the White House.",
+      "Jaishankar reiterated a \"zero tolerance for terrorism\" policy and acknowledged strong cooperation on the extradition of a key planner of the 26/11 Mumbai attacks, while Rubio clarified that global immigration system modernizations are not targeting India.",
+      "Relations between the countries \"have not lost momentum,\" Rubio stated, expressing hope for a bilateral trade deal soon as both leaders reaffirmed their commitment to dialogue and de-risking the global economy in the coming years."
     ],
-    "title": "Tulsi Gabbard resigns as Trump’s director of national intelligence",
+    "title": "Marco Rubio says India-US trade pact designed to be ‘beneficial’ and ‘sustainable’ for both sides",
+    "topic": "Marco Rubio",
+    "topic_full": "Marco Rubio · India"
+  },
+  {
+    "article_path": "/article/rep-thomas-massie-says-breaks-with-trump-were-absolutely-worth-it",
+    "article_url": "https://ground.news/article/rep-thomas-massie-says-breaks-with-trump-were-absolutely-worth-it",
+    "bias": [
+      "Left-Leaning coverage frames Massie’s primary loss as a warning sign for GOP fragility, using phrases like “very vulnerable,” “serious trouble,” and “bashes” to stress Republican dysfunction and his criticism of Trump’s ballroom, while right-leaning coverage casts him as a principled anti-establishment figure, leaning on “the swamp,” “knives came out,” and “absolutely worth it” to suggest retaliation for challenging Washington power and pushing Epstein-file disclosure.",
+      "The left de-emphasizes Epstein, the right de-emphasizes the ballroom.",
+      "Both sides agree he lost a Trump-backed primary and is leaving office, but they diverge on whether that marks party weakness or a clash with entrenched insiders."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 6.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "Kentucky",
+    "right_pct": 67.0,
+    "status": "ok",
+    "summary": [
+      "Representative Thomas Massie , R-Ky., warned Sunday on Meet the Press that the Republican Party will be \"very vulnerable\" in the midterm elections, following his primary loss last week to Navy SEAL Ed Gallrein, backed by President Donald Trump.",
+      "Trump repeatedly opposed Massie, publicly criticizing the congressman and urging voters to reject him, intensifying pressure on the congressman leading into recent primaries.",
+      "Massie described a growing \"Trump Disappointment Syndrome\" among the right, arguing the party disenfranchised its base, and called the president's White House ballroom focus \"a slap in the face of Americans.\"",
+      "This month, Republicans attempted to direct $1 billion in taxpayer funds toward security for the ballroom construction, which Massie argued is dangerous while Americans struggle with high costs for gas and groceries.",
+      "Refusing to rule out a 2028 presidential bid, the congressman stated he will remain engaged in Washington, D.C., and noted his split with the administration on issues like Iran was \"absolutely worth it."
+    ],
+    "title": "Rep. Thomas Massie says breaks with Trump were ‘absolutely worth it’",
+    "topic": "Thomas Massie",
+    "topic_full": "Thomas Massie · Kentucky"
+  },
+  {
+    "article_path": "/article/hyundai-to-recall-over-421-000-us-vehicles-over-software-brake-issue-nhtsa-says",
+    "article_url": "https://ground.news/article/hyundai-to-recall-over-421-000-us-vehicles-over-software-brake-issue-nhtsa-says",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 54.0,
+    "error": "Message: \n",
+    "left_pct": 23.0,
+    "location": "United States",
+    "right_pct": 23.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Hyundai to recall over 421,000 US vehicles over software brake issue, NHTSA says",
+    "topic": "Hyundai",
+    "topic_full": "Hyundai · United States"
+  },
+  {
+    "article_path": "/article/trump-says-us-will-not-rush-into-a-deal-with-iran_c3d6b3",
+    "article_url": "https://ground.news/article/trump-says-us-will-not-rush-into-a-deal-with-iran_c3d6b3",
+    "bias": [
+      "Left coverage frames Trump as backtracking after signaling an “imminent” outcome, stressing uncertainty and the political tension around the talks; right coverage instead spotlights caution as prudence, using sharper phrases like “bad deal,” “must,” and comparisons to the Obama-era accord to warn against concession.",
+      "Center items sit between them, emphasizing a near-final agreement and sometimes even “total defeat” or “terrorist regime” rhetoric from commentators.",
+      "The key fault line is substance versus momentum: the right dwells on uranium, sanctions , and the blockade, while the left de-emphasizes those details.",
+      "Both sides still converge on ongoing talks, a possible Sunday announcement, and the Strait of Hormuz."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 48.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, President Donald Trump instructed negotiators not to \"rush\" into a deal with Iran, tempering hopes for an imminent breakthrough despite earlier claims that a memorandum of understanding was \"largely negotiated.\"",
+      "The potential agreement aims to reopen the Strait of Hormuz in exchange for the United States lifting its naval blockade, while Tehran would agree to dispose of highly enriched uranium stockpiles.",
+      "Israeli Prime Minister Benjamin Netanyahu stated \"any final agreement with Iran must eliminate the nuclear danger,\" while officials noted uranium disposal would be subject to further talks during a 60-day period.",
+      "Trump confirmed the U.S. blockade will \"remain in full force and effect until an agreement is reached, certified, and signed,\" as Brent crude settled at $US100.21 per barrel.",
+      "Market analysts warn shipping flows through the strait likely won't return to normal until 2027, while Senator Chris Van Hollen criticized the deal's outlines as a \"blunder\" offering little beyond the pre-war status quo."
+    ],
+    "title": "Trump says US will not 'rush into a deal' with Iran",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/trump-thanks-secret-service-renews-call-for-ballroom-after-white-house-shooting",
+    "article_url": "https://ground.news/article/trump-thanks-secret-service-renews-call-for-ballroom-after-white-house-shooting",
+    "bias": [
+      "The left frames Trump as exploiting a “deadly shooting” for a “controversial” ballroom, sharpening the critique with words like “uses” and “midnight tirade,” while the right recasts the moment as reverence for the “most cherished structure” and law enforcement, with “obession” adding a wary, protective edge.",
+      "The center is more procedural, stressing the checkpoint attack, the suspect being shot, and “swift and professional” Secret Service action.",
+      "The key dividing line is the ballroom: left sees opportunism, center treats it as a security-linked request, and right de-emphasizes it entirely.",
+      "All sides agree on the shooting, Trump’s reaction, and praise for the Secret Service, but differ over whether the story is about politics or protection."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 81.0,
+    "error": null,
+    "left_pct": 8.0,
+    "location": "Washington",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday evening, 21-year-old Nasire Best approached a White House security checkpoint at 17th Street and Pennsylvania Avenue, pulled a weapon from his bag, and opened fire before Secret Service officers returned fire and killed him.",
+      "Court records show Best was arrested last year after attempting to enter a different checkpoint while 'claiming he was Jesus Christ.' This incident marks the third time in the past month that shots were fired near the President.",
+      "A bystander sustained injuries during the exchange, though officials noted it remains unclear whether they were hit by the suspect's rounds or return fire. Secret Service agents were uninjured.",
+      "President Donald Trump thanked the Secret Service for their 'swift and professional action' while renewing calls for his $400 million ballroom project. He argued the incident demonstrates the need for a 'most safe and secure space' in Washington, D.C.",
+      "FBI Director Kash Patel confirmed the agency is assisting the Secret Service, vowing to 'update the public as we're able.' The investigation remains ongoing as authorities work to corroborate details regarding the suspect's motives."
+    ],
+    "title": "Trump thanks Secret Service, renews call for ballroom after White House shooting",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · Washington"
+  },
+  {
+    "article_path": "/article/rubio-named-a-condition-for-holding-a-new-round-of-trilateral-peace-talks",
+    "article_url": "https://ground.news/article/rubio-named-a-condition-for-holding-a-new-round-of-trilateral-peace-talks",
+    "bias": [
+      "Left-Leaning coverage frames the story as a stalled but still restartable diplomacy, stressing words like “stalled,” “suspended,” and “chance for a breakthrough,” while the right leans into “ready” and “constructive role” to portray continued U.S. usefulness and openness.",
+      "The sharpest dividing line is whether Washington is merely pausing or effectively ending mediation: the center alone pushes “no longer mediate” and the dismissive line about “endless meetings,” giving the most skeptical, fatigued tone.",
+      "Both sides agree talks are not advancing and Rubio sees possible re-engagement, but they diverge on whether that signals failure, pragmatism, or leadership."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 11.0,
+    "error": null,
+    "left_pct": 67.0,
+    "location": "United States",
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "United States Secretary of State Marco Rubio stated that peace negotiations regarding Ukraine are suspended, though Washington remains willing to resume its mediating role if future discussions prove constructive.",
+      "Trilateral negotiations involving Ukraine, the United States, and Russia ground to a halt following the outbreak of war between the United States, Israel, and Iran in late February 2026.",
+      "Rubio highlighted that Ukrainian forces had gained invaluable battlefield experience while Russia continues to suffer massive losses, losing an estimated 15,000 to 20,000 soldiers killed per month.",
+      "The Secretary of State firmly denied that the United States has been pressuring Ukraine into specific positions, stating \"if we see an opportunity to organize talks that will be productive... we are ready to play that role.\"",
+      "Although no such negotiations are currently taking place, both Ukraine and Russia have maintained separate bilateral communication channels with Washington, as Rubio noted a negotiated settlement remains the only path to conclude the invasion."
+    ],
+    "title": "Rubio: Ukraine Peace Talks Stalled, US Ready to Mediate If ‘Opportunities Emerge’",
+    "topic": "Marco Rubio",
+    "topic_full": "Marco Rubio · United States"
+  },
+  {
+    "article_path": "/article/wicker-warns-trump-against-ill-advised-iran-deal-we-must-finish-what-we-started",
+    "article_url": "https://ground.news/article/wicker-warns-trump-against-ill-advised-iran-deal-we-must-finish-what-we-started",
+    "bias": [
+      "Left coverage is de-emphasized here, while center and right both spotlight Sen. Wicker’s pressure on Trump; the split is in tone and framing.",
+      "The center treats it as a warning against an “ill advised” deal and notes concrete military aims like reopening the Strait of Hormuz , whereas the right turns it into a harder-edged story of Trump needing to “finish the job,” “finish what we started,” and acting on “bad advice.” Right-leaning pieces lean into urgency and contempt, with phrases like “sign of weakness” and “worth the paper,” while center coverage is more restrained.",
+      "Both agree the Iran question is a legacy-defining test."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 25.0,
+    "error": null,
+    "left_pct": 17.0,
+    "location": "United States",
+    "right_pct": 58.0,
+    "status": "ok",
+    "summary": [
+      "Senate Armed Services Committee Chair Roger Wicker warned President Donald Trump that he is being \"ill advised\" regarding Iran, urging him to use the military to \"finish the destruction\" of Iran's conventional military capabilities.",
+      "Wicker's comments follow President Trump's pattern of threatening escalation before pulling back to pursue negotiations, a strategy the president claims is necessary to prevent Iran from obtaining nuclear weapons while managing economic concerns.",
+      "Wicker claimed the ceasefire \"has done nothing but benefit Iran\" by allowing weapons replenishment, while former White House national security adviser John Bolton called negotiations a \"waste of oxygen\" on Thursday.",
+      "Trump nixed a scheduled attack on Tehran on Monday, and on Tuesday dismissed concerns about rising gas prices, reiterating that preventing Iran's nuclearization remains his primary focus."
+    ],
+    "title": "Wicker warns Trump against ‘ill advised’ Iran deal: ‘We must finish what we started’",
+    "topic": "US Foreign Policy",
+    "topic_full": "US Foreign Policy · United States"
+  },
+  {
+    "article_path": "/article/democrats-vow-a-redistricting-counterpunch-but-are-facing-hurdles-republicans-dont",
+    "article_url": "https://ground.news/article/democrats-vow-a-redistricting-counterpunch-but-are-facing-hurdles-republicans-dont",
+    "bias": [
+      "Left-Leaning coverage frames Democrats as agents mounting a “counterpunch” against an uneven map-drawing landscape, stressing “hurdles” and procedural disadvantage; right-leaning coverage sharpens that into a more strategic, adversarial story about a “steep” battle and Republicans building a “long-term edge” or “structural advantage.” The emotional register differs too: the left leans combative but sympathetic, while the right uses more alarm-tinged, winner-loser language.",
+      "A key dividing line is the mention of Democrats’ “self-imposed” constraints, which shifts blame inward and is more visible beyond the left.",
+      "Both sides agree Democrats trail in 2026 and may narrow the gap by 2028, but they diverge on whether the core story is unfair obstacles or durable Republican advantage."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "Democrats are attempting to redraw congressional maps to counter recent Republican gains, but face significant constitutional and legal hurdles that Republicans do not encounter in their own redistricting efforts.",
+      "After President Donald Trump demanded aggressive map redrawing last year, Democrats abandoned past support for nonpartisan redistricting to implement partisan maps and remain competitive in future House elections.",
+      "A Virginia Supreme Court ruling invalidated new boundaries this month, while voters in Colorado and New York must approve constitutional amendments before reshaping district lines. Colorado spokesman Curtis Hubbard says voters will declare, 'Hey, you can't do that.'",
+      "Wisconsin Democratic Party Chair Devin Remiker has proposed maps targeting up to six additional seats, while strategists project potential gains of four seats in Indiana, Kentucky, and Kansas if Democratic governors overcome term-limit challenges.",
+      "The 2030 census is projected to shift 10 House seats toward Republican-controlled states, complicating Democratic efforts to secure a majority in 2028 and beyond despite current redistricting gains."
+    ],
+    "title": "Democrats Pursue Redistricting Push for 2028 House Maps",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/oldest-pearl-harbor-survivor-is-keeping-memory-of-the-surprise-bombing-alive-at-106_34c111",
+    "article_url": "https://ground.news/article/oldest-pearl-harbor-survivor-is-keeping-memory-of-the-surprise-bombing-alive-at-106_34c111",
+    "bias": [
+      "Left and right both center Freeman Johnson as a living link to Pearl Harbor , but they diverge in tone and emphasis: left-leaning coverage leans into remembrance, portraying him as “keeping memory” alive and stressing the “dwindling number” of survivors, while right-leaning coverage adds a more laudatory frame, using words like “humility” and “keeping history alive” to cast him as a model for future generations.",
+      "The center broadens the lens with casualty counts, Memorial Day context, and World War II impact.",
+      "Across all three, shared phrases like “surprise bombing” and “tragic day” signal a common sense of loss and historical gravity."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "Hawaii",
+    "right_pct": 23.0,
+    "status": "ok",
+    "summary": [
+      "As The United States prepares for Memorial Day on Monday, 106-year-old Navy veteran Freeman Johnson preserves the history of World War, remaining a vital witness to the service of his generation.",
+      "With the death of Ira \"Ike\" Schab in December, only 11 survivors of the surprise attack on Pearl Harbor remain, an event that killed just over 2,400 troops and propelled The United States into the war.",
+      "Serving as a fireman on the Louis, Johnson joined the Navy as a 19-year-old to avoid walking through Europe and recalls the Pacific Ocean as vast, stating, \"You couldn't see any land at all.\"",
+      "Johnson witnessed the surrender of the Japanese from the mast of the Iowa, having also transported President Franklin Roosevelt to the Tehran Conference and watched the signing aboard the USS Missouri on Sept. 2, 1945.",
+      "Reflecting on his service after working until age 90, Johnson tells children who ask about fear, \"You're too busy to be scared,\" noting that one does not know what they fear."
+    ],
+    "title": "Oldest Pearl Harbor survivor is keeping memory of the surprise bombing alive at 106",
+    "topic": "Pearl Harbor",
+    "topic_full": "Pearl Harbor · Hawaii"
+  },
+  {
+    "article_path": "/article/us-intelligence-says-irans-supreme-leader-is-hidden-in-undisclosed-location",
+    "article_url": "https://ground.news/article/us-intelligence-says-irans-supreme-leader-is-hidden-in-undisclosed-location",
+    "bias": [
+      "Left-Leaning coverage emphasizes the reported secrecy mainly as a diplomatic problem, stressing that couriers are “severely delaying” peace talks and, in some frames, linking the situation to injury and the fallout of strikes.",
+      "Right-Leaning coverage turns that same secrecy into a more alarmed, adversarial story, using phrases like “holed up,” “secret bunker,” “in hiding,” and “terrified of airstrikes,” while adding speculation about being “wounded” or even killed.",
+      "The sharpest dividing lines are injury, bunker claims, and the couriers’ meaning.",
+      "Both sides agree he is hard to reach and negotiations are slowed, but they differ over whether this signals strategic concealment or looming collapse."
+    ],
+    "bias_bar_text": "11% Center 33% Right 56%",
+    "center_pct": 33.0,
+    "error": null,
+    "left_pct": 11.0,
+    "location": null,
+    "right_pct": 56.0,
+    "status": "ok",
+    "summary": [
+      "Supreme Leader Ayatollah Mojtaba Khamenei is hidden in an undisclosed location with little access to the outside world, U.S. officials disclosed to CBS on Sunday, employing extreme measures to avoid Israeli-US strikes.",
+      "Mojtaba Khamenei suffered severe facial and leg injuries during the Feb airstrike of Operation Epic Fury that also killed his father, Ayatollah Ali Khamenei, and has not appeared publicly since.",
+      "According to U.S. intelligence, Khamenei is reachable only through a \"labyrinth\" of couriers, with every piece of information he receives dated and causing significant latency in responses.",
+      "Difficulties reaching Khamenei have slowed deal negotiations with President Trump, with officials describing the communication process as \"almost like watching a sitcom\" due to extreme latency.",
+      "Despite physical isolation, sources note that Khamenei remains \"mentally sharp\" and continues to participate in senior meetings via audio conferencing, managing state affairs from his fortified bunker location."
+    ],
+    "title": "U.S. Intelligence Says Iran’s Supreme Leader Is Hidden in Undisclosed Location",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/suspect-dead-bystander-also-wounded-as-shots-fired-near-white-house-report_95d396",
-    "article_url": "https://ground.news/article/suspect-dead-bystander-also-wounded-as-shots-fired-near-white-house-report_95d396",
+    "article_path": "/article/peter-murrell-pleads-guilty-to-embezzling-snp-funds-as-party-chief-executive",
+    "article_url": "https://ground.news/article/peter-murrell-pleads-guilty-to-embezzling-snp-funds-as-party-chief-executive",
     "bias": [
-      "Left-Leaning coverage largely frames the event as an evolving “encounter” with Secret Service, stressing uncertainty and multiple early versions, while right-leaning outlets turn it into a sharper security alarm, using phrases like “lockdown,” “dozens of shots,” “security hole,” and “shot dead” to foreground danger and institutional failure.",
-      "The left also de-emphasizes broader political fallout, whereas the right highlights Trump being inside as a symbolic vulnerability.",
-      "Center coverage stays closest to official sourcing and details.",
-      "All sides agree on the core facts—shots fired near the White House , officers returned fire, and at least two people were injured—but diverge over whether the story is a contained incident or a wider breakdown."
+      "Left-Leaning coverage casts the case as a scandal of personal excess, using labels like “ex-SNP boss,” “luxury lifestyle,” and “remanded in custody” to heighten moral censure and urgency, while right-leaning coverage is de-emphasized here; center-leaning framing stays more procedural, stressing that Murrell “admitted” embezzling funds and that the money was “earmarked for independence campaigning.” The sharpest dividing line is motive and meaning: one side spotlights private misuse, the other the political purpose of the cash.",
+      "Both, however, converge on the guilty plea, the £400,000 scale, and the broader theme of accountability tied to party power and nationalist politics ."
     ],
-    "bias_bar_text": "L 24% Center 52% R 24%",
-    "center_pct": 52.0,
+    "bias_bar_text": "Left 39% Center 46% R 15%",
+    "center_pct": 46.0,
     "error": null,
-    "left_pct": 24.0,
+    "left_pct": 39.0,
     "location": null,
-    "right_pct": 24.0,
+    "right_pct": 15.0,
     "status": "ok",
     "summary": [
-      "A gunman opened fire at a security checkpoint near the White House before being shot by U.S. Secret Service officers.",
-      "The suspect later died at a hospital, while a bystander was also injured during the incident.",
-      "Officials said no Secret Service personnel were hurt and Donald Trump , who was at the White House, was not affected."
+      "On Monday, former Scottish National Party chief executive Peter Murrell pleaded guilty at the High Court in Edinburgh to embezzling £400,310.65 from the party and was remanded into custody pending sentencing on June 23.",
+      "Operation Branchform, a long-running police investigation into SNP finances, scrutinized Murrell's embezzlement over a 12-year period between August 2010 and January 2023, with Police Scotland spending more than four years conducting extensive enquiries across Europe.",
+      "Murrell diverted party funds into personal accounts to purchase a motorhome, two cars, and luxury goods, employing false receipts and accounting measures to conceal his activities from 2010 to 2022.",
+      "Judge Young characterized the embezzlement as a significant \"breach of trust,\" stating Murrell abused his privileged position as chief executive and must face consequences for diverting funds intended for party operations.",
+      "Sturgeon, who served eight years as first minister, was cleared of wrongdoing last year following the investigation; she and Murrell announced their divorce last year after approximately 15 years of marriage."
     ],
-    "title": "Suspect dead, bystander also wounded as shots fired near White House: Report",
+    "title": "Former SNP chief executive Peter Murrell pleads guilty to embezzling £400k from the party",
     "topic": null,
     "topic_full": null
+  },
+  {
+    "article_path": "/article/iran-trump-remarks-on-strait-of-hormuz-inconsistent-with-reality_0b994b",
+    "article_url": "https://ground.news/article/iran-trump-remarks-on-strait-of-hormuz-inconsistent-with-reality_0b994b",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s Hormuz claim as overblown, stressing Tehran’s rebuke as “inconsistent with reality” and adding unresolved nuclear details like the highly enriched uranium stockpile to suggest the deal is far from settled.",
+      "Right-Leaning coverage is more triumphant toward Trump, using celebratory phrases like “announces agreement” and “reopened,” while still spotlighting Iran’s defiance with sharper dismissals such as “far from reality.” The key dividing line is whether “reopening” signals breakthrough or bluff; both sides agree the Strait of Hormuz is central, but they diverge on whether Trump’s announcement marks progress or projection."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 56.0,
+    "error": null,
+    "left_pct": 11.0,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, President Donald Trump announced a peace deal with Iran is \"largely negotiated,\" but Iranian media immediately disputed the claim as \"far from reality,\" asserting Tehran would retain control of the Strait of Hormuz .",
+      "In February, the United States and Israel launched strikes on Iran, prompting Tehran to shut the Strait of Hormuz and triggering a US naval blockade of Iranian ports beginning April 13.",
+      "Pakistan-Led mediation proposed a three-stage framework: formally ending the war, resolving the Strait crisis, and launching a 30-day window for negotiations on Iran's nuclear program and sanctions relief.",
+      "Israeli Prime Minister Benjamin Netanyahu told Trump on Saturday that any deal must dismantle Iran's nuclear threat, while Trump stated Sunday he instructed representatives not to rush, noting \"time is on our side.\"",
+      "Foreign Ministry spokesperson Esmail Baghaei stated Tehran insists on retaining control of the Strait of Hormuz, while US Secretary of State Marco Rubio reiterated Washington's demand that Iran hand over enriched uranium."
+    ],
+    "title": "Iran: Trump remarks on Strait of Hormuz ‘inconsistent with reality’",
+    "topic": "Strait of Hormuz",
+    "topic_full": "Strait of Hormuz · United States"
   },
   {
     "article_path": "/article/exclusive-us-tax-officials-consider-adding-citizenship-question-to-tax-forms_df742c",
     "article_url": "https://ground.news/article/exclusive-us-tax-officials-consider-adding-citizenship-question-to-tax-forms_df742c",
-    "bias": [
-      "Left-Leaning coverage frames the proposal as part of a broader, more troubling “sprawling” immigration enforcement and anti-fraud drive, while right-leaning coverage turns the same move into a tougher “immigration crackdown” that is “expands” under Trump; the center stays more procedural, using “Exclusive” and explaining Form 1040 and the two-version option.",
-      "The biggest dividing line is whether the citizenship question is portrayed as administrative policy or as an enforcement weapon.",
-      "Both sides agree the IRS is considering the change and cite three informed sources, but they diverge sharply in tone: left leans critical, right leans law-and-order, and the center remains technical."
-    ],
-    "bias_bar_text": "L 20% Center 60% R 20%",
-    "center_pct": 60.0,
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 50.0,
     "error": null,
-    "left_pct": 20.0,
-    "location": null,
-    "right_pct": 20.0,
-    "status": "ok",
+    "left_pct": 17.0,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "no_change",
     "summary": [
-      "The Internal Revenue Service is debating requiring taxpayers to disclose citizenship status on next year's Form 1040 tax forms, with officials considering a version that includes a check-box for non-U.S. citizens or dual citizens.",
-      "President Donald Trump 's administration is pushing to link federal agencies to immigration enforcement, following 2025 efforts by the Treasury Department and Department of Homeland Security to share confidential taxpayer data with immigration officials for deportations.",
-      "Non-Citizens currently use a nine-digit \"individual tax identification number\" in place of a Social Security number; tax officials have discussed differentiating codes after the IRS erroneously shared data of more than 42,000 taxpayers with DHS in February.",
-      "Nina Olson, executive director of the Center for Taxpayer Rights, criticized the potential policy, saying it is \"an effort to terrorize people with certain immigration statuses\" and turns the IRS into an agency collaborating with immigration authorities.",
-      "Fear of IRS collaboration with immigration enforcement has fiscal consequences for the U.S. government; The Yale Budget Lab estimated lower tax compliance rates among immigrant communities could lead to a $313 billion loss in federal revenue over the next decade."
+      "The U.S. Internal Revenue Service is considering adding a citizenship question to tax forms as part of an immigration enforcement initiative according to multiple sources.",
+      "IRS officials are exploring two versions of Form 1040, the form used by individuals to report earnings.",
+      "One version of the form would include a checkbox for non-U.S. citizens or those with dual citizenship.",
+      "Undocumented immigrants must file and pay taxes like citizens, and doing so has been important for gaining legal status."
     ],
     "title": "US tax officials consider adding citizenship question to tax forms: Reuters",
-    "topic": null,
-    "topic_full": null
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/white-house-shooting-suspect-identified-as-21-year-old-nasire-best-with-reported-mental-health-issues",
-    "article_url": "https://ground.news/article/white-house-shooting-suspect-identified-as-21-year-old-nasire-best-with-reported-mental-health-issues",
+    "article_path": "/article/us-releases-second-batch-of-declassified-uap-files_b3db01",
+    "article_url": "https://ground.news/article/us-releases-second-batch-of-declassified-uap-files_b3db01",
     "bias": [
-      "Left-Leaning coverage frames the shooting as part of a wider “political violence” pattern in Trump’s orbit, using cautionary language like “fresh concerns” and explaining the suspect through “mental health concerns” and delusional claims such as “ Jesus Christ ” or “son of God.” Right-leaning coverage shifts to a sharper security-and-threat story, spotlighting “repeat intruder,” “emotional disturbed,” “armed gunman,” and “BREAKING UPDATE” to heighten urgency and law-and-order stakes.",
-      "The key fault lines are whether the event is read as systemic political violence or a discrete breach, plus how prior encounters and bizarre beliefs are weighted.",
-      "Both sides agree on the shooting, the suspect’s death, and Secret Service return fire."
+      "Left-Leaning coverage frames the release as a transparency story, stressing public pressure and long-hidden files, while right-leaning coverage turns it into an eerie, “explosive” spectacle, leaning on words like “chilling,” “mysterious,” and “unexplained” and even teasing a possible shootdown over Lake Huron.",
+      "The dividing line is whether the files are an overdue disclosure or a dramatic clue to hidden truths; left and center outlets keep official caution and NASA-style skepticism in view, but right coverage de-emphasizes that restraint.",
+      "Both sides agree on the declassified batch, yet split over whether it invites careful scrutiny or cosmic intrigue."
     ],
     "bias_bar_text": null,
-    "center_pct": 21.0,
+    "center_pct": 47.0,
     "error": null,
-    "left_pct": 22.0,
+    "left_pct": 17.0,
     "location": "United States",
-    "right_pct": 57.0,
+    "right_pct": 36.0,
+    "status": "ok",
+    "summary": [
+      "The U.S. Defense Department released a second batch of declassified files on alleged UFO sightings, detailing reports of 'green orbs,' 'discs,' and 'fireballs.'",
+      "Included is Pentagon footage of a U.S. fighter jet shooting down an unidentified object over Lake Huron in 2023.",
+      "The archive contains 209 reports of various unexplained aerial phenomena, as stated by the Pentagon.",
+      "The Pentagon emphasized that the files differ in quality and sourcing, released to promote transparency about unidentified aerial phenomena."
+    ],
+    "title": "US Releases Second Batch of Declassified UAP Files",
+    "topic": "UFO",
+    "topic_full": "UFO · United States"
+  },
+  {
+    "article_path": "/article/white-house-shooting-suspect-identified-as-21-year-old-nasire-best-with-reported-mental-health-issues_20a31c",
+    "article_url": "https://ground.news/article/white-house-shooting-suspect-identified-as-21-year-old-nasire-best-with-reported-mental-health-issues_20a31c",
+    "bias": [
+      "Left-Leaning coverage casts the shooting as another episode in a “string” of “political violence,” widening the lens to Trump-era instability and security strain, while right-leaning coverage narrows in on the suspect as a “repeat intruder” with a “violent history,” “criminal record,” and “mental health issues,” emphasizing law-and-order threats over broader context.",
+      "The same facts—21-year-old Nasire Best, a White House checkpoint, Secret Service gunfire, and an injured bystander—are framed differently: left notes escalating vulnerability, right spotlights danger and personal responsibility.",
+      "Center coverage stays more restrained, leaning on court records and official descriptions."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": "United States",
+    "right_pct": 38.0,
     "status": "ok",
     "summary": [
       "The U.S. Secret Service shot and killed 21-year-old Nasire Best after he approached a security checkpoint near 17th Street and Pennsylvania Avenue NW and opened fire with a handgun.",
@@ -210,9 +706,9 @@
     "article_url": "https://ground.news/article/trump-administration-releases-40-million-for-colorado-river-districts-purchase-of-the-historic-shoshone-water-rights",
     "bias": null,
     "bias_bar_text": null,
-    "center_pct": 70.0,
+    "center_pct": 73.0,
     "error": null,
-    "left_pct": 30.0,
+    "left_pct": 27.0,
     "location": "Colorado",
     "right_pct": null,
     "status": "no_change",
@@ -228,362 +724,120 @@
     "topic_full": "Colorado Politics · Colorado"
   },
   {
-    "article_path": "/article/polls-close-for-early-voting-in-texas-senate-runoff-race-between-paxton-cornyn_66e5e7",
-    "article_url": "https://ground.news/article/polls-close-for-early-voting-in-texas-senate-runoff-race-between-paxton-cornyn_66e5e7",
+    "article_path": "/article/saudi-crown-prince-joins-trump-led-call-with-arab-leaders-on-regional",
+    "article_url": "https://ground.news/article/saudi-crown-prince-joins-trump-led-call-with-arab-leaders-on-regional",
     "bias": [
-      "Left-Leaning coverage frames the runoff as a bruising, long-running brawl, stressing the $135 million, “AI-generated ads,” and “ad hominem attacks,” so the emphasis falls on campaign toxicity and Republican infighting.",
-      "Right-Leaning coverage instead spotlights momentum, using terms like “NEW,” “heated,” and “slim lead” to cast Paxton as ahead in a razor-thin fight, backed by the three-point poll.",
-      "Center coverage sits between them, highlighting Trump’s “surprise endorsement” and low turnout as tactical turning points.",
-      "Both sides agree Trump matters and the race is close, but they diverge over whether the story is mainly conflict, strategy, or Paxton’s advantage."
+      "Left-Leaning coverage frames Trump’s call as a tense, almost confrontational moment, using words like “stuns,” “demand,” “abruptly shifted,” and “unexpected ultimatum” to stress pressure on Muslim leaders and the surprise of his pivot from de-escalation to Israel normalization.",
+      "Right-Leaning coverage recasts the same move as strategic diplomacy, foregrounding “Pushes,” “urging,” and the “Abraham Accords,” often in a pro-Trump, pro-peace tone and adding more detail about participating Arab states.",
+      "Both sides agree the call centered on regional war , Iran, and postwar normalization, but they split over whether it was coercive disruption or statesmanlike coalition-building."
     ],
-    "bias_bar_text": null,
-    "center_pct": 75.0,
+    "bias_bar_text": "Left 25% 8% Right 67%",
+    "center_pct": 8.0,
     "error": null,
-    "left_pct": 17.0,
-    "location": "Texas",
-    "right_pct": 8.0,
+    "left_pct": 25.0,
+    "location": null,
+    "right_pct": 67.0,
     "status": "ok",
     "summary": [
-      "Early voting concluded Friday across Texas, setting the stage for Tuesday's primary runoff elections featuring the U.S. Senate race between John Cornyn and Ken Paxton and the Congressional District 18 contest.",
-      "Voter fatigue and confusion over shifting district lines appear to be suppressing participation as this runoff marks the sixth election since November's general election, with residents voting repeatedly.",
-      "Official counts in Harris County show a combined total of 120,066 early voters, including nearly 31,000 Democrats and nearly 41,000 Republicans, though experts say turnout remains lower than expected.",
-      "Democrats Johnny Garcia and Maureen Galindo are competing for the chance to represent District 35 in the November election, adding another high-profile contest to the ballot.",
-      "KHOU 11 political analyst Brandon Rottinghaus warns that low participation allows results to be swung easily. \"An election can be swung easily by just a handful of voters,\" Rottinghaus said."
+      "President Donald Trump pressured leaders from Saudi Arabia, the United Arab Emirates, Qatar, Pakistan, Turkey, Egypt, Jordan, and Bahrain to commit to the Abraham Accords and normalize relations with Israel once the war with Iran ends.",
+      "What began as a discussion on regional security and a ceasefire with Iran abruptly shifted when Trump issued an unexpected demand for sweeping diplomatic change, catching many participants off guard.",
+      "Silence reportedly fell over the line as leaders from nations lacking diplomatic ties with Israel absorbed the ultimatum. U.S. officials described the moment as tense yet revealing.",
+      "Senator Lindsey Graham voiced strong support, warning that \"severe repercussions\" would follow refusal, while framing the potential expansion as historically consequential for Middle East diplomacy.",
+      "Envoys Jared Kushner and Steve Witkoff will pursue the normalization matter in the coming weeks, while Trump plans to brief Israeli Prime Minister Benjamin Netanyahu on the strategy."
     ],
-    "title": "Polls close for early voting in Texas Senate runoff race between Paxton, Cornyn",
-    "topic": "Texas Politics",
-    "topic_full": "Texas Politics · Texas"
+    "title": "Saudi crown prince joins Trump-led call with Arab leaders on regional",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/were-building-a-moon-base-nasa-announces-plans-for-lunar-habitat",
-    "article_url": "https://ground.news/article/were-building-a-moon-base-nasa-announces-plans-for-lunar-habitat",
-    "bias": [
-      "Left-Leaning coverage frames the story as institutional strategy, stressing NASA ’s “reorganization,” “blueprint,” and even a “Golden Age” of innovation, while right-leaning coverage turns it into a bolder, more combative national mission, leaning on phrases like “launches,” “push,” “speed up,” “finally,” and “boldly go” to suggest urgency and overdue momentum.",
-      "The sharpest dividing line is emphasis: left pieces spotlight agency structure, budget constraints, and Musk’s “This Will Be Awesome,” whereas right pieces foreground a “permanent” Moon base, the South Pole, and Mars preparation.",
-      "Both share excitement about Artemis and lunar habitats, but they diverge over whether this is a managed policy buildout or a dramatic civilizational leap."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 26.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": "United States",
-    "right_pct": 57.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, May 26, NASA will host a live news conference at its Washington headquarters to unveil Moon Base program details, mission architecture, and industry partnerships.",
-      "NASA is advancing the Moon Base initiative as part of the Artemis Program, targeting the Lunar South Pole to establish sustained human presence and prepare for future Mars missions.",
-      "Development follows a phased strategy, with Phase 1 delivering around 4,000 kg of payload across 25 launches and 21 landings, scaling to Phase 3's 29 launches and nearly 150,000 kg capacity.",
-      "NASA Administrator Jared Isaacman, Lori Glaze, and program executive Carlos Garcia-Galan will discuss plans to extract frozen water and navigate the challenging Lunar South Pole terrain during the briefing.",
-      "SpaceX CEO Elon Musk reacted to the announcement by describing the plans as \"awesome,\" as NASA integrates commercial payload services to support long-term scientific operations on the Moon."
-    ],
-    "title": "NASA reorganizes to accelerate Moon Base, lunar programs",
-    "topic": "NASA",
-    "topic_full": "NASA · United States"
-  },
-  {
-    "article_path": "/article/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show",
-    "article_url": "https://ground.news/article/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show",
-    "bias": [
-      "Left-Leaning coverage frames the FCC move as a procedural dispute, stressing public-comment deadlines and the question of whether *The View* qualifies for a “bona fide news” exemption; center-leaning reporting stays similarly regulatory but adds ABC’s defense that the action could “chill protected speech.” Right-leaning outlets sharpen the story into an ideological clash, using phrases like “far-left,” “partisan,” and “propaganda” to portray the show as a Democrat-friendly workaround that would “silence Republicans.” Both sides center equal-time rules, but they diverge on motive: administrative scrutiny versus media bias and cultural combat."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 16.0,
-    "error": null,
-    "left_pct": 13.0,
-    "location": "United States",
-    "right_pct": 71.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Federal Communications Commission opened public comment on whether Disney -owned ABC's The View qualifies as a \"bona fide news interview program\" exempt from political equal time rules.",
-      "FCC Chairman Brendan Carr initiated scrutiny after The View hosted Democratic Texas State Rep. James Talarico, arguing shows are not exempt if decisions are \"based on partisan purposes, such as an intention to advance or harm an individual's candidacy.\"",
-      "Disney and ABC petitioned the commission in May, arguing the exemption \"remains valid\" after more than 20 years and warning the FCC's actions could \"chill critical protected speech both with respect to 'The View' and more broadly.\"",
-      "Commissioner Anna Gomez characterized the probe as \"politically motivated,\" while the agency set a June 22 deadline for public comments to determine whether the show's format adheres to legal standards.",
-      "The proceeding challenges the 1934 Communications Act's application to modern talk shows, as the FCC reevaluates whether decades-old exemptions granted to programs like The Tonight Show should still apply to contemporary political broadcasting."
-    ],
-    "title": "Disney asks FCC to classify ‘The View’ as exempt from equal time rule",
-    "topic": "Disney",
-    "topic_full": "Disney · United States"
-  },
-  {
-    "article_path": "/article/exclusive-alleged-trump-house-suspect-was-navy-veteran-with-severe-ptsd-family-friend",
-    "article_url": "https://ground.news/article/exclusive-alleged-trump-house-suspect-was-navy-veteran-with-severe-ptsd-family-friend",
+    "article_path": "/article/netanyahu-confirms-trump-nuclear-red-lines-for-iran",
+    "article_url": "https://ground.news/article/netanyahu-confirms-trump-nuclear-red-lines-for-iran",
     "bias": null,
-    "bias_bar_text": "Right 100%",
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "fail",
+    "summary": null,
+    "title": "Netanyahu Says Trump Agrees Iran Deal Must Dismantle Enrichment Sites, Remove Uranium",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/three-gaza-flotilla-activists-return-to-bc-after-detention-in-israel",
+    "article_url": "https://ground.news/article/three-gaza-flotilla-activists-return-to-bc-after-detention-in-israel",
+    "bias": [
+      "Left-Leaning coverage frames the story as a humanitarian clash, foregrounding “activists,” “detainment,” and claims of “continuous beatings and torture” to stress alleged abuse and Israeli force; center-leaning pieces stay restrained, using “detained” and “return” while briefly adding the emotional airport scene of supporters, tears, and hugs.",
+      "Right-Leaning coverage shifts toward legal-security language like “Israeli blockade ,” “navy forces,” and “deportation,” de-emphasizing alleged mistreatment and instead stressing “fallout” and the broader consequences of the flotilla.",
+      "All sides agree on the interception and return, but diverge over whether the defining issue is rights violation, civic protest, or security enforcement."
+    ],
+    "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
-    "right_pct": 100.0,
-    "status": "no_change",
-    "summary": [
-      "A 32-year-old Navy veteran named Thomas Caleb Butler allegedly attacked 69-year-old Kerry Sheron in Escondido, California, leaving Sheron in critical condition during the assault near Sheron's Trump-themed house.",
-      "Sheron's wife believes he has no hope of recovering from his severe injuries sustained in the attack.",
-      "A family friend described Butler as struggling with severe PTSD and mental health issues following his military service, with his medication reportedly failing.",
-      "Police are investigating the motive but do not believe the attack was politically motivated despite the home's pro-Trump displays."
-    ],
-    "title": "Alleged ‘Trump House’ suspect was Navy veteran with ‘severe PTSD’: family friend",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/community-unites-in-solidarity-at-mclean-county-islamic-center",
-    "article_url": "https://ground.news/article/community-unites-in-solidarity-at-mclean-county-islamic-center",
-    "bias": [
-      "Left-Leaning coverage frames the shooting as part of a wider pattern of anti-Muslim violence, stressing “deepest fears,” “unimaginable loss,” and “solidarity,” while elevating victims as “heroes” and even linking the attack to “decades of rhetoric” and interfaith support.",
-      "The center stays more local and ritual-focused, using softer terms like “tragedy,” “tribute,” and “our martyrs” to emphasize mourning.",
-      "The key dividing line is whether the event is read as a single communal tragedy or a symptom of broader hate; both sides agree on grief, prayer, and loss, but differ on the political meaning attached to them."
-    ],
-    "bias_bar_text": "Left 82% C 18%",
-    "center_pct": 18.0,
-    "error": null,
-    "left_pct": 82.0,
-    "location": null,
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Tuesday, May 19, 2026, two teenage gunmen killed three attendees at the Islamic Center of San Diego in an attack federal authorities are investigating as a hate crime.",
-      "Muslim advocates warned of rising anti-Muslim bigotry; CAIR reported a 1,450 percent increase in extremist rhetoric by officials, and advocates tracked an unprecedented eleven-fold increase in threats against American Muslims since January 2026.",
-      "Imam Taha Hassane identified the victims as Amin Abdullah, Nadir Awad, and Mansour Kaziha, remembering them as \"men of courage, sacrifice and faith\" whose actions delayed the shooters and saved lives.",
-      "More than 2,000 people gathered for funeral prayers on Friday, May 22, 2026, while a fundraiser for Abdullah's family collected over $2 million and separate funds exceeded $500,000.",
-      "The U.S. House of Representatives observed a moment of silence on Wednesday, May 20, 2026, as Hassane emphasized spreading a \"culture of tolerance\" in response to the violence."
+      "Three activists returned to Vancouver International Airport on Sunday after Israeli forces intercepted their Gaza-bound flotilla in the Mediterranean Sea.",
+      "Organized by the Global Sumud Flotilla, the mission departed Marmaris, Turkey, on May 14 with 41 boats and 420 people, including 12 Canadians, to challenge the blockade of Gaza.",
+      "Tow alleged 'four days of torture,' including beatings and Taser burns, while claiming over 30 cases of broken ribs occurred on his prison ship.",
+      "On Friday, Foreign Affairs Minister Anita Anand acknowledged receiving details about 'appalling abuse' suffered by Canadians, though Israeli prison officials denied the allegations.",
+      "The Global Sumud Flotilla is urging the Canadian government to adopt immediate sanctions and implement a military equipment embargo against Israel."
     ],
-    "title": "Community unites in solidarity at McLean County Islamic Center",
+    "title": "Three Flotilla Activists Detained in Israel Arrive Back in Vancouver",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/over-40k-evacuated-over-chemical-tank-in-california_0895fe",
-    "article_url": "https://ground.news/article/over-40k-evacuated-over-chemical-tank-in-california_0895fe",
+    "article_path": "/article/trump-throws-weight-behind-japans-takaichi-in-meeting-with-xi-yomiuri-says",
+    "article_url": "https://ground.news/article/trump-throws-weight-behind-japans-takaichi-in-meeting-with-xi-yomiuri-says",
     "bias": [
-      "Left-Leaning coverage frames the leak as an urgent public-safety crisis, stressing “lost control,” “catastrophic explosion,” and the scale of 40,000 evacuees, while right-leaning coverage leans harder into alarmist spectacle with phrases like “ticking time bomb,” “blow up,” and “toxic plume.” The dividing line is the threat’s portrayal: left emphasizes emergency management and health risk; right amplifies imminent disaster.",
-      "Center coverage is more logistics-focused, highlighting evacuation zones, road closures, and the Disneyland-area disruption.",
-      "All sides agree on the hazmat danger, the state of emergency , and no injuries, but their language reflects different priorities: governance, public disruption, or worst-case peril."
+      "Left-Leaning coverage centers Xi’s “sharply criticized” stance on Japan ’s “rearmament,” framing the Beijing exchange as a warning about militarization and conflict, while right-leaning coverage pivots to Trump “throws weight behind” Takaichi and Xi “openly criticizes” her “to Trump’s face,” turning the story into a test of U.S. resolve and alliance politics.",
+      "The center sits between them, stressing Trump’s defense and Xi’s “vocal and agitated” demeanor with less overt heat.",
+      "Shared ground: all sides note the same summit and Japan’s remilitarisation, but they diverge on whether the drama is mainly about Chinese pressure or Trump-led pushback."
     ],
-    "bias_bar_text": null,
-    "center_pct": 58.0,
+    "bias_bar_text": "L 20% Center 33% Right 47%",
+    "center_pct": 33.0,
     "error": null,
-    "left_pct": 24.0,
-    "location": "Orange County",
-    "right_pct": 18.0,
+    "left_pct": 20.0,
+    "location": null,
+    "right_pct": 47.0,
     "status": "ok",
     "summary": [
-      "An estimated 40,000 residents in Orange County, California , were ordered to evacuate due to a failing 34,000-gallon chemical tank leaking methyl methacrylate at the GKN Aerospace facility in Garden Grove.",
-      "The evacuation zone includes parts of Garden Grove, Cypress, Stanton, Anaheim, Buena Park, and Westminster, with road closures and multiple schools shut down.",
-      "The tank is in crisis with frozen valve and pump failures preventing secure mitigation, raising fears of a chemical spill or explosion; firefighters have been cooling the tank, but control has been lost.",
-      "No injuries have been reported, but methyl methacrylate exposure may cause respiratory and skin irritation; authorities continue hazardous materials operations and monitor air quality, warning residents to heed evacuation orders."
+      "On Sunday, the Yomiuri Shimbun reported that President Donald Trump defended Japanese Prime Minister Sanae Takaichi after Chinese President Xi Jinping criticized her during the recent Sino-US summit.",
+      "During the Beijing summit, Xi launched an 'intense diatribe' against Takaichi, citing her country's 'remilitarisation' and describing her and Taiwanese President Lai Ching-te as threats to regional peace.",
+      "Bilateral ties deteriorated since Takaichi suggested last November that a Chinese attack on Taiwan could trigger a Japanese military response, prompting her to raise defense spending to a record $58 billion.",
+      "Hours after concluding his two-day visit to China, Trump phoned Takaichi, where both leaders reaffirmed an 'ironclad' bilateral alliance, according to the prime minister.",
+      "Japan has increasingly shifted toward regional defense under Takaichi, expanding military exports and security partnerships, including a recent deal with Australia for three warships."
     ],
-    "title": "Over 40K Evacuated Over Chemical Tank in California",
-    "topic": "Evacuations",
-    "topic_full": "Evacuations · Orange County"
+    "title": "Xi Attacked Japan’s Rearmament During Trump Summit, FT Says",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/marines-conducts-a-rapid-response-exercise-at-the-us-embassy-in-venezuelas-capital_2b0e8f",
-    "article_url": "https://ground.news/article/marines-conducts-a-rapid-response-exercise-at-the-us-embassy-in-venezuelas-capital_2b0e8f",
+    "article_path": "/article/republican-senior-reveals-part-of-the-deal-terms-expanding-the-abraham-accords",
+    "article_url": "https://ground.news/article/republican-senior-reveals-part-of-the-deal-terms-expanding-the-abraham-accords",
     "bias": [
-      "Left-Leaning coverage frames the Caracas exercise as a suspicious U.S. show of force, foregrounding “protests,” “evacuation simulation,” and skeptical scare quotes, then widening into sovereignty language like “semi-colonial tutelage” and “kidnapped.” Right-leaning coverage instead recasts the same event as a “bold move” amid “rising tensions,” stressing security, deterrence, and “serious questions” about motives.",
-      "The key dividing line is whether Venezuelan authorization is treated as contextual detail or de-emphasized in favor of geopolitical alarm.",
-      "Both sides still center the Osprey flyover and embassy drill, but they diverge on whether it signals coordination, coercion, or strategic resolve."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "United States",
-    "right_pct": 36.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, the U.S. military conducted a rapid response exercise involving Marines and Two Marine Corps Osprey aircraft over the recently reopened Embassy in Caracas, Venezuela.",
-      "The exercise follows the ouster of then-President Maduro four months ago, with the Embassy in Caracas formally reopening two months prior to the drill.",
-      "Protesters gathered near the Embassy with a Venezuelan flag bearing the message \"No to the Yankee drill,\" while others demonstrated elsewhere in Caracas.",
-      "The Embassy stated on Instagram that such exercises ensure mission readiness, while Foreign Minister Gil previously stated the drill would prepare for medical or catastrophic emergencies.",
-      "Military aircraft last flew over Caracas on Jan. 3, when elite forces rappelled from helicopters to capture Maduro and his wife."
-    ],
-    "title": "Marines conduct a rapid response exercise at the US Embassy in Venezuela’s capital",
-    "topic": "US Operations In Venezuela",
-    "topic_full": "US Operations In Venezuela · United States"
-  },
-  {
-    "article_path": "/article/violent-crime-rates-in-2025-see-largest-decrease-since-1937-fbi",
-    "article_url": "https://ground.news/article/violent-crime-rates-in-2025-see-largest-decrease-since-1937-fbi",
-    "bias": [
-      "Left-Leaning coverage stays close to the bare finding—preliminary FBI data and a “sharp drop” in violent crime—while right-leaning pieces turn the same numbers into a partisan verdict, stressing “historic,” “plummeted,” and “single largest decreases” to celebrate Trump and Kash Patel as vindicated.",
-      "The right also uses sharper attack language—“basically bogus,” “pans,” “The Left tried to destroy”—to cast skeptics and media critics as hostile, whereas the left de-emphasizes political credit and controversy.",
-      "The key dividing line is whether the data is a neutral trend or proof that “changes are working,” though both sides agree crime is down and the figures are preliminary."
+      "Left-Leaning coverage frames Graham’s stance as coercive escalation, using terms like “war,” “must,” “threatened,” and “price to pay” to portray Saudi pressure as part of an “Israeli-US war on Iran,” while right-leaning coverage casts the same move as a diplomatic win, with phrases like “Deal Good,” “praises,” “strong support,” and “dramatic expansion” highlighting Trump’s dealmaking and the Abraham Accords as a path to “end war.” The sharp dividing line is whether linking Iran talks to normalization is seen as extortion or strategy; the right’s “severe repercussions” warning intensifies leverage, while the center briefly contextualizes the Accords’ existing UAE-Bahrain base and limited support, sitting between suspicion and enthusiasm."
     ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
-    "left_pct": 53.0,
-    "location": "United States",
-    "right_pct": 47.0,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
     "status": "ok",
     "summary": [
-      "Violent crime across the United States fell an estimated 9.3% in 2025, marking the fastest decline in nearly 90 years, according to the FBI.",
-      "Released last week, the Uniform Crime Reporting Program estimates rely on data from more than 17,000 law enforcement agencies covering about 96% of the population, though participation remains voluntary.",
-      "Robbery dropped 18.5% while aggravated assault fell 7.2% and reported rapes declined roughly 7.6%, with property crime decreasing an estimated 12.4%.",
-      "Participation in the National Incident-Based Reporting System expanded to more than 15,000 agencies, extending coverage to nearly 90% of the population according to the FBI.",
-      "Projections from the Council on Criminal Justice suggest 2025 may have recorded the lowest homicide rate in more than a century, aligning with the FBI's preliminary findings."
+      "US President Trump told leaders from Saudi Arabia, UAE, Qatar, Pakistan, Turkey, Egypt, Jordan, and Bahrain that after the war with Iran ends, he wants more nations to recognize Israel and join the Abraham Accords.",
+      "Saudi Arabia has not formally recognized Israel and insists that any ties must include a clear path to a Palestinian state, a demand that Israel refuses.",
+      "The Abraham Accords, brokered by the US in 2020, established formal ties between Israel and several Arab nations focused on shared strategic interests like opposition to Iran, marking a significant regional diplomatic shift."
     ],
-    "title": "Violent crime rates in 2025 see largest decrease since 1937: FBI",
-    "topic": "US Crime",
-    "topic_full": "US Crime · United States"
-  },
-  {
-    "article_path": "/article/exclusive-democrats-demand-rubio-explain-visa-for-wanted-former-polish-official_8ab73a",
-    "article_url": "https://ground.news/article/exclusive-democrats-demand-rubio-explain-visa-for-wanted-former-polish-official_8ab73a",
-    "bias": [
-      "Center-Leaning coverage keeps the story procedural, focusing on two House Democrats asking Marco Rubio for an explanation, while right-leaning coverage heightens the conflict with words like “demand,” “wanted,” and “grave abuse of power,” recasting a visa inquiry as a major institutional breach.",
-      "The sharpest dividing lines are the alleged visa expediting, the pending extradition request, and the claim of “unprecedented” interference, which the right frames as a deeper attack on lawful immigration procedures, while the center de-emphasizes that escalation.",
-      "Both sides share the core concern about a visa for a wanted former Polish official, but they diverge on whether it signals routine oversight or a broader power struggle."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 43.0,
-    "error": null,
-    "left_pct": 14.0,
-    "location": "United States",
-    "right_pct": 43.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Representatives Gregory Meeks and James Raskin asked Secretary of State Marco Rubio to explain whether Deputy Secretary of State Christopher Landau expedited a U.S. visa for former Polish Justice Minister Zbigniew Ziobro, enabling his escape from extradition.",
-      "Ziobro fled Poland to Hungary in January, receiving asylum from Prime Minister Viktor Orban before traveling to the United States while facing 26 charges including alleged misuse of crime victims' compensation funds.",
-      "In their letter, Meeks and Raskin wrote that granting the visa represents \"an unprecedented level of interference in the domestic politics and judicial systems of two longstanding U.S. treaty allies,\" referring to Poland and Hungary.",
-      "The lawmakers demanded an in-person briefing by June 21 regarding potential involvement by President Donald Trump or his aides, warning the visa threatened to \"invite a significant diplomatic crisis\" with Poland.",
-      "If convicted, Ziobro faces up to 25 years in prison; the State Department has not responded to the inquiry, while Polish authorities continue pursuing extradition to bring him to trial."
-    ],
-    "title": "Democrats demand Rubio explain visa for wanted former Polish official",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/new-york-official-warns-ai-could-cost-city-thousands-of-jobs",
-    "article_url": "https://ground.news/article/new-york-official-warns-ai-could-cost-city-thousands-of-jobs",
-    "bias": [
-      "Left-Leaning coverage frames AI as a mixed “boom” that helps NYC’s budget through Wall Street profits and tax revenue, then warns the city is “not ready” for a “bubble bursts” downturn; right-leaning coverage strips away that upside and pivots to crisis language, using “soon tanks,” “big-time budget cuts,” and the Mamdani angle to turn the report into a fiscal-warning story.",
-      "Center coverage stays more measured, stressing “could” and “potential” job losses, including a worst-case figure of 259,000 jobs.",
-      "Both sides agree on thousands of jobs at risk and city exposure, but diverge on whether the report signals prudent planning or looming political-economic decline."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "New York",
-    "right_pct": 23.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, New York City Comptroller Mark Levine released a report warning that artificial intelligence could trigger an economic downturn, urging lawmakers to increase the city's rainy-day fund to 16% of annual tax revenues.",
-      "The comptroller's office assigns a combined 50% probability to three negative scenarios where the AI investment boom fizzles, jobs are displaced, or labor markets cannot absorb rapid change, amid NYC's unique vulnerability with roughly one million office workers at risk.",
-      "Current reserves are projected to hold $7.2 billion at fiscal year 2026's end, well below the $13.5 billion target the comptroller's office says would be needed to offset a typical recession.",
-      "Economic uncertainty is already affecting young New Yorkers, with unemployment for college-educated young adults reaching 7.3% over the last 12 months, slightly surpassing the 7.1% rate for their non-college-educated peers.",
-      "Levine described the current period as \"uncharted territory,\" citing a three-to-five-year timeline for AI to reshape the city's economy and urging lawmakers to act decisively to shore up fiscal reserves before disruption accelerates."
-    ],
-    "title": "New York official warns AI could cost city thousands of jobs",
-    "topic": "US Economy",
-    "topic_full": "US Economy · New York"
-  },
-  {
-    "article_path": "/article/nvidia-says-its-forecast-for-200-billion-cpu-market-includes-china_94b9f1",
-    "article_url": "https://ground.news/article/nvidia-says-its-forecast-for-200-billion-cpu-market-includes-china_94b9f1",
-    "bias": [
-      "Left-Leaning coverage frames Huang’s remarks as a bullish hint, using phrases like “something major ahead” and “game-changing moment” to spotlight upside, while right-leaning coverage pivots to market anxiety, with language such as “spark,” “bubble,” and “investor nerves” to cast the same earnings story as a volatility test.",
-      "The main dividing line is whether China ’s inclusion in the $200 billion forecast is read as strategic growth or as a tension-laden risk amid trade frictions and chip restrictions; the center stays more measured, emphasizing “blockbuster growth,” supply-chain details, and production ramp-up.",
-      "All sides agree China and long-term demand remain central, reflecting broader optimism-versus-skepticism and geopolitical fault lines."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 39.0,
-    "error": null,
-    "left_pct": 15.0,
-    "location": "United States",
-    "right_pct": 46.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, Nvidia CEO Jensen Huang confirmed in Taipei that his forecast of a US$200 billion central processing unit market explicitly includes China, signaling continued demand despite US-China technology tensions.",
-      "Nvidia is ramping up production of the Vera Rubin platform to capture the shift toward agentic AI, targeting $20 billion in CPU revenue this year as it expands beyond GPU-led growth.",
-      "The tech giant reported record quarterly revenue surging 85% to $81 billion, and while U.S. licenses permit H200 chip sales to China, no deliveries have been completed to the roughly 10 approved firms.",
-      "Amid a Taiwanese probe into illegal AI server exports, CEO Huang insisted Nvidia remains 'very rigorous' in explaining compliance to partners, asserting that Super Micro must manage its own regulatory responsibilities.",
-      "Rival AMD announced plans to invest more than $10 billion in Taiwan's AI sector to deepen strategic partnerships and expand manufacturing capacity, intensifying competition within the critical semiconductor supply chain."
-    ],
-    "title": "Nvidia says its forecast for $200 billion CPU market includes China",
-    "topic": "Nvidia",
-    "topic_full": "Nvidia · United States"
-  },
-  {
-    "article_path": "/article/jury-clears-boeing-in-737-max-fraud-lawsuit",
-    "article_url": "https://ground.news/article/jury-clears-boeing-in-737-max-fraud-lawsuit",
-    "bias": [
-      "Left-Leaning coverage foregrounds Boeing ’s alleged misconduct, using terms like “crashing,” “fraud,” and “purposeful and negligent” to center accountability and LOT’s lost-income claim, while right-leaning coverage recasts the same verdict as vindication, with phrases like “major courtroom win,” “clears,” and “absolves” emphasizing triumph and closure.",
-      "The sharpest dividing lines are the $250 million stakes, the “deadly crashes,” and whether the case is framed as corporate blame or legal exoneration.",
-      "Center-Leaning reporting stays more restrained, but adds broader business context like Boeing’s China deal.",
-      "Both sides agree the jury sided with Boeing; they diverge on what that means."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 33.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": "United States",
-    "right_pct": 47.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, a jury in Seattle District Court found Boeing not guilty of fraud regarding 737 MAX jets sold to LOT Polish Airlines, concluding a two-week trial.",
-      "LOT Polish Airlines had accused Boeing of withholding critical MCAS flight-control system details, arguing this secrecy contributed to 2018 and 2019 crashes while seeking $153 million in damages.",
-      "\"We are gratified by the jury's verdict in our favor,\" a Boeing spokesperson said, calling the ruling a major legal victory as the company navigates MAX crisis fallout.",
-      "LOT acknowledged the outcome but signaled further legal action may follow, stating the process \"may not yet be concluded\" and leaving open the possibility of an appeal.",
-      "Separately, Boeing secured a deal with China earlier this month for 200 aircraft, with President Donald Trump indicating the agreement could eventually grow to as many as 750 jets."
-    ],
-    "title": "Jury clears Boeing in 737 MAX fraud lawsuit",
-    "topic": "Boeing",
-    "topic_full": "Boeing · United States"
-  },
-  {
-    "article_path": "/article/hooters-plans-to-rebrand-more-than-a-hundred-restaurants-as-family-friendly",
-    "article_url": "https://ground.news/article/hooters-plans-to-rebrand-more-than-a-hundred-restaurants-as-family-friendly",
-    "bias": [
-      "Left-Leaning coverage frames the rebrand as a skeptical correction to a “controversial” and “oversexualised” image, even nodding at private equity as a culprit; right-leaning coverage treats it more as a “shock” reversal that restores an original “family-friendly” identity and a “neighborhood place,” downplaying novelty and leaning on Kiefer’s long tenure since 1983.",
-      "The center mostly stays with the practical business shift—especially toned-down uniforms and the scale of more than a hundred locations—without the sharper moral edge.",
-      "Both sides agree the brand is changing, but they split on whether it’s a cleanup of past excess or a return to authentic roots."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 74.0,
-    "error": null,
-    "left_pct": 19.0,
-    "location": "United States",
-    "right_pct": 7.0,
-    "status": "ok",
-    "summary": [
-      "Hooters CEO Neil Kiefer is spearheading a return to the chain's family-friendly roots following the founders' autumn 2025 reacquisition of the brand after Chapter 11 bankruptcy.",
-      "Kiefer stated the chain deviated \"further and further away from what the brand and the concept stood for\" under previous management, noting thong-style uniforms \"chased away a lot of customers.\"",
-      "Company spokesperson Michela DellaMonica said the shift includes family-focused promotions like \"Kids Eat Free\" deals, while management enforces properly fitted shorts and ensures locations use the correct signature sauce.",
-      "Despite the push for a family-friendly atmosphere, some locations continue hosting \"bikini nights,\" a practice Kiefer told The New York Times he intends to end, though reporters observed these events at an East Brunswick, New Jersey, restaurant.",
-      "The founders acquired approximately 140 locations to \"re-Hooterize\" the chain and restore its original identity, seeking to align all owned stores with the intended beach-themed concept for long-term stability."
-    ],
-    "title": "Hooters aims to rebrand as family-friendly restaurant",
-    "topic": "Business",
-    "topic_full": "Business · United States"
-  },
-  {
-    "article_path": "/article/trump-administration-expands-ebola-travel-restrictions-to-green-card-holders",
-    "article_url": "https://ground.news/article/trump-administration-expands-ebola-travel-restrictions-to-green-card-holders",
-    "bias": [
-      "Left-Leaning coverage frames the move as an “ Ebola travel ban,” spotlighting green-card holders and the harshness implied by words like “bans” and “barred,” often with a Title 42/public-health-law lens that stresses civil-liberties and humanitarian stakes.",
-      "Right-Leaning coverage instead emphasizes “temporarily,” “limits entry,” and “balances public health protection,” portraying a narrow, rule-bound response and adding details like the 21-day lookback and WHO warning.",
-      "The shared ground is the Ebola rationale and the lawful-permanent-resident restriction, but the deeper divide is whether the policy reads as an exclusionary immigration crackdown or a calibrated health safeguard."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 48.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "United States",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the United States extended its Ebola -related travel ban to include Green Card holders who have recently visited the Democratic Republic of Congo, Uganda, or South Sudan within the previous 21 days.",
-      "The World Health Organization on Friday raised the risk of the rare Bundibugyo strain of Ebola in the DRC to \"very high,\" declaring the outbreak an emergency of international concern.",
-      "Under the new interim final rule, the Centers for Disease Control and Prevention restricts Green Card holders who traveled to affected nations within the previous 21 days from entering the United States.",
-      "Federal officials stated the measure balances public health protection with emergency response resources, though the Africa Centres for Disease Control and Prevention decried the restrictions as unnecessary and ineffective.",
-      "Effective immediately, the rule will remain in place for six months or until Health Secretary Robert F. Kennedy Jr. determines it is no longer needed to contain the outbreak."
-    ],
-    "title": "Trump administration expands Ebola travel restrictions to green card holders",
-    "topic": "Ebola",
-    "topic_full": "Ebola · United States"
+    "title": "Lindsey Graham says Saudi Arabia must join Abraham Accords to end Israeli-US war on Iran",
+    "topic": null,
+    "topic_full": null
   },
   {
     "article_path": "/article/howard-lutnick-gave-millions-to-republicans-just-before-high-stakes-epstein-interview",
@@ -594,10 +848,10 @@
       "Both sides agree on the sequence, but they diverge over its meaning, mirroring broader splits on power, ethics, and elite influence."
     ],
     "bias_bar_text": null,
-    "center_pct": 36.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": 64.0,
-    "location": "United States",
+    "left_pct": null,
+    "location": null,
     "right_pct": null,
     "status": "ok",
     "summary": [
@@ -608,279 +862,7 @@
       "This contribution marks Lutnick's first political donation since joining the Cabinet, with the Commerce Department stating he donated in a personal capacity, aligning with historical precedents from prior administrations."
     ],
     "title": "Lutnick donated $5M to House GOP super PAC ahead of Epstein deposition",
-    "topic": "Howard Lutnick",
-    "topic_full": "Howard Lutnick · United States"
-  },
-  {
-    "article_path": "/article/south-african-gaza-flotilla-activists-allege-they-were-shocked-with-electricity-in-israeli-detention_e1c840",
-    "article_url": "https://ground.news/article/south-african-gaza-flotilla-activists-allege-they-were-shocked-with-electricity-in-israeli-detention_e1c840",
-    "bias": [
-      "Left-Leaning coverage foregrounds activists’ allegations of severe abuse, using loaded terms like “torture,” “electrocution,” and “shocked with electricity” to cast Israeli detention as shocking misconduct; center pieces soften that slightly into “mistreatment” and “beatings,” while right-leaning coverage pivots toward legality and legitimacy, stressing “international law,” “illegal custody,” and “humiliating treatment” to frame the interception as justified yet contentious.",
-      "The key dividing lines are the detention claims, the lack or presence of official denial, and whether the 50-boat flotilla is portrayed as a humanitarian breach attempt or a rights-violating crackdown.",
-      "Both sides, however, keep the blockade and interception at the story’s core."
-    ],
-    "bias_bar_text": "L 19% Center 64% R 17%",
-    "center_pct": 64.0,
-    "error": null,
-    "left_pct": 19.0,
-    "location": null,
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "The Global Sumud Flotilla of 50 boats was intercepted in international waters 250 miles off Israel 's coast, with detained activists alleging they faced mistreatment by Israeli forces at Ashdod port in southern Israel.",
-      "Detainees allege they faced violent mistreatment while held in containers, describing beatings, Tasers, and being dragged by their hair throughout the detention process at the facility.",
-      "Italian journalist Alessandro Mantovani reported being blindfolded and repositioned 30 times during crossing, while activist Christopher Boren stated, \"When we got to Ashdod port, I was immediately grabbed by five IDF.\"",
-      "Israeli Prison Service spokesperson Zivan Freidin called the allegations \"false and entirely without factual basis,\" while Security Minister Itamar Ben-Gvir sparked outrage after promoting a video taunting detained activists.",
-      "On Thursday, Israel deported 420 activists who were detained during the flotilla interception, with many departing for Turkey wearing gray sweatsuits and Arab keffiyehs."
-    ],
-    "title": "South African Gaza flotilla activists allege they were shocked with electricity in Israeli detention",
     "topic": null,
     "topic_full": null
-  },
-  {
-    "article_path": "/article/netanyahu-wants-israel-to-draw-down-to-zero-the-american-financial-support",
-    "article_url": "https://ground.news/article/netanyahu-wants-israel-to-draw-down-to-zero-the-american-financial-support",
-    "bias": [
-      "Left-Leaning coverage highlights 'zero' US aid and 'tax dollars', framing Netanyahu's stance as timely fiscal relief while emphasizing Gulf state ties, whereas right-leaning outlets stress 'must become independent' with urgent, patriotic tones portraying self-reliance as a bold imperative.",
-      "Left employs dramatic phrases like 'It’s Time' for sensational appeal, right evokes sovereignty strength; pivotal divides emerge on de-emphasized Iran misjudgments, which right and center underscore versus left's focus on aid weaning.",
-      "The $3.8 billion annual aid is left's taxpayer burden but right's path to autonomy.",
-      "Center sticks to neutral 'draw down to zero' phrasing.",
-      "All agree on decade-long reduction to reset ties, reflecting ideological rifts over entanglement versus nationalism."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Sunday, Israeli Prime Minister Benjamin Netanyahu told CBS News' '60 Minutes' he plans to phase out U.S. military financial support over the next decade, stating 'I want to draw down to zero the American financial support' currently worth $3.8 billion annually.",
-      "Congressional opposition to Israeli military aid has intensified, with Rep. Alexandria Ocasio-Cortez vowing last month to oppose all funding, as public sentiment shifted dramatically following the Gaza war outbreak in October 2023.",
-      "Israel currently receives $3.8 billion annually under a $38 billion U.S. commitment through 2028, now facing heightened political scrutiny; a March Pew survey found 60% of U.S. adults hold an unfavorable view of Israel, up nearly 20 points in four years.",
-      "Netanyahu attributed declining American support to what he claimed foreign countries have 'basically manipulated' on social media, stating this 'correlates almost 100%' with reduced backing, though he opposes censorship. He said President Donald Trump 's reaction was notably surprised."
-    ],
-    "title": "Netanyahu wants Israel \"to draw down to zero the American financial support\"",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/canadians-from-gaza-flotilla-to-return-to-canada-after-detainment-by-israeli-forces",
-    "article_url": "https://ground.news/article/canadians-from-gaza-flotilla-to-return-to-canada-after-detainment-by-israeli-forces",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "Nine of the 12 Canadians who participated in the Global Sumud Flotilla are returning home this weekend, arriving at airports in Montreal, Toronto, and Vancouver from Turkey.",
-      "These Canadians were among 420 individuals on 41 boats intercepted by Israel while attempting to deliver aid to Gaza amid ongoing restrictions.",
-      "Foreign Affairs Minister Anita Anand reported that detainees suffered \"appalling abuse\" while in custody, citing Turkish officials, while Israeli prison officials denied any abuse.",
-      "Global Affairs Canada summoned Israeli ambassador Iddo Moed to condemn the mistreatment, while consular officials in Turkey ensured the Canadians received medical care.",
-      "Aid groups note Israel has restricted assistance to Gaza since the October 2023 Hamas attack, underscoring the humanitarian crisis the flotilla mission sought to address."
-    ],
-    "title": "Canadians from Gaza flotilla to return to Canada after detainment by Israeli forces",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/hunter-biden-and-candace-owens-seem-to-agree-that-all-the-assassination-attempts-on-trump-were-staged",
-    "article_url": "https://ground.news/article/hunter-biden-and-candace-owens-seem-to-agree-that-all-the-assassination-attempts-on-trump-were-staged",
-    "bias": [
-      "Left coverage frames the interview as a politically charged, conspiracy-laden oddity, stressing “right-wing podcaster,” “gaslit,” and alleged Israeli involvement in the Charlie Kirk story; right coverage turns it into a spectacle of scandal and backlash, using terms like “crackhead,” “train wreck,” and “conspiracy” while fixating on the staged-Trump-assassination claim and the apology.",
-      "Center coverage sits between them, treating the exchange as emotionally revealing—addiction, shame, redemption, public vulnerability—rather than chiefly ideological.",
-      "Both sides agree the pairing is unusual and that personal history and politics collide, but they split over whether it signals manipulation, hypocrisy, or a bizarre moment of cross-partisan candor."
-    ],
-    "bias_bar_text": "L 24% Center 25% Right 51%",
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": null,
-    "right_pct": 51.0,
-    "status": "ok",
-    "summary": [
-      "Right-Wing political commentator Candace Owens hosted Hunter Biden for a highly anticipated, two-hour podcast interview recorded at her Nashville home studio.",
-      "During the conversation, Owens apologized for her past harsh public coverage of Hunter Biden, while Hunter Biden openly detailed his past struggles with severe crack cocaine addiction and the emotional toll of public humiliation.",
-      "The unlikely pairing aligned on several media narratives, with Owens openly questioning the public reports surrounding the assassination attempts against Donald Trump and Biden strongly criticizing how the political establishment handled his personal laptop controversy.",
-      "Hunter claimed that his father, former President Joe Biden, was ultimately forced out of politics by a Washington Democratic elite that he referred to as the \"Epstein class."
-    ],
-    "title": "Candace Owens and Hunter Biden Sit Down for Unexpected Interview",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/south-carolina-redistricting-bill-comes-under-bipartisan-attack-in-senate_298db0",
-    "article_url": "https://ground.news/article/south-carolina-redistricting-bill-comes-under-bipartisan-attack-in-senate_298db0",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "South Carolina redistricting bill comes under bipartisan attack in Senate",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/former-kamala-harris-staffers-dont-want-her-to-run-report",
-    "article_url": "https://ground.news/article/former-kamala-harris-staffers-dont-want-her-to-run-report",
-    "bias": [
-      "Left-Leaning coverage emphasizes Democratic self-critique and collapse, using words like “humiliating,” “error-riddled,” and “dead in 2028” to portray the autopsy as proof of a failed party and a risky Harris comeback; right-leaning coverage frames the same moment as a “Democratic nightmare,” a “massive gulf,” and an “autopsy on an autopsy,” stressing intra-party chaos and the report’s omission of “ruinous price increases.” The biggest fault lines are blame and omission: the center points to Biden failing Harris, while the right spotlights inflation, and both sides agree insiders are unenthusiastic about another run, but they turn that shared fact into either reformist alarm or partisan condemnation."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "Vice President Kamala Harris is considering a 2028 presidential campaign, but a sweeping Vanity Fair report published on May 21 reveals near-universal unease among former staffers, aides, and donors about a potential repeat bid.",
-      "DNC Chair Ken Martin disavowed the Democratic National Committee's 192-page analysis of the 2024 election released Thursday, May 21, citing factual inconsistencies and major omissions that he said do not meet his standards.",
-      "Billionaire Mark Cuban bluntly opposed another Harris run despite past support, noting certain figures are so thoroughly demonized they hurt the party's chances. A former White House aide predicted she would \"likely\" run but added: \"that doesn't mean she should. Absolutely not.\"",
-      "The public fracturing of Harris's coalition—donors, former aides, and campaign veterans—signals how divided the Democratic Party remains heading into the 2028 cycle, with one operative noting he has not encountered \"anybody who said, 'Boy, I really hope Kamala runs.'\"",
-      "California Governor Gavin Newsom has stepped into the vacuum, running an aggressive, de facto 2028 campaign that threatens to capture the same donor cash Harris relies on for her potential bid."
-    ],
-    "title": "Former Kamala Harris Staffers Don’t Want Her to Run: Report",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/100-ships-redirected-amid-naval-blockade-of-iran-ports-strait-of-hormuz-centcom",
-    "article_url": "https://ground.news/article/100-ships-redirected-amid-naval-blockade-of-iran-ports-strait-of-hormuz-centcom",
-    "bias": [
-      "Left-Leaning coverage frames the story as a U.S. “ blockade ” that has “redirected” vessels, stressing the coercive feel of American policy, while right-leaning coverage turns it into a security drama with words like “enforces,” “disabled,” “forced to alter,” and “disrupts global shipping,” spotlighting danger and Iranian pressure.",
-      "The left de-emphasizes operational scale and broader fallout; the right amplifies counts like 85, 88, or 100+ and the “disabled” ships.",
-      "Center coverage sits between them, adding troop and aircraft numbers and calling the result a “milestone.” Both sides agree on CENTCOM’s role and the roughly 100-vessel count, but diverge over whether this is administrative control or geopolitical confrontation."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 14.0,
-    "location": "United States",
-    "right_pct": 32.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, U.S. Central Command announced forces redirected 100 commercial vessels during a six-week naval blockade of Iranian ports in the Strait of Hormuz , calling the operation a \"milestone.\"",
-      "President Trump directed the blockade beginning April 13 to squeeze Iran economically by preventing trade into and out of Iranian ports, including the Arabian Gulf and Gulf of Oman.",
-      "More than 15,000 U.S. troops and 200 aircraft and warships support the mission, which has cost Iran about $4.8 billion in oil revenue while allowing 26 humanitarian aid ships to pass.",
-      "Energy and gas prices have soared amid ongoing tensions, while U.S.-Iran negotiations have largely stalled as both sides reject demands to end hostilities and halt nuclear development.",
-      "U.S. Secretary of State Marco Rubio told journalists Saturday there's been \"some progress\" in mediated negotiations, though Trump maintains the naval blockade while pausing the \"Project Freedom\" initiative."
-    ],
-    "title": "100 ships redirected amid naval blockade of Iran ports, Strait of Hormuz: Centcom",
-    "topic": "Strait of Hormuz",
-    "topic_full": "Strait of Hormuz · United States"
-  },
-  {
-    "article_path": "/article/meta-launches-forum-a-new-reddit-like-app-for-facebook-groups",
-    "article_url": "https://ground.news/article/meta-launches-forum-a-new-reddit-like-app-for-facebook-groups",
-    "bias": [
-      "Left-Leaning coverage frames Forum as a “quietly” launched “Reddit dupe,” stressing secrecy, imitation, and market fallout like Reddit investors’ reaction, while also invoking Meta ’s earlier Groups shutdown as a “ill-fated” backdrop.",
-      "Right-Leaning coverage presents the same move as a “standalone space” and “community push” to “challenge Reddit,” using brisk competitive language that spotlights strategy over suspicion.",
-      "Center coverage stays more descriptive, calling it a “Reddit-style” test and noting the AI/search mechanics.",
-      "Across both sides, the shared hinge is Meta’s Reddit-like, Groups-based design; the split reflects broader tensions over big-tech copying, platform power, and community control."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 45.0,
-    "error": null,
-    "left_pct": 44.0,
-    "location": "United States",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "Meta has quietly launched Forum, a new standalone iOS app for Facebook Groups, first spotted by social media consultant Matt Navarra in the App Store on Friday.",
-      "CEO Mark Zuckerberg aims to roll out many more apps following AI-driven efficiencies, having discussed building up to 50 new apps with Chief Product Officer Chris Cox.",
-      "Forum offers a \"dedicated space built for deeper discussions,\" featuring an AI-powered Ask tab that pulls community responses and an admin assistant to help moderators manage groups.",
-      "Although Meta has not officially announced the application, a spokesperson confirmed the company is currently testing the product among iPhone users in select regions.",
-      "Positioning itself as a Reddit-like alternative, Forum aims to provide \"real answers\" from \"real people\" across Facebook Groups, leveraging existing community knowledge over AI-generated content."
-    ],
-    "title": "Meta Launches Forum, a New Reddit-Like App for Facebook Groups",
-    "topic": "Meta",
-    "topic_full": "Meta · United States"
-  },
-  {
-    "article_path": "/article/trump-announces-highest-civilian-honor-for-9-11-hero-remembered-as-the-man-in-the-red-bandana",
-    "article_url": "https://ground.news/article/trump-announces-highest-civilian-honor-for-9-11-hero-remembered-as-the-man-in-the-red-bandana",
-    "bias": [
-      "Left and center coverage keeps the story tightly on the award announcement, framing Crowther as a “9/11 hero” and Trump simply as the one “announcing” or “to award,” while right-leaning coverage enlarges it into a patriotic tribute, stressing the “highest civilian honor,” the “Man in the Red Bandana,” and even Crowther’s South Tower bravery.",
-      "The right’s tone is more reverential and celebratory, with words like “highest” and repeated “hero,” whereas the left is comparatively spare and de-emphasized on biography.",
-      "The key dividing lines are context and symbolism: the left centers the ceremony, the right spotlights sacrifice and national honor.",
-      "Both, however, agree on Crowther’s heroism and the posthumous Medal of Freedom."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": "United States",
-    "right_pct": 58.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, President Donald Trump announced at Rockland Community College that 9/11 hero Welles Crowther will posthumously receive the Presidential Medal of Freedom, honoring him as \"The Man in the Red Bandana.\"",
-      "A 24-year-old equities trader in 2001, Crowther gained international notoriety after wrapping his signature red bandana across his face to guide 18 people to safety from the burning South Tower before dying in the collapse.",
-      "U.S. Rep. Mike Lawler advocated for the posthumous recognition, announcing his efforts last September at a remembrance event in Upper Nyack where Crowther and his father, the late Jefferson Crowther, had volunteered.",
-      "Welcomed to the rally stage, Alison Crowther said \"even 25 years later, Welles' light still shines brightly\" and thanked officials for recognizing her son's legacy of \"pure humanity\" and courage.",
-      "The Presidential Medal of Freedom remains the nation's highest civilian honor as the 25th anniversary of the 2001 attacks approaches, while Crowther's legacy continues to inspire the Greater Boston community where he attended college."
-    ],
-    "title": "Trump announces highest civilian honor for 9/11 hero remembered as the 'Man in the Red Bandana'",
-    "topic": "September 11 Attacks",
-    "topic_full": "September 11 Attacks · United States"
-  },
-  {
-    "article_path": "/article/estranged-husband-convicted-of-murder-for-hire-in-killing-of-new-york-city-art-dealer-in-brazil",
-    "article_url": "https://ground.news/article/estranged-husband-convicted-of-murder-for-hire-in-killing-of-new-york-city-art-dealer-in-brazil",
-    "bias": [
-      "Left-Leaning coverage frames the case as a tragic, human-centered crime story, stressing the victim’s art-world legacy, the “brutal crime,” and phrases like “shocked the art world,” while right-leaning coverage turns sharper and more sensational, leaning on labels like “ex-hooker,” “hubby,” and “cold-blooded” to heighten scandal and moral judgment.",
-      "The biggest dividing lines are empathy versus outrage, and context versus provocation: the left highlights Brent Sikkema’s life and family, the right emphasizes arrest details, wealth, and stigma.",
-      "Both sides agree on the conviction, murder-for-hire plot, and Brazil setting, but differ on whether the story is a loss or a lurid spectacle."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 45.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "New York",
-    "right_pct": 22.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, a federal jury convicted Daniel Sikkema of hiring a hitman to kill his estranged husband, prominent New York art dealer Brent Sikkema, concluding a murder-for-hire trial.",
-      "Contentious divorce proceedings and financial disputes over $6 million prompted Daniel Sikkema to use burner phones coordinating with hitman Alejandro Triana Prevez before the January 2024 killing.",
-      "Prosecutors presented evidence that Daniel Sikkema funneled over $10,000 to Prevez, who stabbed the 75-year-old gallerist 18 times inside his Rio de Janeiro townhouse on January 14, 2024.",
-      "Manhattan U.S. Attorney Jay Clayton stated the verdict brings a \"meaningful measure of justice ,\" as Daniel Sikkema now faces a mandatory life sentence for his crimes.",
-      "Legal disputes regarding Sikkema's will and assets remain ongoing, with executor James Deaver having filed a wrongful death lawsuit in January 2025 to protect the estate."
-    ],
-    "title": "Estranged husband convicted of murder-for-hire in killing of New York City art dealer in Brazil",
-    "topic": "Justice",
-    "topic_full": "Justice · New York"
-  },
-  {
-    "article_path": "/article/nascar-driver-kyle-busch-died-of-severe-pneumonia-family-says",
-    "article_url": "https://ground.news/article/nascar-driver-kyle-busch-died-of-severe-pneumonia-family-says",
-    "bias": [
-      "Left coverage frames Busch’s death through public mourning and shock, leaning on terms like “superstar,” “legend,” and “sudden and shocking” to heighten emotional loss, while right coverage turns more reverential and sensational, using “BREAKING,” “unexpectedly,” and “ NASCAR excellence” to dramatize the moment and memorialize his legacy.",
-      "The key dividing line is how the family statement and medical cause are presented: both sides repeat the sepsis explanation, but the left foregrounds grief and uncertainty, whereas the right amplifies urgency and tribute.",
-      "Center coverage stays more biographical and restrained, adding context like father of two and Las Vegas native."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 65.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "United States",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, two-time NASCAR champion Kyle Busch died at 41 after severe pneumonia progressed into sepsis, his family confirmed on Saturday.",
-      "Busch collapsed while testing in a Chevrolet simulator in Concord on Wednesday, following reports he had been struggling with a sinus cold since racing in New York earlier this month.",
-      "According to audio from the Cabarrus County Sheriff, an emergency caller reported Busch was \"coughing up blood\" and lying on a bathroom floor, while the family received the final medical evaluation Saturday.",
-      "Richard Childress Racing announced it is suspending his car number until his 11-year-old son, Brexton, is ready to drive, while competitors will race with commemorative black decals.",
-      "A future Hall of Famer with 234 career wins, Busch leaves behind his wife, Samantha, and two children as the family requested privacy in the near future."
-    ],
-    "title": "NASCAR driver Kyle Busch died of severe pneumonia, family says",
-    "topic": "Kyle Busch",
-    "topic_full": "Kyle Busch · United States"
   }
 ]
