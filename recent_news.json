@@ -1,5 +1,79 @@
 [
   {
+    "article_path": "/article/e9f6bd41-af08-416d-bbfb-b1ba84b7351f",
+    "article_url": "https://ground.news/article/e9f6bd41-af08-416d-bbfb-b1ba84b7351f",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "On Thursday, President Donald Trump announced the United States has \"ended the war\" with Iran, citing a \"very strong memorandum of understanding\" to halt fighting and resolve the conflict.",
+      "Qatari Emir Tamim, United Arab Emirates President Mohamed, and Asim Munir urged Trump to call off strikes after he vowed to seize Kharg Island, which handles roughly 90% of Iran's crude exports.",
+      "The Prime Minister Netanyahu expressed appreciation for the ceasefire, which includes \"removal of enriched nuclear material, the dismantling of enrichment infrastructure, limits on missile production, and an end to Iran's support for its terrorist proxies in the region.\" Israel is not part of the United States memorandum.",
+      "Iranian Foreign Ministry spokesperson Esmail Baghaei said reports of an agreement are \"merely speculation,\" stating Tehran has not yet reached a final decision on any deal despite finalized negotiation text.",
+      "The World Bank warned Thursday that the conflict could slow global economic growth to 2.5% this year, down from 2.9% in 2025, with potential slump to 1.3% if energy disruptions and financial stress intensify."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/trump-says-us-will-hit-iran-very-hard-tonight-threatens-to-seize-kharg-island_5604b9",
+    "article_url": "https://ground.news/article/trump-says-us-will-hit-iran-very-hard-tonight-threatens-to-seize-kharg-island_5604b9",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s Iran moves as reckless escalation or an “imperialist bid,” spotlighting “settlement,” “end war,” and skeptical contrasts with his “very hard tonight” threats, while right-leaning coverage recasts the same language as hardline leverage, emphasizing “seize,” “take,” and even “crush” Iran’s resistance as strength.",
+      "Center coverage sits between them, stressing “major escalation” and fragile diplomacy without the sharper moral language.",
+      "Kharg Island and “total control” are the main dividing lines: one side sees oil-grab aggression, the other strategic pressure.",
+      "All three agree tensions are rising and negotiations are shaky, reflecting broader antiwar versus power- politics divides."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 35.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": null,
+    "right_pct": 36.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, President Donald Trump claimed the United States would take \"total control\" of Iranian oil production in the \"not too distant future,\" specifically threatening to seize Kharg Island infrastructure.",
+      "Stalled peace negotiations and a collapsed ceasefire have fueled escalating fire between US and Iranian forces, with US Central Command conducting widespread strikes on Iranian military surveillance and communication sites.",
+      "A US strike on a commercial vessel off Oman killed three Indian sailors on Thursday, while Iran's Islamic Revolutionary Guard Corps retaliated by striking 18 US military targets in Kuwait and Bahrain.",
+      "Iran's Foreign Ministry condemned the US attacks, stating they rendered the ceasefire \"practically meaningless,\" while Iran claimed the Strait of Hormuz is closed—a statement the United States disputed.",
+      "The conflict, which began in February, shows little sign of ending as intensified exchanges push the Middle East toward a broader regional war amid persistent diplomatic strain."
+    ],
+    "title": "Trump says U.S. will hit Iran 'very hard' tonight, threatens to seize Kharg Island",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/us-launches-new-strikes-on-iran-for-the-second-night-in-a-row_b64df2",
+    "article_url": "https://ground.news/article/us-launches-new-strikes-on-iran-for-the-second-night-in-a-row_b64df2",
+    "bias": [
+      "Left-Leaning coverage frames the strikes as coercive diplomacy that could derail peace, spotlighting Trump’s “pay the price” threats and skeptical phrases like “negotiate with bombs” to cast escalation as pressure politics ; right-leaning coverage instead presents them as justified “self-defense” and hardline leverage, using sharper, more combative language like “hits again,” “wave,” and “bomb the s–t out of them.” The key dividing lines are Iran’s “aggression,” the legitimacy of force, and whether talks are being strengthened or sabotaged.",
+      "Left de-emphasizes target-level details, while right and center note air defenses, radar, and oil/shipping fallout.",
+      "All sides agree the conflict is widening and negotiations are strained."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 38.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": null,
+    "right_pct": 30.0,
+    "status": "ok",
+    "summary": [
+      "The U.S. launched a second consecutive night of military strikes on multiple Iranian targets, including air defense systems and radar sites, in response to Iran's ongoing aggression and stalled negotiations.",
+      "President Donald Trump warned that Iran would 'pay the price' for delaying negotiations while emphasizing that a deal was still possible if Iran agreed to terms.",
+      "Iran declared the Strait of Hormuz closed to all vessels, but CENTCOM disputed this, stating that commercial vessels continued to transit through the strait.",
+      "Iran reportedly engaged in missile and drone attacks on U.S. forces near the Strait of Hormuz, while the U.S. confirmed that it was conducting operations to ensure oil shipments continued."
+    ],
+    "title": "U.S. launches new strikes on Iran for the second night in a row",
+    "topic": null,
+    "topic_full": null
+  },
+  {
     "article_path": "/article/us-annual-inflation-hit-42-in-may-highest-in-three-years",
     "article_url": "https://ground.news/article/us-annual-inflation-hit-42-in-may-highest-in-three-years",
     "bias": [
@@ -9,11 +83,11 @@
       "Both sides agree energy prices are driving the jump; they diverge on whether that means policy trouble, household pain, or conflict-driven economic fallout."
     ],
     "bias_bar_text": null,
-    "center_pct": null,
+    "center_pct": 53.0,
     "error": null,
-    "left_pct": null,
+    "left_pct": 29.0,
     "location": null,
-    "right_pct": null,
+    "right_pct": 18.0,
     "status": "ok",
     "summary": [
       "Consumer prices rose 4.2% from a year earlier, the Labor Department said Wednesday, marking the third straight increase and the highest level in three years.",
@@ -22,21 +96,25 @@
       "Wall Street investors expect the Federal Reserve to raise interest rates, as Treasury securities increased following a jobs report showing hiring accelerated, signaling inflation may remain elevated.",
       "Gas prices have since fallen to $4.16 on average nationwide, according to AAA, which could lead to a cooler inflation reading in June, though President Donald Trump's sweeping tariffs continue affecting costs."
     ],
-    "title": "Source Icon",
+    "title": "US Annual Inflation Hit 4.2% in May, Highest in Three Years",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/iran-targets-us-bases-in-jordan-and-the-gulf-after-trump-orders-strikes-near-hormuz_5ee367",
-    "article_url": "https://ground.news/article/iran-targets-us-bases-in-jordan-and-the-gulf-after-trump-orders-strikes-near-hormuz_5ee367",
-    "bias": null,
+    "article_path": "/article/iran-targets-us-bases-in-jordan-and-the-gulf-after-trump-orders-strikes-near-hormuz_6c5259",
+    "article_url": "https://ground.news/article/iran-targets-us-bases-in-jordan-and-the-gulf-after-trump-orders-strikes-near-hormuz_6c5259",
+    "bias": [
+      "Left-Leaning coverage frames the strikes as a dangerous escalation, spotlighting U.S. action first and using cautious or critical language like “surveillance capabilities,” “war,” and “major escalation,” while stressing broader regional fallout and the risk of a wider war.",
+      "Right-Leaning coverage instead foregrounds Iran as the threat, with sharper terms like “threatens,” “retaliation,” and “new attacks,” often portraying U.S. strikes as justified “self-defense.” The key dividing line is whether the trigger is U.S. aggression or Iranian hostility.",
+      "Both sides agree on the airstrikes, missile exchanges, and fragile ceasefire, but they split over blame, legitimacy, and what the confrontation signals geopolitically."
+    ],
     "bias_bar_text": null,
     "center_pct": 35.0,
     "error": null,
-    "left_pct": 37.0,
+    "left_pct": 36.0,
     "location": null,
-    "right_pct": 28.0,
-    "status": "no_change",
+    "right_pct": 29.0,
+    "status": "ok",
     "summary": [
       "On Wednesday, the U.S. military struck \"multiple targets in Iran,\" including air defense and surveillance radar sites, in response to what Central Command called \"unwarranted and continued aggression.\"",
       "These strikes follow a Monday clash between Iran and Israel and represent the third time this week that back-and-forth attacks have tested a two-month ceasefire.",
@@ -49,562 +127,483 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/graham-platner-wins-democratic-primary-to-face-susan-collins-in-november_905c79",
-    "article_url": "https://ground.news/article/graham-platner-wins-democratic-primary-to-face-susan-collins-in-november_905c79",
+    "article_path": "/article/trump-picks-former-sec-chairman-jay-clayton-as-national-intelligence-director",
+    "article_url": "https://ground.news/article/trump-picks-former-sec-chairman-jay-clayton-as-national-intelligence-director",
     "bias": [
-      "Left-Leaning coverage frames Platner’s win as an insurgent comeback, stressing his “progressive” outsider appeal and how he overcame a “withering blitz” of attacks to challenge Collins, while right-leaning coverage recasts the same victory through “scandal-plagued” and “scandal-ridden” labels, making the controversies the defining story and hinting Democrats are embracing a damaged nominee.",
-      "The tone splits sharply: left pieces use combative but celebratory language like “tears into” and “under-fire,” whereas right pieces lean on moralized shorthand and taunt-like phrasing around “Nazi tattoo,” abuse claims, and “communist.” Center coverage stays more electoral, emphasizing vote share and competitiveness.",
-      "Both sides agree the race is high-stakes; they diverge on whether it signals momentum or warning."
+      "Left-Leaning coverage frames the nomination as a Trump “capitulation,” amplifying surprise and skepticism with phrases like “taken aback,” while right-leaning coverage casts it as a clean, affirmative reset, using words like “taps,” “BREAKING,” and “permanent” to signal urgency and confidence.",
+      "The sharpest dividing line is the backstory: the left stresses reversal and political pressure, the right de-emphasizes conflict and instead highlights succession after Tulsi Gabbard ’s departure, with some context on her husband’s illness.",
+      "Both sides agree Clayton is the former SEC chair and current U.S. attorney, but they diverge on whether this is a retreat under fire or a routine, stabilizing appointment."
     ],
-    "bias_bar_text": null,
-    "center_pct": 32.0,
-    "error": null,
-    "left_pct": 38.0,
-    "location": null,
-    "right_pct": 30.0,
-    "status": "ok",
-    "summary": [
-      "Graham Platner won Maine's Democratic U.S. Senate primary with about 75% of the vote against Janet Mills and David Costello, setting up a contest with Republican Senator Susan Collins in November.",
-      "Platner has faced controversies including a Nazi Totenkopf tattoo, allegations of volatile and abusive behavior by former girlfriends, and sending sexually explicit texts, which he denies or attributes to political motivation.",
-      "Platner received early support from Senator Bernie Sanders and campaigned on economic issues like housing and healthcare, despite limited political experience and significant criticism.",
-      "Susan Collins is the only Republican senator from New England and highlighted her senior Senate roles as reasons for reelection while criticizing Platner's controversies."
-    ],
-    "title": "Graham Platner wins Democratic primary to face Susan Collins in November",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/evette-wilson-head-to-runoff-in-heated-south-carolina-gop-governors-race_2dcd37",
-    "article_url": "https://ground.news/article/evette-wilson-head-to-runoff-in-heated-south-carolina-gop-governors-race_2dcd37",
-    "bias": [
-      "Left-Leaning coverage frames the race as a Trump-shaped GOP contest, stressing that both runoff candidates are “ MAGA devotees” while spotlighting that only Evette had the formal Trump endorsement; right-leaning coverage turns that same detail into a triumph story, using phrases like “Trump-Endorsed,” “endorsement winning streak,” and “immense clout,” while casting Mace’s loss as a “trounced” or “snub” setback.",
-      "Center coverage stays more procedural, calling the race “heated” and noting the runoff without the sharper ideological spin.",
-      "All sides agree on the runoff, but diverge sharply on whether Trump’s influence is a warning sign, a campaign engine, or just background to South Carolina GOP infighting."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 44.0,
-    "error": null,
-    "left_pct": 19.0,
-    "location": null,
-    "right_pct": 37.0,
-    "status": "ok",
-    "summary": [
-      "South Carolina Lt. Gov. Pamela Evette and state Attorney General Alan Wilson advanced to a June 23 Republican gubernatorial runoff Tuesday, as neither candidate secured the majority needed to win outright.",
-      "President Donald Trump endorsed Evette late last month, helping the lieutenant governor lead the field with just under 30 percent of the vote to succeed term-limited Gov. Henry McMaster.",
-      "U.S. Rep. Nancy Mace conceded her fifth-place finish Tuesday night, announcing she had \"buried the hatchet\" with Wilson and endorsing him for the runoff against Evette.",
-      "State Rep. Jermaine Johnson won the Democratic nomination Tuesday with 60 percent of the vote, positioning himself to challenge the eventual Republican nominee in November.",
-      "The runoff winner will face Johnson in November, aiming to lead a state that has not elected a Democratic governor in more than two decades."
-    ],
-    "title": "Evette, Wilson head to runoff in heated South Carolina GOP governor’s race",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/sen-lindsey-graham-wins-gop-primary-defeating-wealthy-challenger-in-south-carolina",
-    "article_url": "https://ground.news/article/sen-lindsey-graham-wins-gop-primary-defeating-wealthy-challenger-in-south-carolina",
-    "bias": [
-      "Left-Leaning coverage frames Graham’s win as a costly, strategic defeat of an “‘America First’ challenger,” stressing his millions spent, his “top Trump ally” status, and the broader electoral context, including the gubernatorial runoff; right-leaning coverage turns the same result into a clash between a Trump-backed incumbent and the GOP’s “anti-establishment wing,” sometimes using sharper labels like “RINO,” “warmongering,” or “old guard” to signal intraparty hostility.",
-      "The key dividing line is whether Trump ties and party factionalism are celebrated or treated as warning signs.",
-      "Both sides agree Graham won outright and avoided a runoff, but they diverge on what that win means."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 39.0,
+    "bias_bar_text": "Left 25% Center 54% R 21%",
+    "center_pct": 54.0,
     "error": null,
     "left_pct": 25.0,
     "location": null,
-    "right_pct": 36.0,
+    "right_pct": 21.0,
     "status": "ok",
     "summary": [
-      "U.S. Sen. Lindsey Graham won the South Carolina Republican primary as he seeks a fifth term in the Senate.",
-      "Donald Trump endorsed Lindsey Graham early in the race despite their on-again, off-again relationship.",
-      "Graham secured support from prominent state Republicans, including Sen. Tim Scott and Gov. Henry McMaster, to chair his 2026 campaign.",
-      "South Carolina Republicans have maintained a decades-long statewide winning streak, with Democrats not winning the governor’s office or a Senate seat in recent history."
+      "On Thursday, President Donald Trump announced his nomination of Attorney Jay Clayton as Director of National Intelligence, urging Senate confirmation. Clayton, the U.S. Attorney for the Southern District of New York and former Securities and Exchange Commission chair, would serve permanently.",
+      "President Trump previously named Federal Housing Finance Director Bill Poelte as Acting Director, sparking Protests from Senate Democrats who argued Pulte lacked national security experience and could abuse intelligence for political purposes.",
+      "The nomination controversy jeopardized a bipartisan deal to renew Section 702 of the Foreign Intelligence Surveillance Act, with Lawmakers facing a deadline to reauthorize this critical intelligence program by the end of this week.",
+      "Senate members praised Clayton as a qualified professional, though officials cautioned that immediate confirmation remains unlikely given the complex political landscape and competing legislative priorities.",
+      "The search for a permanent intelligence chief exposes deep partisan divides over intelligence oversight as President Trump clarified Poelte is not his permanent pick, aiming to fill the leadership void amid legislative urgency."
     ],
-    "title": "Sen. Lindsey Graham wins GOP primary, defeating wealthy challenger in South Carolina",
+    "title": "Trump picks former SEC Chairman Jay Clayton as national intelligence director",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/us-military-says-its-striking-multiple-targets-in-iran-in-latest-escalation-of-tensions_d77fec",
-    "article_url": "https://ground.news/article/us-military-says-its-striking-multiple-targets-in-iran-in-latest-escalation-of-tensions_d77fec",
+    "article_path": "/article/ariana-grande-slams-trumps-white-house-for-using-her-song-to-promote-ice-deportations-barbaric-inhumane-heinous-nonsense",
+    "article_url": "https://ground.news/article/ariana-grande-slams-trumps-white-house-for-using-her-song-to-promote-ice-deportations-barbaric-inhumane-heinous-nonsense",
     "bias": [
-      "Left-Leaning coverage frames the strikes as part of a widening “escalation of tensions,” stressing ceasefire deterioration, retaliation, and the broader regional fallout, while right-leaning coverage leans into justification, using phrases like “additional self-defense” and “new attacks” to portray the action as necessary force.",
-      "The sharpest dividing lines are Trump’s “hit hard” threats and the “multiple targets” detail: left and center treat them as signs of danger and leverage, but the right de-emphasized that context and foregrounded CENTCOM’s rationale.",
-      "Both sides share the basic conflict narrative, yet their tone splits along the broader divide between restraint and hardline security politics ."
+      "Left-Leaning coverage frames the episode as a moral indictment of deportation messaging, leaning on charged words like “barbaric,” “inhumane,” and “heinous nonsense,” and stressing ICE, handcuffing imagery, and “deportations” as the real story; right-leaning coverage shifts toward a sharper but broader culture-war dispute, using terms like “slams,” “blasting,” and “takes on” while softening the context into “immigration policy” or “immigration arrests,” making the White House seem more like a communicator than a culprit.",
+      "The key dividing line is whether the video is portrayed as abusive deportation propaganda or routine policy promotion.",
+      "Both sides agree Grande objected and sought removal, reflecting a wider split over immigration and celebrity politics."
     ],
-    "bias_bar_text": "Left 34% Center 47% R 19%",
-    "center_pct": 47.0,
+    "bias_bar_text": "Left 50% C 19% Right 31%",
+    "center_pct": 19.0,
     "error": null,
-    "left_pct": 34.0,
+    "left_pct": 50.0,
     "location": null,
-    "right_pct": 19.0,
+    "right_pct": 31.0,
     "status": "ok",
     "summary": [
-      "U.S. Central Command executed a second consecutive night of heavy airstrikes inside Iran, explicitly responding to President Donald Trump’s warning that Tehran will \"pay the price\" for stalling diplomatic negotiations.",
-      "The massive four-hour aerial operation targeted Iran's core defense networks, deploying U.S. Navy, Air Force, and Marine Corps assets—including 49 Tomahawk cruise missiles—to destroy military surveillance capabilities, communication systems, and air defense sites across southern Iran.",
-      "Iran’s military retaliated by declaring the strategic Strait of Hormuz entirely closed to traffic, threatening to fire upon any commercial ships or oil tankers transiting the vital corridor due to what it described as severe regional insecurity from \"American aggression.\"",
-      "Simultaneously, Iran launched a barrage of ballistic missiles at regional U.S. assets, with the Islamic Revolutionary Guard Corps targeting the al-Azraq air base in Jordan and triggering emergency air raid sirens and air defense interceptions across Kuwait and Bahrain.",
-      "The severe escalation effectively shatters a brittle, two-month-old ceasefire, as Defense Secretary Pete Hegseth bluntly declared the U.S. would \"negotiate with bombs\" if necessary, while Trump warned he would \"bomb the s*** out of them\" if a final peace deal is not immediately signed."
+      "On Thursday, Ariana Grande commented on a White House TikTok post featuring federal agents arresting people, demanding the administration \"not ever use\" her 2024 song \"Bye\" for \"barbaric, inhumane, heinous nonsense.\"",
+      "Grande has frequently criticized President Donald Trump and his administration, having previously voiced opposition to immigration raids and anti-transgender legislation in public statements and social media posts.",
+      "The video, shared earlier this week, promotes the $70 billion Secure America Act signed on Wednesday, June 10, and shows ICE agents arresting and handcuffing individuals while Grande's song plays.",
+      "In a statement shared with Variety, White House spokeswoman Abigail Jackson wrote, \"We'll say this one last time: what's actually barbaric, inhumane, and heinous are the criminal illegal aliens who have injured and murdered innocent American citizens.\"",
+      "Exploring options to remove the audio, Grande joins artists including Beyonce, Kesha, and Jack White who have protested the Trump administration's use of their music in social media posts."
     ],
-    "title": "U.S. launches new strikes on Iran for the second night in a row",
+    "title": "Ariana Grande Tells White House to Stop Using Her Song in ICE Video",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/judge-considers-arguments-in-challenge-to-new-mexicos-universal-childcare-program_47308e",
-    "article_url": "https://ground.news/article/judge-considers-arguments-in-challenge-to-new-mexicos-universal-childcare-program_47308e",
+    "article_path": "/article/trump-allies-working-on-plan-to-void-his-impeachments_ef46de",
+    "article_url": "https://ground.news/article/trump-allies-working-on-plan-to-void-his-impeachments_ef46de",
     "bias": [
-      "Left-Leaning coverage frames the case as an “ambitious,” “closely watched” universal childcare push that aims to eliminate daycare costs for working families, foregrounding the social payoff; right-leaning framing is more restrained but shifts attention to the lawsuit and the administration’s process, treating the policy as something being contested rather than celebrated.",
-      "The sharpest dividing lines are the words “universal,” “pushback,” and “challenge”: left uses the first as a positive public-good cue, while the center/right lean on procedural skepticism and provider concerns about business-model fit.",
-      "Both sides agree on the judge, the legal dispute, and the fledgling program, reflecting a broader divide over government expansion versus implementation and accountability."
+      "Left-Leaning coverage frames the move as a cynical attempt to “erase” or “expunge” Trump’s impeachments, stressing its symbolic, legally dubious character and amplifying Trump’s own “rigged deal” rhetoric to underscore grievance and revisionism.",
+      "Right-Leaning coverage is far terser, presenting it as a plan to “void” the impeachments with little background or legal caveat, which makes the effort seem procedural rather than controversial.",
+      "The dividing line is whether the action is portrayed as history-wiping maneuvering or a straightforward correction; the center sits between them, using neutral “reverse” language and adding the political claim that impeachment anger helped fuel Trump’s 2024 win."
     ],
-    "bias_bar_text": "Left 45% Center 45% 10%",
+    "bias_bar_text": null,
     "center_pct": 45.0,
     "error": null,
-    "left_pct": 45.0,
-    "location": null,
-    "right_pct": 10.0,
+    "left_pct": 44.0,
+    "location": "United States",
+    "right_pct": 11.0,
     "status": "ok",
     "summary": [
-      "District Judge Elaine Lujan could issue a ruling Thursday on whether a lawsuit challenging New Mexico 's universal childcare program can proceed, brought by former Republican gubernatorial candidate Duke Rodriguez.",
-      "Plaintiffs allege Democratic Gov. Michelle Lujan Grisham launched the program expansion unlawfully by eliminating income caps before legislative approval. The state's childcare agency disputes this, arguing lawmakers later \"expressly authorized\" and funded the program.",
-      "Financed largely by oil and gas revenue, New Mexico's program waives daycare costs for families earning up to 400% of the federal poverty rate, or roughly $132,000 annually, positioning it among the nation's most generous childcare models.",
-      "Albuquerque daycare provider Ilene Harding reports the expansion has boosted enrollment and streamlined billing, yet some providers express concerns that proposed rule changes may not work for all businesses.",
-      "Legislative analysts previously raised concerns about potential overspending, while New Mexico aims to cement its status as the first state to cover all working families' daycare bills despite sustainability questions."
+      "President Donald Trump and allies are urging Congress to pass a resolution expunging his two first-term impeachments, The Wall Street Journal reported.",
+      "Trump faced two impeachments during his first term: one in 2019 for abuse of power regarding Ukraine aid and another in 2021 for inciting the January 6, 2021, attack on the U.S. Capitol.",
+      "House Speaker Mike Johnson backs the effort, calling them \"sham impeachments,\" though legal experts note the Constitution provides no mechanism to legally nullify an impeachment.",
+      "White House spokeswoman Abigail Jackson defended the move as recognizing \"sham efforts,\" while Republican lawmakers indicate the measure will likely wait until after the November elections.",
+      "Analysts warn the resolution could backfire by forcing Republican lawmakers to relitigate Trump's past behavior and specific charges of abuse of power and obstruction of Congress."
     ],
-    "title": "Judge considers arguments in challenge to New Mexico’s universal childcare program",
+    "title": "Trump, allies working on plan to void his impeachments, WSJ reports",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/memoir-details-fmr-envoys-frustration-with-biden_6273b2",
+    "article_url": "https://ground.news/article/memoir-details-fmr-envoys-frustration-with-biden_6273b2",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 29.0,
+    "error": "Message: \n",
+    "left_pct": 14.0,
+    "location": "United States",
+    "right_pct": 57.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Biden Ambassador Considered White House Bid over Border Frustration",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/average-us-long-term-mortgage-rate-rises-to-652-just-below-its-high-for-the-year",
+    "article_url": "https://ground.news/article/average-us-long-term-mortgage-rate-rises-to-652-just-below-its-high-for-the-year",
+    "bias": [
+      "Left-Leaning coverage frames the 6.52% mortgage rate as a warning, stressing “just below its high for the year,” “latest sign,” and “remain elevated” to foreground pressure on borrowers and wider cost-of-living strain, while right-leaning coverage softens the same move by saying rates “tick higher” or even “jumped” but pairing it with “buyers show signs of confidence,” shifting attention to resilience and market steadiness.",
+      "The biggest dividing lines are whether the yearly comparison and Iran-war/inflation backdrop are emphasized as threats or de-emphasized in favor of optimism.",
+      "Both sides still agree the rate rose from 6.48%, but they use that shared fact to reflect different economic worldviews."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": "United States",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, Freddie Mac reported the benchmark 30-year fixed mortgage rate rose to 6.52% from 6.48% last week, though borrowing costs remain below the 6.84% average recorded one year ago.",
+      "Ongoing conflict between the U.S. and Iran has disrupted Persian Gulf oil flows since late February, driving up inflation and keeping long-term Treasury yields elevated, which directly impacts mortgage pricing.",
+      "According to the Mortgage Bankers Association, mortgage applications jumped 10.8% last week; Sam Khater, chief economist at Freddie Mac, noted that stronger employment momentum helped existing home sales reach a five-month high.",
+      "Despite rate volatility, homebuyers are signaling renewed confidence by entering the market actively; however, Realtor.com economist Jiayi Xu warned that global tensions have prompted speculation the Federal Reserve might consider rate increases.",
+      "Future housing demand hinges on whether inflation continues to outpace wage growth, pressuring household budgets; if so, elevated mortgage rates could pose a meaningful drag on housing demand heading into summer."
+    ],
+    "title": "Average US long-term mortgage rate rises to 6.52%, just below its high for the year",
+    "topic": "US Economy",
+    "topic_full": "US Economy · United States"
+  },
+  {
+    "article_path": "/article/emory-gets-15m-nih-grant-to-research-superfund-sites-health-effects",
+    "article_url": "https://ground.news/article/emory-gets-15m-nih-grant-to-research-superfund-sites-health-effects",
+    "bias": [
+      "Left-Leaning coverage frames the $15 million, five-year grant as a public-health and environmental-justice response, stressing “contaminated” communities, “toxic” sites, “decades of pollution ,” and a “new resource” for Brunswick residents.",
+      "Right-Leaning coverage stays cooler and more institutional, emphasizing the grant and research center with minimal added moral charge, largely treating it as a development rather than a grievance.",
+      "The center sits between them, highlighting the “first” state Superfund center without the left’s urgency.",
+      "Both sides agree on the core funding and research mission, but diverge over whether the story is a local remedy or simply a university project."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 33.0,
+    "error": null,
+    "left_pct": 56.0,
+    "location": "Georgia",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "Emory University received a $15 million, five-year grant from the National Institutes of Environmental Health to establish Georgia's first Superfund Research Center, investigating environmental exposure in Glynn County.",
+      "Glynn County residents face health risks from four federal Superfund sites and 10 additional hazardous waste locations, with a 2023 pilot study finding 40% of participants had higher concentrations of toxins from the defunct LCP Chemicals plant than the national average.",
+      "Led by director Dana Barr, a professor of environmental health at Emory University's Rollins School of Public Health, researchers will conduct five studies assessing soil, water, and toxicant pathways to prevent chemical migration during floods.",
+      "Collaborating with the Glynn Environmental Coalition, scientists will translate environmental data into practical guidance for families and clinicians. \"We can prevent further exposure, and then we can try to understand what these chemicals are doing inside their bodies,\" Barr said.",
+      "Research across partner campuses begins later this year, with a community meeting on Wednesday, June 24, at Howard Coffin Park where Emory scientists and Healthy Coastal Neighborhoods will share updates on the project's long-term remediation plan."
+    ],
+    "title": "Emory gets $15M to establish first center to research toxic Superfund sites’ health effects",
+    "topic": "Environment & Climate",
+    "topic_full": "Environment & Climate · Georgia"
+  },
+  {
+    "article_path": "/article/newsom-announces-46-million-of-voter-approved-funding-to-help-address-tijuana-river-pollution",
+    "article_url": "https://ground.news/article/newsom-announces-46-million-of-voter-approved-funding-to-help-address-tijuana-river-pollution",
+    "bias": [
+      "Left-Leaning coverage frames the $46 million as a state-led answer to a “federal failing,” stressing “one of the nation’s worst and longest-running environmental crises” and “chronically contaminated” conditions, while right-leaning coverage stays close to the announcement and the pollution figures, de-emphasizing blame and broader political meaning.",
+      "The center sits between them, spotlighting local consequences like closed beaches and toxic air plus possible San Diego project benefits.",
+      "Charged terms such as “crisis,” “sewage crisis,” and “federal failing” drive the left’s urgency; the right’s restrained tone avoids that conflict.",
+      "Both sides agree the river has been polluted for years, but they diverge on accountability, scope, and urgency."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 53.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "California",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, Gov. Gavin Newsom announced $46 million in voter-approved Proposition 4 funding to help clean up the chronically contaminated Tijuana River at the California-Mexico border.",
+      "Since 2018, more than 100 billion gallons of raw sewage filled with industrial chemicals and trash have poured into the Tijuana River, according to the International Boundary and Water Commission.",
+      "According to the Centers for Disease Control and Prevention, the sewage emits toxic gas that can trigger asthma and nausea; at least 40% of funding must benefit communities hardest hit by pollution.",
+      "Phillip Musegaas, executive director of the San Diego Coastkeeper in Southern California, called the funding a 'big help' but warned it remains a small portion of what is needed to address infrastructure failures.",
+      "Newsom urged the Trump administration to provide permanent solutions, stating California cannot solve this 'decades-long federal failure' on its own and demanding the federal government honor its commitments to this community."
+    ],
+    "title": "Newsom announces $46 million of voter-approved funding to help address Tijuana River pollution",
+    "topic": "California Politics",
+    "topic_full": "California Politics · California"
+  },
+  {
+    "article_path": "/article/gop-senator-left-bloodied-following-incredible-catch-as-republicans-hammer-democrats-in-congressional-baseball-game",
+    "article_url": "https://ground.news/article/gop-senator-left-bloodied-following-incredible-catch-as-republicans-hammer-democrats-in-congressional-baseball-game",
+    "bias": [
+      "Center-Leaning coverage treats Eric Schmitt ’s diving catch as the whole story, using excited but restrained phrases like “quite a catch,” “insane diving catch,” and ESPN “Top Plays” to spotlight a single flashy moment.",
+      "Right-Leaning coverage keeps that excitement but adds a sharper partisan edge, with words like “GOP,” “bloodied,” “shines,” and “absolutely smashed” recasting the play as Republican swagger and Democratic defeat; it also foregrounds the 11-2 score, charity tradition, and bipartisan setting.",
+      "Both sides agree the catch was memorable and highlight-worthy, but they diverge on whether it is mainly a sports spectacle or a symbol of political momentum."
+    ],
+    "bias_bar_text": "Center 33% Right 67%",
+    "center_pct": 33.0,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": 67.0,
+    "status": "ok",
+    "summary": [
+      "The Republican Party won the Congressional Baseball Game against the Democrats with a score of 11-2, marking their sixth consecutive victory.",
+      "Missouri Senator Eric Schmitt made a notable diving catch to prevent a hit by Democratic Representative Johnny Olszewski, resulting in a bloody nose for Schmitt.",
+      "Schmitt contributed offensively by achieving multiple hits and drawing two walks during the game.",
+      "The Democrats view this game as a challenging future event before former baseball player Mark Teixeira is expected to join the Republican team."
+    ],
+    "title": "Sen. Eric Schmitt’s Diving Catch Steals the Show as Republicans Defeat Democrats 11-2",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/comer-to-seek-interviews-with-todd-blanche-alan-dershowitz-in-epstein-probe_b3d507",
-    "article_url": "https://ground.news/article/comer-to-seek-interviews-with-todd-blanche-alan-dershowitz-in-epstein-probe_b3d507",
+    "article_path": "/article/major-update-as-gus-grandparent-faces-court_ab2cda",
+    "article_url": "https://ground.news/article/major-update-as-gus-grandparent-faces-court_ab2cda",
     "bias": [
-      "Left-Leaning coverage casts the Epstein inquiry as scandal and culpability, using charged phrases like “explosive,” “at the heart,” and “cover-up” to tie Todd Blanche to Trump-era wrongdoing and even reading Comer’s move as a “change of heart.” Right-leaning coverage, by contrast, frames the same story as an expanding “dragnet” with suspects in investigators’ “crosshairs,” stressing aggressive pursuit and institutional conflict.",
-      "Center-Leaning pieces stay procedural, foregrounding “testify,” “interviews,” and “investigation.” The main dividing lines are Blanche’s role, the Trump connection, and the probe’s scope, though both sides agree Comer is widening the House effort beyond records into questioning key figures."
+      "Left-Leaning coverage frames the gun case as separate from the missing-child investigation, stressing “unrelated” and even humanizing the grandparent with “eclectic life” and other flattering biographical cues, while right-leaning coverage leans on urgency with “major update” and “faces court ,” spotlighting legal jeopardy and the family-search context.",
+      "The sharpest dividing lines are the $10,500 fine and gun-silencer charge, which the left treats as a concrete legal detail, and the suspect issue, which only the center surfaces as a live investigative wrinkle.",
+      "Both sides agree Gus is missing and the court appearance matters, but they diverge on whether the story is about separation, suspicion, or sensational significance."
+    ],
+    "bias_bar_text": "Left 63% C 24% R 13%",
+    "center_pct": 24.0,
+    "error": null,
+    "left_pct": 63.0,
+    "location": null,
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, Josie Murray, the grandmother of missing four-year-old Gus Lamont, was fined $10,500 in Adelaide Magistrates Court for possessing an illegal rifle silencer.",
+      "While police executed a search warrant at Oak Park Station on January 15 over an \"unrelated matter,\" authorities clarified the firearms charge is separate from the ongoing investigation into Gus's 2025 disappearance.",
+      "Murray, 75, pleaded guilty to possessing the device, which became illegal following 2017 amendments to the Firearms Act, after defence lawyer Andy Ey urged the magistrate to reject calls for imprisonment.",
+      "Magistrate Roderick Jensen imposed the $10,500 fine and disqualified Murray from holding a firearms licence for five years, citing her previous 2010 conviction for failing to securely store weapons.",
+      "Police have visited the remote station 11 times since Gus went missing, with Detective Superintendent Darren Fielke stating one grandparent remains a suspect as search efforts continue without fresh evidence."
+    ],
+    "title": "Gus Lamont's grandparent fined over gun offence unrelated to 4yo boy's disappearance",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/ohio-adds-new-photo-id-requirement-for-mail-voting-for-2027-election",
+    "article_url": "https://ground.news/article/ohio-adds-new-photo-id-requirement-for-mail-voting-for-2027-election",
+    "bias": [
+      "Left-Leaning coverage frames the move as a partisan push—using phrases like “already law” and “significant change” to suggest redundancy and voter restrictions—while right-leaning coverage casts it as “ballot protection,” a “major boost,” and a way to “protect” rules from “shifting political winds.” The sharpest dividing line is mail voting: the left stresses the new copy-of-ID requirement as a major expansion, while the right presents it as closing “legal loopholes.” Both sides note Ohio already requires in-person photo ID and that the amendment heads to voters, but they part ways on whether that’s enshrining stability or tightening access."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 33.0,
+    "error": null,
+    "left_pct": 37.0,
+    "location": "Ohio",
+    "right_pct": 30.0,
+    "status": "ok",
+    "summary": [
+      "Ohio lawmakers passed a bill requiring voters to provide a copy of their photo ID with an absentee ballot application or completed ballot, starting in 2027.",
+      "The new rules create an online application portal that instructs people to submit a picture of their photo ID and face, and allow exceptions for military, overseas, and disabled voters.",
+      "Rep. Adam Bird said \"Voter photo ID requirements ensure that we have confidence in our elections,\" while Rep. Veronica Sims said \"It is about making voting harder for the very Ohioans who already face the greatest barriers."
+    ],
+    "title": "Ohio adds new photo ID requirement for mail voting for 2027 election",
+    "topic": "Ohio Politics",
+    "topic_full": "Ohio Politics · Ohio"
+  },
+  {
+    "article_path": "/article/tracy-medical-warehouse-fire-sends-large-black-smoke-plume-into-sky",
+    "article_url": "https://ground.news/article/tracy-medical-warehouse-fire-sends-large-black-smoke-plume-into-sky",
+    "bias": [
+      "Left-Leaning coverage frames the story as an emergency-response disruption, stressing “evacuations” and “thick black smoke,” while right-leaning coverage turns it into spectacle, using phrases like “huge,” “plumes,” and “explode” to heighten danger and drama.",
+      "The sharpest dividing lines are the added details: the right side foregrounds gas-tank explosions and traffic disruption, the center emphasizes a “massive” blaze at Medline and road closures, and the left de-emphasizes scale in favor of nearby warehouse evacuations.",
+      "Still, both sides converge on the same core image of a major industrial fire , revealing shared concern with public safety even as they differ on whether to spotlight impact or escalation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 67.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "California",
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday afternoon, a massive fire destroyed a Medline Industries warehouse in Tracy, California, on Promontory Parkway, though all personnel were safely evacuated from the facility.",
+      "South San Joaquin County Fire Authority Chief Randall Bradley cited water supply issues, 99-degree temperatures, and winds up to 44 mph as factors hindering containment efforts.",
+      "The industrial park houses distribution centers for Amazon, FedEx, and Home Depot; thick smoke and gas tank explosions threatened surrounding warehouses, prompting evacuations.",
+      "Tracy Mayor Dan Arriola confirmed the fire is contained to the industrial zone, far from residential areas, with no injuries reported following the incident.",
+      "Sgt. Michael Richards of the Tracy Police Department stated crews will allow the building to burn out while mopping up hot spots, as officials investigate the fire's cause."
+    ],
+    "title": "Fire destroys medical equipment warehouse in California and prompts evacuations at nearby facilities",
+    "topic": "Fire",
+    "topic_full": "Fire · California"
+  },
+  {
+    "article_path": "/article/more-than-30-lawsuits-filed-against-aerospace-company-in-california-over-damaged-chemical-tank",
+    "article_url": "https://ground.news/article/more-than-30-lawsuits-filed-against-aerospace-company-in-california-over-damaged-chemical-tank",
+    "bias": [
+      "Left-Leaning coverage leans into corporate culpability, stressing the tank’s danger with phrases like “highly flammable” and “threatened a catastrophic explosion,” while right-leaning framing shifts toward emergency fallout, using terms like “chemical emergency,” “mounting legal pressure,” and “evacuation” to foreground public disruption.",
+      "The clearest divide is whether the story is a liability case or a safety crisis: the left centers lawsuits and failure, the right spotlights 50,000 evacuees and names methyl methacrylate, and the center broadens the human impact by noting more than 100 plaintiffs, families, pets, and businesses.",
+      "Both sides agree the incident was serious, but they diverge on whether the main lesson is negligence or community risk."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 67.0,
+    "error": null,
+    "left_pct": 22.0,
+    "location": "California",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "More than 30 lawsuits have been filed against GKN Aerospace after a tank containing a highly flammable chemical overheated, causing the evacuation of about 50,000 residents in Orange County, California last month.",
+      "Debbie Cohran, living about 500 feet from the facility, was not informed about the evacuation until several hours after the chemical leak began, according to her complaint.",
+      "Over 100 individuals, including families and local businesses, accuse GKN Aerospace of negligence in maintaining a safe facility in a densely populated area.",
+      "The FBI and Environmental Protection Agency conducted a search at the facility to collect documents related to the storage and handling of methyl methacrylate."
+    ],
+    "title": "More than 30 lawsuits filed against aerospace company in California over damaged chemical tank",
+    "topic": "Accident",
+    "topic_full": "Accident · California"
+  },
+  {
+    "article_path": "/article/alabama-asks-us-supreme-court-to-allow-thursdays-blocked-nitrogen-gas-execution",
+    "article_url": "https://ground.news/article/alabama-asks-us-supreme-court-to-allow-thursdays-blocked-nitrogen-gas-execution",
+    "bias": [
+      "Left-Leaning coverage frames Alabama ’s effort as a “last-minute legal fight” against a method it says is “unconstitutional,” spotlighting the 2-1 appeals court ruling as a judicial check on punishment; right-leaning coverage keeps the focus on the judge “bars” or “blocks” Alabama, stressing state authority versus court intervention and using tougher, conflict-heavy wording like “bars” and “gas execution.” The center is more procedural, with “blocked” and “thwarted” while adding historical context on execution methods.",
+      "All three converge on the same core divide: a federal court stopped a nitrogen-gas execution for constitutional reasons, exposing broader tensions over capital punishment, judicial power, and state control."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 41.0,
+    "location": "Alabama",
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "Alabama asked the U.S. Supreme Court to allow the execution of death row inmate Jeffery Lee using nitrogen gas after a federal judge ruled the method unconstitutional and blocked the execution.",
+      "Lee's attorneys urged the Supreme Court to keep the execution on hold, arguing that Alabama was seeking to proceed with a method that courts had found could violate the Constitution's ban on cruel and unusual punishment.",
+      "The Supreme Court ultimately rejected Alabama's request, leaving the injunction in place and preventing the state from carrying out the execution by nitrogen gas while legal challenges to the method continue."
+    ],
+    "title": "Supreme Court rejects Alabama request for nitrogen gas execution",
+    "topic": "Alabama Politics",
+    "topic_full": "Alabama Politics · Alabama"
+  },
+  {
+    "article_path": "/article/harmony-montgomery-case-fathers-murder-conviction-reversed",
+    "article_url": "https://ground.news/article/harmony-montgomery-case-fathers-murder-conviction-reversed",
+    "bias": [
+      "Left-Leaning coverage leans into the grim aftermath, using phrases like “moving her corpse around for months” and “daughter’s death” to stress cruelty and tragedy, while right-leaning coverage compresses the story into a sharper accusation, framing Montgomery as a father “accused of beating his daughter to death.” The biggest dividing line is what the reversal means: left and right foreground the overturned “murder conviction,” but the center more carefully adds that other convictions remain and he stays behind bars.",
+      "All three agree on the legal reversal and Harmony’s age, yet their wording reveals broader divides between emotional indictment and procedural caution."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 58.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "New Hampshire",
+    "right_pct": 14.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, the New Hampshire Supreme Court overturned Adam Montgomery's second-degree murder conviction, ruling that joining the murder charge with a separate assault charge jeopardized his right to a fair trial.",
+      "Justices wrote that the trial should have been handled differently, as the strength of the assault charge could have unfairly swayed the jury's perspective regarding the murder charge, where evidence was weaker.",
+      "While the murder conviction was reversed, the court affirmed Montgomery's convictions for second-degree assault, falsifying physical evidence, witness tampering, and abuse of a corpse, meaning he remains incarcerated.",
+      "Because the case was remanded, prosecutors now have options, which could include retrying Montgomery on a corrected murder charge or pursuing different homicide-related charges based on the remaining convictions.",
+      "Montgomery was convicted in 2024 of killing his 5-year-old daughter, Harmony Montgomery, who disappeared in 2019; her body has never been found, leaving significant questions about the case's resolution."
+    ],
+    "title": "New Hampshire Man's Murder Conviction Overturned in His Daughter's Case",
+    "topic": "US Crime",
+    "topic_full": "US Crime · New Hampshire"
+  },
+  {
+    "article_path": "/article/portland-man-sentenced-after-assaulting-ice-officer-with-rock",
+    "article_url": "https://ground.news/article/portland-man-sentenced-after-assaulting-ice-officer-with-rock",
+    "bias": [
+      "Left-Leaning coverage foregrounds the protest identity—“anti-ICE protester”—and keeps the story centered on sentencing, while right-leaning coverage shifts sharply toward punishment and threat, using sharper labels like “Antifa-affiliated rioter,” “brutal,” and “breaking.” The key dividing line is how the same act is narrated: left de-emphasizes the mechanics, whereas right spotlights the “rock,” the “ICE officer,” and the prison term as evidence of disorder and anti-law-enforcement hostility.",
+      "Center coverage sits between them with plainer wording, stressing the concrete assault.",
+      "Both sides agree on the 30 months and the protest context, but they frame the episode through broader ideological conflict."
     ],
     "bias_bar_text": null,
     "center_pct": 40.0,
     "error": null,
     "left_pct": 40.0,
-    "location": "United States",
+    "location": "Oregon",
     "right_pct": 20.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, House Oversight Committee Chair James Comer announced efforts to bring Acting Attorney General Todd Blanche before the panel next month to answer questions regarding the Jeffrey Epstein investigation, while also seeking testimony from Alan Dershowitz.",
-      "The committee’s interest in Blanche follows former Attorney General Pam Bondi’s recent testimony, where she claimed she \"delegated oversight\" of the Epstein document release to him, noting she \"repeatedly shifted responsibility\" to the deputy attorney general.",
-      "Comer also intends to question Dershowitz regarding matters arising from Lesley Groff’s testimony on Tuesday and statements from Epstein survivors. Groff, a longtime associate of Epstein, appeared before lawmakers earlier this week to provide details regarding the case.",
-      "Nominated last week by President Donald Trump to lead the Department of Justice, Blanche faces a high-stakes confirmation battle. The Senate Judiciary Committee remains split 12-10, meaning Blanche requires full Republican support to advance his nomination.",
-      "To date, the Oversight Committee has interviewed more than a dozen individuals behind closed doors to examine the Justice Department's handling, specifically questioning \"what, if any, documents are left out there\" regarding the Epstein case."
+      "On Thursday, District Judge Adrienne Nelson sentenced Portland man Robert Jacob Hoopes to 30 months in prison after he pleaded guilty to aggravated assault of a federal employee with a dangerous weapon.",
+      "Hoopes threw a rock hitting an ICE officer in the head during a June 14, 2025 protest at the Portland ICE building, which has been the site of persistent nightly demonstrations against the administration's aggressive deportation practices.",
+      "Beyond the rock attack, Hoopes and two others damaged the building's main entry with a stop sign; he was indicted August 5, 2025 on charges including depredation of federal property and ordered to pay over $8,000 in restitution.",
+      "U.S. Attorney for the District of Oregon Scott Bradford stated 'violence is not a protest,' while other Portland ICE protesters faced varied outcomes including case dismissals, a mistrial, and Trenten Edward Barker's March sentence of 18 months for arson.",
+      "The Justice Department has prosecuted assault cases nationwide during protests against President Donald Trump's immigration policies, from Chicago to Los Angeles, with a New Jersey detention center recently becoming a flashpoint for clashes between demonstrators and law enforcement."
     ],
-    "title": "Comer to seek interviews with Todd Blanche, Alan Dershowitz in Epstein probe",
-    "topic": "Epstein Files",
-    "topic_full": "Epstein Files · United States"
+    "title": "25-Year-Old Portland Man Sentenced for Hitting Agent with Rock at ICE Facility",
+    "topic": "Oregon Politics",
+    "topic_full": "Oregon Politics · Oregon"
   },
   {
-    "article_path": "/article/most-americans-believe-trump-administration-is-hiding-information-about-epsteins-clients-poll_61b246",
-    "article_url": "https://ground.news/article/most-americans-believe-trump-administration-is-hiding-information-about-epsteins-clients-poll_61b246",
+    "article_path": "/article/dan-sullivan-accuses-same-name-challenger-of-trying-to-rig-alaska-senate-race",
+    "article_url": "https://ground.news/article/dan-sullivan-accuses-same-name-challenger-of-trying-to-rig-alaska-senate-race",
     "bias": [
-      "All sides lean on the same Reuters/Ipsos poll, but they spin its meaning differently: left-leaning coverage uses terms like “hit” and “just 21%” to frame the Trump administration as politically damaged and failing to make people “accountable,” while right-leaning coverage prefers the cooler-sounding “few Americans” and “delivering justice,” stressing skepticism and an ongoing congressional probe.",
-      "Center-Leaning coverage splits the difference yet adds a sharper accusation—“hiding information”—and even folds in Bill Gates ’ upcoming House Oversight testimony.",
-      "The shared thread is low confidence in the administration, but the divide is over whether that signals scandal, public disapproval, or an active investigation."
+      "Left-Leaning coverage centers the election official’s “threatens to disqualify” move and, in some cases, Republicans “cry foul” or call the challenger a “Democratic prop,” framing the dispute as institutional pressure and partisan grievance; right-leaning coverage flips that into a warning about a candidate trying to “rig” the race, creating “confusion,” or triggering a “probe” to protect ballot integrity.",
+      "The sharpest dividing line is whether the same-name candidacy is portrayed as procedural scrutiny or deliberate manipulation.",
+      "Center coverage sits between them, stressing the challenger’s “defiant” response and the investigation.",
+      "Both sides agree the issue hinges on voter confusion and eligibility, reflecting deeper divides over election trust and partisan tactics."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 48.0,
+    "location": "Alaska",
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "A top Alaska elections official threatened to disqualify a Republican Senate candidate who shares the same name as incumbent Sen. Dan Sullivan from the August primary.",
+      "The official gave the challenger, Dan J. Sullivan, a Thursday deadline to submit any additional information and evidence in response to the potential removal from the ballot.",
+      "Some attorneys raised questions about the investigation, which demanded the challenger explain his party affiliation, name usage, and interactions with other candidates or the Democratic Party ."
+    ],
+    "title": "Alaska election official threatens to disqualify Republican who shares name with Sen. Dan Sullivan",
+    "topic": "Alaska Politics",
+    "topic_full": "Alaska Politics · Alaska"
+  },
+  {
+    "article_path": "/article/trump-can-enforce-section-122-tariffs-until-appeals-court-rules",
+    "article_url": "https://ground.news/article/trump-can-enforce-section-122-tariffs-until-appeals-court-rules",
+    "bias": [
+      "Left-Leaning coverage frames the decision as a procedural win for the administration, stressing the “for now” uncertainty and the legal challenge from states and small businesses, while right-leaning coverage turns the same ruling into a temporary victory for Trump, using more openly favorable language like “allows,” “continue,” and “backup tariff plan” to cast the tariffs as a strategic second attempt after earlier setbacks.",
+      "The starkest dividing line is context: the right highlights the prior blocked tariff fight and Section 122, while the left keeps the focus on the immediate court result.",
+      "Both sides agree the ruling is temporary and tied to 10% global tariffs."
     ],
     "bias_bar_text": null,
     "center_pct": 42.0,
     "error": null,
-    "left_pct": 29.0,
+    "left_pct": 28.0,
     "location": "United States",
-    "right_pct": 29.0,
+    "right_pct": 30.0,
     "status": "ok",
     "summary": [
-      "A new Reuters/Ipsos poll released Wednesday shows 75% of Americans suspect the federal government is hiding information about Jeffrey Epstein's clients, with only 10% believing the Trump administration has helped hold associates accountable.",
-      "Deep public distrust persists across party lines, with 84% of Americans saying files suggest powerful individuals are rarely held to account, reflecting widespread skepticism of the Trump administration's handling of the probe.",
-      "Microsoft Co-Founder Bill Gates testified before the House Oversight Committee on Wednesday regarding his past associations with Epstein, having previously called the relationship a \"huge mistake.\"",
-      "No criminal charges have been brought against any individuals named in the materials, though corporate executives have stepped down this year after appearing in the files, as congressional investigators continue probing the case.",
-      "The Justice Department released documents earlier this year following legislative pressure from Congress, yet victims continue to argue that the full scope of the network has yet to be fully exposed."
+      "On Thursday, the Federal Circuit ruled the United States government can continue collecting the 10% worldwide tariff imposed in February while legal challenges proceed, granting President Donald Trump a procedural win.",
+      "These tariffs , invoked under Section 122 of the Trade Act, address balance-of-payments deficits and are set to expire July 24, allowing the president to impose up to 15% tariffs for 150 days before Congress approval is required.",
+      "Previously, the Court of International Trade ruled 2-1 that the administration exceeded its authority, declaring the tariffs \"unauthorized by law\" in a case brought by a coalition of more than 20 states led by Oregon, along with small businesses including Burlap and Barrel and Basic Fun.",
+      "Importers may pass these higher costs on to consumers, affecting prices for certain imported products in the short term, while the Court acknowledged that businesses face operational strain including \"lost profits\" and \"constraints on growth.\"",
+      "Litigation continues as the appeals court considers whether the tariffs were lawfully imposed, with the case potentially headed to the Supreme Court, though the current ruling does not predetermine the final result."
     ],
-    "title": "Few Americans see Trump administration delivering justice in Epstein cases, Reuters/Ipsos poll finds",
-    "topic": "Epstein Files",
-    "topic_full": "Epstein Files · United States"
+    "title": "Appeals Court Says U.S. Government Can Keep Collecting 10% Tariffs for Now",
+    "topic": "Tariffs",
+    "topic_full": "Tariffs · United States"
   },
   {
-    "article_path": "/article/foreign-workers-say-they-were-paid-less-than-2-an-hour-to-build-a-new-us-consulate-in-milan",
-    "article_url": "https://ground.news/article/foreign-workers-say-they-were-paid-less-than-2-an-hour-to-build-a-new-us-consulate-in-milan",
-    "bias": [
-      "Left-Leaning coverage frames the story as labor exploitation, foregrounding “less than $2 an hour,” “foreign workers,” and the broken promise of “fair wages ,” while the right leans toward process and institutional standing, stressing that prosecutors are “investigating” the contractor and calling it a “major builder” of U.S. missions.",
-      "The center sits between them, adding document-based detail like pay stubs and employment letters.",
-      "The sharpest dividing lines are the wage allegation, the arrest/investigation angle, and the contractor’s role: left uses a more accusatory, sympathy-driven tone, right is cooler and inquiry-focused, and all sides agree the $350 million Milan consulate and worker complaints sit at the story’s core."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 61.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "Milan",
-    "right_pct": 6.0,
-    "status": "ok",
-    "summary": [
-      "Italian prosecutors are investigating Alabama-based Caddell Construction for labor exploitation at the $350 million American Consulate in Milan, with authorities arresting two managers this month on suspicion of abuse.",
-      "The six-month probe involves some 70 workers, mostly from India, who were promised fair wages but allegedly paid less than $2 hourly; prosecutors allege Caddell forced 10-hour workdays and illegally deducted housing costs.",
-      "Five former employees, including four electricians, reported being fired without cause after questioning management; employment letters promised annual salaries near 25,000 euros, yet pay stubs showed actual earnings as low as 500 euros.",
-      "Union representative Laura Malguzzi of the Fillea Cgil union federation intends to seek damages for workers to recover lost wages, as construction at the consulate campus continues under court supervision.",
-      "The State Department is investigating the allegations alongside Italian authorities, stating the U.S. government does not tolerate labor exploitation, while Caddell said it is \"fully cooperating\" with the inquiry."
-    ],
-    "title": "Foreign workers say they were paid less than $2 an hour to build a new US Consulate in Milan",
-    "topic": "US Politics",
-    "topic_full": "US Politics · Milan"
-  },
-  {
-    "article_path": "/article/meteorologists-hopeful-storms-wont-interfere-with-trumps-ufc-fight",
-    "article_url": "https://ground.news/article/meteorologists-hopeful-storms-wont-interfere-with-trumps-ufc-fight",
-    "bias": [
-      "Left-Leaning coverage frames the White House UFC event as an expensive spectacle, stressing “$60M,” “required,” and the derisive “fight” to spotlight public cost and institutional burden; right-leaning coverage also fixates on the price tag and federal machinery, but more often normalizes Trump’s role and adds practical details like “port-a-potties,” “massive production,” and even hopeful weather notes.",
-      "The sharpest dividing line is whether the story signals waste and overreach or a workable high-profile event.",
-      "Center-Leaning coverage stays more descriptive, anchored in the legal filing and the “seven matches.” All sides agree on scale, but the left-right split reflects broader tensions over spectacle, government spending, and Trump’s political symbolism."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 35.0,
-    "error": null,
-    "left_pct": 39.0,
-    "location": "Washington",
-    "right_pct": 26.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, President Donald Trump will host seven UFC bouts on the White House South Lawn, concluding a weekend-long celebration that includes a Friday kickoff at the Lincoln Memorial and a Saturday fan fest.",
-      "Organizing the spectacle required at least $60 million and significant resources from seven federal agencies, including Homeland Security and the Federal Aviation Administration, with hundreds of staff members working onsite daily for the event.",
-      "Meteorologists predict only a 30% chance of storms, though Topper Shutt, chief meteorologist for WUSA, and Mike Thomas, Fox 5 evening meteorologist, warned high heat remains a factor, echoing reservations from CEO Dana White and Joe Rogan.",
-      "A lawsuit filed on behalf of two Virginia residents by the Public Integrity Project challenges the event's authorization; attorney Brendan Ballou called it a \"corrupt use of our most sacred national monuments for private gain.\"",
-      "President Trump is scheduled to depart for France shortly after the fight to attend the upcoming G7 summit, while disassembly of the site installations will begin the day after the event and conclude by June 23."
-    ],
-    "title": "$60M and 7 federal agencies required to stage Trump’s UFC fight at White House",
-    "topic": "US Politics",
-    "topic_full": "US Politics · Washington"
-  },
-  {
-    "article_path": "/article/california-socialite-and-ex-dodger-must-pay-22m-in-punitive-damages-over-deaths-of-young-brothers",
-    "article_url": "https://ground.news/article/california-socialite-and-ex-dodger-must-pay-22m-in-punitive-damages-over-deaths-of-young-brothers",
-    "bias": [
-      "Left-Leaning coverage leans harder into culpability, using sharper phrases like “raced their SUVs” and “hit-and-run collision” to spotlight reckless conduct and moral blame, while right-leaning coverage stays tighter on the verdict itself, stressing “must pay” and the $22M punitive award without much interpretive expansion.",
-      "The biggest dividing line is whether the story is about dangerous behavior or judicial consequence: left frames the defendants as responsible actors in a tragic crash, right presents the court’s punishment more tersely.",
-      "Center coverage sits between them, adding the nine-week trial and the boys’ names and ages.",
-      "All sides agree on the roughly $198M-$199M total and the deaths of two young brothers."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 59.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": "Los Angeles",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, a Los Angeles jury ordered socialite Rebecca Grossman to pay $21 million and former Los Angeles Dodgers pitcher Scott Erickson to pay $1.17 million in punitive damages for the 2020 crash that killed two brothers.",
-      "This punitive award follows last week's $176 million compensatory judgment for the wrongful deaths of Mark and Jacob Iskander, as jurors previously found Grossman and Erickson acted with malice while racing through Westlake Village.",
-      "Attorney Brian Panish presented evidence that the pair attempted to conceal assets, describing their conduct as \"reprehensible,\" while expert testimony showed Grossman struck the boys at 73 mph in a 45 mph zone.",
-      "The total civil judgment now reaches almost $199 million, with Grossman currently serving 15 years to life in prison for second-degree murder while Erickson was not criminally charged.",
-      "Separately, the California Supreme Court rejected Grossman's petition to review her criminal conviction on Wednesday, marking legal finality after a nine-week civil trial that sought accountability for the Iskander family."
-    ],
-    "title": "California socialite and ex-Dodger must pay $22M in punitive damages over deaths of young brothers",
-    "topic": "Accident",
-    "topic_full": "Accident · Los Angeles"
-  },
-  {
-    "article_path": "/article/openai-says-chinese-propaganda-is-being-deployed-to-foment-dissent-over-tariffs-data-centers",
-    "article_url": "https://ground.news/article/openai-says-chinese-propaganda-is-being-deployed-to-foment-dissent-over-tariffs-data-centers",
+    "article_path": "/article/us-judge-blocks-texas-attorney-general-paxtons-lawsuit-against-democratic-fundraising-platform-actblue",
+    "article_url": "https://ground.news/article/us-judge-blocks-texas-attorney-general-paxtons-lawsuit-against-democratic-fundraising-platform-actblue",
     "bias": null,
-    "bias_bar_text": "Center 57% Right 43%",
-    "center_pct": 57.0,
+    "bias_bar_text": null,
+    "center_pct": 60.0,
+    "error": "Message: \n",
+    "left_pct": 20.0,
+    "location": "Texas",
+    "right_pct": 20.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Judge rules Ken Paxton cannot move forward with ActBlue lawsuit",
+    "topic": "Texas Politics",
+    "topic_full": "Texas Politics · Texas"
+  },
+  {
+    "article_path": "/article/trump-opens-up-pacific-marine-national-monuments-to-commercial-fishing",
+    "article_url": "https://ground.news/article/trump-opens-up-pacific-marine-national-monuments-to-commercial-fishing",
+    "bias": [
+      "Left-Leaning coverage frames the proclamation as a damaging rollback, using terms like “dismantles,” “strips,” and “fragility” to spotlight ecological loss and protected habitat; right-leaning coverage flips the script, casting it as “restores” and “unlocks” access, even a boost to “American industry” and lower seafood prices.",
+      "The key dividing line is whether reopening protected Pacific waters is a conservation setback or an economic win, with the center leaning more procedural, noting a “blow to environmentalists” and a partial reopening.",
+      "Both sides agree it affects marine monuments and fishing, but they diverge sharply on whether that change signals harm or opportunity."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 27.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 41.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, June 11, 2026, President Donald Trump signed an executive proclamation restoring commercial fishing access to portions of three Pacific marine national monuments, reopening about half a million square miles to United States-flagged vessels.",
+      "Industry leaders lobbied for decades to compete against foreign fleets, and the administration argued that prohibiting commercial fishing is \"not necessary\" for protecting marine ecosystems, citing existing federal fisheries laws.",
+      "Sig Hansen, captain of Deadliest Catch, joined Trump at the White House for the signing ceremony, where Commerce Secretary Howard Lutnick stated the move creates economic opportunities for the $125 million Honolulu-based longline industry.",
+      "Environmental groups, including the Center for Biological Diversity, denounced the proclamation as a \"reckless attack\" on ocean sanctuaries, warning that removing vessel restrictions threatens endangered wildlife and disrupts vital marine ecosystems.",
+      "Legal challenges are expected to follow this action, mirroring previous disputes over the president's 2025 marine monument orders, as conservationists continue to argue that these protected areas are essential for fish stock recovery."
+    ],
+    "title": "Trump opens up Pacific marine national monuments to commercial fishing",
+    "topic": "Environment & Climate",
+    "topic_full": "Environment & Climate · United States"
+  },
+  {
+    "article_path": "/article/the-idfs-week-about-310-attacks-in-lebanon-the-killing-of-senior-officials-in-gaza-and-dozens-of-arrests",
+    "article_url": "https://ground.news/article/the-idfs-week-about-310-attacks-in-lebanon-the-killing-of-senior-officials-in-gaza-and-dozens-of-arrests",
+    "bias": null,
+    "bias_bar_text": "Center 33% Right 67%",
+    "center_pct": 33.0,
     "error": "Message: \n",
     "left_pct": null,
     "location": null,
-    "right_pct": 43.0,
+    "right_pct": 67.0,
     "status": "fail",
     "summary": null,
-    "title": "OpenAI says Chinese propaganda is being deployed to foment dissent over tariffs, data centers",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/albanias-anti-government-protests-intensify-against-jared-kushners-tourist-complex",
-    "article_url": "https://ground.news/article/albanias-anti-government-protests-intensify-against-jared-kushners-tourist-complex",
-    "bias": [
-      "Left-Leaning coverage frames the Tirana protests as a grassroots rebuke to a “Trump family-linked” resort, stressing scale, “largest protest yet,” and environmental or sovereignty concerns through phrases like “ Albania is not for sale” and “resistance.” Right-leaning coverage flips the lens, casting demonstrators as “Trump Haters” and using “shake” and “shaken” to portray political destabilization, while de-emphasizing land-use or ecological objections.",
-      "The biggest dividing line is motive: one side emphasizes public pushback against elite-linked development, the other personalizes it as anti-Trump hostility.",
-      "Both agree the protests were massive and politically consequential, but they diverge over whether that signals civic alarm or partisan attack."
-    ],
-    "bias_bar_text": "Left 57% Center 29% R 14%",
-    "center_pct": 29.0,
-    "error": null,
-    "left_pct": 57.0,
-    "location": null,
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "Thousands protested in Tirana on Wednesday against a luxury resort development backed by Jared Kushner, son-in-law of United States President Donald Trump, with the crowd stretching half a mile down a main boulevard.",
-      "The project, expected to cost about $5.8 billion, is planned near the ecologically sensitive Zvernec wetlands that serve as a protected habitat for flamingos, seals, and sea turtle nesting sites, sparking local outrage.",
-      "Calling the movement the 'Flamingo Revolution,' protesters chanted 'Albania is not for sale' outside Prime Minister Edi Rama's office. Protester Leand Lakrori told Reuters, 'This is the apotheosis of what has been happening in Albania for the last 35 years.'",
-      "Despite warnings from the European Commission that the project could threaten Albania's European Union accession path, Prime Minister Edi Rama insisted the development will proceed. Officials cautioned that environmental law alignment remains a condition for entry.",
-      "Previously, Kushner's firm, Affinity Partners, abandoned a similar hotel project in Serbia last December following protests. Critics argue the plan mirrors a broader pattern of foreign influence concerns that have persisted for decades."
-    ],
-    "title": "Thousands Rally in Albania in Largest Protest yet Against Kushner Resort",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/microsofts-xbox-plans-for-major-layoffs-next-month-bloomberg-news-reports",
-    "article_url": "https://ground.news/article/microsofts-xbox-plans-for-major-layoffs-next-month-bloomberg-news-reports",
-    "bias": [
-      "Left-Leaning coverage frames Xbox ’s cuts as failure and accountability, stressing “sales are falling,” the “$20 billion” spend, and a “margin crisis,” while amplifying emotionally loaded phrases like “surprising and even frustrating,” “reset,” and even “bloodletting.” Right-leaning coverage strips this down into a business “reboot” with “layoffs” and “budget cuts,” treating the move as a pragmatic reset rather than a scandal.",
-      "The key dividing lines are whether restructuring signals collapse or cleanup, and whether employee pain or managerial strategy leads the story.",
-      "Both sides agree layoffs are coming, but they diverge on whether that reflects deeper mismanagement or routine reinvention."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 45.0,
-    "error": null,
-    "left_pct": 46.0,
-    "location": "Redmond",
-    "right_pct": 9.0,
-    "status": "ok",
-    "summary": [
-      "Microsoft's Xbox division plans major layoffs next month, according to a Bloomberg News report.",
-      "The job cuts would be the first major restructuring under new Xbox CEO Asha Sharma, who took over in February.",
-      "Sharma said Xbox needs to rebuild its platform infrastructure and rethink its portfolio, citing declining revenue and high costs over the past five years."
-    ],
-    "title": "Microsoft's Xbox plans for major layoffs next month, Bloomberg News reports",
-    "topic": "Xbox",
-    "topic_full": "Xbox · Redmond"
-  },
-  {
-    "article_path": "/article/us-derivatives-regulator-maps-out-rules-for-soaring-prediction-market-industry_700b65",
-    "article_url": "https://ground.news/article/us-derivatives-regulator-maps-out-rules-for-soaring-prediction-market-industry_700b65",
-    "bias": [
-      "Left-Leaning coverage frames the proposal as a mostly permissive move that still leaves the “booming” prediction market intact, spotlighting “game shows,” “reality shows,” and “pageants” to show how wide the rulebook could reach, while also calling sports bets “essentially indistinguishable from traditional gambling.” Right-leaning coverage flips the emphasis: it foregrounds “market manipulation,” “insider trading,” and bans on wagers tied to “wars” or “player injuries,” casting the agency as guarding against abuse rather than expanding oversight.",
-      "The center sits between them, stressing formal regulation and fraud risk.",
-      "Both sides agree the CFTC is drawing lines on sensitive contracts, but they diverge on whether that means consumer protection or overreach."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 79.0,
-    "error": null,
-    "left_pct": 13.0,
-    "location": "United States",
-    "right_pct": 8.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, the Commodity Futures Trading Commission released proposed rules to regulate prediction markets, establishing a framework to reject contracts deemed contrary to public interest while permitting most sports-related trading.",
-      "Regulators drafted these rules amid concerns over insider trading and manipulation, as prediction markets like Kalshi and Polymarket have surged in popularity over the past year.",
-      "The proposal generally permits sports-based contracts focused on final outcomes and win-loss records, but restricts wagers on player injuries and officiating decisions susceptible to manipulation while seeking public input on entertainment betting.",
-      "While industry participants view the principles-based approach as a path forward, critics and state officials argue the rules fall short, contending these markets remain indistinguishable from gambling under current law.",
-      "The draft rules are open for public comment for 45 days, with Chairman Michael Selig stating the agency intends to \"protect the integrity of our regulated markets without standing in the way of responsible innovation."
-    ],
-    "title": "CFTC Proposes Prediction Market Rules With 45-Day Comment Period",
-    "topic": "US Economy",
-    "topic_full": "US Economy · United States"
-  },
-  {
-    "article_path": "/article/art-directors-guild-slams-martin-scorsese-for-ai-partnership-turning-his-back-on-the-human-artists",
-    "article_url": "https://ground.news/article/art-directors-guild-slams-martin-scorsese-for-ai-partnership-turning-his-back-on-the-human-artists",
-    "bias": [
-      "Left-Leaning coverage frames Scorsese’s AI move as a labor and artistic “betrayal,” stressing phrases like “slams” and “turning his back on the human artists” to cast the union as defending collaboration against tech-driven harm; it even foregrounds the specific AI company and the guild’s moral rebuke.",
-      "Right-Leaning coverage flips the script, using dismissive labels like “Luddites” and “attack” to portray critics as anti- innovation and unserious, while presenting him as having “embraced” AI.",
-      "Both sides agree the dispute hinges on AI in filmmaking and Scorsese’s reputation for human artistry, but they diverge on whether that symbolizes ethical breach or reasonable modernization."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 9.0,
-    "error": null,
-    "left_pct": 82.0,
-    "location": "Los Angeles",
-    "right_pct": 9.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, the Art Directors Guild condemned Martin Scorsese's partnership with AI startup Black Forest Labs, calling his endorsement a \"betrayal of the collaborative nature of cinema.\"",
-      "Scorsese recently joined Black Forest Labs as an advisor, promoting their FLUX software for pre-visualization; the union argues the technology relies on copyrighted works and threatens members' jobs creating storyboards and designs.",
-      "Defending the move, Scorsese stated the tool helps him communicate his vision to his creative team more efficiently, emphasizing it provides \"less wear and tear on the crew\" during pre-production.",
-      "On June 3, director Boots Riley speculated the 83-year-old filmmaker pursued the partnership for financial reasons, though Scorsese framed it as pushing creative boundaries.",
-      "Union membership declined from 3,492 in 2022 to 2,966 in 2025, and the ADG continues viewing generative AI as a significant threat to professional artists and designers."
-    ],
-    "title": "Martin Scorsese Is Under Fire For His AI Endorsement",
-    "topic": "Startups",
-    "topic_full": "Startups · Los Angeles"
-  },
-  {
-    "article_path": "/article/openai-eyes-10-gw-ohio-ai-data-center-backed-by-nvidia-in-historic-infrastructure-push",
-    "article_url": "https://ground.news/article/openai-eyes-10-gw-ohio-ai-data-center-backed-by-nvidia-in-historic-infrastructure-push",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 34.0,
-    "error": "Message: \n",
-    "left_pct": 22.0,
-    "location": "United States",
-    "right_pct": 44.0,
-    "status": "fail",
-    "summary": null,
-    "title": "OpenAI eyes potential $500 billion data center on federal land in Ohio: Report",
-    "topic": "OpenAI",
-    "topic_full": "OpenAI · United States"
-  },
-  {
-    "article_path": "/article/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic",
-    "article_url": "https://ground.news/article/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic",
-    "bias": [
-      "Left and center frame OpenAI ’s move as a competitive business play—“slashing prices” to “woo consumers” or a “major pricing shake-up” to counter Anthropic—while the right leans harder into uncertainty and conflict, stressing “drastic” cuts and a “war” with Anthropic.",
-      "The most revealing divide is whether the story is a strategic market pivot or a high-stakes battle: the center adds IPO and “trillion-dollar” ambitions, and the right foregrounds that talks are still in flux.",
-      "All three agree on lower prices and Anthropic as the trigger, but their tones range from promotional to combative, reflecting broader market-vs.-cultural framing."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 78.0,
-    "error": null,
-    "left_pct": 11.0,
-    "location": "United States",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, OpenAI began weighing significant price cuts to its artificial intelligence offerings to compete with rival Anthropic, the Wall Street Journal reported, citing sources familiar with the matter.",
-      "Both companies are moving closer to public offerings; OpenAI filed confidentially for an IPO on Monday, while Anthropic surpassed it in valuation at $965 billion in May versus OpenAI's $852 billion in March.",
-      "OpenAI currently charges tiered subscriptions of $8, $20, and $100 monthly for access to its flagship models, while Anthropic charges $17 for Claude Pro and $100 and above for Claude Max.",
-      "Price reductions could strengthen OpenAI's enterprise market position as reports indicate the company is developing a broader platform combining coding tools and artificial intelligence agents into a single integrated service.",
-      "Analysts suggest OpenAI could eventually achieve a valuation exceeding $1 trillion, though discussions regarding pricing cuts remain ongoing and no final decision has been made by the company."
-    ],
-    "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ",
-    "topic": "OpenAI",
-    "topic_full": "OpenAI · United States"
-  },
-  {
-    "article_path": "/article/wp-mamdani-was-to-meet-with-colombias-leader-trump-made-sure-it-didnt-happen",
-    "article_url": "https://ground.news/article/wp-mamdani-was-to-meet-with-colombias-leader-trump-made-sure-it-didnt-happen",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": 83.0,
-    "location": "United States",
-    "right_pct": 17.0,
-    "status": "fail",
-    "summary": null,
-    "title": "White House Nixed Mamdani's Planned Meeting With Colombia's President: Washington Post",
-    "topic": "Zohran Mamdani",
-    "topic_full": "Zohran Mamdani · United States"
-  },
-  {
-    "article_path": "/article/iran-announces-closure-of-strait-of-hormuz-after-us-attacks_dd4e33",
-    "article_url": "https://ground.news/article/iran-announces-closure-of-strait-of-hormuz-after-us-attacks_dd4e33",
-    "bias": [
-      "Left-Leaning coverage frames the story as U.S. escalation, stressing “renewed” or “fresh” strikes and portraying Iran ’s closure move as retaliatory, while right-leaning coverage turns the same events into a crisis narrative centered on threat, “completely” closing the strait, “multiple targets,” and tough rhetoric like “hit them hard” or “playing us for suckers.” The biggest dividing lines are whether the closure is treated as a consequence, a menace, or a disputed claim, and whether Trump’s warnings are read as coercive or defensive.",
-      "Both sides agree the conflict is dangerous and the Strait of Hormuz is strategically vital, but they diverge sharply on blame and stakes."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 26.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "Iran",
-    "right_pct": 45.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, Iran’s military command declared the Strait of Hormuz closed to all vessels, including oil tankers. The Khatam al-Anbiya command warned that any vessel attempting to pass through the strategic waterway will be targeted.",
-      "At President Donald Trump ’s direction, the U.S. launched renewed strikes against multiple targets in Iran late Wednesday. Central Command officials stated the military action was in response to Iran’s \"unwarranted and continued aggression.\"",
-      "Citing \"repeated violations\" of an April ceasefire, the Islamic Revolutionary Guard Corps claimed it struck two oil tankers attempting to illegally pass through the strait. However, the U.S. military denied the waterway had been fully closed.",
-      "President Trump warned that Tehran would \"pay the price\" for stalled negotiations, while President Masoud Pezeshkian slammed the threat as a \"sign of desperation.\" Separately, 22 nations issued a joint statement demanding Iran stop attacking individuals on foreign soil.",
-      "Global energy markets face uncertainty as the conflict threatens access to roughly a fifth of the world's oil supply. Trump claimed the U.S. has been removing millions of barrels daily, keeping prices at $85-$90 a barrel."
-    ],
-    "title": "Iran announces closure of Strait of Hormuz after US attacks",
-    "topic": "2026 Iran Conflict",
-    "topic_full": "2026 Iran Conflict · Iran"
-  },
-  {
-    "article_path": "/article/nasa-responds-to-criticism-of-artemis-iiis-all-male-crew",
-    "article_url": "https://ground.news/article/nasa-responds-to-criticism-of-artemis-iiis-all-male-crew",
-    "bias": [
-      "Left-Leaning coverage frames the all-male Artemis III crew as a representation setback, stressing “backlash,” “outrage,” and the lost chance to inspire “women” and girls in STEM; right-leaning coverage pivots toward a culture-war lens, using sharper phrases like “sexism row,” “womanless,” and “100% male” while emphasizing NASA ’s independence and the crew’s supposed “best chance” to succeed.",
-      "The biggest dividing line is whether the story is about gender exclusion or merit-based mission planning, with the center briefly bridging both by noting NASA’s “defends” posture and the Trump-era DEI context.",
-      "Both sides agree criticism erupted and NASA responded, but they diverge on whether that response is accountability or pushback."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 57.0,
-    "error": null,
-    "left_pct": 19.0,
-    "location": "United States",
-    "right_pct": 24.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, June 9, NASA revealed the all-male crew selected for next year's Artemis III mission at Johnson Space Center, comprising commander Randy Bresnik, pilot Luca Parmitano, and mission specialists Andre Douglas and Frank Rubio.",
-      "Operational requirements drove the crew selection, as the mission demands extensive test-piloting experience for docking maneuvers with SpaceX and Blue Origin landers to validate systems for future lunar surface returns.",
-      "The crew offers diverse expertise: Bresnik is a former \"TOPGUN\" graduate, Parmitano flew Italian air force jets, Rubio holds a medical doctorate, and Douglas possesses a Ph.D. in engineering.",
-      "Social media users argued that the all-male crew sends the wrong message at a time when space agencies work to improve diversity and representation in astronaut selection.",
-      "Defending the selection on Wednesday, NASA Administrator Jared Isaacman insisted the process involved no political appointees and that the agency will \"assemble the best astronauts to undertake and complete the objectives."
-    ],
-    "title": "NASA Chief Defends Selection of All-Male Crew for Artemis III Mission",
-    "topic": "NASA",
-    "topic_full": "NASA · United States"
-  },
-  {
-    "article_path": "/article/david-flippo-wins-republican-nomination-for-us-house-in-nevadas-2nd-congressional-district_264881",
-    "article_url": "https://ground.news/article/david-flippo-wins-republican-nomination-for-us-house-in-nevadas-2nd-congressional-district_264881",
-    "bias": [
-      "Left-Leaning coverage frames Flippo mainly through Trump, using “Trump-backed” to suggest his primary win matters because of Trump’s influence and, in one analysis, because Democrats may find him easier to beat with “less partisan voters.” Right-leaning coverage turns the same result into a GOP strength story, adding phrases like “Trump-tapped,” “deep-red,” and “heavy November favorite” to portray momentum and district advantage.",
-      "The center stays more procedural, emphasizing who “advance” without the partisan gloss.",
-      "Both sides agree on the win and November matchup, but they split over whether the race signals vulnerability or Republican inevitability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 34.0,
-    "location": "Nevada",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "David Flippo, Republican candidate, won the primary in Nevada's 2nd Congressional District on Tuesday, securing the nomination after receiving a late endorsement from President Donald Trump to bolster his campaign.",
-      "The seat became vacant after retiring Rep. Mark Amodei announced his departure following 15 years in office; Amodei backed former state Sen. James Settelmeyer, placing him in direct opposition to Trump during the primary.",
-      "As of early Wednesday, Flippo led Settelmeyer with 45.7% of the vote to 35.3% with an estimated 83% of ballots counted in the district, which covers northern Nevada and the battleground county of Washoe.",
-      "Democrats hoped for a Flippo victory, believing it would improve their chances with less partisan voters in November, and Flippo stated on X he will join Trump to \"fight for the hard working men and women\" in Nevada."
-    ],
-    "title": "David Flippo wins Republican nomination for U.S. House in Nevada’s 2nd Congressional District",
-    "topic": "Nevada Politics",
-    "topic_full": "Nevada Politics · Nevada"
-  },
-  {
-    "article_path": "/article/4-people-shot-to-death-at-suburban-detroit-house-suspect-quickly-surrenders",
-    "article_url": "https://ground.news/article/4-people-shot-to-death-at-suburban-detroit-house-suspect-quickly-surrenders",
-    "bias": [
-      "Left-Leaning coverage stays close to the core police account, emphasizing the death toll and family ties—“parents and brother”—in a restrained, human-impact frame, while right-leaning coverage turns sharper and more incident-driven, using terms like “gunned down,” “domestic mass shooting,” and repeated “gunman” language to stress violence, culpability, and public disorder.",
-      "The biggest dividing lines are the added details on the right—“hands raised,” the suspect said he shot family members, and the brother’s girlfriend—versus the center’s reassurance that there was “no additional threat” and its more procedural tone.",
-      "Both sides agree on the quick surrender and family tragedy, but they diverge in broader social meaning: private crisis versus crime-and-safety alarm."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 46.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "Michigan",
-    "right_pct": 31.0,
-    "status": "ok",
-    "summary": [
-      "A 25-year-old man killed four people at a home in Livonia, a suburb of Detroit, on Tuesday. The suspect surrendered to authorities immediately upon their arrival at the residence, ending the situation.",
-      "Police Chief Tom Goralski noted the suspect had a \"contentious relationship\" with his parents. Authorities are still investigating the motive for the shooting, as it remains unclear why the event occurred.",
-      "Sterling Pierce and Holly Kimball were discovered in the backyard, while the suspect's brother, Tanner Pierce, and his girlfriend were found shot in a bedroom.",
-      "Officers arriving at the residence observed the suspect exit with hands raised, indicating he had shot family members. The individual was taken into custody without incident."
-    ],
-    "title": "Gunman kills 4 people at suburban Detroit house, including parents and brother, police say",
-    "topic": "US Crime",
-    "topic_full": "US Crime · Michigan"
-  },
-  {
-    "article_path": "/article/us-strikes-iran-as-tehran-warns-of-response-to-attacks",
-    "article_url": "https://ground.news/article/us-strikes-iran-as-tehran-warns-of-response-to-attacks",
-    "bias": [
-      "Left-Leaning coverage frames the story as a volatile back-and-forth—“attacks and denials,” a ceasefire that “does not stop”—while right-leaning coverage recasts the same strikes as “self-defense” against “unfounded and continued aggression,” stressing a “fragile truce” and oil “surges.” The dividing lines are sharp: the left foregrounds the US military saying attacks were “over” and Iran’s denials, whereas the right de-emphasizes that pause and highlights escalation, shipping risk in the Strait of Hormuz, and market fallout.",
-      "Shared ground remains the strikes, Iran’s response, and the strained truce, but one side spotlights instability and the other legitimacy and deterrence."
-    ],
-    "bias_bar_text": "L 20% Center 47% Right 33%",
-    "center_pct": 47.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": null,
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "The United States launched a fresh round of strikes against multiple targets in Iran overnight, hours after President Donald Trump vowed new attacks if no peace deal is secured.",
-      "Late Wednesday, Trump claimed the US military supported passage of more than 200 commercial ships through the Strait of Hormuz, while US Central Command denied the strait was closed.",
-      "Oil prices rose nearly $3 to $94 per barrel following the escalation threats, and Iran's top military command warned it would give a \"crushing and decisive\" response to any \"agression\" by the US.",
-      "A Qatari delegation arrived in Tehran on Wednesday to mediate talks, though Iran accused the US of striking reservoirs supplying drinking water to 10 villages, calling it a \"calculated war crime.\"",
-      "Market analysts warn oil price volatility will remain elevated until there is clearer evidence the ceasefire holds, as the conflict continues to disrupt shipments across the Middle East."
-    ],
-    "title": "US and Iran Exchange Attacks for Second Day Amid Truce",
+    "title": "IDF Strikes over 300 Hezbollah Sites, Kills Five Gaza Terrorists, Captures 50 Suspects in West Bank",
     "topic": null,
     "topic_full": null
   },
@@ -658,190 +657,200 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/analysis-why-a-frustrated-trump-is-turning-again-to-bombs-to-force-irans-hand",
-    "article_url": "https://ground.news/article/analysis-why-a-frustrated-trump-is-turning-again-to-bombs-to-force-irans-hand",
-    "bias": null,
-    "bias_bar_text": "Left 33% Center 67%",
-    "center_pct": 67.0,
-    "error": "Message: \n",
-    "left_pct": 33.0,
-    "location": null,
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Trump Tries Bombs to Force Iran to Give In: Analysis",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/trump-says-iranian-officials-called-him-directly-seeking-halt-to-us-strikes",
-    "article_url": "https://ground.news/article/trump-says-iranian-officials-called-him-directly-seeking-halt-to-us-strikes",
+    "article_path": "/article/us-plans-to-deport-iranians-to-central-african-republic-sources-say",
+    "article_url": "https://ground.news/article/us-plans-to-deport-iranians-to-central-african-republic-sources-say",
     "bias": [
-      "Left-Leaning coverage narrows in on Trump’s announcement of a “halt to strikes,” casting the moment as de-escalation and largely stopping at the reported contact relayed through Trey Yingst.",
-      "Center-Leaning coverage adds caution: it foregrounds Iran’s denial, uses attribution markers like “claims” and “says,” and situates the episode amid stalled talks and ongoing strikes.",
-      "Right-Leaning coverage turns the same event into leverage politics , stressing “halts,” “vows,” “bombing,” and blunt ultimatum language like “sh--” and “regime,” while portraying Iran as seeking relief.",
-      "All sides still anchor on Trump’s call and the strikes, but their framing splits over restraint, credibility, and power."
+      "Left-Leaning coverage frames the story as a human-rights crisis, foregrounding “women who fled Iran,” “torture,” “persecution,” and the U.S. warning not to travel to a “chronically unstable” country “racked by violence and poverty,” while right-leaning coverage shifts to enforcement and geopolitics, using terms like “deport,” “new deal,” “violence-plagued,” and the regional Ebola backdrop to portray a hardline policy move.",
+      "The sharpest dividing line is whether the deportation is a humanitarian threat or a negotiated border-control measure.",
+      "Both sides agree the Trump administration planned removals to the Central African Republic, but they emphasize different stakes: vulnerability and danger versus state power and regional risk."
     ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, President Donald Trump told Fox News he spoke directly with Iranian officials who asked him to stop \"self-defense strikes\" against the country, claiming the conversation occurred in the Situation Room with Vice President JD Vance.",
-      "Tensions escalated after an Army Apache helicopter was shot down over the Strait of Hormuz on Monday, prompting CENTCOM to launch strikes on Tuesday citing Iran's \"unwarranted and continued aggression.\"",
-      "Defense Secretary Pete Hegseth previewed the Wednesday operation, where 49 Tomahawk missiles hit targets as close as 40 miles from Tehran, as Trump warned Iran faces continued strikes if it refuses a United States-proposed agreement.",
-      "Iran's state media denied any contact, calling Trump's claim \"a cover to evade war,\" while Trump promised to \"bomb the s*** out of them tomorrow night\" if no deal is reached.",
-      "Correspondent Trey Yingst reported that Trump insists the April 7 ceasefire remains in effect, though Trump labeled it the \"most violated ceasefire in the history of the world."
-    ],
-    "title": "Trump says Iranian officials called him directly seeking halt to US strikes",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/premier-doug-ford-inks-deal-with-pennsylvania-gov-josh-shapiro",
-    "article_url": "https://ground.news/article/premier-doug-ford-inks-deal-with-pennsylvania-gov-josh-shapiro",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "‘Reckless and disrespectful’: Pennsylvania governor slams Trump’s Canada comments as he signs trade pact with Ontario",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/big-bend-will-see-vehicle-barriers-not-walls-along-southern-border",
-    "article_url": "https://ground.news/article/big-bend-will-see-vehicle-barriers-not-walls-along-southern-border",
-    "bias": [
-      "Left-Leaning coverage frames the waiver as an alarming sidestep of protections, using terms like “bypass,” “waives,” and “accelerate” to stress environmental harm to “renowned” parks and even noting Rep. Henry Cuellar’s failed bid to block funding; right-leaning coverage treats the same move as practical border enforcement, de-emphasizing park damage and leaning on the border-security logic behind faster construction.",
-      "Center coverage splits the difference, focusing on “vehicle barriers, not walls” and delays “in limbo,” a more procedural tone than either pole.",
-      "Both sides agree on the waiver over 100+ miles, but diverge sharply on whether it signals stewardship failure or effective control."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 49.0,
+    "bias_bar_text": "Left 38% C 24% Right 38%",
+    "center_pct": 24.0,
     "error": null,
     "left_pct": 38.0,
-    "location": "Texas",
-    "right_pct": 13.0,
+    "location": null,
+    "right_pct": 38.0,
     "status": "ok",
     "summary": [
-      "On Monday, the Trump administration waived federal environmental laws to authorize 17 miles of vehicle barriers and patrol roads in Big Bend National Park, officials confirmed on Wednesday.",
-      "Customs and Border Protection previously indicated no plans for 30-foot walls, yet the agency's 'Big Bend 4' project now includes metal posts and surveillance technology to secure the rugged terrain.",
-      "Targeting over 100 miles of border, the new regulatory waiver allows for infrastructure consisting of four-foot tall metal posts with cross beams, according to CBP.",
-      "In a 26-34 vote, the House Appropriations Committee rejected an amendment from Rep. Henry Cuellar, D-Laredo, that would have blocked funding for the construction.",
-      "Opponents, including the Center for Biological Diversity, promise to fight the project in court, warning that the construction threatens the landscape and calling the waiver a \"death warrant\"."
+      "President Donald Trump plans to deport about 20 migrants, including Iranians, Syrians, and Afghans, to the Central African Republic on Thursday. This marks the first such removal to the volatile, impoverished nation under a new third-country deportation deal.",
+      "Aiming to fulfill campaign promises to curtail immigration, the White House is pursuing third-country deportation deals to remove individuals the United States cannot legally return home. This strategy bypasses repatriation barriers.",
+      "Among the deportees are two Iranian women and a Syrian man holding \"withholding of removal\" status granted by United States judges due to credible torture fears. Lawyers warn that sending them to the Central African Republic endangers their lives.",
+      "While the IOM pledged to provide \"post-arrival humanitarian assistance\" at the Central African Republic government's request, the agency clarified it is not involved in the removals. Rights groups remain concerned about migrants' long-term safety.",
+      "Critics argue these opaque third-country deals, similar to past negotiations with Congo, prioritize political pledges over safety of vulnerable asylum seekers. The State Department warns against travel to the Central African Republic due to conflict and human rights abuses including torture."
     ],
-    "title": "Trump administration will bypass environmental laws for border project in Big Bend National Park",
-    "topic": "Environment & Climate",
-    "topic_full": "Environment & Climate · Texas"
+    "title": "Trump Administration Plans Deportation Flight to Central African Republic for Iranians, Syrians, and Afghans",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/lawsuit-seeks-to-stop-spacex-land-deal-from-destroying-texas-wildlife-refuge",
-    "article_url": "https://ground.news/article/lawsuit-seeks-to-stop-spacex-land-deal-from-destroying-texas-wildlife-refuge",
+    "article_path": "/article/trump-admin-axes-ties-to-dozens-of-progressive-groups-in-direct-opposition-to-mission-decisive-action_bda924",
+    "article_url": "https://ground.news/article/trump-admin-axes-ties-to-dozens-of-progressive-groups-in-direct-opposition-to-mission-decisive-action_bda924",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "The Trump administration 's Interior Department ended 43 partnerships with outside groups, cutting over $4 million in funding for programs related to Diversity, Equity, and Inclusion, environmental justice, and support for illegal immigrants as these did not align with administration priorities.",
+      "The department's review found nearly 3,000 active agreements with around 2,000 outside groups, many of which lacked clear benefit or conflicted with the department's mission, prompting the termination of contracts involving internships, conservation, research, and cooperative activities.",
+      "Groups affected included the Hispanic Access Foundation, Latino Outdoors, Conservation International, and The Cultural Landscape Foundation, all cited for activities conflicting with administration priorities such as promoting scholarships to illegal immigrants or fossil fuel phaseouts.",
+      "Matthew Middleton stated the Interior Department aims to invest in partnerships that support responsible stewardship, public land access, and tangible benefits for the American people, ending ties with organizations opposing administration priorities."
+    ],
+    "title": "Trump Administration Ends Dozens of Interior Department Partnerships Following Contract Review",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/california-sues-trump-administration-over-planned-ice-facility-near-gilroy",
+    "article_url": "https://ground.news/article/california-sues-trump-administration-over-planned-ice-facility-near-gilroy",
     "bias": [
-      "Left coverage frames the story as an environmental fight, spotlighting the “destroying” risk to the Lower Rio Grande Valley wildlife refuge and even the 715-acre versus 683-acre swap, while center coverage keeps the legal challenge but adds a broader cautionary lens, stressing “worsen ecological risks” and that the region is “already transformed” by Elon Musk’s rocket operations.",
-      "Right coverage is far more stripped down, treating it as a routine lawsuit over a federal deal with SpaceX and de-emphasizing the conservation stakes.",
-      "The sharpest divide is whether the swap is portrayed as a public-land threat or a procedural dispute; both sides still agree it’s a lawsuit over SpaceX-linked refuge land."
+      "Left-Leaning coverage frames the dispute as a broader anti-Trump showdown, using terms like “Massive ICE Gulag,” “flashpoint,” and “bypassed” to cast the facility as punitive and procedurally tainted, while center coverage stays more restrained, describing a “planned ICE facility” and stressing zoning plus environmental concerns like farmland and wildlife habitat damage.",
+      "The dividing line is whether the project is portrayed as carceral expansion or as a land-use problem, with legal nuance about contractor-versus-federal operation surfacing only on the left.",
+      "Both sides agree on the lawsuit and the block, but they diverge on whether the core story is detention politics or local procedural resistance."
     ],
     "bias_bar_text": null,
-    "center_pct": 32.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": 47.0,
-    "location": "Texas",
-    "right_pct": 21.0,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Wednesday, tribal and conservation groups sued the Fish and Wildlife Service to stop a land trade handing 715 acres of the Lower Rio Grande Valley National Wildlife Refuge to SpaceX in exchange for 683 acres.",
-      "SpaceX's rapidly expanding Boca Chica operations have degraded the habitat through failed rocket launches, triggering explosions and wildfires that scattered debris more than 6 miles from the launch pad.",
-      "Plaintiffs allege the Service violated the National Wildlife Refuge System Improvement Act of 1997, stating the lawsuit claims the Service prioritized giving SpaceX refuge land over enforcing protections.",
-      "Although the Service claimed the exchange provides a \"net conservation benefit,\" Juan Mancias of the Carrizo/Comecrudo Nation of Texas stated the land is sacred and the transfer continues tribal erasure.",
-      "The lawsuit asks a federal court in Washington to halt the exchange, which the agency approved earlier this month following internal planning that began in April 2025."
+      "California and Santa Clara County are suing the Trump administration to block the construction of an ICE facility in Gilroy.",
+      "Authorities claim the facility violates multiple federal laws and California's Williamson Act, and raise concerns over its potential environmental impact and lack of public consultation.",
+      "While initially denied by ICE, the blueprints suggest the facility could hold up to 150 detainees and contain spaces like holding rooms, visitation areas, and ammunition storage."
     ],
-    "title": "Lawsuit Challenges Trump Administration's Land Swap with SpaceX in Texas",
+    "title": "California sues Trump administration to block DHS ‘holding facility’ construction",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/abbott-recommends-sweeping-data-center-regulation-including-eliminating-sales-tax-exemption",
+    "article_url": "https://ground.news/article/abbott-recommends-sweeping-data-center-regulation-including-eliminating-sales-tax-exemption",
+    "bias": [
+      "Left-Leaning coverage frames Abbott’s move as a striking, unusually tough regulatory turn for a pro- business Republican, stressing “sweeping” regulation, “crack down,” and the broader risks of higher power rates, water strain, and local infrastructure pressure; it also spotlights the sales-tax exemption as part of a wider policy squeeze.",
+      "Right-Leaning coverage narrows the story to “consumer protection” and “ratepayers,” using calmer, procedural language and de-emphasizing the broader industrial critique.",
+      "A center-leaning version sits between them, adding Abbott’s water warning.",
+      "All sides agree on rising data-center costs, but split over whether this is a bold corrective or simply prudent protection."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 55.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": "Texas",
+    "right_pct": 15.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Governor Greg Abbott directed the Public Utility Commission and Electric Reliability Council of Texas to force data centers to pay for their own infrastructure, protecting residential electric bills from industry expansion.",
+      "Driven by reports of data centers straining resources, the state has seen rising opposition from residents across Texas. ERCOT reported 439 gigawatts of power capacity requests, five times the all-time peak demand.",
+      "Mandates include reducing residential transmission costs by July 31, while Abbott plans future legislation repealing outdated tax incentives for these facilities.",
+      "The Data Center Coalition stated it \"looks forward to working with the governor and state regulators,\" noting member companies already deploy advanced cooling technologies and consult with local communities.",
+      "Lawmakers will study data center water usage during a June 23 hearing as Abbott prepares to codify these regulatory actions during the 2027 legislative session."
+    ],
+    "title": "Abbott seeks new limits on Texas data centers",
     "topic": "Texas Politics",
     "topic_full": "Texas Politics · Texas"
   },
   {
-    "article_path": "/article/fbi-seizes-over-a-dozen-websites-it-says-were-used-by-chinese-agents-to-recruit-us-officials",
-    "article_url": "https://ground.news/article/fbi-seizes-over-a-dozen-websites-it-says-were-used-by-chinese-agents-to-recruit-us-officials",
+    "article_path": "/article/kennedy-center-board-to-fight-order-to-remove-trumps-name-as-deadline-looms_b09c08",
+    "article_url": "https://ground.news/article/kennedy-center-board-to-fight-order-to-remove-trumps-name-as-deadline-looms_b09c08",
     "bias": [
-      "Left-Leaning coverage stays tight and restrained, emphasizing the FBI /DOJ seizure and the “target and recruit” allegation, while right-leaning coverage shifts the same episode into a sharper national-security story, using phrases like “Chinese espionage,” “pretending to be recruiters,” and “think tanks” to heighten threat and deception.",
-      "The center adds the most operational detail—“fake consulting companies,” “well-paid” roles, and a broader JDY botnet context—without the right’s more accusatory tone.",
-      "The key divide is whether this is framed as a discrete enforcement action or part of a wider China-linked intelligence campaign, though both sides agree on the 13-site seizure and sensitive-information targeting."
+      "Left-Leaning coverage frames the dispute as a legal rebuke to a Trump-aligned board, stressing the name was added “illegally” and portraying the move as a “last-minute effort” by his “handpicked” trustees; right-leaning coverage instead emphasizes protecting Trump’s legacy, using the same “last-minute effort” language but casting it as resistance to “remove” his name from the “facade.” The center leans more procedural, adding the judge’s ruling, the Trump administration appeal, and the planned renovation context.",
+      "Both sides agree on the Friday deadline and court order, but they diverge sharply on whether the story is about correcting an improper renaming or defending a symbol against political erasure."
     ],
     "bias_bar_text": null,
-    "center_pct": 54.0,
+    "center_pct": 71.0,
     "error": null,
-    "left_pct": 17.0,
+    "left_pct": 22.0,
     "location": "United States",
-    "right_pct": 29.0,
+    "right_pct": 7.0,
     "status": "ok",
     "summary": [
-      "Federal authorities seized over a dozen websites on Wednesday that officials say were used by suspected Chinese agents to recruit current and former American officials with security clearances.",
-      "Conspirators used AI-generated photos and identity theft to appear legitimate, advertising generic consulting positions like \"Defense Analyst\" on platforms including LinkedIn to target recruits.",
-      "Seven unnamed individuals were recruited; Dan Wierzbicki, special agent in charge of the FBI 's Washington field office, noted targets reported \"weird\" cryptocurrency payments from overseas accounts.",
-      "A spokesperson for the Chinese embassy in Washington called the allegations \"entirely fabricated,\" while the English-speaking Five Eyes alliance warned China is targeting personnel across member nations.",
-      "Analysis from Black Lotus Labs shows China-nexus APT actors operationalize reconnaissance shortly after vulnerability disclosures to target vulnerable infrastructure, with the United States military as a prominent target."
+      "On Thursday, the Kennedy Center board voted to seek a stay of District Judge Christopher Cooper's May 29 ruling ordering the removal of President Donald Trump 's name from the performing arts facility.",
+      "Judge Cooper ruled that only Congress holds authority to rename the institution, declaring the board's addition of Trump's name to the facade illegal under the 1964 federal law establishing the center.",
+      "The General Counsel issued a June 4 memo directing staff to restore the original title, while artist withdrawals including Actor Issa Rae demonstrated institutional disapproval of the board's renaming decision.",
+      "Trustees plan to file a formal stay today, Friday, seeking to maintain Trump's name on the building's exterior past the court-ordered deadline of June 12.",
+      "Trump established control over the institution early in his second term, ousting previous leadership and appointing a board of trustees that named him chairman and steered the venue's programming."
     ],
-    "title": "FBI Seizes over a Dozen Websites It Says Were Used by Chinese Agents to Recruit US Officials",
-    "topic": "FBI",
-    "topic_full": "FBI · United States"
-  },
-  {
-    "article_path": "/article/trump-names-former-cfpb-official-brian-johnson-to-be-agencys-next-permanent-director_3aff91",
-    "article_url": "https://ground.news/article/trump-names-former-cfpb-official-brian-johnson-to-be-agencys-next-permanent-director_3aff91",
-    "bias": [
-      "Left-Leaning coverage centers Trump’s role and Johnson’s Trump-era ties, framing him as a “trusted former aide” and stressing the CFPB’s consumer-protection mission, while right-leaning coverage presents the move as Trump “picks” an “ally,” using terms like “consumer watchdog” and “capital one exec” to spotlight market-friendly credentials and political loyalty.",
-      "The sharpest dividing line is the nomination itself: the right foregrounds Senate confirmation, the five-year term, and Johnson’s later compliance and private-sector résumé, whereas the left de-emphasizes procedure in favor of political context.",
-      "Both sides agree on Johnson’s prior CFPB service, but they diverge on whether the story is about regulatory continuity or a Trump-led leadership win."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 63.0,
-    "error": null,
-    "left_pct": 11.0,
-    "location": "United States",
-    "right_pct": 26.0,
-    "status": "ok",
-    "summary": [
-      "President Donald Trump on Wednesday nominated Brian Johnson to lead the Consumer Financial Protection Bureau, tapping the former official to direct the federal watchdog for the remainder of his second term.",
-      "Acting director Russell Vought has led the bureau since Trump took office, overseeing extensive efforts to dismantle its regulations and unwind previous work, leaving the watchdog largely inoperable.",
-      "Formerly a deputy under Kathy Kraninger, Johnson now serves as a senior executive at Capital One and is a vocal conservative critic of the CFPB's financial independence and regulatory authority.",
-      "The Consumer Bankers Association welcomed the nomination, citing Johnson's \"tenured background\" in policy, while Democrats and agency defenders argue that weakening the watchdog serves industry interests at consumers' expense."
-    ],
-    "title": "Trump names former CFPB official Brian Johnson to be agency’s next permanent director",
+    "title": "Kennedy Center board to fight order to remove Trump’s name as deadline looms",
     "topic": "US Politics",
     "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/judge-rejects-watchdogs-bid-to-block-trump-administrations-18b-anti-weaponization-fund",
-    "article_url": "https://ground.news/article/judge-rejects-watchdogs-bid-to-block-trump-administrations-18b-anti-weaponization-fund",
+    "article_path": "/article/us-slaps-sanctions-against-cuban-oil-and-gas-company-as-tensions-rise",
+    "article_url": "https://ground.news/article/us-slaps-sanctions-against-cuban-oil-and-gas-company-as-tensions-rise",
     "bias": [
-      "Left-Leaning coverage frames the fund as a suspicious “slush fund” and stresses the judge’s warning that DOJ might “play possum,” treating the $1.8B plan as something potentially revived for allies; right-leaning coverage instead casts it as “justice” for Americans harmed by a “weaponized government,” with “watchdog” and “blocked” used to portray opponents as obstructive.",
-      "The sharpest dividing line is whether Blanche’s “not moving forward” statement signals closure or a tactical pause.",
-      "Both sides agree on the ruling and the judge’s warning, but they diverge over whether the dispute reflects corruption fears or anti-bias redress, mirroring broader institutional trust divides."
+      "Left-Leaning coverage frames the sanctions as a coercive “pressure campaign,” even a “siege” or “collective punishment,” stressing how they could deepen Cuba’s “humanitarian crisis” and hurt “vulnerable Cubans,” especially through hospitals and blackouts.",
+      "Right-Leaning coverage instead spotlights Cuba’s “regime,” “Communist elites,” and accusations of “weaponized energy,” portraying Rubio’s move as a justified crackdown tied to “unlawfully expropriated” assets and blocked transactions.",
+      "Center coverage stays more restrained, noting likely harm and broader tensions, including Beijing ties.",
+      "Both sides agree tensions and Cuba’s energy crisis are real; they diverge on whether sanctions are cruelty or necessary pressure."
     ],
     "bias_bar_text": null,
-    "center_pct": 35.0,
+    "center_pct": 26.0,
     "error": null,
-    "left_pct": 48.0,
+    "left_pct": 43.0,
     "location": "United States",
-    "right_pct": 17.0,
+    "right_pct": 31.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, challengers to the Trump administration's $1.8 billion Anti-Weaponization Fund asked a federal judge for evidence that the Justice Department is truly abandoning the program.",
-      "The administration created the fund last month to resolve Trump's lawsuit against the Internal Revenue Service, though the proposal triggered fierce bipartisan backlash.",
-      "Acting Attorney General Todd Blanche told Congress the fund is \"not going forward,\" yet Trump later contradicted this, calling the fund a \"great idea.\"",
-      "Official filings reveal no binding commitments exist to permanently terminate the program, leaving plaintiffs seeking proof the administration has affirmatively abandoned the fund rather than merely pausing operations."
+      "The Trump administration imposed sanctions on Cuba's state-owned oil and gas company, Cupet, targeting a sector central to the island's worsening energy crisis.",
+      "The move came hours after senior Chinese and Cuban officials discussed bilateral cooperation and party-to-party ties, including implementing agreements reached by the countries' leaders.",
+      "Secretary of State Marco Rubio accused Cuba's government of weaponizing energy and diverting resources from the Cuban people, who have suffered fuel shortages and blackouts."
     ],
-    "title": "Judge rejects watchdog’s bid to block Trump administration’s $1.8B ‘anti-weaponization’ fund",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "title": "US sanctions Cuba’s state-owned oil, gas company",
+    "topic": "US Foreign Policy",
+    "topic_full": "US Foreign Policy · United States"
+  },
+  {
+    "article_path": "/article/jd-vance-to-appear-on-the-view",
+    "article_url": "https://ground.news/article/jd-vance-to-appear-on-the-view",
+    "bias": [
+      "Left-Leaning coverage frames the story as a routine booking shadowed by politics , stressing the “Trump FCC” and the investigation’s connection to power, while right-leaning coverage turns the same appearance into a confrontation, calling the show “reliably liberal” and casting Vance as “fearless” and “battle-tested.” That divide shows up in tone: the left is cool and procedural, the right is combative and adversarial, with terms like “shrews” signaling open disdain.",
+      "The biggest fault line is the FCC probe—left treats it as political context, right as backdrop, center as an equal-time-rule matter.",
+      "Both sides still agree the key event is Vance’s first appearance on the show."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 15.0,
+    "error": null,
+    "left_pct": 15.0,
+    "location": "United States",
+    "right_pct": 70.0,
+    "status": "ok",
+    "summary": [
+      "Vice President JD Vance will appear on ABC's The View on June 16, marking his first visit to discuss his book, Communion: Finding My Way Back to Faith.",
+      "The appearance occurs amid a Federal Communications Commission probe into whether the show violated equal-time laws following an interview with Texas Democratic Senate candidate James Talarico.",
+      "Vance's visit represents a rare appearance for a sitting vice president on The View, which has thrived in recent years with political discussion despite frequent White House targeting."
+    ],
+    "title": "JD Vance to Appear on ‘The View’ Next Week. When to Watch",
+    "topic": "JD Vance",
+    "topic_full": "JD Vance · United States"
+  },
+  {
+    "article_path": "/article/elon-musk-is-poised-to-become-the-first-trillionaire",
+    "article_url": "https://ground.news/article/elon-musk-is-poised-to-become-the-first-trillionaire",
+    "bias": [
+      "Left-Leaning coverage frames the IPO as a “massive wealth transfer” and “new pinnacle of oligarchy,” using charged phrases like “at your expense” and “obscenely wealthy weirdo” to spotlight inequality, pension risk, and elite capture; right-leaning coverage instead treats the same numbers—$75 billion raised, roughly $1.77 trillion valuation, first trillionaire—as a “biggest… in history” market triumph, leaning on celebratory words like “locks in,” “talk is back,” and “excitement.” The key dividing line is whether Musk’s windfall signals social harm or entrepreneurial spectacle.",
+      "Both sides share the scale, but they split sharply over its meaning."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 16.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, June 12, 2026, SpaceX launched its initial public offering, propelling Elon Musk to become the world's first trillionaire with a net worth exceeding $1.1 trillion.",
+      "Investor enthusiasm drove the company to raise a record $75 billion on Thursday, with analysts describing an 'Elon Musk premium'—a valuation boost rooted in faith in Musk's vision rather than traditional metrics.",
+      "Nasdaq rewrote its policy to allow SpaceX to join the index in 15 trading days instead of three months, triggering approximately $22 billion to $27 billion in automatic buying.",
+      "Market observers have characterized the $1.7 trillion valuation as an 'obvious bubble,' with skeptics comparing the event to historical tulip bubbles and questioning long-term commercial viability.",
+      "Despite the market surge, SpaceX holds around $22 billion in federal contracts, while the broader Musk empire utilizes roughly $38 billion in public funds including government-developed launch infrastructure."
+    ],
+    "title": "Elon Musk is poised to become the first trillionaire",
+    "topic": "Business & Markets",
+    "topic_full": "Business & Markets · United States"
   }
 ]
