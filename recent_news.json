@@ -1,10 +1,11 @@
 [
   {
-    "article_path": "/article/colorado-attorney-general-phil-weiser-wins-democratic-primary-for-governor_f53a26",
-    "article_url": "https://ground.news/article/colorado-attorney-general-phil-weiser-wins-democratic-primary-for-governor_f53a26",
+    "article_path": "/article/2-protesters-arrested-after-scaling-top-of-empire-state-building-antenna_4cd404",
+    "article_url": "https://ground.news/article/2-protesters-arrested-after-scaling-top-of-empire-state-building-antenna_4cd404",
     "bias": [
-      "Left-Leaning coverage frames Weiser’s win as progressive momentum and even a rebuke to party insiders, using charged cues like “insurgency,” “took out,” and “progressives keep momentum,” while right-leaning coverage casts the same result as a triumph of a “far-left rival” over an “Anti-Trump” senator, leaning on words like “heated,” “holds off,” and “upset” to stress conflict and ideological sharpness.",
-      "The biggest dividing line is whether Weiser’s Trump lawsuits are a badge of resistance or a marker of extremity; both sides center the Trump-fight lens and the roughly 55–45 margin, but they disagree on whether that signals energized renewal or partisan overreach."
+      "Left-Leaning coverage frames the climb as a “death-defying” love story or protest spectacle, leaning on words like “protesters,” “stars,” and “power of love” to humanize the pair and spotlight the apparent proposal, while right-leaning coverage turns the same scene into a “cringe” or reckless public-order breach, stressing “charges,” “custody,” “daredevil,” and even “massive” banner language to foreground lawbreaking and spectacle.",
+      "The key dividing lines are motive and meaning: romance and symbolism versus nuisance, publicity-seeking, and enforcement.",
+      "Both sides share the arrest and the banner, but their tone reflects deeper cultural splits over protest, celebrity, and social media stunt culture."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -14,464 +15,761 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "Colorado Attorney General Phil Weiser won the Democratic primary for governor with 54.8% of the vote, defeating U.S. Senator Michael Bennet , who received 45.2%, making Weiser the likely Democratic nominee for governor.",
-      "The Republican primary for governor was too close to call, with state Senator Barb Kirkmeyer at 41.5% and Victor Marx at 38.7%, separated by about 11,000 votes out of approximately 385,000 counted.",
-      "Michael Allen won the Republican primary for attorney general with 60.7%, while Jena Griswold led the Democratic primary for attorney general with 47.0%.",
-      "Weiser's win is considered a major upset and the Democratic nominee is favored in the November election to succeed term-limited Governor Jared Polis."
+      "Two individuals were arrested by New York City police after scaling the antenna spire of the iconic Empire State Building in Manhattan on Wednesday afternoon.",
+      "Dressed in black with masks covering their faces, the climbers reached the very top of the 1,454-foot structure to unfurl a large banner that read, “When the power of love beats the love of power the world knows peace.”",
+      "The high-altitude demonstration unexpectedly turned into an elaborate romantic milestone when the man dropped to one knee on a lower platform of the transmitter to propose to his partner before they descended.",
+      "The stunt has raised serious questions regarding the security protocols of the historic landmark, marking the first time in over twenty years that unauthorized individuals have successfully bypassed the skyscraper's high-tech surveillance systems to reach the antenna."
     ],
     "title": "Source Icon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-reports-more-than-14-billion-in-income-from-crypto-ventures_4cfde6",
-    "article_url": "https://ground.news/article/trump-reports-more-than-14-billion-in-income-from-crypto-ventures_4cfde6",
+    "article_path": "/article/ecce32db-cff4-43e6-9e88-e01497cc8d20",
+    "article_url": "https://ground.news/article/ecce32db-cff4-43e6-9e88-e01497cc8d20",
     "bias": [
-      "Left-Leaning coverage frames Trump’s crypto haul as a scandalous conflict-of-interest story, stressing terms like “scam,” “unprecedented,” and “questions about potential conflicts of interest,” while spotlighting investor losses and his apparent reversal on crypto.",
-      "Right-Leaning coverage treats the same $1B-plus or $1.4B figures as a “major financial windfall,” highlighting business strength, “new foreign deals,” and comeback-style success.",
-      "Center coverage stays more descriptive, noting the disclosure and policy links with lighter caution.",
-      "Both sides agree the filing is massive and crypto-driven, but the split is between ethical alarm and entrepreneurial triumph, reflecting deeper divides over power, profit, and politics ."
+      "Left-Leaning coverage frames the ruling as a victory for Brussels and a needed check on “Big Tech,” stressing phrases like “record fine,” “abusing,” and “police Big Tech” to portray Google as a dominant actor finally held to account.",
+      "Right-Leaning coverage is more restrained but pivots to Google’s defense, foregrounding “open, interoperable and free” and the claim that its investments were overlooked, while treating the case as part of Europe’s broader “crackdown.” The key dividing line is whether the story is about corporate abuse or regulatory overreach.",
+      "Both sides agree on the €4.1 billion/$4.7 billion penalty and the upheld appeal, reflecting a wider tech-sovereignty divide."
+    ],
+    "bias_bar_text": "Left 30% Center 40% Right 30%",
+    "center_pct": 40.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": null,
+    "right_pct": 30.0,
+    "status": "ok",
+    "summary": [
+      "The European Court of Justice dismissed Google 's appeal against a €4.1 billion fine imposed by the EU for antitrust violations related to the Android operating system.",
+      "The original €4.34 billion fine was levied in 2018 for forcing phone manufacturers to pre-install Google apps and preventing them from using rival Android systems.",
+      "Google has racked up close to €11 billion in EU fines over the past decades for various antitrust infringements and may face more fines under the Digital Markets Act."
+    ],
+    "title": "Google loses fight over record $4.7 billion EU antitrust fine",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/scientists-build-synthetic-cell-from-scratch-that-can-feed-grow-and-replicate_9f2cd8",
+    "article_url": "https://ground.news/article/scientists-build-synthetic-cell-from-scratch-that-can-feed-grow-and-replicate_9f2cd8",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 72.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": "United States",
+    "right_pct": 8.0,
+    "status": "no_change",
+    "summary": [
+      "University of Minnesota Twin Cities synthetic biologist Kate Adamala and her team constructed SpudCell, a synthetic droplet capable of feeding, growing, and replicating like a natural cell.",
+      "Made of 150 to 200 molecules and 36 genes, SpudCell relies on a 90,000 base pair genome to replicate every 12 hours at 30 degrees Celsius, far slower than natural bacteria.",
+      "Researchers encoded division using FLAG surface tags, yet ribosomes degrade over time and only 30% of SpudCells retained the full genome after five division cycles.",
+      "Following the research, synthetic biologist Drew Endy and Adamala founded Biotic, a public-benefit institution that secured $10 million in seed money to accelerate synthetic cell development.",
+      "Although SpudCell remains a limited prototype unable to evolve, scientists suggest synthetic cells could eventually enable new cancer treatments, carbon capture, or chemical manufacturing."
+    ],
+    "title": "Scientists build synthetic cell from scratch that can feed, grow and replicate",
+    "topic": "Science",
+    "topic_full": "Science · United States"
+  },
+  {
+    "article_path": "/article/democratic-socialist-melat-kiros-unseats-15-term-rep-diana-degette-in-colorado-house-primary",
+    "article_url": "https://ground.news/article/democratic-socialist-melat-kiros-unseats-15-term-rep-diana-degette-in-colorado-house-primary",
+    "bias": [
+      "Left-Leaning coverage frames Melat Kiros’s win as a “stunning victory” for an “insurgent” progressive challenge, spotlighting “Democratic socialist” and the break from a 30-year incumbent as a sign of generational change; right-leaning coverage recasts the same result as a warning flare, leaning on “far-left,” “socialist,” “ousts,” and even “Colo-radical” to stress ideological danger and internal Democratic upheaval.",
+      "The sharpest dividing line is over what matters: left outlets emphasize the upset itself and identity milestone, while right outlets foreground Gaza/Israel remarks, “9/11” references, and broader party radicalization.",
+      "Both agree the district is deep blue and Kiros is favored in November."
     ],
     "bias_bar_text": null,
     "center_pct": 33.0,
     "error": null,
-    "left_pct": 37.0,
-    "location": null,
-    "right_pct": 30.0,
+    "left_pct": 39.0,
+    "location": "Colorado",
+    "right_pct": 28.0,
     "status": "ok",
     "summary": [
-      "Trump reported more than $1.4 billion in income from crypto ventures, including around $635 million from the TRUMP meme coin and $515 million from token sales of World Liberty Financial, a crypto company linked to his family.",
-      "Melania Trump earned $10.7 million from a licensing deal for her documentary film and over $6 million from an NFT and collectibles licensing agreement.",
-      "The financial disclosure detailed Trump's business ties, investments in major corporations, municipal bonds, and his roles at organizations like Mar-a-Lago and the Kennedy Center."
+      "On Tuesday, 29-year-old labor activist Melat Kiros defeated U.S. Rep. Diana DeGette in Colorado 's 1st Congressional District Democratic primary, unseating the nearly 30-year incumbent in a stunning upset.",
+      "Backed by the Democratic Socialists of America, Kiros campaigned on 'Medicare for all' and ending the 'genocide in Palestine,' securing victory despite being outgunned more than 2-1 in funding.",
+      "Progressives saw mixed results in other contests, as State Representative Manny Rutinel won the 8th District primary, while Democratic Senator John Hickenlooper fended off a challenge from State Senator Julie Gonzales.",
+      "State Attorney General Phil Weiser won the Democratic gubernatorial primary and is positioned as a favorite for November, while Kiros is expected to win her general election in the safely Democratic district.",
+      "Kiros's victory mirrors recent progressive wins in New York City last week, signaling a broader movement as this primary season serves as a key indicator of issues motivating voters nationwide."
     ],
-    "title": "Trump reports more than $1.4 billion in income from crypto ventures",
-    "topic": null,
-    "topic_full": null
+    "title": "Democratic socialist Melat Kiros unseats 15-term Rep. Diana DeGette in Colorado House primary",
+    "topic": "Colorado Politics",
+    "topic_full": "Colorado Politics · Colorado"
   },
   {
-    "article_path": "/article/supreme-court-agrees-to-hear-gun-rights-challenge-to-assault-weapons-bans_03698b",
-    "article_url": "https://ground.news/article/supreme-court-agrees-to-hear-gun-rights-challenge-to-assault-weapons-bans_03698b",
+    "article_path": "/article/colorado-attorney-general-phil-weiser-wins-democratic-primary-for-governor_f53a26",
+    "article_url": "https://ground.news/article/colorado-attorney-general-phil-weiser-wins-democratic-primary-for-governor_f53a26",
     "bias": [
-      "Left-Leaning coverage frames the Supreme Court review as a potentially consequential blow to gun control, stressing “mass shootings,” “assault weapons bans,” and the Court’s history of “expanded gun rights ,” while right-leaning coverage presents it as a defense of constitutional liberty, spotlighting AR-15s as “protected” by the Second and even Fourteenth Amendments and casting state bans as overreach.",
-      "The rhetoric diverges sharply: the left leans on cautionary, public-safety language; the right uses urgency cues like “BREAKING” and rights-affirming phrasing.",
-      "The pivotal divide is whether the case is about dangerous weapons or protected ownership, though both sides agree it’s a major Second Amendment fight with nationwide implications."
+      "Left-Leaning coverage frames Weiser’s win as a “major upset” and a rebuke of Washington Democrats, stressing his anti-Trump litigation and an “antiestablishment” message; right-leaning coverage turns the same result into a “significant political upset” and even a “humiliating defeat” for Bennet, using sharper labels like “far-left,” “anti-Trump,” and “heated” to heighten conflict.",
+      "The key divide is whether the race signals voter frustration with party elites or Bennet’s personal collapse, while both sides still foreground the shared Trump test.",
+      "Center coverage is more procedural, adding endorsements, vote shares, and the broader generational question."
     ],
     "bias_bar_text": null,
-    "center_pct": 54.0,
+    "center_pct": 45.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "Colorado",
+    "right_pct": 28.0,
+    "status": "ok",
+    "summary": [
+      "Colorado Attorney General Phil Weiser won the Democratic nomination for governor, defeating U.S. Senator Michael Bennet by a 55% to 45% margin in the primary election.",
+      "Weiser positioned himself as a fighter against President Trump, citing over 65 lawsuits his office filed against the Trump administration.",
+      "Bennet's loss removes the possibility of a special election or appointment to replace him in the Senate during his remaining term."
+    ],
+    "title": "Colorado AG Phil Weiser wins Democratic primary for governor over Sen. Michael Bennet",
+    "topic": "Michael Bennet",
+    "topic_full": "Michael Bennet · Colorado"
+  },
+  {
+    "article_path": "/article/trump-reports-more-than-14-billion-in-income-from-crypto-ventures_7e1564",
+    "article_url": "https://ground.news/article/trump-reports-more-than-14-billion-in-income-from-crypto-ventures_7e1564",
+    "bias": [
+      "Left-Leaning coverage frames the disclosure as a troubling ethics story, stressing “massive” crypto gains, “conflicts of interest,” and even “socked with losses” for investors, while right-leaning coverage casts the same numbers as a “financial windfall,” a sign of business success, and a normal “disclosure” tied to Trump’s return to the White House.",
+      "The divide turns on whether $1.2 billion to more than $1.4 billion is portrayed as enrichment or a potential abuse of power; right items also add side details like “foreign deals,” widening the success narrative.",
+      "Both sides agree the filing is huge and crypto-driven, but they diverge over whether that reflects opportunity or ideological alarm."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 21.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, President Donald Trump 's 927-page annual financial disclosure revealed he earned over $1.4 billion in 2025 from cryptocurrency ventures, making digital assets his largest income source and eclipsing traditional real estate revenues.",
+      "Trump's crypto ventures expanded rapidly after his January 2025 return to the White House, accelerated by administration policy shifts that dialed back Securities and Exchange Commission oversight of the digital asset industry.",
+      "CIC Digital memecoins generated $636 million in royalties, while World Liberty Financial token sales brought in over $500 million, combined earnings that far exceeded his Mar-a-Lago club's $77 million revenue.",
+      "White House spokesperson Anna Kelly asserted \"neither the President nor his family has ever engaged\" in conflicts of interest, though critics highlight Trump's decision to forgo a blind trust arrangement for his assets.",
+      "Retail investors have suffered significant losses as meme coin prices plummeted from over $74 to $1.68, while ongoing international deals in Saudi Arabia and Romania continue to complicate administration claims of business separation."
+    ],
+    "title": "Trump reports more than $1.4 billion in income from crypto ventures",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/russianorth-korea-bridge-misses-opening-deadline-as-key-work-remains",
+    "article_url": "https://ground.news/article/russianorth-korea-bridge-misses-opening-deadline-as-key-work-remains",
+    "bias": [
+      "Center-Leaning coverage frames the bridge as a “strategic economic link” and a sign of “deepening ties” between North Korea and Russia, while also noting “scrutiny” from the U.S. and South Korea; right-leaning coverage trims away that broader geopolitical lens and instead spotlights the delay itself, using sharper accountability cues like “misses timeline,” “behind schedule,” and “trust and coordination.” Both sides hinge on the same dividing line—the unfinished Russian-side facilities seen in satellite imagery and the missed mid-June target—but they interpret it differently: one emphasizes strategic alignment, the other skepticism toward Moscow’s promises and project management."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 67.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, analysts reported that the new 850m bridge between North Korea and Russia remains unlikely to open soon, as satellite imagery shows key infrastructure on the Russian-side is still incomplete.",
+      "Russian President Vladimir Putin and North Korean officials agreed to the project during his Jun 2024 visit, establishing it as the first road link between the two nations and a symbol of deepening ties.",
+      "The North Korean side features a completed warehouse, parking lot, and frontier post, while the Russian-side customs complex is far less advanced and likely three times larger, according to analysts.",
+      "Doo Jin-ho, head of the Eurasia Center at the Korea Research Institute for National Strategy in Seoul, said the June target appeared to be a political \"gift,\" though the bridge could eventually increase logistics activity by more than 40 per cent.",
+      "Military exchanges surrounding the war in Ukraine have drawn the two countries closer in recent years, attracting scrutiny from the United States and South Korea regarding their deepening relationship."
+    ],
+    "title": "Opening of North Korea-Russia Road Bridge Likely Delayed, US Think Tank Says",
+    "topic": "Politics",
+    "topic_full": "Politics · United States"
+  },
+  {
+    "article_path": "/article/8-tren-de-aragua-members-charged-with-murder-kidnapping-doj_1d4e4f",
+    "article_url": "https://ground.news/article/8-tren-de-aragua-members-charged-with-murder-kidnapping-doj_1d4e4f",
+    "bias": [
+      "Left-Leaning coverage stays comparatively restrained, centering federal charges and the specific kidnapping and murder cases, while right-leaning coverage turns the story into a border-and-order showdown, spotlighting “illegal migrants,” “Trump wasn’t bluffing,” and “takedown” language.",
+      "The sharpest dividing lines are the gang’s status and the political meaning of the crackdown: the right escalates to “terrorists” and a foreign-terror framing, while the left emphasizes alleged crimes without that broader ideological overlay.",
+      "Both sides converge on the DOJ action, but they diverge over whether it is mainly a criminal case or evidence of a larger immigration and security crisis."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 11.0,
+    "error": null,
+    "left_pct": 4.0,
+    "location": "United States",
+    "right_pct": 85.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, the DOJ charged eight alleged members of the Venezuelan criminal gang Tren de Aragua with kidnapping and murder in separate cases across Texas and Illinois.",
+      "Designated a Foreign Terrorist Organization in 2025, TdA has faced sustained federal crackdown for involvement in drug trafficking, extortion, and violent crime across the United States.",
+      "Acting Attorney General Todd Blanche reported four men were charged in a 2024 Dallas kidnapping and murder, while three others face charges for a separate Illinois homicide.",
+      "Blanche blamed the Biden administration for allowing the alleged members into the country, stating 'these violent murders should never have occurred in the first place.'",
+      "Following the death of TdA founder Hector Rusthenford Guerrero Flores in a joint U.S.-Venezuela military strike earlier this month, federal efforts against the gang intensify."
+    ],
+    "title": "8 Tren de Aragua members charged with murder, kidnapping: DOJ",
+    "topic": "Department of Justice",
+    "topic_full": "Department of Justice · United States"
+  },
+  {
+    "article_path": "/article/openai-proposes-5-stake-to-trump-administration-to-ease-washington-pressure-report_f2d682",
+    "article_url": "https://ground.news/article/openai-proposes-5-stake-to-trump-administration-to-ease-washington-pressure-report_f2d682",
+    "bias": [
+      "Left-Leaning coverage frames the 5% stake as a move to “ease Washington pressure,” spotlighting corporate- politics entanglement and Trump’s “beautiful thing” remark as a power play; right-leaning coverage pivots toward “public ownership,” “national interest,” and “share profits with society,” treating the same proposal as a policy instrument rather than a pressure tactic.",
+      "The sharpest dividing line is whether the deal signals lobbying/capture or broader public benefit, while both sides still emphasize the $852 billion valuation and the Trump administration tie.",
+      "Center coverage stays more restrained, stressing reported uncertainty and the verification caveat."
+    ],
+    "bias_bar_text": "L 16% Center 31% Right 53%",
+    "center_pct": 31.0,
     "error": null,
     "left_pct": 16.0,
     "location": null,
-    "right_pct": 30.0,
+    "right_pct": 53.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, the Supreme Court agreed to hear consolidated challenges to assault weapon bans in Connecticut and Cook County, Illinois, setting up a major Second Amendment case for arguments beginning in October.",
-      "The court's decision follows its landmark 2022 ruling in New York State Rifle & Pistol Association v. Bruen, which requires gun regulations to align with the nation's historical tradition of firearm regulation.",
-      "Gun rights advocates argue the AR-15 is the 'modern descendant' of historic rifles and in 'common use,' while Connecticut and Cook County officials cite the weapons' lethality in mass shootings as justification for their prohibitions.",
-      "A decision is expected by next summer, with the ruling likely to impact similar restrictions in about a dozen states including California and New York where officials have implemented semiautomatic firearm measures.",
-      "Justice Brett Kavanaugh previously noted the court should resolve the AR-15 issue, and this case provides the vehicle to determine if state responses to mass shootings remain constitutionally permissible under Second Amendment protections."
+      "The Financial Times reported Thursday that OpenAI proposed handing The White House a 5% stake, seeking to defuse mounting political pressure in Washington.",
+      "OpenAI CEO Sam Altman suggested the equity allotment mirror the Alaska Permanent Fund model, discussing the proposal with President Donald Trump, Commerce Secretary Howard Lutnick, and Treasury Secretary Scott Bessent.",
+      "A 5% holding would be worth roughly $42.6 billion following the company's $852 billion valuation in March, while the government previously secured a 10% stake in Intel Corp through an $8.9 billion investment.",
+      "Trump previously described government ownership as \"a beautiful thing,\" aiming to make Americans \"partners in this revolution,\" while OpenAI and Anthropic have separately explored \"public wealth fund\" or \"digital dividend\" models.",
+      "It remains unclear whether The White House intends to pursue the stake or if rival labs will participate, though Altman has discussed the proposal with Democratic Senator Bernie Sanders in recent weeks."
     ],
-    "title": "Supreme Court agrees to hear gun rights challenge to assault weapons bans",
+    "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/republican-tom-kean-jr-said-he-was-treated-for-depression-during-absence-from-congress_defc43",
-    "article_url": "https://ground.news/article/republican-tom-kean-jr-said-he-was-treated-for-depression-during-absence-from-congress_defc43",
+    "article_path": "/article/melania-trump-made-10m-from-amazon-documentary-despite-box-office-flop_721ba9",
+    "article_url": "https://ground.news/article/melania-trump-made-10m-from-amazon-documentary-despite-box-office-flop_721ba9",
     "bias": [
-      "Left-Leaning coverage frames the story as a transparency-and-governance problem, stressing a “mysterious” monthslong absence, House GOP’s razor-thin majority, and Kean’s status as a vulnerable incumbent; right-leaning coverage turns it into a dramatic personal revelation, using phrases like “breaking silence,” “vanishing,” and “mystery illness,” while highlighting doctor’s orders and voter concern.",
-      "Center coverage stays closest to the plain disclosure of depression and the long absence.",
-      "Both sides agree on the core facts—more than 100 missed votes, treatment, and return to Congress—but divide over whether the deeper story is political weakness or private struggle."
+      "Left-Leaning coverage casts the deal as a “self serving infomercial,” stressing “trading on” First Lady status and the film’s “flop” status, while right-leaning coverage leans into “cashed in big” and “despite” language to spotlight profit even as moviegoers “mostly stayed home.” The center adds a broader financial ledger: nearly $17 million in 2025 income, broken out across NFTs, collectibles, books, and a film.",
+      "A key fault line is whether the story is about exploitation, savvy monetization, or a sprawling income stream, though both sides agree the documentary underperformed and generated substantial cash."
+    ],
+    "bias_bar_text": "Left 56% Center 25% R 19%",
+    "center_pct": 25.0,
+    "error": null,
+    "left_pct": 56.0,
+    "location": null,
+    "right_pct": 19.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, President Donald Trump's annual financial disclosure revealed First Lady Melania Trump received $10,710,000 in net proceeds from a licensing agreement for the Amazon MGM Studios documentary 'Melania'.",
+      "Democrats, including Elizabeth Warren , criticized the deal, labeling the $40 million acquisition price tag 'bribery in plain sight' and accusing Amazon of attempting to curry favor with the Trump administration.",
+      "The filing also detailed $6,011,259 from NFTs and other collectibles, plus $521,161 from her memoir published by Skyhorse, even as the documentary earned only about $16 million at the worldwide box office.",
+      "Amazon founder Jeff Bezos denied any 'pay-to-play' arrangement, while Prime Video executive Mike Hopkins stated the company engaged in a 'very competitive bidding process' for the project.",
+      "President Trump reported total 2025 revenue exceeding $2.2 billion, largely driven by family cryptocurrency ventures, while Amazon MGM Studios is expected to release a companion docuseries tied to Melania later this year."
+    ],
+    "title": "How Much Was Trump Paid by Amazon for 'Melania' Documentary?",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/energy-department-issues-emergency-orders-for-mid-atlantic-power-grid-amid-heat-wave",
+    "article_url": "https://ground.news/article/energy-department-issues-emergency-orders-for-mid-atlantic-power-grid-amid-heat-wave",
+    "bias": [
+      "Left-Leaning coverage frames the story as a climate-and-infrastructure warning, stressing “soaring” AI-driven demand and the tension in “bypass emissions rules,” while right-leaning coverage turns it into a grid-protection drama, using sharper terms like “emergency,” “blackouts,” “record-shattering,” and “safeguard” to portray decisive intervention.",
+      "The dividing line is whether the orders are seen as a regulatory exception or a necessary reliability move, with the left foregrounding environmental costs and the right spotlighting system fragility and scale, including the 65-million-person PJM footprint.",
+      "Both sides agree the heat wave is severe and the grid is under strain, but they interpret that strain through different ideological priorities."
     ],
     "bias_bar_text": null,
-    "center_pct": 53.0,
+    "center_pct": 40.0,
     "error": null,
-    "left_pct": 32.0,
-    "location": null,
-    "right_pct": 15.0,
+    "left_pct": 10.0,
+    "location": "United States",
+    "right_pct": 50.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, New Jersey Republican Rep. Tom Kean revealed he spent months away from Congress being treated for depression, stating, \"Today I stand before you healthier, stronger and excited to return to the work that I love.\"",
-      "During his months away, Kean missed more than 100 votes this year while absent from Washington; his office noted in April he was dealing with a personal medical issue, though he had not been seen publicly since March 5.",
-      "Kean, who comes from a family with 250 years of public service, remains a candidate for reelection and faces Democratic nominee Rebecca Bennett, a former Navy helicopter pilot, in New Jersey's high-profile November contest.",
-      "Speaker Mike Johnson and other GOP leaders repeatedly told reporters they were in touch with Kean, though his absence complicated matters for House Republican leaders struggling to pass bills with their razor-thin 218-212 majority.",
-      "Democrats have targeted the seat as a prime opportunity, noting the district has changed hands in the last two midterm elections while Kean represents a battleground area including President Donald Trump's Bedminster golf club."
+      "On Tuesday, U.S. Energy Secretary Chris Wright issued emergency orders authorizing PJM Interconnection to maximize power generation and deploy backup generators to prevent blackouts during this week's extreme heatwave.",
+      "Forecasts predict temperatures topping 100 degrees Fahrenheit across the eastern United States, driving peak electricity demand to approximately 162,860 megawatts and straining the grid serving more than 65 million people.",
+      "PJM officials warn of a 'fundamental mismatch between how fast demand is growing and how quickly new supply can be built,' citing surging power consumption from AI data centers as the primary driver.",
+      "Following PJM's formal request on Saturday, the federal directive permits the operator to bypass environmental regulations and deploy diesel backup generators as a 'last resort' to prevent outages.",
+      "A 2023 study cited in JAMA found that blackouts combined with heat waves can 'more than double the estimated rate of heat-related mortality,' underscoring stakes of future grid reliability challenges."
     ],
-    "title": "Republican Tom Kean Jr. said he was treated for depression during absence from Congress",
-    "topic": null,
-    "topic_full": null
+    "title": "Energy Department Issues Emergency Orders for Mid-Atlantic Power Grid Amid Heat Wave",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/us-supreme-court-upholds-birthright-citizenship-blocks-trump-order_2f6dde",
-    "article_url": "https://ground.news/article/us-supreme-court-upholds-birthright-citizenship-blocks-trump-order_2f6dde",
+    "article_path": "/article/majority-of-americans-support-banning-social-media-for-kids-under-16",
+    "article_url": "https://ground.news/article/majority-of-americans-support-banning-social-media-for-kids-under-16",
     "bias": [
-      "Left-Leaning coverage frames the ruling as a moral and political rebuke to Trump, spotlighting a “major blow” to an “anti-immigrant agenda” and even mocking him with terms like “Groans” and “Oh Dear!”; right-leaning coverage also stresses Trump’s loss, but more often casts it as a constitutional clash, using phrases like “defeat,” “strikes down,” and “5-4” to underline the narrow, contentious fight and leave room for originalist dissent or congressional fixes.",
-      "The key dividing line is whether the case is about protecting immigrant families and equality or about judicial overreach and citizenship limits.",
-      "Both sides agree the Court preserved birthright citizenship and dealt Trump a setback, reflecting deeper ideological splits over immigration and the 14th Amendment."
+      "Center-Leaning coverage stays tightly on the survey’s nuance—56% support, 21% opposed, 23% unsure, plus the 30–49 age group most receptive—while right-leaning coverage smooths that into a cleaner “majority” narrative and adds momentum with phrases like “backs” and “at the forefront.” The right also leans into protective, policy-forward language—“ban,” “safety concerns,” “under 16”—and broadens the frame with an unrelated antisemitism quote, signaling a wider cultural warning.",
+      "Both sides converge on children’s online safety and the same Pew poll, but they diverge on whether the story is careful public-opinion reporting or a stronger case for regulation."
     ],
     "bias_bar_text": null,
-    "center_pct": 41.0,
+    "center_pct": 62.0,
     "error": null,
-    "left_pct": 36.0,
-    "location": null,
-    "right_pct": 23.0,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 38.0,
     "status": "ok",
     "summary": [
-      "On June 30, 2026, the U.S. Supreme Court struck down President Donald Trump 's executive order restricting birthright citizenship, affirming that the 14th Amendment guarantees citizenship to children born on U.S. soil.",
-      "Trump signed an executive order on January 20, 2025, denying citizenship to children of undocumented immigrants or those on temporary visas, prompting class-action lawsuits from parents and civil-rights groups challenging the policy.",
-      "Chief Justice John Roberts cited the 1898 landmark case United States v. Wong Kim Ark, writing there was \"scant evidence\" supporting the administration's \"dramatically revisionist view\" of the citizenship clause.",
-      "Trump characterized the ruling as \"too bad for our Country\" on Truth Social and urged Congress to pass legislation restricting birthright citizenship, though constitutional experts note an amendment would be required.",
-      "The Migration Policy Institute estimates roughly 255,000 infants born annually would have lost citizenship under the policy, while Justice Clarence Thomas dissented in a 91-page opinion challenging the majority's interpretation."
+      "Survey results published Wednesday show 56 percent of United States adults support a social media ban for those under 16, while 21 percent opposed it and 23 percent remained unsure, according to Pew Research Center findings.",
+      "Bipartisan consensus exists on youth safety concerns, with 59 percent of Republicans and 54 percent of Democrats supporting the ban amid broader debates over social media's impact on adolescent well-being.",
+      "Parents of children under 18 strongly favor the measure at 65 percent, while adults ages 30 to 49 represent the most supportive demographic group at 63 percent, per survey data.",
+      "The House passed the Kids Internet and Digital Safety Act on Monday in a 267-117 vote, mandating increased privacy safeguards and prohibiting disappearing messages for users under 17.",
+      "Countries including Australia, the United Kingdom, and Denmark are considering or implementing legislation to restrict social media use for children, mirroring domestic policy trends globally."
     ],
-    "title": "US Supreme Court upholds birthright citizenship, blocks Trump order",
-    "topic": null,
-    "topic_full": null
+    "title": "More than half of Americans support banning social media for youth: Survey",
+    "topic": "Social Media",
+    "topic_full": "Social Media · United States"
   },
   {
-    "article_path": "/article/democratic-socialist-melat-kiros-poised-to-become-the-first-gen-z-woman-in-congress",
-    "article_url": "https://ground.news/article/democratic-socialist-melat-kiros-poised-to-become-the-first-gen-z-woman-in-congress",
+    "article_path": "/article/study-women-are-more-likely-to-get-hired-after-taking-glp-1s",
+    "article_url": "https://ground.news/article/study-women-are-more-likely-to-get-hired-after-taking-glp-1s",
     "bias": [
-      "Left-Leaning coverage frames Melat Kiros’s win as a hopeful, identity-rich breakthrough, stressing “first Gen Z woman,” “poised,” and “stunning upset,” plus her job loss over Gaza comments to cast her as morally driven and part of a broader progressive surge.",
-      "Right-Leaning coverage strips it down to an “insurgent socialist” defeating a “longtime” incumbent, using sharper labels like “socialist” and “establishment wing” to spotlight intra-party conflict and ideological drift.",
-      "The key dividing lines are historic representation, Gaza, and anti-establishment momentum versus socialist threat.",
-      "Both agree it was an upset against a three-decade incumbent, reflecting wider tensions over party direction and leftward politics ."
-    ],
-    "bias_bar_text": "Left 45% Center 31% R 24%",
-    "center_pct": 31.0,
-    "error": null,
-    "left_pct": 45.0,
-    "location": null,
-    "right_pct": 24.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, democratic socialist Melat Kiros defeated three-decade incumbent Rep. Diana DeGette in Colorado's 1st Congressional District, marking a significant shift in Denver politics amid an anti-establishment wave.",
-      "Justice Democrats spokesperson Usamah Andrabi noted the campaign \"taken out 40 years of incumbency\" through ground-level organizing, reflecting a national pattern of progressive victories challenging establishment Democrats.",
-      "State Rep. Manny Rutinel won the 8th District primary against a Blue Dog PAC-backed candidate and will face GOP Rep. Gabe Evans in a seat rated a \"toss up\" that could determine House control.",
-      "Army veteran Jessica Killin won the 5th Congressional District primary and will challenge GOP Rep. Jeff Crank, while Sen. John Hickenlooper successfully defended his seat against progressive challenger Julie Gonzales.",
-      "Carlos Valverde of the Working Families Party argued voters are rejecting \"hollow words and platitudes,\" as these primary results underscore an ongoing internal struggle over the future direction of the Democratic Party ."
-    ],
-    "title": "Democratic socialist Melat Kiros unseats 15-term Rep. Diana DeGette in Colorado House primary",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/e-jean-carroll-asks-judge-to-release-more-than-5-million-after-supreme-court-denies-trumps-appeal",
-    "article_url": "https://ground.news/article/e-jean-carroll-asks-judge-to-release-more-than-5-million-after-supreme-court-denies-trumps-appeal",
-    "bias": [
-      "Left-Leaning coverage frames the story as Trump’s legal defeat and accountability, stressing the jury finding that he “sexually abused” Carroll and that his appeal was “denied” or “rejected,” with phrases like “time for him to pay” adding a punitive edge; right-leaning coverage shifts toward the payment dispute itself, using more procedural language such as “immediate release,” “delay,” and even “stalling,” and highlighting nearly “$5.8 million” rather than $5 million.",
-      "The key dividing line is whether the headline centers wrongdoing or enforcement.",
-      "Both sides agree the Supreme Court declined review, but they diverge over whether the moment signals judgment or just a civil money fight."
-    ],
-    "bias_bar_text": "Left 47% Center 37% R 16%",
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 47.0,
-    "location": null,
-    "right_pct": 16.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, advice columnist E. Jean Carroll asked a judge to require President Donald Trump to pay the $5 million judgment awarded by a 2023 jury, following the Supreme Court's decision to decline his appeal.",
-      "Lawyers for President Trump requested Carroll's consent to delay the payout while they seek reconsideration from the Supreme Court, but her attorney, Roberta Kaplan, opposed the delay as unjustified.",
-      "Kaplan requested that the court direct President Trump to respond within seven days, by July 7, 2026, noting that with interest, the total amount owed has grown to nearly $5.8 million.",
-      "President Trump promised on social media Monday to keep fighting the case, characterizing it as a \"Weaponization and Lawfare Case\" while accusing Carroll of political motives.",
-      "Beyond this $5 million judgment, President Trump is also appealing a separate $83 million defamation award granted to Carroll in 2024, with lawyers indicating they will bring that case to the Supreme Court."
-    ],
-    "title": "Writer E. Jean Carroll calls for Trump to pay $5.8M after high court appeal fails",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/us-treasury-cracks-down-on-jalisco-new-generation-cartel-with-sanctions-and-a-bank-alert",
-    "article_url": "https://ground.news/article/us-treasury-cracks-down-on-jalisco-new-generation-cartel-with-sanctions-and-a-bank-alert",
-    "bias": [
-      "Left-Leaning coverage frames the Treasury move as a forceful “cracks down” action against Mexico’s “most powerful” criminal enterprise, stressing the cartel’s wider financial reach, the “fuel theft ring,” and even the business sectors involved, while center coverage stays more policy-focused but adds the “bank alert” and the scale—“tens of millions annually.” Right-leaning coverage is shorter and more compressed, using the technical “huachicol network” and “linked” language, which softens the broader enforcement narrative.",
-      "The key dividing lines are the bank-alert detail, the tax-evasion emphasis, and how aggressively the cartel’s power is characterized.",
-      "All sides agree on sanctions against CJNG, but they diverge on scale, menace, and institutional response."
+      "Left-Leaning coverage frames the study as a revealing, even “unexpected,” sign that weight-loss drugs may help women get hired, stressing the social meaning of the result and flagging that it is “not yet peer-reviewed.” Right-leaning coverage is more measured, using phrases like “improved employment prospects” and adding methodological specifics—Rebecca Diamond, Harvard, USC data, and the 18-month window—while de-emphasizing the surprise angle.",
+      "Center coverage sits between them with plain “more likely”/“boosting their chances” language.",
+      "Across both sides, the shared headline is the 27% employment lift, but the divide is whether that figure signals a broader gender-and-workplace story or simply a cautious research finding."
     ],
     "bias_bar_text": null,
-    "center_pct": 31.0,
+    "center_pct": 50.0,
     "error": null,
-    "left_pct": 52.0,
+    "left_pct": 33.0,
     "location": "United States",
     "right_pct": 17.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, the U.S. Treasury announced sanctions and a new bank alert targeting the Jalisco New Generation Cartel , Mexico's most powerful criminal enterprise.",
-      "Sanctions from the Office of Foreign Assets Control target two Mexican men and nine companies allegedly involved in a fuel theft ring designed to evade Mexican taxes while generating tens of millions of dollars annually for the cartel.",
-      "According to the Drug Enforcement Agency, the CJNG now operates in 21 of Mexico's 32 states, surpassing the Sinaloa Cartel, which is estimated to operate in 19 states.",
-      "Last year, President Donald Trump designated the CJNG and other Mexican cartels as foreign terrorist organizations, advancing the Trump Administration's priority of dismantling these criminal enterprises.",
-      "Treasury Secretary Scott Bessent stated today that cartels are expanding beyond traditional drug trafficking into fuel smuggling to generate revenue, highlighting diversified criminal operations."
+      "Harvard University economist Rebecca Diamond found that women who started taking GLP-1 weight-loss drugs were more likely to secure employment, with previously unemployed women seeing employment rates increase 27% after about a year and a half of use.",
+      "Diamond analyzed the USC Understanding America Study, an online panel of more than 10,000 adults, comparing women who started using GLP-1s against a control group who expressed interest in the drugs but had not yet taken them.",
+      "Single women taking the weight-loss medicine were also more likely, by equal measure, to get married or start living with a partner during the time period surveyed, Diamond's research showed.",
+      "Life satisfaction did not change for participants despite these professional and personal shifts, Diamond noted, and the study could not determine if women eventually earned more due to insufficient data.",
+      "Diamond wrote that mass pharmacological weight loss is not only a health shock; the research reveals a 'shock to the social and labor-market valuation of body weight,' with weight acting as one characteristic among richer information contexts."
     ],
-    "title": "US Treasury cracks down on Jalisco New Generation Cartel with sanctions and a bank alert",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · United States"
+    "title": "Women More Often Hired After Losing Weight on GLP-1s: Study",
+    "topic": "Health Care",
+    "topic_full": "Health Care · United States"
   },
   {
-    "article_path": "/article/new-trump-book-has-record-breaking-debut-week-due-to-demand",
-    "article_url": "https://ground.news/article/new-trump-book-has-record-breaking-debut-week-due-to-demand",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 60.0,
-    "error": null,
-    "left_pct": 40.0,
-    "location": "United States",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "Political journalists Maggie Haberman and Jonathan Swan's book Regime Change: Inside the Imperial Presidency of Donald Trump sold over 300,000 copies in its debut week, marking the best first-week performance for any hardcover nonfiction book in 2026.",
-      "The book details the initial 14 months of President Donald Trump's second term, providing an inside look at the West Wing, Mar-a-Lago, and Air Force One while analyzing his military decisions and White House restructuring efforts.",
-      "After selling out quickly in bookstores and on Amazon, the book entered its third hard copy printing with 200,000 copies on order, including preorders and fulfillment orders per publisher Simon and Schuster.",
-      "Sean Manning, vice president and publisher at Simon and Schuster, said the book \"has entered the national conversation\" and will \"hold up as\" a work of historic importance.",
-      "Trump dismissed the book as \"mostly made up\" and a \"big yawn\" despite his history with Haberman, while sales figures contradict publisher speculation that the public had grown tired of books about him."
-    ],
-    "title": "New Trump book, ‘Regime Change,’ has sold 300,000 copies, with more being printed, publisher says",
-    "topic": "Books",
-    "topic_full": "Books · United States"
-  },
-  {
-    "article_path": "/article/cuban-official-says-talks-with-the-us-are-at-a-standstill-announces-un-debate-on-us-oil-embargo",
-    "article_url": "https://ground.news/article/cuban-official-says-talks-with-the-us-are-at-a-standstill-announces-un-debate-on-us-oil-embargo",
+    "article_path": "/article/former-cia-officer-i-dont-believe-that-the-research-stopped-on-mkultra_2dc7c8",
+    "article_url": "https://ground.news/article/former-cia-officer-i-dont-believe-that-the-research-stopped-on-mkultra_2dc7c8",
     "bias": [
-      "Left-Leaning coverage frames the stalemate as part of U.S. pressure, stressing new sanctions on Díaz-Canel and companies and using terms like “constant threats” and “crumbling economy,” while right-leaning coverage spotlights confrontation from the other direction, amplifying “multidimensional aggression,” “causing deaths,” and “deepening economic strain.” Both sides mention “standstill” and “free-market reforms,” but the left treats reforms as a policy opening ignored by Washington, whereas the right presents Havana’s “sovereignty” drive as unfolding despite sanctions.",
-      "The sharpest dividing lines are sanctions, humanitarian harm, and the UN embargo debate, all tied to broader ideological differences over state control, market reform, and U.S.- Cuba confrontation."
+      "Left-Leaning coverage frames the hearing as political theater, using dismissive tags like “went off the rails,” “MAGA PSYOP,” and “fixated” to suggest chaos and distraction, especially around Luna’s USAID and COVID-conspiracy lines.",
+      "Right-Leaning coverage, by contrast, turns the same hearing into a secrecy-breaking alarm bell, leaning on phrases like “bombshell,” “explosive,” “secret,” and “ongoing mind control capabilities” to stress present-day danger and institutional menace.",
+      "The key dividing line is whether MKUltra is treated as partisan stunt or enduring threat.",
+      "Both sides still center secrecy and accountability, revealing a broader split over distrust of government and the meaning of oversight."
     ],
     "bias_bar_text": null,
-    "center_pct": 22.0,
+    "center_pct": 31.0,
     "error": null,
-    "left_pct": 48.0,
-    "location": "Cuba",
-    "right_pct": 30.0,
+    "left_pct": 11.0,
+    "location": "United States",
+    "right_pct": 58.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, Cuban Foreign Minister Bruno Rodríguez announced that talks with the United States are at a standstill while scheduling a July 7 General Assembly debate on the energy embargo imposed by President Donald Trump.",
-      "Earlier this month, the United States imposed sanctions on Cuban President Miguel Díaz Canel and other officials following the Communist Party and National Assembly's approval of 176 economic measures representing the biggest reform since the revolution.",
-      "The oil blockade has paralyzed Cuba 's economy, causing prolonged blackouts, fuel rationing, and internet outages. Basic services including garbage collection and water delivery have been suspended, with workdays reduced.",
-      "Rodriguez stated economic measures are \"a matter of total and absolute sovereignty,\" adding that while U.S. conduct was \"generally respectful\" during earlier talks, it remains accompanied by \"constant aggressive statements.\"",
-      "Denying Cuba is a threat to the United States, Rodriguez criticized the ongoing policy of hostility. The State Department did not immediately respond to a request for comment on the upcoming debate."
+      "On Tuesday, Rep. Anna Paulina Luna chaired a House Oversight and Government Reform Committee hearing on the CIA 's MKULTRA program, announcing the agency is declassifying new documents related to a previously unknown 'forgery program'.",
+      "Operating from 1953 to 1973, the top-secret MKULTRA program involved at least 149 subprojects across 80 institutions and 185 non-government researchers, employing LSD and psychological torture to develop mind control techniques for espionage.",
+      "Whistleblower James Erdman III testified that approximately 40 boxes of sensitive records were removed from the ODNI during declassification review. Luna is investigating allegations of torture at a German facility and clarified the CIA incident was 'not a raid.'",
+      "Luna called the program 'criminal in nature,' advocating for a Justice Department task force to investigate potential remains and secure compensation for victims harmed by unwitting experimentation.",
+      "Although the CIA previously labeled the 25-year effort a 'failure,' Luna and other lawmakers contend Congress was intentionally misled for 50 years, necessitating current efforts to uncover the truth and ensure accountability."
     ],
-    "title": "Cuban Official Says Talks with the US Are at a Standstill, Announces UN Debate on US Oil Embargo",
-    "topic": "Cuba",
-    "topic_full": "Cuba · Cuba"
-  },
-  {
-    "article_path": "/article/harvard-professor-with-polarizing-alien-theories-is-picked-to-lead-new-white-house-ufo-council",
-    "article_url": "https://ground.news/article/harvard-professor-with-polarizing-alien-theories-is-picked-to-lead-new-white-house-ufo-council",
-    "bias": [
-      "Left-Leaning coverage frames Avi Loeb as a spectacle first, stressing “polarizing” and “alien theories” to cast the White House UFO council as a curious, even dubious appointment; by contrast, the center-leaning version softens the skepticism with “splashy theories” and pivots to the council’s “national security risks,” recasting the story as governance rather than novelty.",
-      "The key dividing line is whether Loeb’s unconventional ideas define the story or merely decorate a serious policy task.",
-      "Left coverage also spotlights his Harvard credentials, while the center emphasizes the institutional mission.",
-      "Both, however, acknowledge his controversial reputation and the UFO study itself, revealing a shared focus on tension between elite science, public intrigue, and security concerns."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 49.0,
-    "error": null,
-    "left_pct": 46.0,
-    "location": "United States",
-    "right_pct": 5.0,
-    "status": "ok",
-    "summary": [
-      "The White House appointed former Harvard astronomy department chair Avi Loeb to lead a scientific advisory council investigating unidentified anomalous phenomena, supporting President Donald Trump 's push to declassify UFO information.",
-      "Earlier this year, Trump's directive for government transparency led to creation of the UAP Governance Board, overseen by the Office of the Director of National Intelligence and supported by Loeb's team.",
-      "Loeb's hand-picked team includes more than a dozen scientists and UFO activists, including retired rear admiral Timothy Gallaudet and billionaire Ben Lamm, though physicist Sean Kirkpatrick said Loeb is \"not viewed favorably\" in the scientific community.",
-      "After convening last month, the advisory team submitted a formal request to the Pentagon for more than 50 videos, images, and documents related to known UAP incidents.",
-      "While astronomer Steve Desch warns Loeb's panel could hinder credible research, Loeb insists he aims to follow the science. \"Let's keep our eyes on the orbs, not the social media,\" he said."
-    ],
-    "title": "Harvard Professor Known for UFO and Extraterrestrial Research Picked to Lead New White House UFO Council",
+    "title": "Former CIA officer: ‘I don’t believe that the research stopped’ on MKUltra",
     "topic": "US Politics",
     "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/egg-firms-to-donate-millions-after-price-manipulation-settlement_3a3b34",
-    "article_url": "https://ground.news/article/egg-firms-to-donate-millions-after-price-manipulation-settlement_3a3b34",
-    "bias": [
-      "Left-Leaning coverage frames the story as a corporate accountability probe—“price inflation probe,” “settle allegations”—keeping the tone restrained, while right-leaning coverage turns it into a sharper conflict, using phrases like “Cracking down,” “slammed,” “giants,” and “price-fixing” to stress enforcement and suspected wrongdoing.",
-      "The biggest dividing line is remedy versus outrage: the right spotlights the $1.2M-versus-$1.2B profit gap to suggest the settlement is too small, while the left de-emphasizes that critique and centers the legal outcome.",
-      "Both sides agree on alleged manipulation by major producers, but they diverge over whether the case is a modest resolution or a symbol of deeper corporate abuse."
-    ],
+    "article_path": "/article/ties-to-communist-subversion-us-expels-former-cuban-regime-official-and-his-family",
+    "article_url": "https://ground.news/article/ties-to-communist-subversion-us-expels-former-cuban-regime-official-and-his-family",
+    "bias": null,
     "bias_bar_text": null,
-    "center_pct": 76.0,
-    "error": null,
-    "left_pct": 14.0,
-    "location": "United States",
-    "right_pct": 10.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, the U.S. Department of Justice and 17 states reached a $3.3 million settlement with Cal-Maine Foods, Versova, and Hickman's Egg Ranch over alleged illegal price manipulation that \"artificially increased\" egg costs for consumers and retailers.",
-      "Investigators alleged the three companies \"secretly communicated\" from June 2022 through March 2025 to coordinate bidding activity and influence daily egg price quotes published by Urner Barry, a benchmark service widely used in supply contracts.",
-      "Beyond financial penalties, the settlement requires firms to donate over 53 million eggs to food banks nationwide, with Maryland receiving more than 2 million eggs and $120,000 in support funds for community organizations.",
-      "While the companies denied wrongdoing, Cal-Maine Foods CEO Sherman Miller attributed price surges to \"temporary supply shocks\" including avian influenza and high inflation rather than collusion, though Versova said it aims to \"put this matter behind us.\"",
-      "Farm Action President Angela Huffman criticized the settlement as a mere \" business expense\" for multi-billion-dollar corporations, though the agreement mandates producers adopt antitrust compliance programs and appoint officers to monitor future operations."
-    ],
-    "title": "Egg Producers Will Pay $3.3M and Donate 53 Million Eggs to Settle Price Fixing Claims",
-    "topic": "Business",
-    "topic_full": "Business · United States"
-  },
-  {
-    "article_path": "/article/hhs-terminates-covid-19-emergency-use-authorization-declarations",
-    "article_url": "https://ground.news/article/hhs-terminates-covid-19-emergency-use-authorization-declarations",
-    "bias": [
-      "Left-Leaning coverage is de-emphasized here, but the center frames the move as a straightforward HHS termination and stresses Kennedy’s “transparent, accountable” rationale, while the right turns it into a broader anti-emergency story about ending a “liability shield” and a policy that “quietly survived for years.” The sharpest dividing line is liability and legacy: one side treats this as routine regulatory cleanup, the other as overdue correction of pandemic overreach, often with punchier language like “pulled the plug,” “emergency,” and “makers.” Both agree the declarations are ending and that timing is phased, but they diverge on whether this is administrative housekeeping or a symbolic rollback of COVID-era power."
-    ],
-    "bias_bar_text": "9% Right 91%",
-    "center_pct": 9.0,
+    "center_pct": null,
     "error": null,
     "left_pct": null,
-    "location": null,
-    "right_pct": 91.0,
-    "status": "ok",
-    "summary": [
-      "Health Secretary Robert F. Kennedy, Jr is ending emergency declarations for COVID-19 vaccines, treatments, and medical devices, determining that circumstances justifying emergency use no longer exist.",
-      "First issued in 2020 to \"enable rapid access to medical products during the pandemic,\" these declarations provided liability protections; Health Secretary Xavier Becerra previously extended them through 2029.",
-      "Specifically, declarations for medical devices will end in 180 days, or until Dec. 26, 2026, while those for drugs and biological products will terminate in 1 year effective June 29, 2027. The FDA is working with manufacturers on seeking traditional approval.",
-      "\"By ending these COVID-19 emergency use authorization declarations, we're reinforcing public confidence that emergency authorities are temporary and targeted,\" Kennedy said. Americans deserve a transparent, accountable regulatory system rooted in the rule of law.",
-      "Officials plan to notify Congress of the development, the Department of Health and Human Services said. The FDA will continue working with manufacturers to help products seek traditional regulatory pathways for approval, clearance, or licensure."
-    ],
-    "title": "HHS Ends COVID-19 Emergency Declarations for Drugs and Devices",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/trumps-actions-signal-a-move-toward-institutionalizing-people-with-disabilities-advocates-warn",
-    "article_url": "https://ground.news/article/trumps-actions-signal-a-move-toward-institutionalizing-people-with-disabilities-advocates-warn",
-    "bias": [
-      "Left-Leaning coverage frames the story as a civil-rights rollback, stressing historical disability -rights struggles and warning that Trump’s actions could “institutionalizing” people with disabilities and cause rights to be “losing ground.” Right-leaning coverage largely echoes the core claim but is thinner, de-emphasizing that broader context and offering less interpretive detail.",
-      "Center-Leaning pieces sit between them, still alarmed but more explicit about Kennedy’s role and his comments drawing “sharp” criticism.",
-      "Across all sides, the dividing line is whether the shift is portrayed as an administrative move or a threat to inclusion, with charged words like “warn,” “signal,” and “institutionalizing” carrying the bias."
-    ],
-    "bias_bar_text": "Left 55% Center 31% R 14%",
-    "center_pct": 31.0,
-    "error": null,
-    "left_pct": 55.0,
-    "location": null,
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "In June, the Department of Justice issued a memo arguing disability rights laws do not mandate mainstream settings, while the Education Department transferred special education oversight to the Department of Health and Human Services, led by Robert F. Kennedy Jr.",
-      "Last year, President Donald Trump issued an executive order on homelessness endorsing civil commitment, directing the Department of Health and Human Services to reduce barriers to institutionalizing people with mental illnesses.",
-      "Advocates warn the policy shifts signal a return to the \"medical model,\" where disability is viewed as a defect to be cured. Claudia Center, legal director at Disability Rights Education and Defense Fund, called the approach \"out of touch.\"",
-      "Families like those of Lindsey Althaus and Magda Nakassis fear their children will lose access to community support services needed to attend mainstream schools as federal agencies interpret civil rights laws more restrictively.",
-      "Selene Almazan, legal director for the Council of Parent Attorneys and Advocates, described the shift as \"a direct, frontal assault on the rights of people with disabilities,\" warning against returning to institutionalization."
-    ],
-    "title": "Disability Rights Advocates Fear Rollback of Special Education Protections Under Trump Administration",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/rochester-man-warned-by-ice-after-writing-blistering-letter-to-agency-attorney-says",
-    "article_url": "https://ground.news/article/rochester-man-warned-by-ice-after-writing-blistering-letter-to-agency-attorney-says",
-    "bias": [
-      "Left-Leaning coverage frames the episode as a warning issued because someone criticized ICE, stressing possible retaliation and civil-liberties concerns, while right-leaning coverage sharpens the conflict with terms like “blistering” and “unsigned,” recasting the same event as a more pointed agency response and inviting skepticism toward federal power.",
-      "The clearest dividing lines are the cause-and-effect link between speech and official warning, plus whether the officers’ visit is portrayed as heavy-handed pressure or a direct reply to an inflammatory letter.",
-      "Both sides center the warning itself and ICE, but they diverge over how ominous, personal, or politically charged that warning feels."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 27.0,
-    "error": null,
-    "left_pct": 46.0,
-    "location": "New York",
-    "right_pct": 27.0,
-    "status": "ok",
-    "summary": [
-      "Federal agents visited the Rochester home of David Streever last week to serve a warning regarding an email he sent six months ago criticizing ICE Director Todd Lyons after the fatal shooting of Renee Good.",
-      "Streever sent the email to Lyons in January, calling his protection of the officer involved in the Minnesota shooting a \"monstrous\" act; agents later attempted to locate him at his New York City hotel.",
-      "Attorney Adam Steinbaugh argued the email constituted protected political speech, while Department of Homeland Security spokesperson Lauren Bis stated ICE investigates all credible threats toward its employees and officers.",
-      "Syracuse poll worker Paigelynne Gonyea also received a visit from federal agents last week regarding a social media post identifying Jonathan Ross, the officer who shot Good, according to the New York Attorney General's Office."
-    ],
-    "title": "Another New York Resident Says He Was Warned by Officers After Criticizing ICE",
-    "topic": "Immigration and Customs Enforcement",
-    "topic_full": "Immigration and Customs Enforcement · New York"
-  },
-  {
-    "article_path": "/article/bci-vinton-county-officials-to-give-update-following-execution-of-child-welfare-search-warrant-in-hamden",
-    "article_url": "https://ground.news/article/bci-vinton-county-officials-to-give-update-following-execution-of-child-welfare-search-warrant-in-hamden",
-    "bias": [
-      "Left-Leaning coverage frames the case as child endangerment, stressing the children’s “dire need” and “deplorable” conditions, while right-leaning coverage leans into a more dramatic, sympathy-driven register with phrases like “tragic situation” and “horrific,” often foregrounding the rescue itself.",
-      "The sharpest divide is whether the story is about abuse and accountability or shock and misfortune; the left emphasizes four adults “arrested” and legal consequences, whereas the right de-emphasizes charge details.",
-      "Center coverage sits between them, using “rescued” and official attribution.",
-      "Both sides agree on 16 children, four adults, and dangerous conditions, reflecting a shared concern over child welfare amid broader law-and-order and social-crisis framing."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 37.0,
-    "location": "Ohio",
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, law enforcement executed a search warrant at a home in Hamden, Ohio , rescuing 16 children and arresting Gary Siders, Sr., Gary Siders, Jr., Elizabeth Siders, and Christina Siders.",
-      "Ohio Attorney General Andy Wilson described the scene as \"pure evil,\" citing \"deplorable\" conditions inside the residence where children aged 1.5 to 18 were discovered.",
-      "Several children were found in serious condition, with two flown by medical helicopter to Level 1 trauma centers, while all 16 are undergoing medical evaluation.",
-      "The Siders face 17 criminal charges and are scheduled for arraignment Wednesday at 10:30 a.m. in the Vinton County Court of Common Pleas.",
-      "Governor Mike DeWine issued a statement supporting the Vinton County Sheriff's Office, which confirmed an ongoing investigation while assuring the public there is no ongoing threat to the community."
-    ],
-    "title": "Adults arrested after 16 children found in ‘deplorable’ conditions in southern Ohio home",
-    "topic": "US Crime",
-    "topic_full": "US Crime · Ohio"
-  },
-  {
-    "article_path": "/article/fbi-determines-nancy-guthrie-kidnapping-notes-to-be-fakes-source-says",
-    "article_url": "https://ground.news/article/fbi-determines-nancy-guthrie-kidnapping-notes-to-be-fakes-source-says",
-    "bias": [
-      "Left and right both center the FBI ’s conclusion that the messages were fake, but they diverge in framing: the left keeps it compact and definitive with words like “determined” and “fakes,” while the right leans into a crime-thriller tone with “ransom notes” and a third message from someone “claiming to know the kidnappers’ identities,” sharpening suspicion.",
-      "The center adds the most context—disappearance timeline, Tucson location, and the family’s $1 million reward—softening the headline-level snap judgment with broader case background.",
-      "Across perspectives, the shared anchor is the discredited communications; the divide is whether the story reads as a resolved hoax or a more ominous kidnapping narrative."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 14.0,
     "location": "United States",
-    "right_pct": 36.0,
+    "right_pct": 100.0,
+    "status": "no_change",
+    "summary": [
+      "The U.S. State Department said federal agents detained a Cuban national, his wife, and son after Secretary of State Marco Rubio revoked their legal status. Authorities allege the man previously worked for a Cuban government-linked organization.",
+      "Federal authorities took three Cuban nationals into custody pending removal from the U.S. after the State Department alleged one family member had ties to the Cuban Institute of Friendship with the People , which was recently sanctioned.",
+      "The Trump administration announced the detention of a Cuban man and his family after revoking their legal status, citing allegations that he was involved with a Cuban government-linked influence organization."
+    ],
+    "title": "Family of Alleged Cuban Influence Operative Detained After Legal Status Revoked by Rubio",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/jb-pritzker-gives-grim-diagnosis-of-trump-and-doubles-down-on-it",
+    "article_url": "https://ground.news/article/jb-pritzker-gives-grim-diagnosis-of-trump-and-doubles-down-on-it",
+    "bias": [
+      "Left-Leaning coverage frames Pritzker’s remarks as a sharp rebuke of Trump, leaning on phrases like “grim diagnosis” and emphasizing the White House ’s “certifiable loser” insult, while right-leaning coverage pivots to hypocrisy and ridicule, using language like “plays doctor,” “just diagnosed,” and “defended Biden’s decline” to paint him as partisan and unserious.",
+      "The biggest dividing line is the same dementia claim: the left treats it as a political attack in a live CNN exchange, the right as proof of double standards and disrespect.",
+      "Both sides center Trump’s health and Pritzker’s “doubling down,” but they diverge on whether the story is about criticism or credibility."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "Illinois",
+    "right_pct": 41.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, the Federal Bureau of Investigation determined three ransom notes related to Nancy Guthrie 's disappearance are fakes. Officials stated none of the communications, which surfaced after the 84-year-old vanished, are believed to be genuine.",
-      "Nancy Guthrie disappeared from her home in Tucson, Arizona, in early February, and the messages in question were initially delivered to various media outlets before being turned over to authorities.",
-      "Savannah Guthrie, co-host of NBC's Today, has repeatedly appealed to the public for information regarding her mother. Her family remains in \"agony\" and continues to offer $1 million for details leading to her recovery.",
-      "Citing an agreement to refer inquiries to the FBI, the Pima County Sheriff's Department declined to comment on the notes. Officials confirmed the case remains an active investigation involving ongoing forensic analysis.",
-      "Investigators believe the notes, which included cryptocurrency demands and claims of video evidence, originated from individuals unconnected to Guthrie's disappearance. This finding complicates the fundamental premise that she was abducted for ransom."
+      "On Tuesday, Illinois Governor JB Pritzker appeared on CNN's The Source and reiterated his claim that President Donald Trump is \"suffering from dementia,\" arguing the president appears cognitively different than he was 10 years ago.",
+      "The governor previously made similar statements in a May Politico interview, asserting Trump's cognitive issues became \"much more pronounced\" during his second term, though he acknowledged he is not a medical professional.",
+      "Defending the president's cognitive state, the White House cited a recent physical that found him in \"excellent health\" with strong neurological function, while Trump's representatives called Pritzker a \"certifiable loser.\"",
+      "Host Kaitlan Collins questioned how Pritzker, whose net worth Forbes estimates at $4.3 billion, aligns with a party campaigning against the billionaire class, prompting him to defend raising the Illinois minimum wage to $15.",
+      "Amid speculation regarding a potential presidential run, Pritzker vowed to reverse Trump's modifications to the Oval Office and East Room, emphasizing the need for a leader with \"honesty, integrity, and importantly, kindness and empathy\" in Washington."
     ],
-    "title": "FBI determines Nancy Guthrie kidnapping notes to be fakes, source says",
+    "title": "Illinois Governor Pritzker Says He Thinks President Trump Has Dementia",
+    "topic": "JB Pritzker",
+    "topic_full": "JB Pritzker · Illinois"
+  },
+  {
+    "article_path": "/article/fbi-confirms-some-ransom-notes-in-nancy-guthrie-case-were-extortion-attempts",
+    "article_url": "https://ground.news/article/fbi-confirms-some-ransom-notes-in-nancy-guthrie-case-were-extortion-attempts",
+    "bias": [
+      "Left-Leaning coverage leans into process and skepticism, stressing that some notes were “without legitimacy” or “extortion attempts” and repeating the “legitimate” question, while right-leaning coverage is more abbreviated and law-enforcement focused, framing the matter as the FBI “still evaluating” notes and not adding broader political interpretation.",
+      "The key split is the official “kidnapping for ransom” framing: it is present in center and right coverage but de-emphasized on the left, which instead foregrounds the legitimacy test.",
+      "Both sides share the core facts about some fake notes and continuing investigation, but they diverge in tone—cautious scrutiny versus restrained police -blotter reporting."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 48.0,
+    "error": null,
+    "left_pct": 44.0,
+    "location": "United States",
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "The FBI stated on Wednesday that some ransom notes in the Nancy Guthrie disappearance are extortion attempts without legitimacy, while investigators continue evaluating other demands as potentially legitimate.",
+      "As of Wednesday, 151 days have passed since Guthrie was reported missing from her Catalina Foothills home in Tucson, Arizona, with the case investigated as a kidnapping for ransom.",
+      "Reporters received several notes since the February disappearance, including demands for Bitcoin payments and claims regarding Guthrie's death, prompting conflicting assessments about their validity.",
+      "Pima County Sheriff Chris Nanos expressed skepticism regarding the notes' legitimacy, noting his department continues to partner with the FBI while pursuing all leads in the case.",
+      "Savannah Guthrie and her family continue their search, thanking the Pima County Sheriff and the FBI for their tireless work on behalf of the family's investigation."
+    ],
+    "title": "Some ransom notes sent in Nancy Guthrie case still being investigated as legitimate, FBI says",
     "topic": "Nancy Guthrie",
     "topic_full": "Nancy Guthrie · United States"
   },
   {
-    "article_path": "/article/trump-hosts-convicted-election-fraudster-at-white-house",
-    "article_url": "https://ground.news/article/trump-hosts-convicted-election-fraudster-at-white-house",
+    "article_path": "/article/paramedics-responded-to-a-cardiac-arrest-at-mitch-mcconnells-home-on-day-of-hospitalization_b359b0",
+    "article_url": "https://ground.news/article/paramedics-responded-to-a-cardiac-arrest-at-mitch-mcconnells-home-on-day-of-hospitalization_b359b0",
     "bias": [
-      "Left-Leaning coverage frames the meeting as scandal and pressure, using terms like “convicted election fraudster” and “pressured” to portray Trump as coercive and morally compromised, while right-leaning coverage casts the same encounter as vindication, stressing “released,” “found Election Fraud,” and “thank me” to present Peters as a victim and Trump as a rescuer.",
-      "The sharpest dividing line is whether Peters is a fraudster or a whistleblower, with the center de-emphasized from that fight by adding procedural context like “subvert” and the “FREE TINA!” slogan.",
-      "Both sides agree the White House meeting happened, but they split over its meaning, reflecting deeper clashes over election legitimacy and partisan power."
+      "Left-Leaning coverage frames the incident as a potentially downplayed crisis, using loaded cues like “found unconscious,” “heart attack,” and “CPR” to suggest McConnell’s team let severity slip; right-leaning coverage is even more overtly alarmed, leaning on phrases like “concerning,” “ health scare,” and “reveals” to portray a long-running vulnerability and stress the gap between the initial “admitted” statement and later dispatch details.",
+      "Center-Leaning pieces stay more measured, emphasizing “reportedly” and “what we know,” with added context such as his hospitalization history.",
+      "Across sides, the shared anchor is the June 14 emergency, but the ideological divide is between public-health scrutiny, suspense, and contextual restraint."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 24.0,
+    "error": null,
+    "left_pct": 31.0,
+    "location": "United States",
+    "right_pct": 45.0,
+    "status": "ok",
+    "summary": [
+      "Former Senate GOP leader Mitch McConnell was found unconscious at his Washington home on June 14, prompting an Advanced Life Support ambulance dispatch according to emergency audio posted by journalist Desiree Townsend.",
+      "McConnell, the 84-year-old Kentucky Republican retiring at year's end, has faced repeated health scares including multiple falls and flu-like symptoms requiring prior hospitalizations in recent years.",
+      "McConnell's office has released no details on his condition or prognosis, though a June 22 statement claimed he was 'working closely with staff' on Senate business and Kentucky matters.",
+      "Senate Majority Leader John Thune said he spoke with his predecessor recently, describing McConnell as still 'dialed in' on Senate business despite ongoing health concerns.",
+      "The Senate reconvenes July 13, nearly a month after the incident, as McConnell prepares to conclude his tenure by year's end 2026 amid questions about his availability."
+    ],
+    "title": "Paramedics responded to a ‘cardiac arrest’ at Mitch McConnell’s home on day of hospitalization",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/navy-helicopter-makes-emergency-landing-in-arabian-sea-one-crew-missing",
+    "article_url": "https://ground.news/article/navy-helicopter-makes-emergency-landing-in-arabian-sea-one-crew-missing",
+    "bias": [
+      "Left-Leaning coverage treats the incident as an urgent naval mishap, stressing the “searching” and “emergency” response, while right-leaning coverage more often pulls it into a Iran-centered security frame, using sharper phrases like “crashes,” “high alert,” “terrifying,” and “near Iran” to heighten geopolitical tension.",
+      "The dividing line is whether the story is a standalone accident or a signal of wider regional conflict; even shared facts—three rescued, one missing, no “hostile action”—are filtered through different emphases.",
+      "Center coverage stays closest to the core rescue update, de-emphasizing the broader conflict narrative."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 29.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "United States",
+    "right_pct": 48.0,
+    "status": "ok",
+    "summary": [
+      "A U.S. Navy MH-60S Sea Hawk helicopter was forced to make an emergency water landing in the Arabian Sea early Wednesday morning.",
+      "Three of the aircraft's four crew members were successfully rescued from the water and remain in stable condition aboard the nearby aircraft carrier USS George H.W. Bush.",
+      "An active military search-and-rescue operation utilizing regional naval assets is currently underway to locate the fourth crew member, who remains missing.",
+      "Central Command officials stated that there is currently no indication the emergency landing was caused by hostile enemy fire or military action.",
+      "An official military investigation has been launched to determine the exact mechanical or environmental cause behind the helicopter going down."
+    ],
+    "title": "Navy Searches for Missing Sailor After Helicopter Crashes in Arabian Sea",
+    "topic": "U.S. Navy",
+    "topic_full": "U.S. Navy · United States"
+  },
+  {
+    "article_path": "/article/16-children-rescued-from-ohio-home-were-almost-feral-authorities-say_4ad257",
+    "article_url": "https://ground.news/article/16-children-rescued-from-ohio-home-were-almost-feral-authorities-say_4ad257",
+    "bias": [
+      "Left-Leaning coverage leans into moral shock, highlighting phrases like “almost feral,” “pure evil,” and “house of horrors” to center abuse, child suffering, and the emotional weight of neglect; right-leaning coverage uses similarly charged wording but frames it more as law-and-order outrage, stressing “deplorable” conditions, “arrested,” and “feral animals” to underline punishment and social decay.",
+      "The key dividing line is whether the story is about rescue and harm or about criminal culpability and civilizational breakdown.",
+      "Center coverage stays more procedural, adding names, medical details, and the trafficking clarification.",
+      "All sides agree on the rescue, four arrests, and severe living conditions."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "Ohio",
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, June 30, 2026, authorities executed a search warrant in Hamden, Ohio , rescuing 16 children ranging from 18 months to 18 years old from a rural home.",
+      "For two decades, the family deliberately evaded government and medical systems by moving between Gallia, Pike, and Jackson counties in Ohio and Wisconsin to keep the children hidden from authorities.",
+      "Vinton County Sheriff Ryan Cain described the children as appearing \"almost feral\" after officials found them confined to a roughly 12-by-12-foot room contaminated with human waste and bacterial matter.",
+      "Gary Siders Sr., Gary Siders Jr., Elizabeth Siders, and Christina Siders entered not guilty pleas Wednesday on 16 felony child endangerment counts each, with Vinton County Prosecutor William Archer setting bonds at $300,000 per defendant.",
+      "Officials pledged to prioritize the children's long-term mental and emotional recovery while investigators review how the abuse escaped detection for years to prevent similar cases."
+    ],
+    "title": "16 children rescued from Ohio home were 'almost feral,' authorities say",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Ohio"
+  },
+  {
+    "article_path": "/article/gop-reps-shocking-affordability-comment-a-gift-to-democrats-critics-say",
+    "article_url": "https://ground.news/article/gop-reps-shocking-affordability-comment-a-gift-to-democrats-critics-say",
+    "bias": [
+      "Left-Leaning coverage frames Nehls as a MAGA figure “bragging” about steak and lobster while showing contempt for people hit by the affordability crisis, and it widens the story with the Statue of Liberty/birthright citizenship spat to suggest a broader pattern of provocative rhetoric; right-leaning coverage is de-emphasized here, but the center frames the same remark mainly as a “shocking” “gift to Democrats,” stressing political fallout over character judgment.",
+      "The sharpest dividing line is whether the comment is portrayed as class-insensitive mockery or as a tactical blunder.",
+      "Both sides agree it is politically damaging, yet they split along ideological lines about whether the deeper issue is elite indifference or messaging leverage."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 27.0,
+    "error": null,
+    "left_pct": 73.0,
+    "location": "Texas",
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Rep. Troy Nehls bragged about his July 4th plans to eat \"big lobster tails\" and ribeyes, dismissing concerns about Americans struggling with affordability by suggesting they \"don't work hard as I do.\"",
+      "When asked how his party intends to demonstrate they are \"fighting for affordability\" when meeting constituents, the Texas Republican pivoted to his holiday menu and insisted that energy price increases are merely \"temporary.\"",
+      "After being reminded that 60% of Americans live paycheck to paycheck, Nehls dismissed the struggle, with critics comparing his comments to the \"let them eat cake\" remark attributed to Antoinette during the French Revolution.",
+      "Commentator Mehdi Hasan suggested that \"Democrats should turn this into an ad,\" joining other critics in condemning the remarks as tone-deaf and potentially damaging to Republican affordability messaging.",
+      "Although Nehls is retiring from Congress at the end of his term, his comments are viewed as a political \"gift\" to Democrats, who are actively using the remarks to hammer Republicans on affordability heading into elections."
+    ],
+    "title": "GOP rep, asked about ‘affordability,’ says he will eat lobster tail, rib-eye steak for July 4",
+    "topic": "US Politics",
+    "topic_full": "US Politics · Texas"
+  },
+  {
+    "article_path": "/article/justice-jackson-scolds-trump-clarence-thomas-in-ruling-against-claim-birthright-citizenship-was-only-for-babies-of-slaves",
+    "article_url": "https://ground.news/article/justice-jackson-scolds-trump-clarence-thomas-in-ruling-against-claim-birthright-citizenship-was-only-for-babies-of-slaves",
+    "bias": [
+      "Left-Leaning coverage frames the case as a constitutional and civil-rights showdown, emphasizing Jackson’s “scathing” rebuke, calling Thomas’s reading “ahistorical,” and casting the ruling as a “win for democracy,” while right-leaning coverage pivots to ridicule and cultural offense, branding Jackson’s opinion “insane,” an “embarrassment,” or a “laughing stock,” and fixating on alleged “Gen Z slang.” The key dividing line is whether the story is about citizenship history and judicial power or about Jackson’s tone and style; both sides agree the ruling is politically major and that Jackson and Thomas are central, but they interpret that clash through sharply different ideological lenses."
     ],
     "bias_bar_text": null,
     "center_pct": 12.0,
     "error": null,
-    "left_pct": 25.0,
+    "left_pct": 38.0,
     "location": "United States",
-    "right_pct": 63.0,
+    "right_pct": 50.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, President Donald Trump hosted former Colorado elections clerk Tina Peters at the White House, marking her first public appearance since her release from prison earlier this month.",
-      "Peters was sentenced in 2024 to serve nearly nine years in prison after conviction on seven counts including attempting to influence a public official. Democratic Colorado Governor Jared Polis commuted her sentence after pressure from the Trump administration.",
-      "Trump claimed Peters 'found Election Fraud' and was imprisoned for exposing it rather than committing crimes. However, the Mesa County district attorney's office uncovered zero evidence to support her fraud allegations.",
-      "Posting a photograph from behind his Oval Office desk on Truth Social, Trump described the meeting as an 'honor.' Supporters have adopted 'FREE TINA!' as a rallying cry for the MAGA movement's alleged victimhood.",
-      "Trump continues promoting theories that the 2020 election was 'RIGGED,' despite experts and courts repeatedly debunking such claims as statistical nonissues lacking factual foundation."
+      "On Tuesday, the Supreme Court rejected President Donald Trump's effort to limit birthright citizenship in a 6-3 ruling, upholding the 14th Amendment's guarantee for children born to parents unlawfully or temporarily in the U.S.",
+      "Trump's executive order last year instructed federal agencies to deny citizenship to babies born to non-citizens, prompting lawsuits from expectant parents, immigrant rights groups, and 22 state attorneys general challenging the policy.",
+      "Justice Clarence Thomas argued in his dissent that the 14th Amendment was designed for freed slaves, while Justice Ketanji Brown Jackson countered it established a \"universalist\" vision extending to all born on American soil.",
+      "Jackson accused Thomas of echoing the \"detestable\" 1857 Dred Scott decision, asserting the administration and Thomas were \"wrong\" to argue the amendment was repurposed for political projects unintended by Congress.",
+      "Reacting to the decision, Trump called it \"bad for our Country,\" while more than 30 countries including Canada, Mexico, and Brazil maintain automatic birthright citizenship policies."
     ],
-    "title": "Trump meets with Tina Peters in the Oval Office",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "title": "Jackson rebukes Thomas over his birthright citizenship dissent",
+    "topic": "Ketanji Brown Jackson",
+    "topic_full": "Ketanji Brown Jackson · United States"
+  },
+  {
+    "article_path": "/article/mtg-reveals-shes-working-on-america-focused-third-party",
+    "article_url": "https://ground.news/article/mtg-reveals-shes-working-on-america-focused-third-party",
+    "bias": [
+      "Left-Leaning coverage treats Greene’s third-party talk as a personality-driven stunt, using casual labels like “MTG” and sharper verbs such as “loves” to create a skeptical, even mocking tone, while the right leans into movement language—“true America-focused,” “serious players,” “anti-GOP”—to frame the effort as patriotic realignment.",
+      "The biggest fault lines are motivation and meaning: left headlines de-emphasize rationale and broader stakes, whereas right coverage foregrounds her break with Trump, departure from Congress, and a possible challenge to the two-party system.",
+      "Both sides agree she is “in talks” about a new party, but they diverge on whether it’s novelty or insurgent political rupture."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": "United States",
+    "right_pct": 50.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, former Republican Rep. Marjorie Taylor Greene revealed she is \"in talks\" to launch a \"true America-Focused\" political party during an interview on Piers Morgan Uncensored.",
+      "Greene split with President Donald Trump last year over his handling of Jeffrey Epstein files; Trump called her a \"traitor\" and withdrew support, prompting her departure from the House.",
+      "Her comments follow a pledge last week that she was \"DONE\" voting for the Republican Party, aligning with Tucker Carlson's vow to cease supporting the GOP.",
+      "Carlson would be a \"credible threat\" if he ran for president in 2028, Greene said, because he could appeal to independent voters, Republicans, and some Democrats.",
+      "Establishing an \"America-focused\" party will require a serious, multi-cycle effort from the American people, Greene acknowledged, as she explores the mechanics of the transition."
+    ],
+    "title": "Greene ‘in talks’ to launch ‘true America-focused’ party",
+    "topic": "Marjorie Taylor Greene",
+    "topic_full": "Marjorie Taylor Greene · United States"
+  },
+  {
+    "article_path": "/article/challengers-score-victories-in-lawsuit-against-arkansas-restrictions-on-citizen-ballot-initiatives",
+    "article_url": "https://ground.news/article/challengers-score-victories-in-lawsuit-against-arkansas-restrictions-on-citizen-ballot-initiatives",
+    "bias": [
+      "Left-Leaning coverage frames the ruling as a win for “direct democracy,” stressing constitutional vindication and the idea that the laws imposed “extra restrictions” on citizen participation, while right-leaning coverage is more guarded, presenting the case as a lawsuit over state “restrictions” and, in some phrasing, part of efforts to “make it harder for regular citizens.” The rhetorical split is subtle but clear: the left uses reform-minded, rights-forward language; the right leans into skepticism about regulatory power without fully celebrating the challengers.",
+      "A key dividing line is whether the decision is a democratic breakthrough or a procedural setback for election rules.",
+      "Both agree the judge struck down several limits, but the left highlights broader civic gains."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 39.0,
+    "location": "Arkansas",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, U.S. District Judge Timothy Brooks struck down seven Arkansas laws requiring photo ID and mandatory ballot-question readings, ruling the 2025 measures violated constitutional free speech rights.",
+      "Arkansas's GOP-controlled government approved these restrictions after election officials rejected abortion-related petitions in 2024, prompting the League of Women Voters of Arkansas to file suit last year.",
+      "Brooks wrote that requiring photo ID \"before engaging in core political speech\" plainly violates free speech laws, and the state should enforce existing laws rather than impose \"burdensome speech codes.\"",
+      "Protect AR Rights called the decision an \"important victory\" for direct democracy, though Brooks rejected some of the League's other challenges and sent three disputes to trial later this month.",
+      "Arkansas Secretary of State Cole Jester, a Republican who defended the laws in court, said his office plans to appeal Brooks's decision and \"will fight tirelessly for common sense safeguards like voter ID."
+    ],
+    "title": "Challengers score victories in lawsuit against Arkansas’ restrictions on citizen ballot initiatives",
+    "topic": "Arkansas Politics",
+    "topic_full": "Arkansas Politics · Arkansas"
+  },
+  {
+    "article_path": "/article/cdc-urges-people-to-prevent-mosquito-bites-as-west-nile-virus-season-hits-a-strong-early-start",
+    "article_url": "https://ground.news/article/cdc-urges-people-to-prevent-mosquito-bites-as-west-nile-virus-season-hits-a-strong-early-start",
+    "bias": [
+      "Left-Leaning coverage frames West Nile as an escalating public- health warning, stressing phrases like “surging earlier than it has in decades” and “strong, early start,” while right-leaning coverage largely mirrors the CDC alert but tends to de-emphasize alarm, instead foregrounding the case count and, in one version, the spread across “23 states.” The most revealing dividing lines are severity and context: the center adds “alarming” and the holiday-weekend angle, plus the usual June baseline, whereas the left emphasizes urgency and prevention.",
+      "All sides converge on mosquito-bite prevention and the 48-case, 2004 comparison, but their emphasis reflects broader splits between urgency, context, and restrained public-health framing."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 55.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "United States",
+    "right_pct": 17.0,
+    "status": "ok",
+    "summary": [
+      "The Centers for Disease Control and Prevention confirmed at least 48 West Nile virus cases, including 38 severe infections, across 23 states as of June 30, marking the earliest season start in 10 years.",
+      "Historically, the CDC reports only about 10 cases by the end of June, so the current total represents the largest early-season spike seen since 2004.",
+      "Arizona remains the primary hotspot, reporting 32 total cases, with 29 infections concentrated in Maricopa County, which has also recorded four deaths this year.",
+      "Experts advise taking precautions as millions of Americans prepare for Independence Day celebrations; families should use DEET-based insect repellent and remove standing water, as even an overturned bottle cap can breed mosquitoes .",
+      "Warmer weather assists mosquito proliferation, increasing transmission risks for vulnerable populations, as adults older than 60 face the highest risk of severe, potentially deadly neuroinvasive complications."
+    ],
+    "title": "CDC urges people to prevent mosquito bites as West Nile virus season hits a strong, early start",
+    "topic": "Health Care",
+    "topic_full": "Health Care · United States"
+  },
+  {
+    "article_path": "/article/sweeping-review-of-grand-jury-presentations-underway-in-chicago-following-misconduct-revelations_e860f4",
+    "article_url": "https://ground.news/article/sweeping-review-of-grand-jury-presentations-underway-in-chicago-following-misconduct-revelations_e860f4",
+    "bias": [
+      "Left-Leaning coverage stays restrained and procedural, stressing a “sweeping review” after “misconduct revelations” without overt moralizing, while right-leaning coverage uses the same core event to spotlight scandal, letting words like “misconduct” and “revelations” carry the weight of institutional failure.",
+      "The center version adds the sharpest specifics—naming Andrew Boutros, citing “more than 1,000” cases, and tying the trigger to the Broadview Six, “grand jury abuses,” and “prosecutorial misconduct.” Both sides share the premise of oversight after a dismissed case, but they diverge on whether the story is mainly administrative cleanup or a symbol of deeper abuse."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 48.0,
+    "error": null,
+    "left_pct": 40.0,
+    "location": "Illinois",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Attorney Andrew Boutros announced a sweeping review of over 1,000 grand jury presentations in the Northern District following the dismissal of the \"Broadview Six\" case due to prosecutorial misconduct.",
+      "Attorney Sheri Mecklenburg improperly \"vouched\" for evidence, dismissed grand jurors who disagreed, and contacted one grand juror outside official proceedings, prompting The Justice Department to drop charges against the activists.",
+      "District Judge April Perry took the rare step last month of unsealing grand jury transcripts that exposed the misconduct, revealing the collapse of the high-profile case involving protesters arrested in Broadview last year.",
+      "Sen. Dick Durbin fired Mecklenburg from her post, while Boutros instituted reforms creating \"very bright lines\" about when prosecutors must turn over grand jury material to ensure ethical standards.",
+      "The office is reviewing cases dating back almost 20 years to ensure they have not been tainted by similar issues, as Boutros stated the effort is designed to provide \"assurances and confidence\" in the system."
+    ],
+    "title": "Sweeping review of grand jury presentations underway in Chicago following misconduct revelations",
+    "topic": "Illinois Politics",
+    "topic_full": "Illinois Politics · Illinois"
+  },
+  {
+    "article_path": "/article/alibaba-payment-firm-will-pay-600-million-to-resolve-us-probe",
+    "article_url": "https://ground.news/article/alibaba-payment-firm-will-pay-600-million-to-resolve-us-probe",
+    "bias": [
+      "Left-Leaning coverage frames the story as corporate accountability, stressing that Alibaba “allowed” illegal sales and spotlighting the $600M settlement as regulatory enforcement; right-leaning coverage shifts harder into a law-and-order, geopolitically tinted narrative, using sharper cues like “illegal pills,” “dangerous products,” and “China-linked” to portray a threat flowing into the U.S., while also naming the payment processor and the DOJ announcement date to widen culpability.",
+      "The center stays more procedural, calling it a “dispute” and de-emphasizing drama.",
+      "Both sides agree on the settlement and illicit goods, but diverge on whether the core story is compliance failure or a broader public-safety warning."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "United States",
+    "right_pct": 35.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Alibaba and AUS Merchant Services agreed to pay $600 million to the Department of Justice to resolve allegations they facilitated illegal imports of pharmaceuticals and pill-making equipment into the United States.",
+      "Between January 2016 and December 2024, Alibaba acknowledged failing to stop roughly 80,000 illegal product sales violating the Federal Food, Drug, and Cosmetic Act; merchants used messaging services to circumvent compliance controls.",
+      "Federal agencies including the FDA and IRS-CI conducted more than 40 undercover purchases investigating the platform's gaps, while AUS Merchant Services admitted its anti-money laundering program failed to prevent merchants from using payment services for prohibited imports.",
+      "Both companies committed to implementing stricter compliance programs and cooperating with regulators under non-prosecution agreements; IRS Criminal Investigations Chief Jarod Koopman said the resolution \"underscores IRS Criminal Investigation's commitment to following the money.\"",
+      "The penalty represents one of the largest DOJ settlements against a Chinese technology company for compliance failures, adding to separate regulatory pressure from Anthropic regarding its Claude AI model and legal disputes with the Pentagon."
+    ],
+    "title": "Alibaba to Pay $600M to Settle Allegations It Allowed Illegal Drug and Equipment Sales",
+    "topic": "Alibaba",
+    "topic_full": "Alibaba · United States"
+  },
+  {
+    "article_path": "/article/spacex-showed-investors-prototype-of-elon-musks-new-ai-device",
+    "article_url": "https://ground.news/article/spacex-showed-investors-prototype-of-elon-musks-new-ai-device",
+    "bias": [
+      "Left-Leaning coverage centers the dispute itself, spotlighting Musk’s denial and phrases like “utterly false” to frame the story as a contested report, while right-leaning coverage turns it into a bold market narrative, using language like “takes aim” and “slimmer than iPhone” to portray SpaceX as challenging smartphones.",
+      "The sharpest dividing line is whether the device is a rumored “prototype” or a strategic “AI device” aimed at Apple, with the right emphasizing disruption and the left emphasizing skepticism.",
+      "Both sides still anchor on the same core facts—investor demos, Qualcomm hardware, and AI ties—revealing broader divides over innovation hype versus corporate confrontation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "United States",
+    "right_pct": 17.0,
+    "status": "ok",
+    "summary": [
+      "The Wall Street Journal reported on Wednesday that SpaceX showed investors a prototype handset-like AI device with a \"sleek design,\" though the company said the project remains in an early stage.",
+      "Elon Musk denied the reporting, calling it \"utterly false,\" while SpaceX confirmed the project is in early development where the design could change and commercial production remains uncertain.",
+      "The prototype reportedly uses a proprietary operating system to integrate Starlink Mobile connectivity and xAI technology, aiming to create a vertically integrated endpoint that avoids reliance on platforms like Google's Android.",
+      "Industry observers cautioned that the market for dedicated AI hardware remains difficult, citing a crowded graveyard of unsuccessful launches from companies like Humane and Rabbit as a cautionary tale.",
+      "SpaceX has signaled interest in expanding wireless services through Starlink Mobile as a potential competitor to Verizon and AT&T; analysts speculate failed retail deals could prompt acquisition of carriers like T-Mobile."
+    ],
+    "title": "Musk denies WSJ report that SpaceX showed AI handset prototype before IPO",
+    "topic": "SpaceX",
+    "topic_full": "SpaceX · United States"
+  },
+  {
+    "article_path": "/article/woman-survives-1-500-foot-fall-while-climbing-california-volcano",
+    "article_url": "https://ground.news/article/woman-survives-1-500-foot-fall-while-climbing-california-volcano",
+    "bias": [
+      "Left-Leaning coverage frames the story as a dramatic but reassuring rescue, using phrases like “tumbles” and “in good spirits” to humanize the woman and spotlight the complex airlift, while right-leaning coverage turns the same fall into a more sensational cautionary tale, stressing “novice,” “baffled,” and “virtually unharmed” to amplify surprise and implied recklessness.",
+      "The biggest dividing line is whether her experience level and the improbability of survival are foregrounded; the left de-emphasizes blame, the right spotlights it.",
+      "Both sides agree on the 1,500-foot fall and rescue, but the framing reflects broader differences in tone: empathy and ordeal versus shock and suspicion."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 63.0,
+    "error": null,
+    "left_pct": 16.0,
+    "location": "California",
+    "right_pct": 21.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, June 28, 2026, a 31-year-old woman survived a 1,500-foot fall while climbing the Left of Heart variation of the Avalanche Gulch route on Mount Shasta in Northern California.",
+      "The climber was part of a group of three novice climbers ascending steep, high-altitude terrain when she fell from around 13,000 feet to approximately 11,500 feet before coming to rest on the mountain.",
+      "U.S. Forest Service rangers found the hiker alert and \"in good spirits,\" despite suffering a suspected fractured ankle and \"additional injuries consistent with the significant fall,\" the agency said.",
+      "Because cloud cover restricted helicopter access, rangers hiked to the site, packaged the woman in a rescue litter, and lowered her to Lake Helen for extraction by California Highway Patrol at around 5:30 p.m.",
+      "The Forest Service warned that Mount Shasta is a \"high-altitude mountaineering environment, not a hike,\" urging prospective climbers to \"be honest about your experience and physical conditioning\" before attempting the summit."
+    ],
+    "title": "Woman rescued after surviving 1,500-foot drop during Mt. Shasta climb",
+    "topic": "Avalanche",
+    "topic_full": "Avalanche · California"
+  },
+  {
+    "article_path": "/article/israeli-forces-arrest-at-least-20-palestinians-in-west-bank-raids",
+    "article_url": "https://ground.news/article/israeli-forces-arrest-at-least-20-palestinians-in-west-bank-raids",
+    "bias": [
+      "Left-Leaning coverage frames the raids as a broader pattern of Israeli power in the “occupied West Bank,” centering Palestinian women, named detainees, and multiple cities to stress civilian harm; right-leaning coverage shifts toward scale and security, adding the “20” arrests, a journalist, and the “more than 24,000” detainee total to portray a widening detention campaign, with phrases like “increasingly targeted” carrying a sharper alarm.",
+      "The dividing lines are the same raid and the same women, but one side highlights human impact while the other emphasizes accumulation and broader implications.",
+      "Both still converge on the core fact of raids and detentions, reflecting the deeper territorial and political conflict beneath the wording."
+    ],
+    "bias_bar_text": "Left 67% 11% R 22%",
+    "center_pct": 11.0,
+    "error": null,
+    "left_pct": 67.0,
+    "location": null,
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Israeli forces arrested five Palestinian women and journalist Hassan Abdel Jawad during raids across the West Bank, including Hebron, Ramallah, Nablus, and Bethlehem.",
+      "Israeli authorities have sharply escalated arrests since the Gaza conflict began in October 2023, according to the Palestinian Prisoner's Society, targeting different sections of Palestinian society.",
+      "Relatives of Itaf Badr and Maiser Al-Faqih report remaining unaware of detention reasons; forces took Badr from her Hebron home in the dead of night, according to Abdelrahman.",
+      "Many detainees face imprisonment under Israel 's administrative detention policy, which allows renewable six-month periods without formal charges; the military referred inquiries to the Border Police.",
+      "Abdullah Al-Zaghari, head of the Palestinian Prisoners Club, said gender is no longer a distinguishing factor in targeting, as the total number of Palestinian women held in Israeli prisons has reached 99."
+    ],
+    "title": "Israeli Forces Detain Palestinian Women in West Bank Raids",
+    "topic": null,
+    "topic_full": null
   },
   {
     "article_path": "/article/massie-bill-on-israel-funding-splits-democrats-never-seen-anything-like-it",
     "article_url": "https://ground.news/article/massie-bill-on-israel-funding-splits-democrats-never-seen-anything-like-it",
     "bias": [
-      "Left-Leaning coverage frames the fight as a moral intraparty reckoning, stressing an “intense” private meeting, “poorly drafted” language, and accusations like “war crimes” and “helped drag America into war,” while right-leaning coverage turns the same episode into a tale of Democratic chaos, using phrases like “circular firing squad,” “triggers,” “agita,” and “leftward drift” to spotlight dysfunction and ideological slippage.",
-      "The $3 billion-plus aid cut is treated by the left as a principled break with Netanyahu, but by the right as a risky move with “broader consequences.” Both sides center Israel aid and Democratic division, yet they diverge sharply on whether the story is about conscience and accountability or partisan self-destruction."
+      "Left-Leaning coverage frames the story as a serious anti-war, anti-aid push, spotlighting “cut off billions,” “intense” meetings, and Greg Casar’s hard-edged accusations like “war crimes” and “drag America into war with Iran.” Right-leaning coverage instead turns the same split into a partisan spectacle, using terms like “triggers,” “circular firing squad,” “agita,” and “rogue Republican lawmaker” to stress Democratic chaos and warn of “broader consequences.” The main dividing line is whether the vote is a moral rebuke of Israel policy or a self-destructive internal fight; both sides agree Democrats are divided and that aid to Israel is the flashpoint, but they assign radically different meaning to that fracture."
     ],
     "bias_bar_text": null,
-    "center_pct": 8.0,
+    "center_pct": null,
     "error": null,
-    "left_pct": 17.0,
-    "location": "United States",
-    "right_pct": 75.0,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
     "status": "ok",
     "summary": [
       "Rep. Thomas Massie proposed an amendment to cut $3.3 billion in U.S. military aid to Israel from the 2027 State Department spending bill, causing division among House Democrats.",
@@ -480,150 +778,6 @@
       "The amendment is scheduled for a floor vote with significant debate expected amid ongoing tensions within both parties over U.S. support for Israel."
     ],
     "title": "Massie bill on Israel funding splits Democrats: ‘Never seen anything like it’",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/jessica-killin-wins-democratic-nomination-for-us-house-in-colorados-5th-congressional-district_c1be52",
-    "article_url": "https://ground.news/article/jessica-killin-wins-democratic-nomination-for-us-house-in-colorados-5th-congressional-district_c1be52",
-    "bias": [
-      "Left-Leaning coverage frames Killin’s primary win as potentially historic, stressing that District 5 has “never elected a Democrat” and spotlighting her Army service and Emhoff role as qualifications, with procedural details like the AP call and Crank running unopposed.",
-      "Right-Leaning coverage instead foregrounds partisan and insider cues, using language like “ex-talk show host” and “former chief advisor to Kamala Harris’ husband” to cast the race as a personality-and-connection contest.",
-      "Center coverage stays plainer with “wins” or “claims victory.” Both sides agree on the nomination result and November showdown, but diverge on whether the story is momentum or political branding."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 31.0,
-    "error": null,
-    "left_pct": 46.0,
-    "location": "Colorado",
-    "right_pct": 23.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Jessica Killin, an Army veteran and former chief of staff to second gentleman Doug Emhoff, won the Democratic primary in Colorado 's 5th Congressional District, defeating Joe Reagan by 26 percentage points.",
-      "The Democratic Congressional Campaign Committee added the 5th District to its 'districts in play' list in February, placing Killin in its red-to-blue program as El Paso County trends leftward.",
-      "Killin led Reagan with 63% to 37% based on early returns and has amassed about $1.4 million in the bank as of June 10, leveraging her national political network.",
-      "She advances to the November general election against Republican U.S. Rep. Jeff Crank, who ran unopposed for the nomination; national Democrats reserved TV ad time in the Colorado Springs market.",
-      "Killin attempts to become the first Democrat to represent the 5th District in five decades, as El Paso County margins have shrunk from 31 percentage points in 2016 to 14 in 2024."
-    ],
-    "title": "Jessica Killin wins Democratic nomination for U.S. House in Colorado's 5th Congressional District",
-    "topic": "Colorado Politics",
-    "topic_full": "Colorado Politics · Colorado"
-  },
-  {
-    "article_path": "/article/manny-rutinel-defeats-shannon-bird-in-democratic-primary-in-colorados-8th-congressional-district_abf6af",
-    "article_url": "https://ground.news/article/manny-rutinel-defeats-shannon-bird-in-democratic-primary-in-colorados-8th-congressional-district_abf6af",
-    "bias": [
-      "Left-Leaning coverage frames Rutinel’s primary win as a “progressive” victory over the Democratic establishment, spotlighting Latino voters and the district’s Hispanic population as key to the general election; right-leaning coverage shifts to conflict, using cues like “bitter,” “tacked more progressive,” and especially “Mamdani comparisons” to cast the same result as ideologically fraught and nationally risky.",
-      "The vote margin and AP call are shared ground, but the right leans on granular numbers to stress competitiveness, while the left treats them as proof of momentum.",
-      "Both agree the race is pivotal, yet they read its stakes through broader party, cultural, and ideological divides."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 40.0,
-    "error": null,
-    "left_pct": 40.0,
-    "location": "Colorado",
-    "right_pct": 20.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, State Representative Manny Rutinel defeated Shannon Bird in the Democratic primary for Colorado's 8th Congressional District, setting up a November showdown against Representative Gabe Evans.",
-      "Rutinel ran as the progressive candidate focusing on immigration and economic issues, while Bird pitched herself as a pragmatic Democrat; both candidates shared similar backgrounds as children of single mothers.",
-      "Outside groups tied to tech industry leaders spent $5.5 million on advertisements supporting Rutinel, while groups focused on reproductive rights spent about $1.7 million backing Bird in the primary.",
-      "\"Unlike Gabe Evans, Manny will fight to protect our freedoms,\" Bird said, urging unity to flip the House as the race in Denver's northern suburbs could decide control.",
-      "The 8th District stretches across parts of Adams, Larimer, and Weld counties and is Colorado's most Latino congressional district at 40% Latino, positioning it as one of the country's top toss-up races."
-    ],
-    "title": "Manny Rutinel defeats Shannon Bird in Democratic primary in Colorado’s 8th Congressional District",
-    "topic": "Colorado Politics",
-    "topic_full": "Colorado Politics · Colorado"
-  },
-  {
-    "article_path": "/article/congressman-jeff-hurd-fends-off-ron-hanks-republican-primary-challenge-in-3rd-congressional-district_1b0b67",
-    "article_url": "https://ground.news/article/congressman-jeff-hurd-fends-off-ron-hanks-republican-primary-challenge-in-3rd-congressional-district_1b0b67",
-    "bias": [
-      "Left-Leaning coverage frames Hurd’s win as an incumbent “fending off” a “more conservative” challenger, stressing the margin and the defensive posture of the race; right-leaning coverage turns the same result into a story of a “Trump-backed” incumbent who “survives” a “right-wing” challenge amid “endorsement drama.” The sharp dividing line is Trump’s earlier endorsement reversal, which the right foregrounds and the left largely de-emphasizes, while center coverage adds vote totals, the AP call, and the Democratic matchup.",
-      "Both sides agree Hurd won and Hanks lost, but they split over whether the event signals intra-GOP strain or routine party strength."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 16.0,
-    "location": "Colorado",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Republican Rep. Jeff Hurd won Colorado's 3rd Congressional District GOP primary, defeating far-right challenger Ron Hanks with approximately 68% of the vote according to preliminary tallies.",
-      "Hanks launched his campaign in April to challenge Hurd from the right, criticizing the incumbent's February vote against President Donald Trump's tariffs and other breaks with the Republican party .",
-      "Campaign finance records reveal a stark resource disparity: Hurd raised over $3.2 million and spent over $1.6 million for his reelection, while Hanks raised over $11,600 with $9,240 in loans and spent over $10,700.",
-      "Hurd advances to the November general election, where he will face Democrat Dwayne Romero, who won the Democratic primary by defeating businessman Alex Kelloff with 55% of the vote.",
-      "Although Colorado's 3rd District historically leans Republican and hasn't elected a Democrat since 2011, recent elections have narrowed margins, positioning Hurd's pragmatic legislative record against Romero's platform in a race strategists view as competitive."
-    ],
-    "title": "Congressman Jeff Hurd fends off Ron Hanks’ Republican primary challenge in 3rd Congressional District",
-    "topic": "Colorado Politics",
-    "topic_full": "Colorado Politics · Colorado"
-  },
-  {
-    "article_path": "/article/sen-john-hickenlooper-wins-colorado-democratic-senate-primary-over-progressive-challenger_2faabe",
-    "article_url": "https://ground.news/article/sen-john-hickenlooper-wins-colorado-democratic-senate-primary-over-progressive-challenger_2faabe",
-    "bias": [
-      "Left-Leaning coverage treats Hickenlooper’s win as a straightforward primary result, noting the “progressive challenger” but de-emphasizing larger intraparty drama; the right-leaning framing turns it into a rebuke of the “far-left,” using pointed phrases like “speed bump,” “setback,” and “veteran Democrat” to suggest progressive momentum stumbled.",
-      "The center adds procedural detail—AP’s 57% lead and the race call—while also emphasizing the contest from the left.",
-      "The key divide is whether Gonzales’s challenge is a routine intraparty race or a symptom of broader ideological struggle, though both sides still agree Hickenlooper advances to face Mark Baisley."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 49.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": "Colorado",
-    "right_pct": 34.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, U.S. Sen. John Hickenlooper won Colorado's Democratic Senate primary, defeating state Sen. Julie Gonzales with 57% of the vote as called by The Associated Press at 7:38 p.m.",
-      "Colorado's 2.3 million unaffiliated voters, who outnumber registered Democrats and Republicans , historically favor centrist candidates like Hickenlooper over progressive challengers.",
-      "Gonzales, a Yale University graduate and community organizer, campaigned as a progressive while Hickenlooper secured support from the League of Conservation Voters. Gonzales raised only a tenth of Hickenlooper's campaign finances, roughly $870,000 versus around $7.7 million.",
-      "Hickenlooper will face Mark Baisley, the de facto Colorado Republican nominee, in the November general election after the GOP failed to field any other competitors for the Senate race.",
-      "The primary revealed a sharp ideological divide: Hickenlooper opposed \"Medicare for All\" during his 2020 presidential run, a policy Gonzales champions. This contrast defined the race between the incumbent centrist and the progressive challenger."
-    ],
-    "title": "Sen. John Hickenlooper wins Colorado Democratic Senate primary over progressive challenger",
-    "topic": "Colorado Politics",
-    "topic_full": "Colorado Politics · Colorado"
-  },
-  {
-    "article_path": "/article/sen-rand-paul-if-youre-upset-with-birthright-ruling-push-your-senator-on-my-constitutional-amendment",
-    "article_url": "https://ground.news/article/sen-rand-paul-if-youre-upset-with-birthright-ruling-push-your-senator-on-my-constitutional-amendment",
-    "bias": [
-      "Left-Leaning coverage frames the ruling as a constitutional alarm, using phrases like “on life support,” “does not mean what it says,” and “battle is far from over” to stress erosion and looming threat; right-leaning coverage recasts the same decision as momentum, with words like “reignites,” “fix,” and “roadmap” portraying a GOP opportunity to curb birthright citizenship , especially for children of “illegal aliens.” The clearest dividing line is interpretation of Kavanaugh: one side sees a path to “end” a protected right, the other a chance to correct immigration policy.",
-      "Both agree Republicans are preparing amendments, but they diverge on whether that signals crisis or reform."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 16.0,
-    "error": null,
-    "left_pct": 26.0,
-    "location": "United States",
-    "right_pct": 58.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, the Supreme Court ruled 6-3 to uphold the more than 150-year-old constitutional guarantee of birthright citizenship , striking down President Donald Trump's executive order that sought to restrict the right for children of undocumented or temporary residents.",
-      "Shortly after taking office, Trump signed an executive order to deny birthright status to children of immigrants on temporary visas or in the country illegally; the order faced numerous legal challenges, with multiple judges blocking its implementation over the last year.",
-      "Following the ruling, House Speaker Mike Johnson and Sen. Mike Lee immediately called for a constitutional amendment to end birthright citizenship. Johnson acknowledged the process is a \"big challenge,\" requiring two-thirds of both chambers of Congress and three-fourths of the states.",
-      "GOP members proposed alternative legislative paths, such as the SAFE KIDS Act, to curb birthright citizenship. Trump wrote on Truth Social that \"no long and unwieldy Constitutional Amendment is necessary,\" urging Congress to act immediately through standard legislation.",
-      "Immigrant rights groups, including the Legal Defense Fund, celebrated the ruling as a victory for the Fourteenth Amendment while warning the fight continues. Sen. Alex Padilla stated, \"we cannot rest,\" citing ongoing efforts to subvert these constitutional protections."
-    ],
-    "title": "GOP figures break with Trump on birthright ruling, argue constitutional amendment necessary",
-    "topic": "Birthright Citizenship",
-    "topic_full": "Birthright Citizenship · United States"
-  },
-  {
-    "article_path": "/article/court-temporarily-freezes-rabellos-appointment-as-state-comptroller-pending-future-ruling_aa5de5",
-    "article_url": "https://ground.news/article/court-temporarily-freezes-rabellos-appointment-as-state-comptroller-pending-future-ruling_aa5de5",
-    "bias": null,
-    "bias_bar_text": "Left 67% Center 33%",
-    "center_pct": 33.0,
-    "error": "Message: \n",
-    "left_pct": 67.0,
-    "location": null,
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Court temporarily freezes Rabello's appointment as state comptroller, pending future ruling",
     "topic": null,
     "topic_full": null
   },
@@ -644,34 +798,30 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/new-york-woman-charged-with-funding-palestine-islamic-jihad_189620",
-    "article_url": "https://ground.news/article/new-york-woman-charged-with-funding-palestine-islamic-jihad_189620",
-    "bias": [
-      "Left and center coverage stay procedural, stressing that a 37-year-old Irondequoit woman was charged after allegedly sending about $30,000 in 80 crypto transfers to a designated group, while right-leaning coverage turns the case into a louder morality play, foregrounding “EXCLUSIVE,” “terror group,” “funneling,” and the alleged “every day were Oct. 7” remark.",
-      "That added language sharpens a punitive, anti-terror tone and elevates ideological condemnation over the charge itself, with even “President Trump’s DOJ” or “radical extremist” framing the arrest as a political win.",
-      "Both sides agree on the criminal allegation, but they diverge on whether the story is mainly a federal case or a broader battle over extremism and Israel-Gaza politics ."
-    ],
-    "bias_bar_text": "8% Center 30% Right 62%",
-    "center_pct": 30.0,
+    "article_path": "/article/china-is-trying-to-take-control-over-panama-canal-claims-trump",
+    "article_url": "https://ground.news/article/china-is-trying-to-take-control-over-panama-canal-claims-trump",
+    "bias": null,
+    "bias_bar_text": "8% Center 42% Right 50%",
+    "center_pct": 42.0,
     "error": null,
     "left_pct": 8.0,
     "location": null,
-    "right_pct": 62.0,
-    "status": "ok",
+    "right_pct": 50.0,
+    "status": "no_change",
     "summary": [
-      "On Tuesday, federal authorities arrested Catherine Beth Washburn, 37, of Irondequoit, New York, charging her with attempting to provide material support to the Palestine Islamic Jihad, a designated foreign terrorist organization.",
-      "Washburn led the Direct Action Movement for Palestinian Liberation , a group formed after the October 7, 2023, Hamas attacks on Israel, which prosecutors say rejects peaceful protest in favor of \"direct action.\"",
-      "Financial records show Washburn made approximately 80 cryptocurrency transfers totaling $30,116 to an account used by a Gaza-based fighter, according to the FBI 's Joint Terrorism Task Force.",
-      "Before U.S. Magistrate Judge Mark Pederson on Tuesday, Washburn made her initial court appearance; she faces up to 20 years in federal prison and a $250,000 fine if convicted.",
-      "U.S. Attorney Michael DiGiacomo said Washburn went to \"great lengths\" to finance violence, driven by \"her self-described hate of Israel and Jewish people,\" underscoring federal commitment to stopping terror funding."
+      "On Wednesday, President Donald Trump criticized the historical transfer of the Panama Canal at the Theodore Roosevelt Presidential Library in Medora, North Dakota, vowing to prevent China from gaining control of the waterway.",
+      "Trump's remarks referenced the 1977 Torrijos-Carter Treaties, which mandated transfer of the waterway to Panama; the country assumed full control in 1999.",
+      "The Panama Canal handles about 40% of United States container traffic, equating to over $270 billion in annual cargo; Trump claimed Panama raised transit prices four times after assuming control.",
+      "Regarding potential Chinese influence, Trump asserted, \"Now China's trying to take over the Panama Canal, and we're not going to let that happen.\" The statement reflects his administration's stance on foreign control.",
+      "The 51-mile canal was built and initially managed by the United States. Following the signing of the 1977 Torrijos-Carter Treaties, a phased transition took place, culminating in Panama assuming full, sovereign control and ownership of the waterway in late 1999."
     ],
-    "title": "New York Woman Charged with Funding Palestine Islamic Jihad",
+    "title": "Trump says the US will not let China take over Panama Canal",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/sheridan-gormans-mother-delivers-emotional-testimony-on-capitol-hill",
-    "article_url": "https://ground.news/article/sheridan-gormans-mother-delivers-emotional-testimony-on-capitol-hill",
+    "article_path": "/article/walz-minnesota-board-of-pardons-clears-convicted-illegal-alien-child-sex-offender-facing-deportation_b24abc",
+    "article_url": "https://ground.news/article/walz-minnesota-board-of-pardons-clears-convicted-illegal-alien-child-sex-offender-facing-deportation_b24abc",
     "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
@@ -681,132 +831,24 @@
     "right_pct": null,
     "status": "fail",
     "summary": null,
-    "title": "Sheridan Gorman's mother delivers emotional testimony on Capitol Hill",
+    "title": "Tim Walz pardons illegal migrant convicted of sexually assaulting 10-year-old girl",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/as-war-stalls-putin-concedes-he-never-cut-a-deal-with-trump-in-alaska_70310a",
-    "article_url": "https://ground.news/article/as-war-stalls-putin-concedes-he-never-cut-a-deal-with-trump-in-alaska_70310a",
-    "bias": [
-      "Left-Leaning coverage turns Putin’s admission into a political takedown, using loaded phrases like “failure,” “blows up,” and “big Alaska win” to portray Trump as embarrassed and Kremlin messaging as unraveling; it also de-emphasized broader battlefield context in favor of Trump-specific damage.",
-      "Right-Leaning coverage is far cooler, framing the story as simply “no deal” or “no agreement,” while briefly invoking Rubio to interpret the absence of a breakthrough.",
-      "Center-Leaning coverage sits between them, stressing a stalled war and “maximalist terms.” All sides agree the Alaska meeting produced no agreement on Ukraine, but they diverge on whether that means humiliation, stalemate, or mere clarification."
-    ],
+    "article_path": "/article/analysis-trump-embraces-great-equivocator-role-sending-mixed-signals-that-vex-markets-and-allies",
+    "article_url": "https://ground.news/article/analysis-trump-embraces-great-equivocator-role-sending-mixed-signals-that-vex-markets-and-allies",
+    "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
-    "error": null,
+    "error": "Message: \n",
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "Putin conceded he never cut a deal with Trump to end the war in Ukraine during an August meeting in Anchorage.",
-      "Rubio pushed back, stating that if there had been an agreement, the war would have ended.",
-      "Putin revealed Ukraine had offered proposals to stop fighting in certain regions, but dismissed it as a distraction."
-    ],
-    "title": "Putin admits no agreement was reached with Trump to end Ukraine war",
+    "status": "fail",
+    "summary": null,
+    "title": "Trump Takes Mixed Approach on Iran Deal and Nuclear Demands",
     "topic": null,
     "topic_full": null
-  },
-  {
-    "article_path": "/article/congress-to-vote-on-new-lebanon-war-powers-resolution-as-israels-occupation-threatens-to-blow-up-iran-us-peace-deal",
-    "article_url": "https://ground.news/article/congress-to-vote-on-new-lebanon-war-powers-resolution-as-israels-occupation-threatens-to-blow-up-iran-us-peace-deal",
-    "bias": [
-      "Left-Leaning coverage frames the vote as a broader anti-war shift, stressing that Democrats “overwhelmingly oppose” U.S. involvement and even “help GOP kill” the measure, while right-leaning coverage turns it into a partisan rebuke of Tlaib, using sharper language like “crush,” “lopsided,” and “failed” to spotlight defeat and personalize her “anger.” The key dividing lines are whether the resolution is portrayed as resisting “Israel’s war on Lebanon ” or as an unnecessary bid to block U.S. support for “Israeli operations” amid claims no combat troops are engaged.",
-      "Both sides note the 189-235 outcome, but they read its meaning through opposing ideological lenses."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 20.0,
-    "error": null,
-    "left_pct": 13.0,
-    "location": "United States",
-    "right_pct": 67.0,
-    "status": "ok",
-    "summary": [
-      "The House of Representatives voted 225-189 to reject Rep. Rashida Tlaib 's resolution aiming to bar U.S. forces from participating in hostilities in Lebanon, with 22 Democrats joining most Republicans against it.",
-      "U.S. military personnel are currently not engaged in combat in Lebanon but are training the Lebanese Armed Forces, which are involved in fighting Hezbollah militants.",
-      "Rep. Rashida Tlaib criticized Israel's military actions in Lebanon, calling it ethnic cleansing, while opponents argued that the resolution could undermine U.S. support for Lebanese forces combating Hezbollah.",
-      "Supporters said the resolution would keep the U.S. out of an unnecessary war, while opponents claimed it was unnecessary since no active combat operations by U.S. forces are occurring in Lebanon."
-    ],
-    "title": "House Rejects Lebanon War Powers Resolution",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/fda-lets-philip-morris-market-zyn-nicotine-pouches-as-less-harmful-than-cigarettes",
-    "article_url": "https://ground.news/article/fda-lets-philip-morris-market-zyn-nicotine-pouches-as-less-harmful-than-cigarettes",
-    "bias": [
-      "Left-Leaning coverage frames the FDA move as a public- health tradeoff, pairing “safer than cigarettes” with concerns about “youth use and addiction” and, in some cases, the broader expansion of nicotine access under Trump; right-leaning coverage instead spotlights a pro-market win, using phrases like “reduced-risk claims,” “first nicotine pouch product,” and “can market” to cast the same decision as a milestone for consumer choice and harm reduction.",
-      "The sharpest dividing line is whether the ruling is treated as a cautionary regulatory tweak or a historic green light, while both sides still converge on the core fact that the FDA allowed modified-risk marketing rather than declaring Zyn safe."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 73.0,
-    "error": null,
-    "left_pct": 15.0,
-    "location": "United States",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, the Food and Drug Administration authorized Philip Morris-owned Zyn nicotine pouches to be marketed as posing \"lower risk of mouth cancer, heart disease, lung cancer, stroke, emphysema, and chronic bronchitis\" than cigarettes.",
-      "This decision follows heavy lobbying from tobacco companies for a clearer authorization process, marking the first time the FDA granted modified-risk status to nicotine pouches following robust scientific review.",
-      "Extensive data showed a majority of adult users reduced cigarette consumption after starting Zyn, with over half reporting no cigarette use in the past 30 days.",
-      "The American Lung Association called the move \"appalling\", expressing deep concern that flavored nicotine pouches attract youth and are not approved as products to help people quit.",
-      "Swedish Match USA must monitor consumer risk perceptions for five years, as regulators may revoke the modified-risk orders if evidence shows significant increases in youth uptake."
-    ],
-    "title": "FDA allows Zyn pouches to be marketed as less harmful than cigarettes",
-    "topic": "Health",
-    "topic_full": "Health · United States"
-  },
-  {
-    "article_path": "/article/us-military-deploys-over-900-personnel-to-venezuela-for-earthquake-response",
-    "article_url": "https://ground.news/article/us-military-deploys-over-900-personnel-to-venezuela-for-earthquake-response",
-    "bias": [
-      "Left-Leaning framing is de-emphasized here, while the center presents the deployment as humanitarian relief plus “improve military ties” and a “robust footprint,” stressing scale and diplomacy.",
-      "Right-Leaning coverage also highlights relief and the “more than 900” personnel, but adds sharper geopolitical context: phrases like “offensive operation,” “breach Venezuela’s defenses,” and “deadly earthquakes” recast the mission as part of a broader U.S. intervention pattern.",
-      "The key divide is whether the deployment reads as crisis assistance or strategic power projection, though both sides converge on the basic fact of U.S. forces supporting disaster response."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 40.0,
-    "error": null,
-    "left_pct": 13.0,
-    "location": "Venezuela",
-    "right_pct": 47.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, July 1, 2026, the United States maintained over 900 personnel in Venezuela, coordinating with interim authorities following the pair of earthquakes that struck on June 24.",
-      "Interim authorities reported more than 1,700 deaths and 58,000 missing persons as of June 30, with the disaster occurring six months after United States forces captured Venezuelan leader Maduro and Cilia Flores.",
-      "Air Force C-17s and C-130 Hercules cargo aircraft transported personnel and supplies, while the USS Fort Lauderdale docked at the port in Guaira. The United States government committed more than $300 million to disaster relief.",
-      "Military forces repaired and reopened the airport in Caracas to manage international aid inflows. The State Department said, \"The key to any successful relief operation is coordinated logistics.\"",
-      "General Francis Donovan, head of Southern Command, confirmed U.S. forces are conducting search-and-rescue operations utilizing advanced technologies including MQ-9 Reaper drones and satellite imagery from the Space Force."
-    ],
-    "title": "US military deploys over 900 personnel to Venezuela for earthquake response",
-    "topic": "Earthquake",
-    "topic_full": "Earthquake · Venezuela"
-  },
-  {
-    "article_path": "/article/i-am-very-pleased-with-the-outcome-ut-reaches-tentative-19m-settlement-with-professor-fired-over-charlie-kirk-comments",
-    "article_url": "https://ground.news/article/i-am-very-pleased-with-the-outcome-ut-reaches-tentative-19m-settlement-with-professor-fired-over-charlie-kirk-comments",
-    "bias": [
-      "Left-Leaning coverage frames the story as a speech-and-employment dispute, stressing that the professor was “fired” for “criticizing” Charlie Kirk and spotlighting the $1.9M settlement as compensation for retaliation; center-leaning coverage stays more procedural, noting a “tentative” deal and the professor being “very pleased.” Right-leaning coverage shifts sharply toward condemnation, foregrounding loaded phrases like “disgusting psychopath” and even “celebrated a gruesome murder,” making the payout read like accountability rather than redress.",
-      "The key dividing line is whether the case is about protected expression or offensive anti-conservative rhetoric, though all sides agree on the settlement amount and no reinstatement."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": "Tennessee",
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, the Tennessee System Board approved a $1.9 million settlement with former assistant professor Tamar Shirinian, though the agreement does not restore her faculty position at the University.",
-      "Shirinian faced termination proceedings in September 2025 after writing a controversial Facebook post regarding the assassination of Charlie Kirk, sparking swift action by University officials.",
-      "Board Chair John Compton stated that \"any continuing litigation would require significant time and attention, and financial resources,\" while State officials must still approve the settlement to finalize it.",
-      "Robb Bigelow, Shirinian's attorney, called the agreement a \"mutually acceptable resolution\" that avoids the expense and stress of continued litigation while reflecting the seriousness of the issues.",
-      "The Foundation for Individual Rights and Expression is aware of 17 cases involving individuals penalized for comments about Kirk, with Jacob Gaba noting that at least seven have been settled."
-    ],
-    "title": "Settlement would pay $1.9M to ex-UT professor fired over Charlie Kirk post",
-    "topic": "Tennessee Politics",
-    "topic_full": "Tennessee Politics · Tennessee"
   }
 ]
