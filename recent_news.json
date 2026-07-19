@@ -1,123 +1,75 @@
 [
   {
-    "article_path": "/article/taylor-farms-recalls-iceberg-lettuce-amid-cyclosporiasis-outbreak_d6ea25",
-    "article_url": "https://ground.news/article/taylor-farms-recalls-iceberg-lettuce-amid-cyclosporiasis-outbreak_d6ea25",
-    "bias": null,
+    "article_path": "/article/two-us-service-members-killed-one-missing-following-iranian-strikes-in-jordan_6f71a1",
+    "article_url": "https://ground.news/article/two-us-service-members-killed-one-missing-following-iranian-strikes-in-jordan_6f71a1",
+    "bias": [
+      "Left-Leaning coverage frames the deaths as part of a wider, morally fraught conflict, using loaded phrases like “illegal war,” “swiftly punish,” and “rage” to spotlight U.S. retaliation and political culpability.",
+      "Right-Leaning coverage pushes a harder national-security narrative, stressing “deadliest,” “boil over,” “heroes,” and “failed policies” to portray Iran as an aggressive threat and U.S. troops as vulnerable defenders.",
+      "The key dividing line is emphasis: left outlets foreground escalation and consequences, right outlets foreground danger, sacrifice, and resolve.",
+      "Both sides agree on the casualties and Iranian attack, but they interpret the stakes through starkly different ideological lenses."
+    ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "no_change",
+    "status": "ok",
     "summary": [
-      "Taylor Farms has announced a voluntary, indefinite removal of all iceberg lettuce sourced from central Mexico from the U.S. market following a massive multistate parasite outbreak.",
-      "The decision follows a federal traceback investigation by the FDA and CDC, which linked the contaminated produce to a single independent farm in Mexico that accounts for less than 1% of the U.S. iceberg lettuce supply.",
-      "The contaminated shredded lettuce was heavily distributed to Taco Bell locations across Indiana, Kentucky, Michigan, Ohio, and West Virginia, prompting the fast-food chain to pull the ingredient nationwide and find a replacement within 24 hours.",
-      "The outbreak involves Cyclospora cayetanensis, a microscopic parasite that infects the bowels and causes severe, prolonged, and sometimes explosive watery diarrhea, stomach cramps, and fatigue.",
-      "Public health officials have confirmed at least 1,644 cases and nearly 100 hospitalizations across more than 30 states since May, with thousands of additional backlogged infections still under active investigation."
+      "On Saturday, the US military announced two American service members were killed Friday in an attack on a base in Jordan, marking the first US combat fatalities in the Middle East conflict since March.",
+      "CENTCOM conducted its seventh straight night of strikes early Saturday, targeting 'surveillance sites, military logistics infrastructure, underground weapons storage, and maritime capabilities' after a fragile ceasefire collapsed earlier this month.",
+      "Iranian strikes hit a water desalination plant and oil facility in Kuwait on Saturday, injuring several people and forcing power generation units offline in a nation dependent on desalination for 90% of its drinking water.",
+      "Iran's Health Ministry reported 50 people killed and more than 500 injured in US strikes over the past three weeks, while Deputy Foreign Minister Kazem Gharibabadi said Iran is 'no longer implementing' the interim peace deal.",
+      "Iranian Supreme Leader Ayatollah Mojtaba Khamenei warned of 'unforgettable lessons' if the US continues attacks, stating that President Donald Trump's signature on the Islamabad Memorandum was 'worthless and invalid."
     ],
     "title": "Source Icon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-alleges-chinese-election-meddling-in-primetime-address_4324bf",
-    "article_url": "https://ground.news/article/trump-alleges-chinese-election-meddling-in-primetime-address_4324bf",
+    "article_path": "/article/irans-supreme-leader-in-a-new-statement-warns-of-unforgettable-lessons-if-us-continues-attacks_70daf0",
+    "article_url": "https://ground.news/article/irans-supreme-leader-in-a-new-statement-warns-of-unforgettable-lessons-if-us-continues-attacks_70daf0",
+    "bias": [
+      "Left-Leaning coverage frames the story as a dangerous escalation driven by U.S. attacks, stressing the “fragile thread” of diplomacy, civilian infrastructure damage, and the Strait of Hormuz as a widening war zone; right-leaning coverage pivots harder into threat and security alarm, with phrases like “chilling warning,” “full-scale offensive,” and “annihilation” emphasizing danger to American bases, troops, and energy routes.",
+      "Both sides spotlight “unforgettable lessons” and Trump’s signature being “worthless,” but left outlets treat these as evidence of U.S. violations and collapse, while right outlets present them as ominous retaliation.",
+      "The shared focus on strikes, kills, and Hormuz exposes a deeper divide over whether the conflict is mainly diplomatic breakdown or regional menace."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 32.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": null,
+    "right_pct": 35.0,
+    "status": "ok",
+    "summary": [
+      "Iran 's Supreme Leader warned the US of 'unforgettable lessons' if attacks continue, calling President Trump's signature 'worthless and invalid'.",
+      "Iran suspended its commitments to a recent interim deal following escalated mutual strikes on military and infrastructure targets between the US and Iran.",
+      "US military confirmed two American troops killed and one missing after Iranian attacks on a base in Jordan.",
+      "Strikes by Iran and the US damaged vital infrastructure, including desalination plants crucial to Kuwait and Iran, increasing tensions and impacting thousands."
+    ],
+    "title": "Iran’s supreme leader in a new statement warns of ‘unforgettable lessons’ if US continues attacks",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/iran-says-it-is-suspending-commitments-to-interim-deal-with-us-as-the-two-exchange-attacks_217165",
+    "article_url": "https://ground.news/article/iran-says-it-is-suspending-commitments-to-interim-deal-with-us-as-the-two-exchange-attacks_217165",
     "bias": null,
     "bias_bar_text": null,
-    "center_pct": 42.0,
+    "center_pct": 22.0,
     "error": null,
-    "left_pct": 26.0,
+    "left_pct": 39.0,
     "location": null,
-    "right_pct": 32.0,
+    "right_pct": 39.0,
     "status": "no_change",
     "summary": [
-      "On Thursday, July 16, President Donald Trump used a primetime White House address to declassify intelligence documents alleging Chinese interference in the 2020 election while urging Congress to pass the SAVE America Act.",
-      "The White House alleged China illicitly acquired 220 million U.S. voter files beginning in 2020, characterizing the breach as \"the largest compromise of election data in history.\"",
-      "Data from the 2021 intelligence assessment found no evidence foreign actors altered technical election results, while experts noted the voter files were largely publicly available commercial information.",
-      "Major television networks declined to broadcast the address live, while the SAVE America Act remains stalled in the Senate, requiring 60 votes to overcome a Democratic filibuster.",
-      "Heading into the November midterms, critics warn the unsubstantiated claims could deepen public distrust in election legitimacy and serve as a pretext for unprecedented federal intervention in state election administration."
+      "On Saturday, July 18, 2026, Iran's Deputy Foreign Minister Kazem Gharibabadi announced that Tehran has suspended all commitments under the Islamabad Memorandum of Understanding, accusing the United States of violating the agreement.",
+      "Intensified military exchanges between Washington and Tehran prompted the suspension, following a seventh consecutive night of U.S. strikes targeting surveillance and military logistics infrastructure.",
+      "U.S. airstrikes destroyed a desalination plant in Iran, cutting water supplies to about 10,000 people, while Iranian strikes in Kuwait damaged power generation units and an oil facility.",
+      "Oil prices climbed above $86 a barrel as shipping through the Strait of Hormuz fell to a three-week low, while the Islamic Revolutionary Guard Corps warned nations hosting U.S. forces to be \"prepared to receive a corresponding response.\"",
+      "Mediation efforts remain stalled as the breakdown of the Islamabad agreement leaves future de-escalation uncertain, with the conflict increasingly focused on control of the vital Strait of Hormuz."
     ],
-    "title": "Trump Alleges Chinese Election Meddling in Primetime Address",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/white-house-teleprompter-operator-accused-of-making-100k-off-trump-speech-bets_4d706e",
-    "article_url": "https://ground.news/article/white-house-teleprompter-operator-accused-of-making-100k-off-trump-speech-bets_4d706e",
-    "bias": [
-      "Left-Leaning coverage frames the episode as a broader corruption story, stressing “insider trading,” “corrupt,” and “disgrace” to suggest prediction markets can be abused, while right-leaning coverage turns it into a sharper scandal, using words like “caught,” “disgrace,” and “personal jackpot” to dramatize the staffer’s alleged gains.",
-      "Center-Leaning pieces stay more procedural, emphasizing the CFTC probe, Kalshi’s referral, and the operator being on leave.",
-      "The key dividing line is whether the $100,000-plus betting haul is portrayed as systemic abuse or a single ethical breach; both sides agree on the investigation, unpaid leave, and Kalshi bets, but they diverge on the meaning of those facts."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 48.0,
-    "error": null,
-    "left_pct": 28.0,
-    "location": null,
-    "right_pct": 24.0,
-    "status": "ok",
-    "summary": [
-      "A longtime White House teleprompter operator has been placed on unpaid leave following federal allegations that he used advance knowledge of President Trump's speeches to make over $100,000 on online prediction markets.",
-      "Gabriel Perez, who has managed Trump's teleprompter since 2016, is under investigation by the Commodity Futures Trading Commission for utilizing draft speeches to place wagers on the platform Kalshi.",
-      "The bets targeted Kalshi’s \"Mentions\" market, where users wager on whether a public speaker will use specific words, phrases, or topics. Perez allegedly bet on more than a dozen addresses, including the State of the Union, a Davos summit speech, and a Medal of Honor ceremony.",
-      "Perez reportedly monitored and adjusted his bets in real time during live broadcasts, sometimes exiting positions early when Trump deviated from the prepared teleprompter text to go off-script.",
-      "The activity was flagged by Kalshi's internal surveillance team, which subsequently froze his account, secured roughly $90,000 to $100,000 in trading profits, and referred the case to federal regulators."
-    ],
-    "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/us-announces-new-25-tariffs-on-brazil-for-unfair-trade-practices_92cbbc",
-    "article_url": "https://ground.news/article/us-announces-new-25-tariffs-on-brazil-for-unfair-trade-practices_92cbbc",
-    "bias": [
-      "Left-Leaning coverage frames the 25% tariff as a politically charged, even “illegal” escalation, stressing “new round,” “tax,” and the administration’s “strong political component,” while right-leaning coverage treats it as a hard-edged, justified response to Brazil’s alleged “unfair trade practices,” “bad faith,” or “socialist-run” government—using combative words like “slaps” and “steep” to dramatize toughness.",
-      "The biggest dividing line is motive: left outlets foreground sovereignty and retaliation as defense, right outlets foreground leverage, discipline, and U.S. interests.",
-      "Center coverage stays more mechanical, emphasizing timing, exemptions, and Section 301.",
-      "All sides note Brazil’s reciprocity threat, but the ideological split turns the same move into either coercion or necessary pressure."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 19.0,
-    "location": null,
-    "right_pct": 28.0,
-    "status": "ok",
-    "summary": [
-      "The United States will impose a 25% tariff on most Brazilian imports starting July 22 due to alleged unfair trade practices found after a year-long Section 301 investigation.",
-      "The tariffs exclude key products like coffee, beef, aircraft parts, and rare earth minerals to avoid disrupting critical supply chains, while targeting items such as sugar, apparel, steel, and other Brazilian exports.",
-      "U.S. Trade Representative Jamieson Greer stated that negotiations with Brazil failed to resolve concerns, but the U.S. remains open to further talks if Brazil reforms its policies.",
-      "Brazil rejects the U.S. allegations of unfair trade practices and plans to challenge the tariffs through the World Trade Organization while invoking its Reciprocity Law to respond."
-    ],
-    "title": "US Announces New 25% Tariffs on Brazil for ‘Unfair’ Trade Practices",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/trump-says-ice-wont-halt-traffic-stops-after-recent-fatal-shootings_731ba0",
-    "article_url": "https://ground.news/article/trump-says-ice-wont-halt-traffic-stops-after-recent-fatal-shootings_731ba0",
-    "bias": [
-      "Left-Leaning coverage frames Trump’s move as a troubling contradiction, using sharper words like “undercutting,” “rejects,” and “not change a thing” to spotlight harm, accountability, and the “third killing” or broader fatality pattern; right-leaning coverage instead casts it as a decisive restoration of enforcement, with phrases like “reverses,” “resume,” “stand-down,” and “on notice” signaling urgency and suspicion toward the pause.",
-      "The key dividing line is whether ICE traffic stops are portrayed as a dangerous escalation or a “crime-fighting tool,” with right-side emphasis on “illegal immigrants” and left-side emphasis on public fear and violence.",
-      "Both sides agree Trump overrode the pause, but they read that clash through starkly different ideological lenses."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 44.0,
-    "error": null,
-    "left_pct": 34.0,
-    "location": null,
-    "right_pct": 22.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, July 15, 2026, President Donald Trump directed Immigration and Customs Enforcement to resume traffic stops, overturning a temporary suspension the Department of Homeland Security had imposed following two fatal shootings.",
-      "The suspension followed fatal shootings of 52-year-old Lorenzo Salgado Araujo in Houston on July 7 and 25-year-old Johan Sebastian Duran Guerrero in Biddeford, Maine, on July 13, both during ICE operations.",
-      "Agency officials acknowledged neither Salgado Araujo nor Guerrero was the intended target of the operations; agents lacked body cameras during both encounters, fueling demands for accountability.",
-      "White House border czar Tom Homan initially described the pause as a short-term review, but President Trump's public intervention forced a swift reversal less than 24 hours later.",
-      "Lawmakers including Maine Senator Susan Collins are demanding independent investigations into ICE traffic stops, a tactic linked to at least 10 deaths since the mass deportation campaign began in January 2025."
-    ],
-    "title": "Trump says ICE won't halt traffic stops after recent fatal shootings",
+    "title": "Iran says it is suspending commitments to interim deal with US as the two exchange attacks",
     "topic": null,
     "topic_full": null
   },
@@ -130,12 +82,12 @@
       "The key dividing line is whether the smoke dispute is a political overreaction or a justified response to negligence.",
       "Both sides agree on the cross-border smoke, the tariff threat, and the Carney call, but they split over its meaning."
     ],
-    "bias_bar_text": "Left 29% Center 42% Right 29%",
+    "bias_bar_text": null,
     "center_pct": 42.0,
     "error": null,
-    "left_pct": 29.0,
+    "left_pct": 28.0,
     "location": null,
-    "right_pct": 29.0,
+    "right_pct": 30.0,
     "status": "ok",
     "summary": [
       "On Friday, President Donald Trump threatened to add pollution costs to existing tariffs on Canadian goods, accusing Canada of \"Willful Negligence\" in forest management as wildfire smoke blankets the U.S. Midwest and Northeast.",
@@ -149,479 +101,532 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/mall-stabbing-suspect-charged-with-attempted-murder_10031f",
-    "article_url": "https://ground.news/article/mall-stabbing-suspect-charged-with-attempted-murder_10031f",
+    "article_path": "/article/taylor-farms-recalls-iceberg-lettuce-amid-cyclosporiasis-outbreak_d6ea25",
+    "article_url": "https://ground.news/article/taylor-farms-recalls-iceberg-lettuce-amid-cyclosporiasis-outbreak_d6ea25",
     "bias": [
-      "Left-Leaning coverage frames the stabbing as a politically tinged anti-Muslim attack, spotlighting terms like “white MAGA supporter,” “Scared for His Life,” and “ hate crime enhancement” to emphasize identity, community rescue, and recovery; right-leaning coverage instead amplifies the victim’s suffering with phrases like “because he was Muslim,” “vicious hate crime,” and “stabbed 15 times,” leaning into moral outrage and human impact.",
-      "The key dividing line is motive: the left foregrounds partisan extremism, while the right foregrounds religious persecution and brutality.",
-      "Both converge on religion-based targeting, formal charges, and serious injury, reflecting a broader split between political contextualization and victim-centered condemnation."
+      "Left-Leaning coverage frames the story as a consumer-safety and accountability issue, stressing the outbreak’s scale, federal warnings, and Taylor Farms as a “possible source of contamination,” while right-leaning coverage leans harder into crisis and disgust, using sharper phrases like “explosive diarrhea,” “parasite,” and “fresh produce giant” to heighten alarm and corporate culpability.",
+      "The key dividing line is whether the recall is portrayed as a public- health precaution under investigation or as a more sensational contamination episode; numbers and sourcing details are de-emphasized on the right, while the left foregrounds states affected and outbreak size.",
+      "Both sides agree on the recall and outbreak link, reflecting shared concern over food safety, but diverge in tone and ideological emphasis."
     ],
-    "bias_bar_text": "L 23% Center 54% R 23%",
-    "center_pct": 54.0,
+    "bias_bar_text": null,
+    "center_pct": 65.0,
     "error": null,
-    "left_pct": 23.0,
+    "left_pct": 24.0,
     "location": null,
-    "right_pct": 23.0,
+    "right_pct": 11.0,
     "status": "ok",
     "summary": [
-      "On Friday, Salt Lake County prosecutors charged Peter Michael Larsen with two counts of attempted aggravated murder after he allegedly stabbed Muslim mall worker Syed Sohail Uddin multiple times at Valley Fair Mall on Monday.",
-      "Larsen, who was on parole following a 2022 incident, told police he targeted the victim because of his religion, stating he wanted to be a \"catalyst\" to rid the country of Muslims.",
-      "Bystanders intervened to stop the stabbing after Larsen attacked the victim with a knife, and he also cut a second man who attempted to assist the victim.",
-      "Salt Lake County District Attorney Sim Gill filed notices for potential hate crime enhancements, noting the attack is \"alarming,\" while over $300,000 has been raised to support the hospitalized victim.",
-      "Rights advocates note rising Islamophobia in recent years, though Gill emphasized community resilience, stating the incident \"does not define who we are as a community and who we are as a nation."
+      "Taylor Farms has announced a voluntary, indefinite removal of all iceberg lettuce sourced from central Mexico from the U.S. market following a massive multistate parasite outbreak.",
+      "The decision follows a federal traceback investigation by the FDA and CDC, which linked the contaminated produce to a single independent farm in Mexico that accounts for less than 1% of the U.S. iceberg lettuce supply.",
+      "The contaminated shredded lettuce was heavily distributed to Taco Bell locations across Indiana, Kentucky, Michigan, Ohio, and West Virginia, prompting the fast-food chain to pull the ingredient nationwide and find a replacement within 24 hours.",
+      "The outbreak involves Cyclospora cayetanensis, a microscopic parasite that infects the bowels and causes severe, prolonged, and sometimes explosive watery diarrhea, stomach cramps, and fatigue.",
+      "Public health officials have confirmed at least 1,644 cases and nearly 100 hospitalizations across more than 30 states since May, with thousands of additional backlogged infections still under active investigation."
     ],
-    "title": "Prosecutors file attempted aggravated murder charges in stabbing of Muslim man in Utah",
+    "title": "Taylor Farms pulls iceberg lettuce from central Mexico linked to US parasite outbreak",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/gamestop-owns-nearly-10-of-ebay-sec-filing-shows",
-    "article_url": "https://ground.news/article/gamestop-owns-nearly-10-of-ebay-sec-filing-shows",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 100.0,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": "United States",
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "GameStop owns nearly 10% of eBay, SEC filing shows",
-    "topic": "GameStop",
-    "topic_full": "GameStop · United States"
+    "article_path": "/article/us-military-launches-new-airstrikes-to-respond-to-iran-for-deaths-of-us-troops_149201",
+    "article_url": "https://ground.news/article/us-military-launches-new-airstrikes-to-respond-to-iran-for-deaths-of-us-troops_149201",
+    "bias": [
+      "Left-Leaning coverage frames the strikes as a widening “escalation,” warning of “all-out war,” spillover, and even “revenge,” while right-leaning coverage recasts the same action as a justified, ordered response, using punchier terms like “unleashes,” “retaliatory,” “swiftly punish,” and “precision strikes.” The biggest dividing lines are whether the story is about regional collapse and civilian risk or about protecting U.S. troops and securing the Strait of Hormuz.",
+      "Figures like two killed service members and the ongoing multi-day campaign are shared, but the right foregrounds IRGC targets and Trump’s role; shared emphasis remains on retaliation and the conflict’s dangerous escalation."
+    ],
+    "bias_bar_text": "Left 34% Center 42% R 24%",
+    "center_pct": 42.0,
+    "error": null,
+    "left_pct": 34.0,
+    "location": null,
+    "right_pct": 24.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, the U.S. military launched an eighth consecutive night of airstrikes against Iran's Revolutionary Guard, aiming to \"swiftly punish\" the group following an attack in Jordan that killed two American service members.",
+      "Tensions escalated after Iran suspended commitments to an interim deal signed last month, with deputy foreign minister Kazem Gharibabadi telling state TV that Tehran is \"no longer implementing them.\"",
+      "U.S. Central Command reported that the strikes hit \"surveillance sites, military logistics infrastructure, underground weapons storage, and maritime capabilities,\" while Iranian state TV noted damage to an electricity and desalination plant in Hormozgan.",
+      "State-Run news agency IRNA reported the destruction of the Bonji desalination plant, cutting off water supplies to about 10,000 people and highlighting escalating civilian infrastructure damage.",
+      "Iran's supreme leader warned of \"unforgettable lessons\" if attacks continue, labeling President Donald Trump's signature \"worthless and invalid,\" while threatening the U.S. through the \"Axis of Resistance."
+    ],
+    "title": "US military launches new airstrikes to respond to Iran for deaths of US troops",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/trump-team-scrutinized-election-agency-over-2020-vote-before-firing-its-leaders",
-    "article_url": "https://ground.news/article/trump-team-scrutinized-election-agency-over-2020-vote-before-firing-its-leaders",
+    "article_path": "/article/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says_b26058",
+    "article_url": "https://ground.news/article/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says_b26058",
+    "bias": null,
+    "bias_bar_text": "L 14% Center 43% Right 43%",
+    "center_pct": 43.0,
+    "error": "Message: \n",
+    "left_pct": 14.0,
+    "location": null,
+    "right_pct": 43.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Samsung cuts US jobs, offers relocations ahead of HQ move: Reuters",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/cnbc-survey-finds-americans-more-pessimistic-on-economy-as-trump-approval-slips",
+    "article_url": "https://ground.news/article/cnbc-survey-finds-americans-more-pessimistic-on-economy-as-trump-approval-slips",
     "bias": [
-      "The left-leaning framing spotlights a “ White House ” pressure campaign, casting the episode as institutional scrutiny of election administration, while the right leans into “Trump team” and treats the same sequence as administrative oversight and personnel change.",
-      "Both use subdued but loaded terms like “scrutinized” and “firing,” yet the left’s tone feels more suspicion-laden, whereas the right is more procedural and restrained.",
-      "The key dividing line is how the 2020 vote is interpreted: as a democratic-norm concern versus a governance dispute.",
-      "Both sides still converge on the prolonged review, vetted replacements, and commissioners’ removal, underscoring a broader split over state power and election trust."
+      "Left-Leaning coverage frames the polling as proof that MAGA has “gone toxic,” stressing “majority” disapproval and midterm damage, while right-leaning coverage pivots to a counterframe: pessimism persists “despite” a “booming” stock market and “improving” inflation, suggesting sentiment is detached from conditions.",
+      "Center-Leaning pieces sit between them, foregrounding poll numbers—“all-time low,” “stuck in the 30s,” 38% approval, 60% disapproval—and institutional implications rather than culture-war heat.",
+      "Dividing lines hinge on MAGA, Trump blame, and whether weak approval signals political collapse or a perception gap.",
+      "Both sides agree Trump’s economy numbers are poor, but they portray that weakness through contrasting ideological lenses."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": "United States",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "Released Friday, the CNBC All-America Economic Survey finds 61% of the public pessimistic about the economy and future, with 60% disapproving of President Donald Trump 's handling of economic issues.",
+      "Jay Campbell, partner at Hart Research, notes that consumers still pay significantly more than two years ago, making \"When gas prices drop 50 cents for a month, that's just not enough to make up the difference.\"",
+      "In response to higher prices, 47% of the public report cutting back on essential items like food and medical care, up six points from April, while two-thirds are reducing non-essentials like eating out.",
+      "Self-Identified MAGA candidates face significant headwinds, with 57% of the public unlikely to support them this year as voters prioritize housing and food costs ahead of upcoming midterm elections.",
+      "Despite economic dissatisfaction, Republicans and Democrats remain \"locked into\" their parties, Micah Roberts, partner at Public Opinion Strategies, notes, with voters expecting things to get worse by a 41/29% margin."
+    ],
+    "title": "CNBC Survey Finds Americans More Pessimistic on Economy as Trump Approval Slips",
+    "topic": "Polls",
+    "topic_full": "Polls · United States"
+  },
+  {
+    "article_path": "/article/saquon-barkleys-residence-victim-of-home-invasion-chester-county-da-says_10c66f",
+    "article_url": "https://ground.news/article/saquon-barkleys-residence-victim-of-home-invasion-chester-county-da-says_10c66f",
+    "bias": [
+      "Left-Leaning coverage frames the story as a more severe “home invasion,” stressing violation and urgency, while right-leaning coverage leans into a cleaner crime-and-safety lens, calling Barkley an “Eagles star” and adding that suspects “fled” before police arrived; center coverage sits between them, sticking to “burglary,” “investigating,” and precise location details.",
+      "The tonal split is sharp: left uses a more charged label, right uses status words like “star,” and center stays restrained.",
+      "All sides agree on the core facts, but the differences reveal a broader divide between heightened personal-threat framing and straightforward public-safety reporting."
     ],
     "bias_bar_text": null,
     "center_pct": 50.0,
     "error": null,
+    "left_pct": 30.0,
+    "location": "Pennsylvania",
+    "right_pct": 20.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday morning, Tredyffrin Township Police responded to a reported burglary at the Malvern home of Philadelphia Eagles running back Saquon Barkley, arriving around 5 a.m. after suspects had already fled.",
+      "Barkley and his family were unharmed during the incident, Chester County District Attorney Christopher de Barrena-Sarobe confirmed, expressing relief that no injuries occurred.",
+      "Investigators are searching for a white SUV, possibly a GMC Yukon, connected to the break-in; Tredyffrin Township Police Capt. Tyler Moyer told The Inquirer that at least one person entered the residence.",
+      "Police reported no arrests have been announced and no similar criminal activity occurred in the area, indicating there is no ongoing threat to the community.",
+      "The Tredyffrin Township Police Department Detective Division is investigating with assistance from the Chester County District Attorney; anyone with information should contact Detective Sgt. Stephanie Bills."
+    ],
+    "title": "Eagles star Saquon Barkley's home burglarized, police say",
+    "topic": "Police",
+    "topic_full": "Police · Pennsylvania"
+  },
+  {
+    "article_path": "/article/nyc-mayor-mamdani-walks-back-firm-pledge-to-arrest-netanyahu_b9bbd5",
+    "article_url": "https://ground.news/article/nyc-mayor-mamdani-walks-back-firm-pledge-to-arrest-netanyahu_b9bbd5",
+    "bias": [
+      "Left-Leaning coverage frames Mamdani’s remarks as a justice-and-accountability move, stressing “war criminal,” “belongs in the Hague,” and even a broader critique of U.S. policy on Gaza; right-leaning coverage recasts the same story as a “threat” or “vow” to arrest Netanyahu, using sharper labels like “socialist” and pivoting to Mamdani’s priorities, such as “homelessness” and governance.",
+      "Center coverage sits between them, using hedges like “mulling” and “considers,” with more ICC/legal framing.",
+      "Both sides agree on the legal review, Netanyahu’s UN visit, and Israeli pushback, but they diverge sharply over whether this is accountability or provocation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 26.0,
+    "error": null,
     "left_pct": 25.0,
-    "location": "Washington",
-    "right_pct": 25.0,
+    "location": "New York",
+    "right_pct": 49.0,
     "status": "ok",
     "summary": [
-      "Last week, President Donald Trump fired the two Democratic commissioners of The Election Assistance Commission, leaving the four-member panel vacant after the lone Republican commissioner resigned.",
-      "According to documents reviewed by Reuters, the administration spent over a year scrutinizing the agency, questioning its handling of the 2020 election and vetting potential new leaders before the firings.",
-      "ODNI official Paul McNamara challenged the agency's 2020 election security assertions, questioning a \"rapid shift in policy\" regarding 2021 voting guidelines in correspondence reviewed by Reuters.",
-      "The White House vetted potential replacements including Patrice Johnson, suggested by attorney Cleta Mitchell, and Kurt Olsen, who worked to overturn 2020 election results.",
-      "In a speech on Thursday, President Trump vowed to fix alleged technical vulnerabilities before midterm elections, though Democrats argue these measures aim to restrict voter access."
+      "On Saturday, July 18, 2026, New York City Mayor Zohran Mamdani renewed his intent to enforce an International Criminal Court arrest warrant against Israeli Prime Minister Benjamin Netanyahu if the leader visits for the United Nations General Assembly.",
+      "The ICC issued warrants in November 2024 for Netanyahu and former Israeli Defense Minister Yoav Gallant, citing alleged war crimes; Mamdani previously campaigned on pledging to arrest the prime minister but is now consulting legal experts.",
+      "\"Whatever the law allows me to do in New York City, that's what we will do,\" Mamdani said, adding he is in \"an active conversation\" with the Law Department to determine his jurisdiction over foreign leaders.",
+      "Netanyahu has previously dismissed arrest threats, stating he would not be deterred from visiting; in a recent interview, the prime minister accused Mamdani of holding anti-American views and \"doesn't care\" about Israel's values.",
+      "Legal experts note the United States is not a party to the Rome Statute, meaning enforcing an ICC warrant would likely involve federal authorities rather than municipal ones, complicating any potential Netanyahu visit."
     ],
-    "title": "Trump team scrutinized election agency over 2020 vote before firing its leaders: Reuters",
-    "topic": "Republican Party",
-    "topic_full": "Republican Party · Washington"
+    "title": "Mamdani says exploring possible Netanyahu arrest during UN General Assembly visit",
+    "topic": "Zohran Mamdani",
+    "topic_full": "Zohran Mamdani · New York"
   },
   {
-    "article_path": "/article/federal-employees-can-download-tiktok-on-government-devices-doj-says",
-    "article_url": "https://ground.news/article/federal-employees-can-download-tiktok-on-government-devices-doj-says",
+    "article_path": "/article/social-media-influencers-andrew-and-tristan-tate-arrested-in-us-over-uk-police-investigation_a71db3",
+    "article_url": "https://ground.news/article/social-media-influencers-andrew-and-tristan-tate-arrested-in-us-over-uk-police-investigation_a71db3",
     "bias": [
-      "Left-Leaning coverage stays mostly bare-bones, simply noting the TikTok download policy shift, while the center leans on the DOJ’s legal interpretation and the “no longer applies” change, adding context about reduced security risk and prior restrictions.",
-      "The right frames the same move as restoration—“again” and “once again use”—and sharpens the stakes with “national security concerns,” “government devices,” and references to ByteDance and the new operating structure.",
-      "The dividing line is whether the change is a routine administrative update or a politically loaded reversal tied to security and state power; all sides agree the DOJ altered the rule."
+      "Left-Leaning coverage frames the arrest as part of a broader story about a “manosphere” figure tied to misogyny, anti-women, and even Trump-world proximity, using loaded labels like “pro-Trump,” “hypermasculine,” and “jailed” to cast suspicion.",
+      "Right-Leaning coverage is more procedural but still sharpened by words like “busted,” “controversial,” and “tables turn,” sometimes stressing timing before a boxing event or hinting at political overreach.",
+      "The center stays closest to legal developments, emphasizing the sealed warrant and extradition request.",
+      "Across all sides, the shared core is the Miami arrest and UK rape/trafficking allegations—revealing a divide more about ideological framing than the underlying facts."
     ],
     "bias_bar_text": null,
-    "center_pct": 60.0,
+    "center_pct": 45.0,
     "error": null,
-    "left_pct": 10.0,
-    "location": "United States",
-    "right_pct": 30.0,
+    "left_pct": 31.0,
+    "location": "Miami",
+    "right_pct": 24.0,
     "status": "ok",
     "summary": [
-      "On Friday, the Justice Department announced that federal employees may now download TikTok onto government devices, arguing the previous ban no longer applies following the app's restructuring.",
-      "A 2022 law initially banned the app over national security concerns regarding Beijing-based ByteDance, but a memorandum to President Donald Trump states the current TikTok USDS version does not pose risks.",
-      "American and global investors hold an 80.1% stake in TikTok USDS, while ByteDance retains 19.9%; the Justice Department added that this minority ownership \"makes no practical difference\" to security.",
-      "Individual federal agencies retain discretion to allow or restrict the app, as they can \"independently decide to ban the downloading of TikTok to government devices for workforce management reasons.\"",
-      "President Donald Trump opted not to enforce a 2024 law requiring divestment, facilitating the ownership deal; the platform serves about 200 million Americans, marking a significant policy shift."
+      "On Saturday, federal authorities arrested influencer brothers Andrew and Tristan Tate in Miami on an extradition request from the United Kingdom, according to the U.S. Marshals Service.",
+      "The brothers face rape and human trafficking charges in the United Kingdom for alleged abuse occurring between 2012 and 2015 near London, where they grew up.",
+      "Former professional kickboxers and dual British citizens, the influencers moved to Romania in 2016 and built a massive following by promoting luxury and unapologetic misogyny.",
+      "Their lawyers stated they deny the allegations; a 2022 arrest in Romania on similar charges did not proceed due to procedural irregularities.",
+      "The Associated Press reported the warrant remains sealed and specific charges were not immediately announced; the brothers await extradition proceedings to the United Kingdom."
     ],
-    "title": "DOJ Says Federal Employees May Use TikTok on Government Devices",
-    "topic": "TikTok",
-    "topic_full": "TikTok · United States"
+    "title": "Social Media Influencers Andrew and Tristan Tate Arrested in U.S. Over UK Police Investigation",
+    "topic": "Andrew Tate",
+    "topic_full": "Andrew Tate · Miami"
   },
   {
-    "article_path": "/article/trump-media-pitched-100-000-monthly-fee-for-fastest-feed-of-us-presidents-posts-report",
-    "article_url": "https://ground.news/article/trump-media-pitched-100-000-monthly-fee-for-fastest-feed-of-us-presidents-posts-report",
+    "article_path": "/article/top-us-prosecutor-will-not-dispute-doj-decision-to-drop-indian-tycoon-gautam-adanis-criminal-case",
+    "article_url": "https://ground.news/article/top-us-prosecutor-will-not-dispute-doj-decision-to-drop-indian-tycoon-gautam-adanis-criminal-case",
     "bias": [
-      "Left-Leaning coverage frames the $100,000-a-month Truth Social feed as a “cash grab” and “money-making scheme,” stressing “major ethical issues” and even scandal-like backlash, while right-leaning outlets recast it as a “money printing machine” and entrepreneurial “business model,” treating monetization as savvy rather than suspect.",
-      "The sharpest dividing line is whether Trump’s market-moving posts signal corruption or opportunity, with the left foregrounding “conflict of interest” and disgust, and the right downplaying outrage as overblown.",
-      "Both sides agree the posts can move markets and the price is steep, but their tone reveals a larger split over power, profit, and public ethics."
+      "Left-Leaning coverage frames the dismissal as part of “ongoing scrutiny” of a high-profile legal outcome, nudging readers toward skepticism about DOJ process, while right-leaning coverage emphasizes closure and authority, stressing that the prosecutor had “no basis to dispute” the move and foregrounding charged labels like “fraud and bribery,” “criminal case,” and “tycoon/billionaire.” The sharpest dividing line is how much background is supplied: the right highlights alleged bribes, the solar project, and the DOJ’s foreign-case rationale, whereas the left de-emphasizes those details.",
+      "Both sides agree the case was dropped, but they diverge on whether that signals accountability concerns or procedural finality."
     ],
     "bias_bar_text": null,
-    "center_pct": 35.0,
+    "center_pct": 37.0,
     "error": null,
-    "left_pct": 34.0,
-    "location": "United States",
-    "right_pct": 31.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, July 16, Trump Media & Technology Group unveiled \"Truth API,\" a paid data feed providing trading firms and banks \"the fastest\" access to posts on Truth Social.",
-      "The Financial Times reported on July 17 that TMTG has discussed charging investors as much as $100,000 a month for premium access, though Reuters could not independently verify the report.",
-      "A company spokesperson said the product delivers content from the 10 most influential accounts faster than standard push notifications, while The Donald J. Trump Revocable Trust holds about 41 per cent of TMTG stock.",
-      "Shares of TMTG pared most losses following the report, though the stock has fallen about 27 per cent this year amid competition from larger social media firms on Wall Street.",
-      "Trump previously used Truth Social to influence markets, such as on April 9, 2025, when he announced a 90 days pause on new tariffs, causing Wall Street indexes to turn sharply higher."
-    ],
-    "title": "Trump Media pitched $100,000 monthly fee for fastest feed of US president's posts: Report",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
-  },
-  {
-    "article_path": "/article/aipac-halts-fundraising-for-endorsed-house-democrats-who-opposed-israel-aid",
-    "article_url": "https://ground.news/article/aipac-halts-fundraising-for-endorsed-house-democrats-who-opposed-israel-aid",
-    "bias": [
-      "Left-Leaning coverage frames AIPAC ’s move as retaliation, using words like “drops” and spotlighting even the removal of Pelosi “plaudits,” while right-leaning coverage casts it as a deserved response to Democrats who “voted to end” or “cut off” Israel aid, often leaning on sharper phrases like “freeze out,” “slashed,” and “stand with Israel.” The center stays more procedural, emphasizing that fundraising was “halted” after a vote to cut billions in military aid.",
-      "The key dividing line is whether the vote is portrayed as principled policy dissent or as hostility toward an ally.",
-      "Both sides agree on the fundraising cutoff, but they diverge over its meaning and legitimacy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 33.0,
-    "error": null,
-    "left_pct": 17.0,
+    "left_pct": 13.0,
     "location": "United States",
     "right_pct": 50.0,
     "status": "ok",
     "summary": [
-      "On Friday, the American Israel Public Affairs Committee suspended fundraising for more than two dozen House Democrats who backed an amendment to slash $3.3 billion in military aid to Israel, removing donation links from its online portal.",
-      "Rep. Thomas Massie introduced the measure to the fiscal 2027 State Department funding bill, which was defeated Wednesday by a 104-314-10 vote despite support from more than 100 Democrats.",
-      "Affected members include House Minority Whip Katherine Clark and former Speaker Nancy Pelosi, who received roughly $1.4 million and more than $19,000 respectively in AIPAC-related contributions according to Federal Election Commission records.",
-      "Defending his vote on Thursday, Rep. Jake Auchincloss stated Congress \"must act where the executives have failed,\" as the suspension reflects AIPAC's consistent strategy of linking campaign support to voting records, previously applied to 15 Republican lawmakers in 2024.",
-      "Legislative records show 104 Democrats voted to cut aid this week, reflecting a broader realignment within the Democratic Party regarding unconditional support for Israel amid the humanitarian crisis in Gaza."
+      "U.S. Attorney Joseph Nocella Jr. stated he has no basis to dispute the U.S. Department of Justice's decision to drop the criminal case against Indian billionaire Gautam Adani but did not confirm agreement with the reasons for dismissal.",
+      "Principal Associate Deputy Attorney General Trent McCotter cited the foreign nature of the case and concerns about U.S. overreach as reasons for dismissing fraud and bribery charges against Adani.",
+      "Adani, founder of the Adani Group, was accused of agreeing to pay $265 million in bribes to Indian officials to secure the development of a large solar power plant, but he and his conglomerate have denied wrongdoing.",
+      "Adani offered a $10 billion investment in the U.S. in 2024 to resolve both the DOJ criminal case and a related SEC civil case, with related settlements involving payments totaling nearly $293 million."
     ],
-    "title": "AIPAC halts fundraising for endorsed House Democrats who opposed Israel aid",
-    "topic": "AIPAC",
-    "topic_full": "AIPAC · United States"
-  },
-  {
-    "article_path": "/article/senate-democrat-calls-for-trump-impeachment-after-election-claims",
-    "article_url": "https://ground.news/article/senate-democrat-calls-for-trump-impeachment-after-election-claims",
-    "bias": [
-      "Left-Leaning coverage frames the story as a moral emergency, using charged phrases like “must be dismissed” and “undermining our free and fair elections” to portray Trump as a threat to democracy, while right-leaning coverage flips the script, spotlighting Trump’s election-security claims and casting Democrats as “threatening” and “ridiculous” for pushing impeachment .",
-      "The key dividing line is whether the primetime speech is seen as dangerous undermining or as legitimate alarm about “rigged and stolen” elections, with the right adding detail on foreign interference and the SAVE America Act that the left de-emphasizes.",
-      "Both sides center impeachment, but their tones diverge sharply: condemnation versus mockery, reflecting deeper partisan disputes over election legitimacy and institutional trust."
-    ],
-    "bias_bar_text": "8% Center 25% Right 67%",
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": 8.0,
-    "location": null,
-    "right_pct": 67.0,
-    "status": "ok",
-    "summary": [
-      "Senator Ed Markey, a Democrat from Massachusetts, called for President Trump's impeachment after Trump claimed the 2020 election was rigged.",
-      "Trump continued making claims about fraud in the 2020 election during a primetime address and called for passing the SAVE America Act, which would require in-person voting and proof of citizenship.",
-      "Critics in both parties say Trump failed to substantiate his claims of widespread fraud in US elections, while Trump cited declassified documents as evidence."
-    ],
-    "title": "Senate Democrat calls for Trump impeachment after election claims",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/top-us-tax-lawyer-forced-out-after-white-house-clash-over-tax-audits_89ba71",
-    "article_url": "https://ground.news/article/top-us-tax-lawyer-forced-out-after-white-house-clash-over-tax-audits_89ba71",
-    "bias": [
-      "Left-Leaning coverage frames Kenneth Kies’s exit as a political blowup, using charged phrases like “pushed out,” “clashes,” and “might be violating law” to spotlight Trump-era pressure and possible illegality.",
-      "The center framing is cooler and more procedural: “forced out” after a “ White House clash” over tax audits, with the added, pivotal detail that Kies refused White House demands to take part in audits and that a federal law may have been at risk.",
-      "That split reveals the core divide—retaliation and misconduct versus a personnel dispute over audit interference—while both sides converge on his departure and the shared legal stakes."
-    ],
-    "bias_bar_text": "Left 50% Center 37% R 13%",
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 50.0,
-    "location": null,
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Assistant Treasury Secretary Kenneth Kies was forced from his post after refusing White House requests to participate in tax audits, citing Section 7217 of the Internal Revenue Code.",
-      "Kies reportedly clashed behind the scenes with White House officials over audit demands and refused to support work linked to a Justice Department settlement granting the Trump administration broad tax immunity.",
-      "Ruling the settlement served an \"improper purpose,\" a federal judge recently struck down the $1.8 billion settlement fund for alleged \"government weaponization.\" Kies previously served as Donald Trump's tax lawyer.",
-      "Following his ouster, Kies is expected to leave in mid-August, and Trump recently nominated tax attorney James Gadwood, a former Trump Organization representative, to take his place as the IRS 's top lawyer.",
-      "The clash underscores institutional tensions over the IRS's independence, though administration officials cited concerns about Kies' temperament. Section 7217 remains the primary statutory safeguard against political influence over the tax code."
-    ],
-    "title": "Top US tax lawyer forced out after White House clash over tax audits",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/iran-attacks-injure-several-us-troops-in-jordan-this-week-report_76fa77",
-    "article_url": "https://ground.news/article/iran-attacks-injure-several-us-troops-in-jordan-this-week-report_76fa77",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 28.0,
-    "error": "Message: \n",
-    "left_pct": 29.0,
-    "location": "United States",
-    "right_pct": 43.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Iran attacks injure several US troops in Jordan this week: Report",
-    "topic": "Iran War",
-    "topic_full": "Iran War · United States"
-  },
-  {
-    "article_path": "/article/abc-declassified-documents-touted-by-trump-say-election-systems-would-be-difficult-to-manipulate",
-    "article_url": "https://ground.news/article/abc-declassified-documents-touted-by-trump-say-election-systems-would-be-difficult-to-manipulate",
-    "bias": [
-      "Left-Leaning coverage frames the documents as weak proof, stressing “scant evidence,” “baseless,” and “long-debunked” claims, while right-leaning coverage turns the same release into a security alarm, using phrases like “galvanize,” “shocking,” and “set the record straight” to invoke threat and urgency.",
-      "The key dividing line is whether the files rebut Trump’s fraud narrative or expose hidden election vulnerability: left and center spotlight the conclusion that systems were “difficult to manipulate,” whereas the right emphasizes Chinese influence, “massive court battles,” and even the “largest compromise” rhetoric.",
-      "Both sides focus on Trump’s disclosure, but they split sharply over whether it debunks a claim or validates a warning."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": "United States",
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "A core document touted by President Trump actually contradicts his claims of easily compromised voting systems, noting instead that America's decentralized voting structure makes it highly resilient against widespread tampering.",
-      "The January 2020 National Intelligence Council memo states that while foreign adversaries like Russia, China, Iran, and North Korea have the \"capability\" to breach election infrastructure, doing so to change outcomes would be incredibly difficult.",
-      "Intelligence analysts emphasized that the decentralized nature of U.S. elections—which are run locally by thousands of individual states and counties—means any potential cyber breach would likely remain isolated and localized.",
-      "The declassified assessment concludes that a foreign actor would struggle to manipulate election processes at scale without triggering immediate detection via intelligence collection, cyber monitoring, or post-election hand audits.",
-      "Independent election security experts echoed the report's findings, pointing out that existing real-world safeguards, such as pre-election equipment testing, strict physical lock-and-key security, and paper ballot backups, make widespread manipulation virtually impossible."
-    ],
-    "title": "Declassified documents touted by Trump say election systems 'would be difficult to manipulate': Report",
+    "title": "Top US prosecutor will not dispute DOJ decision to drop Indian tycoon Gautam Adani's criminal case",
     "topic": "US Politics",
     "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/major-trump-critic-serious-about-potential-run-for-president",
-    "article_url": "https://ground.news/article/major-trump-critic-serious-about-potential-run-for-president",
+    "article_path": "/article/donald-trump-uses-alien-terrorist-removal-court-for-first-time-ever",
+    "article_url": "https://ground.news/article/donald-trump-uses-alien-terrorist-removal-court-for-first-time-ever",
     "bias": [
-      "Left-Leaning coverage frames Don Lemon ’s comments as a serious, personality-driven possibility, sometimes foregrounding identity with labels like “gay journalist” and softening the moment with upbeat phrases like “really good president.” Right-leaning coverage turns the same remarks into a skeptical spectacle, stressing “totally serious” in quotes, adding barbs like “claims,” “begging,” “hubris,” and even “left-wing ideologue” to cast the run as vanity and ego.",
-      "The key dividing line is whether Lemon’s self-description and “people keep asking me” is treated as a candid update or a self-serving pose; both sides, though, center his 2028 interest and his own quoted confidence."
+      "Left coverage frames the move as Trump “amping up” a “crackdown,” using the loaded label “Alien Terrorist” to suggest fear and overreach, while right coverage treats the same event as a “first ever” enforcement milestone, stressing the DOJ’s “application,” the “fast-track deportations” angle, and the goal to “protect Americans.” The sharp dividing line is interpretation: left emphasizes political escalation and the dormancy of the court, while right foregrounds classified filings, procedure, and public-safety utility.",
+      "Both agree the 1996 court had sat unused for decades, but they split along a broader ideological divide between immigration as punitive excess versus national-security necessity."
     ],
-    "bias_bar_text": null,
-    "center_pct": 6.0,
+    "bias_bar_text": "L 23% Right 77%",
+    "center_pct": null,
     "error": null,
-    "left_pct": 31.0,
-    "location": "United States",
-    "right_pct": 63.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, former CNN anchor Don Lemon said he is \"seriously\" considering a 2028 presidential run after repeated public requests, though he stressed he has not yet made a final decision.",
-      "Since leaving CNN, Lemon has established himself as an independent journalist, hosting The Don Lemon Show on YouTube and other platforms while fielding repeated requests to run for office.",
-      "Lemon stated he would prefer a \"voter/citizen driven\" campaign avoiding \"begging for money,\" arguing modern politics no longer demands extensive experience given the current president of the United States lacked prior background.",
-      "Acknowledging the political system might force him to align as a Democrat despite preferring to run as an Independent, Lemon noted that while some potential contenders seem impressive, \"many... most\" are not."
-    ],
-    "title": "Major Trump critic ‘serious’ about potential run for president",
-    "topic": "Don Lemon",
-    "topic_full": "Don Lemon · United States"
-  },
-  {
-    "article_path": "/article/25th-amendment-moment-gavin-newsom-urges-action-against-mad-king-trump",
-    "article_url": "https://ground.news/article/25th-amendment-moment-gavin-newsom-urges-action-against-mad-king-trump",
-    "bias": [
-      "Left-Leaning headlines paint Trump’s election-fraud speech as a spectacle of breakdown, using loaded phrases like “mad king,” “delusional,” “bizarre claims,” and “full of lies” to elevate Newsom’s call for removal and spotlight Democratic fury.",
-      "Center-Leaning coverage keeps the same conflict but sharpens the constitutional and political stakes, framing it as a “legitimate 25th Amendment moment” and warning that Trump may be laying groundwork to undermine the 2026 midterms, with the historical note that the amendment has never permanently ousted a president.",
-      "Both sides converge on Newsom’s attack and the election-security divide, but they differ in whether the story is mostly partisan condemnation or a broader warning about democratic stability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 50.0,
-    "location": "California",
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "California Governor Gavin Newsom warned Thursday that President Donald Trump's speech alleging election fraud is a \"make-believe\" attempt to rig this year's midterm elections in favor of Republicans.",
-      "In his 27-minute speech, Trump complained the 2020 election was \"rigged\" and accused China of stealing voting data, touting newly declassified documents as evidence of foreign interference.",
-      "A declassified 2021 intelligence report found no proof that foreign actors changed \"any technical aspect\" of the 2020 election, while John Solomon confirmed no votes were changed in 2020, 2022, or 2024.",
-      "Democrats, including Senate Minority Leader Chuck Schumer and Senator Jon Ossoff, denounced the speech as grievance-fueled, while Representative Yassamin Ansari questioned the urgency of the 25th Amendment.",
-      "Newsom, considering a 2028 presidential run, urged voters to turn out in record numbers this fall to reject the Republican agenda and \"end Donald Trump's presidency as we know it."
-    ],
-    "title": "Newsom Calls Trump a 'Mad King' in Response to Election Fraud Address",
-    "topic": "Gavin Newsom",
-    "topic_full": "Gavin Newsom · California"
-  },
-  {
-    "article_path": "/article/united-denies-offering-free-flight-changes-over-trump-airport-name_6f487d",
-    "article_url": "https://ground.news/article/united-denies-offering-free-flight-changes-over-trump-airport-name_6f487d",
-    "bias": [
-      "Left-Leaning coverage centers on correction and skepticism, stressing the claim as “false” and the memo as “poorly worded,” while right-leaning pieces invert the emphasis, portraying the story as a Trump-related backlash and even mocking critics with terms like “snowflake passengers,” “boycott,” and “free airport swaps.” The key dividing line is whether the memo signals confusion or a real accommodation, and whether travelers are reacting out of principled objection or partisan overreaction.",
-      "Both sides note the renamed airport and United’s denial, but they frame the same dispute through broader cultural conflict: accountability and misinformation on the left, anti-woke ridicule and Trump-centered normalization on the right."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": 31.0,
-    "location": "United States",
-    "right_pct": 44.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, United Airlines said an internal memo instructing reservation agents to rebook passengers objecting to the renamed President Donald Trump International Airport was \"poorly written\" and inaccurate.",
-      "Gov. Ron DeSantis signed legislation earlier this year authorizing the name change, which took effect on July 9 for the facility formerly known as Palm Beach International Airport near Mar-a-Lago.",
-      "A leaked memo instructed agents to use their \"empowerment\" to offer alternatives like Fort Lauderdale or Miami to objecting customers; the viral message garnered nearly 50,000 views before United's correction.",
-      "While reports claimed passengers could switch flights free to avoid the renamed hub, United maintained the memo did not reflect official company policy permitting such changes based on airport names.",
-      "The airport's three-letter code will transition from PBI to DJT for new flight bookings on August 18, though operational procedures and security protocols remain unchanged following the branding shift."
-    ],
-    "title": "United denies offering free flight changes over Trump airport name",
-    "topic": "United Airlines",
-    "topic_full": "United Airlines · United States"
-  },
-  {
-    "article_path": "/article/relief-for-tankers-americans-to-support-repair-of-oil-pipeline-between-iraq-and-syria",
-    "article_url": "https://ground.news/article/relief-for-tankers-americans-to-support-repair-of-oil-pipeline-between-iraq-and-syria",
-    "bias": [
-      "Left-Leaning coverage frames the story as geopolitical relief: $60 billion in agreements are tied to repairing Iraq’s oil pipeline and easing pressure on the Strait of Hormuz, with historical context like damage from the 2003 U.S.-led invasion sharpening the urgency.",
-      "Right-Leaning coverage presents the same deals as a business win, stressing the Chamber of Commerce setting and broader industry investment, while center-leaning coverage adds caution with phrases like “viable alternatives,” signaling uncertainty about implementation.",
-      "The rhetorical divide is between strategic resilience and commercial optimism, though both sides share the basic focus on alternative shipping routes and major U.S.-Iraq economic cooperation."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 36.0,
-    "error": null,
-    "left_pct": 50.0,
-    "location": "United States",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, U.S. companies signed roughly $60 billion in agreements with the Iraqi government at the U.S. Chamber of Commerce, including deals to develop alternative energy export routes away from the Persian Gulf.",
-      "The initiative follows significant disruptions to tanker traffic in the Strait of Hormuz during the U.S.-Iran war, which caused Iraq's oil production to fall more than 50% since February.",
-      "Chevron signed three agreements, including one for \"investing in a pipeline that\" would connect northern Iraq to Syria's Mediterranean coast, offering an alternative export route.",
-      "Following the announcement, West Texas crude prices rose nearly 5% to $88 a barrel, while U.S. Ambassador to Turkey Thomas Barrack stated the deals aim to make the Strait \"an afterthought.\"",
-      "Analysts caution that pipelines take years to construct and do not resolve regional threats, as Bob McNally of Rapidan Energy warned Iran \"can use weapons to attack loading facilities, pumping stations\" and other infrastructure ."
-    ],
-    "title": "US Oil Firms Sign Deals with Iraq to Develop Alternative Shipping Routes",
-    "topic": "Oil and Gas Sector",
-    "topic_full": "Oil and Gas Sector · United States"
-  },
-  {
-    "article_path": "/article/provo-campus-of-provo-canyon-school-has-license-revoked-by-state",
-    "article_url": "https://ground.news/article/provo-campus-of-provo-canyon-school-has-license-revoked-by-state",
-    "bias": [
-      "Left-Leaning coverage frames the shutdown as accountability for a system of harm, stressing “abusive discipline,” “unnecessary restraints,” and “humiliated kids,” while the center leans more on the state’s regulatory move and the school’s place in the “troubled teen industry.” The biggest dividing line is whether the story is about survivor-centered abuse allegations and legal pressure, or about an official closure with broader industry implications.",
-      "Both treat Paris Hilton ’s account as pivotal and call the revocation a “major victory,” but the left uses sharper, more emotive language, while the center stays more restrained."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 34.0,
-    "location": "Utah",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Utah Department of Health and Human Services revoked the residential treatment license for Provo Canyon School's Provo campus, ordering the facility to cease all operations by August 16.",
-      "State officials cited chronic noncompliance between March 23 and July 17, 2026, following years of abuse allegations involving celebrity Paris Hilton that prompted increased scrutiny.",
-      "Documentation revealed staff failed to call 911 after a minor's injury, instead managing it alone. Citations also noted \"cruel and unnecessary\" practices including withholding water, rest, and personal interaction from youth.",
-      "State inspectors will monitor the campus weekly until the August 16 closure. Staci Bradley, the school's business development director, said they are \"carefully reviewing all available legal and administrative avenues,\" including appeals.",
-      "With both the Provo and Springville campuses now closed, Provo Canyon School is no longer licensed to operate in Utah. Hilton celebrated the closure as \"the end\" of \"this horrific chapter of abuse, neglect, and trauma."
-    ],
-    "title": "License Revoked for Boarding School in Utah Where Paris Hilton Says She Was Abused as a Teen",
-    "topic": "Utah Politics",
-    "topic_full": "Utah Politics · Utah"
-  },
-  {
-    "article_path": "/article/allowing-deep-sea-mining-off-coast-of-american-samoa-is-dangerous-and-reckless",
-    "article_url": "https://ground.news/article/allowing-deep-sea-mining-off-coast-of-american-samoa-is-dangerous-and-reckless",
-    "bias": [
-      "Left-Leaning coverage frames the plan as an alarming, extractive “auction” and a “push” for deep-sea mining , using loaded terms like “dangerous,” “reckless,” and “unprecedented” to stress environmental harm and moral urgency, even elevating it as the “first-ever” commercial leasing move.",
-      "Right-Leaning coverage is de-emphasized here, but the center shows the counterweight: a more procedural “proposes”/“lease” frame, plus the broader Trump “critical minerals” agenda, acreage figures, and scientist warnings about “suffocating dust storms.” Both sides converge on expected “criticism” and marine risk, yet divide over whether the story is industrial strategy or ecological overreach."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 74.0,
-    "error": null,
-    "left_pct": 20.0,
-    "location": "United States",
-    "right_pct": 6.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Interior Department issued a proposed notice for two 20-year leases to conduct deep-sea mining in waters off American Samoa, targeting nearly 17 million acres for mineral extraction.",
-      "Republican state Rep. Elijah Pierick argued the mining provides a domestic source for critical minerals like copper and cobalt, reducing reliance on China for strategic materials.",
-      "Spanning 33 million acres at depths up to 20,000 feet, the proposed sites risk polluting fragile ecosystems with sediment and noise, critics warn, potentially altering marine wildlife and broader ocean systems.",
-      "Seumalu Elora Raymond, a spokesperson for Faasao Amerika Samoa, condemned the fast-tracking as 'ignoring the voices of the very people whose waters, traditions, and livelihoods are on the line.'",
-      "More than 43 countries have called for a ban on deep-sea mining, while the governor of American Samoa has 60 days to comment on the proposed lease before the process advances."
-    ],
-    "title": "The US Plans to Auction Off Sections of Water Around American Samoa in a Push for Deep-Sea Mining",
-    "topic": "Business",
-    "topic_full": "Business · United States"
-  },
-  {
-    "article_path": "/article/chinese-ai-model-takes-us-tech-industry-by-surprise-with-abilities-rivaling-claude-and-chatgpt",
-    "article_url": "https://ground.news/article/chinese-ai-model-takes-us-tech-industry-by-surprise-with-abilities-rivaling-claude-and-chatgpt",
-    "bias": [
-      "Left-Leaning coverage frames the story as a broader China-U.S. AI shift, using phrases like “making the California titans of AI sweat” and adding geopolitical texture around Xi Jinping and the World AI Conference, while right-leaning coverage sharpens the rivalry into a more nationalistic warning about U.S. tech being “taken… by surprise.” Center-leaning reporting sits between them, stressing concrete benchmarks, Kimi K3, and comparisons to OpenAI and Anthropic, with less ideological edge.",
-      "All sides agree the open-source Moonshot model is pressuring U.S. firms, but they diverge on whether that reads as innovation, disruption, or strategic threat."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 41.0,
-    "location": "China",
-    "right_pct": 9.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, July 17, 2026, Beijing-based Moonshot unveiled its Kimi K3 model in Shanghai, coinciding with Chinese President Xi Jinping 's opening address at the World Artificial Intelligence Conference.",
-      "During the conference, Huawei showcased its Atlas 950 SuperPoD, signaling China's growing domestic hardware independence despite U.S. restrictions on chipmakers like Nvidia.",
-      "Kimi K3 topped Arena's ranking of \"front-end coding capability,\" while Bank of America analysts reported the model costs half as much as OpenAI's GPT-5.",
-      "Anthropic accused Moonshot of using \"distillation\" to \"illicitly extract Claude's capabilities,\" a claim Beijing calls \"groundless,\" while analyst Patrick Moorhead said the response is an \"overreaction shockingly similar\" to DeepSeek's release.",
-      "As Chinese open-source models challenge California titans, SpaceX plans to acquire coding tool maker Cursor for $60 billion later this year, reflecting intensifying competition for AI dominance."
-    ],
-    "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
-    "topic": "Technology",
-    "topic_full": "Technology · China"
-  },
-  {
-    "article_path": "/article/faa-lets-boeing-sign-off-on-737-max-787-airworthiness-certificates-again",
-    "article_url": "https://ground.news/article/faa-lets-boeing-sign-off-on-737-max-787-airworthiness-certificates-again",
-    "bias": [
-      "Left-Leaning coverage frames the FAA move as a broader “vote of confidence” in Boeing , stressing “safety efforts” and the company’s rehabilitation after past failures, while right-leaning coverage emphasizes “confidence in Boeing’s safety checks,” “deep analysis,” and continued oversight, portraying the decision as a disciplined process rather than a bailout.",
-      "The sharpest divide is whether the story signals restored trust or merely conditional permission.",
-      "Center coverage sits between them, foregrounding the months of review and alternating checks.",
-      "Both sides agree on the milestone itself, but their tones diverge: the left sounds cautiously affirming, the right more procedural and reassuring, reflecting larger splits over corporate accountability and regulation."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "United States",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Federal Aviation Administration announced Boeing will resume self-certifying its 737 Max and 787 planes starting next week, determining the company's final safety checks are sufficiently rigorous to ensure airworthiness.",
-      "Regulators revoked Boeing's authority to self-certify its Max jets in 2019 following two fatal crashes, and stripped the same rights for Dreamliners in 2022 due to ongoing production quality concerns.",
-      "Over the past year, production limits for the Max have increased from 38 to 47 per month following a midflight panel detachment on an Alaska Airlines flight in January 2024.",
-      "\"Safety drives everything we do,\" FAA Administrator Bryan Bedford said, noting government inspectors will remain in Boeing factories to focus on identifying potential manufacturing defects earlier in production.",
-      "Boeing will continue working under agency oversight to build high-quality aircraft complying with all certification requirements, following the shift from joint weekly safety checks conducted since September."
-    ],
-    "title": "FAA Will Allow Boeing to Resume Certifying Its Planes Are Airworthy After Years of Safety Efforts",
-    "topic": "Boeing",
-    "topic_full": "Boeing · United States"
-  },
-  {
-    "article_path": "/article/a-former-prime-minister-who-led-israel-out-of-lebanon-fears-mistakes-are-being-repeated",
-    "article_url": "https://ground.news/article/a-former-prime-minister-who-led-israel-out-of-lebanon-fears-mistakes-are-being-repeated",
-    "bias": [
-      "All three perspectives share the same core warning from Ehud Barak and the same historical backdrop: Israel ended an 18-year Lebanon occupation, then returned to much of the south.",
-      "The left leans hardest into the “occupied” frame, making the return feel like a troubling repeat of past errors, while the right softens the terrain by adding that “many Israelis now support this presence,” recasting it as a security posture with public backing.",
-      "The center sits between them, also noting support but adding Barak’s vivid “shivers down his spine” reaction.",
-      "The key divide is occupation-as-warning versus presence-as-justification."
-    ],
-    "bias_bar_text": "Left 42% Center 54%",
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 42.0,
+    "left_pct": 23.0,
     "location": null,
-    "right_pct": 4.0,
+    "right_pct": 77.0,
     "status": "ok",
     "summary": [
-      "Ehud Barak, former Prime Minister of Israel , felt a deep emotional impact as Israeli forces withdrew from Lebanon, reflecting on the long military presence that began in 1985 when he was a military leader.",
-      "Barak viewed the withdrawal from Lebanon in 2000 as a significant moment linked to his military leadership.",
-      "In 2024, Israel controls over 600 square kilometers of Lebanese territory following a renewed invasion in March.",
-      "Defense Minister Israel Katz stated that Israel has the right and duty to protect its northern border towns and does not need permission to remain in Lebanon."
+      "On Wednesday, July 15, the Justice Department filed the first application to the Alien Terrorist Removal Court since Congress created it in 1996, seeking to remove an individual from the United States through a sealed proceeding.",
+      "Congress established the Alien Terrorist Removal Court within the Antiterrorism and Effective Death Penalty Act to allow the government to seek removal of noncitizens accused of terrorism-related activities while protecting classified intelligence from public disclosure.",
+      "During a July 16 hearing, Judge Joan Ericksen wrote that \"the court could benefit from the opportunity for more thoughtful consideration\" regarding the application, noting no sworn testimony was taken at the proceeding.",
+      "The Justice Department has until July 22 to supplement the record with additional factual and legal analysis. If approved, the court must hold a public removal hearing where the accused has the right to legal representation.",
+      "This case represents a significant escalation in the Trump crackdown on illegal immigration. While the court has existed for 30 years, it had never received an application from the Attorney General until now."
     ],
-    "title": "A former prime minister who led Israel out of Lebanon fears mistakes are being repeated",
+    "title": "DOJ uses ‘alien terrorist’ deportation court for first time in history",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/top-un-official-accuses-hamas-of-gaza-aid-obstruction",
-    "article_url": "https://ground.news/article/top-un-official-accuses-hamas-of-gaza-aid-obstruction",
+    "article_path": "/article/china-says-it-will-take-measures-on-uks-nationalisation-of-british-steel_c1426f",
+    "article_url": "https://ground.news/article/china-says-it-will-take-measures-on-uks-nationalisation-of-british-steel_c1426f",
     "bias": [
-      "Left and center coverage foreground the UN official’s accusation and the humanitarian risk, using restrained terms like “obstruction,” “interfering,” and “intimidating aid workers,” while the right sharpens the story into a security threat, adding “terrorists,” “storm,” and “seizing humanitarian assistance.” The biggest dividing line is specificity: the right highlights the Jabalia food-distribution point, a WFP warehouse, and COGAT’s blame, turning a general aid dispute into a concrete, militarized incident; the left de-emphasizes those details.",
-      "Still, all sides converge on Hamas blocking aid and endangering relief operations, reflecting a shared concern split by broader ideological views on culpability and conflict."
+      "Left-Leaning coverage frames the story as a state-intervention dispute, stressing compensation, investor rights, and the background of the Scunthorpe plant’s possible closure, while right-leaning coverage pushes a sharper conflict narrative, using terms like “warns,” “legal action,” “trampling,” and even “outright robbery” to portray the nationalisation as a breach of rules and a liability issue.",
+      "The center is more restrained, briefly noting the UK’s rationale of protecting steel production and China ’s “strongly dissatisfied” reaction.",
+      "Across both sides, the dividing line is whether nationalisation is treated as industrial rescue or government overreach, even as all emphasize Chinese interests, compensation claims, and escalating tensions."
+    ],
+    "bias_bar_text": "Left 57% C 24% R 19%",
+    "center_pct": 24.0,
+    "error": null,
+    "left_pct": 57.0,
+    "location": null,
+    "right_pct": 19.0,
+    "status": "ok",
+    "summary": [
+      "On July 17, the British government announced the nationalization of British Steel to secure domestic production and protect about 2,700 jobs at the Scunthorpe plant, the United Kingdom's last facility making virgin steel from raw materials.",
+      "Ministers intervened after failing to reach an agreement with Jingye Group, the Chinese company that bought British Steel in 2020, to secure the company's future as the firm considered closing the blast furnaces.",
+      "British Steel and its forebears have operated at Scunthorpe for more than 130 years, supporting the site's industrial heritage; MP Michelle Scrogham for Barrow and Furness welcomed the move as a \"vital national capability\" for future defence programmes.",
+      "Jingye Group demanded compensation on Sunday for investment losses, accusing the British government of \"trampling on international investment rules\" and claiming the nationalization tarnished the United Kingdom's credibility with international investors.",
+      "The Chinese Foreign Ministry stated on Saturday that how the United Kingdom handles this matter will influence Chinese investor confidence, while the British government confirmed an independent evaluation will determine if any compensation is owed to Jingye."
+    ],
+    "title": "China says it will take measures on UK's nationalisation of British Steel",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/ice-officer-in-maine-shooting-has-history-of-violent-behavior",
+    "article_url": "https://ground.news/article/ice-officer-in-maine-shooting-has-history-of-violent-behavior",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 92.0,
+    "error": null,
+    "left_pct": 8.0,
+    "location": "Maine",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "On Monday, ICE officer David Brouillette was identified by family members as present at a fatal shooting in Biddeford, Maine, with ex-wives telling CNN that Brouillette admitted shortly after the incident that he was the officer who fired.",
+      "In a 2023 lawsuit against the Maine Community College System, Brouillette claimed a 2021 workplace head injury left him \"significantly impaired in his activities and in his daily living,\" citing cognitive deficits and memory loss after a heavy I-beam struck him.",
+      "Last year, ICE prioritized hiring military veterans and police officers to accelerate training; one former Homeland Security official noted the agency assumed new hires were already familiar with basic law enforcement principles, enabling faster placement.",
+      "Homeland Security Secretary Markwayne Mullin said Friday that standard practice requires officers involved in shootings to be placed on administrative leave, though the agency cited \"fearing for public safety\" as justification for the deadly force.",
+      "Beyond the shooting, two ex-wives have accused Brouillette of a history of violence, including a 2019 complaint for protection from abuse, while the killing has sparked protests and demands for a transparent investigation into agency practices."
+    ],
+    "title": "ICE officer connected to fatal Maine shooting suffered 2021 head injury, which he said had left him with ‘cognitive deficits’",
+    "topic": "Maine Politics",
+    "topic_full": "Maine Politics · Maine"
+  },
+  {
+    "article_path": "/article/prominent-cuban-dissident-to-go-into-exile-in-the-us_be6400",
+    "article_url": "https://ground.news/article/prominent-cuban-dissident-to-go-into-exile-in-the-us_be6400",
+    "bias": [
+      "Left-Leaning coverage foregrounds human-rights drama, using terms like “prominent dissident,” “communist-run,” and “five years in prison” to frame Luis Manuel Otero Alcántara as a persecuted opposition figure headed to the U.S. Right-leaning coverage is leaner, stressing “exile” and prison to highlight anti-communist repression while de-emphasizeding broader context.",
+      "Center coverage adds bureaucratic texture—“immigration parole,” “humanitarian visa,” and a U.S. embassy source—softening ideology with procedure.",
+      "The key dividing line is whether his departure is a political rescue, a coerced exile, or a managed transfer; all sides agree on his dissident status and imminent travel, reflecting shared concern over Cuba ’s treatment of dissent."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
+    "right_pct": 24.0,
+    "status": "ok",
+    "summary": [
+      "Cuban dissident artist Luis Manuel Otero Alcántara has arrived in the United States after completing a five-year prison sentence, according to U.S. Secretary of State Marco Rubio.",
+      "A U.S. Embassy official in Havana said Otero Alcántara was granted humanitarian parole and received support for his travel.",
+      "The co-founder of the San Isidro Movement was arrested following Cuba ’s 2021 anti-government protests and was convicted on charges including desecration of national symbols, contempt, and public disorder."
+    ],
+    "title": "Cuban dissident artist arrives in US after five years in prison, Rubio says",
+    "topic": "Cuba",
+    "topic_full": "Cuba · United States"
+  },
+  {
+    "article_path": "/article/usps-advances-mail-in-voting-change-to-boost-election-integrity-internewscast-journal_733711",
+    "article_url": "https://ground.news/article/usps-advances-mail-in-voting-change-to-boost-election-integrity-internewscast-journal_733711",
+    "bias": [
+      "Left-Leaning coverage frames the ruling as a “provisional triumph” or “significant legal victory” for Trump, stressing that it is temporary and still tangled in another court; right-leaning coverage turns the same decision into a “HUGE WIN” and “election integrity” breakthrough, leaning on charged phrases like “Clears the Way” and “won’t deliver” to dramatize conflict and verification demands.",
+      "The sharpest divide is over meaning: lefts emphasize incompleteness and legal uncertainty, while rights spotlight voter-roll checks, citizenship verification, and ballot security.",
+      "Both agree the order is temporary and affects mail ballots, but they split along broader lines of procedural caution versus election-fraud and sovereignty concerns."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 29.0,
+    "error": null,
+    "left_pct": 8.0,
+    "location": "United States",
+    "right_pct": 63.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, a federal appeals court paused a lower court ruling, allowing the USPS to advance a Trump-backed mail voting rule while litigation continues.",
+      "Earlier this month, a federal judge blocked the plan, finding it likely violated a 2021 settlement with the NAACP requiring the Postal Service to take \"extraordinary measures\" through at least 2028.",
+      "The rule mandates that States submit voter lists and use unique barcodes, though Critics warn these federal requirements could disproportionately delay or reject ballots from Local areas.",
+      "Judges noted the legal challenge may be premature, creating a patchwork landscape where Some rulings block parts of the policy while others allow the rulemaking process to move forward.",
+      "With the 2026 midterms approaching, the ongoing legal battle creates uncertainty for Americans, potentially changing election rules close to Election Day for States and voters relying on mail ballots."
+    ],
+    "title": "Appeals court narrows setback for Trump USPS mail-in ballot policy",
+    "topic": "US Postal Service",
+    "topic_full": "US Postal Service · United States"
+  },
+  {
+    "article_path": "/article/rep-nancy-mace-gets-fresh-odds-of-winning-the-republican-nomination-in-race-for-lindsey-grahams-senate-seat",
+    "article_url": "https://ground.news/article/rep-nancy-mace-gets-fresh-odds-of-winning-the-republican-nomination-in-race-for-lindsey-grahams-senate-seat",
+    "bias": [
+      "Left-Leaning coverage keeps the story tightly on Norman’s announcement and his bid to “succeed” Lindsey Graham , while right-leaning coverage turns it into a horse race, stressing “GOP” positioning, “jumps into,” “fresh odds,” Trump’s endorsement, and even Norman’s “America First” pledges and filibuster fight.",
+      "The center adds the clearest structural context, noting a potentially “messy” special primary and Nancy Mace’s possible run.",
+      "The sharpest divide is whether the race is treated as a simple candidacy update or a test of Trump-aligned Republican power, though all sides still agree on the basic Senate contest and Trump’s role."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 66.0,
+    "error": null,
+    "left_pct": 7.0,
+    "location": "South Carolina",
+    "right_pct": 27.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, Representative Ralph Norman announced he will run for the Senate seat vacated by Senator Lindsey Graham 's death, competing in the special primary election scheduled for August 11.",
+      "Senator Lindsey Graham died last Saturday from a tear in his artery, prompting South Carolina Governor Henry McMaster to appoint Graham's sister, Darline Graham, to temporarily fill the vacant seat.",
+      "President Donald Trump urged Darline Graham to run in the primary, pledging his endorsement, while other potential GOP candidates include Governor Pamela Evette and Representative Nancy Mace.",
+      "Norman told Fox host Kayleigh McEnany he is \"laser-focused on passing President Trump's America First agenda,\" arguing the party needs proven conservatives to deliver on legislative priorities.",
+      "Republican leaders confront a narrowed majority due to Graham's vacancy and Senator Mitch McConnell's hospitalization, complicating efforts to advance the so-called Save America Act, which requires 60 votes in the Senate."
+    ],
+    "title": "Ralph Norman announces he’ll enter race to succeed Lindsey Graham in Senate",
+    "topic": "South Carolina Politics",
+    "topic_full": "South Carolina Politics · South Carolina"
+  },
+  {
+    "article_path": "/article/trump-shifts-his-tone-on-jimmy-carter-while-grappling-with-iran-inflation-and-his-own-legacy_d5b0b3",
+    "article_url": "https://ground.news/article/trump-shifts-his-tone-on-jimmy-carter-while-grappling-with-iran-inflation-and-his-own-legacy_d5b0b3",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s softer Carter posture as a sign of strain, stressing “grappling,” “legacy,” and the more pointed jab that he used Carter as a foil for “feckless Democrats,” which casts the story as political vulnerability and self-image management.",
+      "Right-Leaning coverage keeps the same core shift but leans harder into conflict and governance, highlighting Iran as an urgent crisis with phrases like “no end in sight” and emphasizing inflation , control, and leadership under pressure.",
+      "Both sides agree Trump is recalibrating, but they diverge on whether that reads as introspection or a high-stakes response to national turmoil."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 51.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "United States",
+    "right_pct": 17.0,
+    "status": "ok",
+    "summary": [
+      "President Donald Trump has softened his rhetoric regarding President Jimmy Carter, moving away from past mockery as his own presidency faces strikingly similar challenges involving the war in Iran and persistent inflation.",
+      "While inflation plagued both presidents, Carter contended with a 14.7% peak inflation rate in April 1980, whereas consumer prices rose 4.2% this May as U.S. forces escalate efforts to control the Strait of Hormuz.",
+      "Johnathan Adler, author of His Very Best: Jimmy Carter, A Life, suggested the president realizes his actions created a \"hornet's nest,\" potentially linking his legacy to difficulties of the Carter administration.",
+      "White House spokesperson Olivia Wales denied the comparison, stating Trump \"remains laser-focused on implementing his proven economic agenda\" and will not allow Iran to obtain a nuclear weapon.",
+      "Seeking to avoid an \"economic catastrophe\" like the one that befell Herbert Hoover, Trump recently noted he pursued a ceasefire with Iran, demonstrating awareness of historical pitfalls he previously disregarded."
+    ],
+    "title": "Trump shifts his tone on Jimmy Carter while grappling with Iran, inflation and his own legacy",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/us-attorney-for-texas-gives-new-details-of-deadly-houston-ice-shooting",
+    "article_url": "https://ground.news/article/us-attorney-for-texas-gives-new-details-of-deadly-houston-ice-shooting",
+    "bias": [
+      "Left-Leaning coverage frames the case as an “ICE killing,” centering the victim as a “Houston father” and emphasizing community “mourn” and the sense of state harm, while right-leaning coverage is thinner and largely repeats the core event with little added context, making its difference more one of de-emphasis than counter-argument.",
+      "Center-Leaning coverage shifts toward procedural detail—“preliminary probe,” “fleeing van,” “single shot,” and calls for “transparency and accountability”—whereas the left treats those same new details as evidence that the earlier government account is being complicated.",
+      "Across both sides, the shared focus is the fatal July shooting and the investigation, but the split reflects deeper divides over immigration enforcement, accountability, and how much weight to give official explanations versus community loss."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 70.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "Houston",
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, U.S. Attorney Aaron Reitz provided new details regarding the July 7 fatal shooting of 52-year-old Lorenzo Salgado Araujo by federal immigration agents in Houston.",
+      "ICE officers initially attempted to stop the van, believing it matched the description of vehicles driven by two Guatemalan men; the agency previously claimed Salgado Araujo weaponized his vehicle, though Reitz's latest account omits any collision.",
+      "Investigators searched the van on Wednesday, finding \"several small bags of a white, crystal-like substance,\" which legal counsel later clarified was a salt mixture used to maintain hydration during manual labor.",
+      "An officer was \"partially inside the van or immediately next to it\" when the fatal shot occurred, Reitz said; hundreds of residents, including Houston Mayor John Whitmire, attended Thursday's funeral to grieve the longtime construction worker.",
+      "The incident sparked protests in Houston and renewed scrutiny of Department of Homeland Security law enforcement tactics, as Salgado Araujo's family continues demanding transparency regarding the shooting that occurred while driving to a construction job."
+    ],
+    "title": "A Texas prosecutor reveals new details in an ICE killing of a Houston father",
+    "topic": "Texas Politics",
+    "topic_full": "Texas Politics · Houston"
+  },
+  {
+    "article_path": "/article/two-jamaicans-in-eswatini-decline-offer-to-return-home-foreign-affairs-ministry",
+    "article_url": "https://ground.news/article/two-jamaicans-in-eswatini-decline-offer-to-return-home-foreign-affairs-ministry",
+    "bias": [
+      "Left-Leaning coverage frames the story as a human-impact immigration piece, stressing “deported,” “rejected,” and “repatriation” to spotlight the men’s predicament and Jamaica ’s consular response, while the right-leaning brief keeps the same core facts but strips away most context, making the refusal itself the main point.",
+      "The center adds the clearest dividing lines: “return home,” “do not wish to return at this time,” and the U.S.-Eswatini “Third-Country National agreement,” shifting the focus toward policy mechanics and present preference.",
+      "Across perspectives, the shared emphasis is the same two Jamaicans declined the offer, but the ideological split lies in whether the event is framed as humanitarian fallout or routine deportation procedure."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 44.0,
+    "error": null,
+    "left_pct": 50.0,
+    "location": "United States",
+    "right_pct": 6.0,
+    "status": "ok",
+    "summary": [
+      "Two Jamaican nationals deported by the United States to Eswatini have formally declined offers from the Jamaican government to be repatriated to the Caribbean nation.",
+      "The men were removed from the United States under a Third-Country National agreement with Eswatini, a policy that has faced widespread criticism from human rights groups and lawyers.",
+      "Foreign Affairs Minister Kamina Johnson Smith confirmed that officials established contact through the Jamaican Consulate General in Miami, Florida, offering consular assistance and support to facilitate return.",
+      "The Jamaican High Commission in Pretoria, South Africa, is continuing efforts to contact the third citizen, while the government maintains it cannot influence immigration status in the United States.",
+      "This outreach follows the repatriation of Orville Etoria last September, the first national sent to Eswatini, where the king holds absolute power and has been accused of suppressing pro-democracy movements."
+    ],
+    "title": "Jamaica says 2 citizens deported by US to Eswatini rejected repatriation offers",
+    "topic": "US Foreign Policy",
+    "topic_full": "US Foreign Policy · United States"
+  },
+  {
+    "article_path": "/article/clara-ester-activist-who-rushed-to-martin-luther-king-jr-after-he-was-shot-dies-at-78",
+    "article_url": "https://ground.news/article/clara-ester-activist-who-rushed-to-martin-luther-king-jr-after-he-was-shot-dies-at-78",
+    "bias": [
+      "Left-Leaning coverage casts Ester as a historically significant civil-rights witness, stressing she was among the “few remaining witnesses” to King’s assassination and foregrounding her role as an “activist” and “minister,” while right-leaning coverage de-emphasizes that rarity and instead adds local context like growing up in Memphis and a link to Rev.",
+      "James Lawson.",
+      "Center-Leaning versions sit between them, using broader labels like “civil rights activist” and “following a life of activism,” plus the 19-versus-20 age detail.",
+      "The shared frame is commemorative, but the divide turns on whether the story is a civil-rights legacy piece or a concise obituary."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "Nashville",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "Civil rights activist Clara Jean Ester, who rushed to the Rev. Martin Luther King Jr.'s side after he was shot in 1968, died on July 9 at 78 years old.",
+      "Ester, then a 19-year-old student at LeMoyne-Owen College, was present at the Lorraine Motel on April 4, 1968, when she witnessed King on the balcony and rushed to his side after he was shot.",
+      "Growing up in Memphis, Ester participated in the 1968 sanitation workers' strike while attending LeMoyne-Owen College and later worked as a neighborhood organizer at the Dumas Wesley Community Center in Mobile, Alabama, until retiring in 2006.",
+      "Visitation for the activist will be held at 10 a.m. Monday at Centenary United Methodist Church, located at 584 E McLemore Avenue, with burial scheduled at Elmwood Cemetery.",
+      "Beyond her civil rights activism, Ester was commissioned as a deaconess in the United Methodist Church in 1986 and served as national vice president of United Methodist Women, anchoring her legacy in faith and service."
+    ],
+    "title": "Clara Ester, activist who rushed to Martin Luther King Jr. after he was shot, dies at 78",
+    "topic": "Martin Luther King Jr.",
+    "topic_full": "Martin Luther King Jr. · Nashville"
+  },
+  {
+    "article_path": "/article/trump-rolls-back-protections-for-threatened-species-and-habitat-for-endangered-species_668ebe",
+    "article_url": "https://ground.news/article/trump-rolls-back-protections-for-threatened-species-and-habitat-for-endangered-species_668ebe",
+    "bias": [
+      "Left-Leaning coverage frames the move as a dangerous rollback, using charged terms like “gutting,” “weakening,” “imperiled,” and “extinctions” to stress ecological collapse and critic warnings, while right-leaning coverage shifts toward process and scope, emphasizing “automatic protections,” “individualized protection plans,” and a broader regulatory reset.",
+      "The sharpest dividing lines are whether the change is portrayed as dismantling habitat safeguards or simply replacing them, and whether industry influence and lawsuits are foregrounded or de-emphasized.",
+      "Both sides agree the Trump administration canceled protections under the Endangered Species Act, but they diverge over whether that signals conservation harm or administrative recalibration."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 64.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "United States",
+    "right_pct": 11.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, the Interior Department canceled the rule providing automatic \"blanket protections\" for threatened species, requiring newly listed plants and wildlife to receive individualized protection plans instead.",
+      "These protections were first adopted in 1975 and 1977, but the administration's move mirrors changes attempted during President Donald Trump 's first term that were later reversed under former Democratic President Joe Biden.",
+      "Interior Secretary Doug Burgum finalized a separate change requiring officials to analyze economic impacts when designating critical habitat; last week, officials narrowed the definition of \"harm\" to allow development on habitat if animals are not immediately injured.",
+      "About 30 species, including monarch butterflies and alligator snapping turtles, currently await listing, prompting critics to warn that new requirements grant corporations undue influence over recovery efforts.",
+      "Federal records show no new species listings during Trump's second term, compared to about 60 under Biden; the administration also reduced critical habitat for Canada lynx and transferred grizzly bear management authority to states."
+    ],
+    "title": "Trump rolls back protections for threatened species and habitat for endangered species",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/trump-administration-to-fund-maga-aligned-projects-in-europe-as-he-reorders-us-aid-ft-reports",
+    "article_url": "https://ground.news/article/trump-administration-to-fund-maga-aligned-projects-in-europe-as-he-reorders-us-aid-ft-reports",
+    "bias": [
+      "Left-Leaning coverage frames the plan as a politicized misuse of “human rights aid,” stressing “white South Africans,” “right-wing causes,” and even “MAGA ideology,” while spotlighting specifics like a $2 million anti-DSA/DMA grant and controversial recipients to signal broader cultural conflict.",
+      "Right-Leaning coverage stays closer to the Reuters/FT-style framing, leaning on restrained labels like “MAGA-aligned” and “dramatic overhaul” to present the move as a conservative policy reordering.",
+      "The pivotal divide is whether the grants are portrayed as partisan exportation or as free-speech/conservative initiatives; both sides agree the aid is being reshaped, but they split over whether that signals overreach or ideological realignment."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": "United States",
+    "right_pct": 29.0,
+    "status": "ok",
+    "summary": [
+      "The State Department proposed at least a dozen no-bid grants to conservative European organizations and groups advocating for white South Africans, prompting congressional pushback that forced officials to abandon or revise controversial plans in recent days.",
+      "Senior adviser Samuel Samson, a 27-year-old deputy assistant secretary of state, has spent 18 months courting far-right leaders in Europe to advance an 'America first' worldview, reshaping DRL's traditional focus on documenting abuses in repressive regimes.",
+      "Internal records detailed a $40 million award to the Victims of Communism Memorial Foundation, alongside $7 million for 'Anglo-American values' and $5 million to combat 'digital overregulation,' all bypassing standard competitive bidding protocols.",
+      "Following congressional criticism, officials recently dropped a contentious British-focused grant while widening the South African research award to a $1 million invited-application opportunity available to other groups.",
+      "This strategic pivot represents a broader ideological realignment of U.S. foreign aid, shifting from traditional human rights advocacy in poorer nations toward supporting nationalist movements and 'civilisational' partnerships in wealthy democracies."
+    ],
+    "title": "Trump administration to fund Maga-aligned projects in Europe as he reorders US aid, FT reports",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/gaza-11-deaths-including-children-in-israeli-strikes",
+    "article_url": "https://ground.news/article/gaza-11-deaths-including-children-in-israeli-strikes",
+    "bias": null,
+    "bias_bar_text": "Left 30% C 20% Right 50%",
+    "center_pct": 20.0,
+    "error": "Message: \n",
+    "left_pct": 30.0,
+    "location": null,
+    "right_pct": 50.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Another Deadly Day in Gaza Leaves Three Children Among 11 Killed in Fresh Israeli Attacks",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/aipac-halts-fundraising-for-endorsed-house-democrats-who-opposed-israel-aid_eded06",
+    "article_url": "https://ground.news/article/aipac-halts-fundraising-for-endorsed-house-democrats-who-opposed-israel-aid_eded06",
+    "bias": [
+      "Left-Leaning coverage frames AIPAC as “dropping” Democrats and even stripping “plaudits,” centering donor punishment and intra-party signaling; right-leaning coverage casts the same move as “freezes out” or retaliation against Democrats who “voted against aid to Israel,” treating the vote as a rebuke of an ally.",
+      "Centered coverage stays more procedural, noting the fundraising freeze and the $3.3 billion aid cut.",
+      "The sharpest dividing line is whether the vote is a policy disagreement or an anti-Israel act.",
+      "Both sides agree AIPAC selectively removed donation options, but the ideological split turns on loyalty, pressure, and the meaning of support for Israel."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -631,13 +636,13 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Monday, UN Deputy Special Coordinator for the Middle East Peace Process Ramiz Alakbarov accused Hamas of obstructing humanitarian operations, warning the group's interference makes relief efforts 'increasingly dangerous' for aid workers.",
-      "Armed men linked to Hamas allegedly forced their way into a Jabalia food distribution point on Saturday, reportedly assaulting two World Food Programme truck drivers and entering a warehouse, per a United Nations statement.",
-      "Alakbarov stated these incidents are 'not isolated,' warning they 'reflect an increasingly dangerous pattern of intimidation, violence and obstruction, including smuggling attempts, targeting and abusing humanitarian operations' affecting Gaza civilians.",
-      "An official from the Hamas-run interior ministry rejected the accusations as unfounded, while COGAT, the Israeli defence body, slammed the group for allegedly 'cynically exploiting the humanitarian space' intended for Gaza residents.",
-      "Israeli forces have expanded their presence across more than 60% of Gaza territory in recent months, though Hamas continues to exert control over the remaining areas amid ongoing tensions."
+      "On Friday, the American Israel Public Affairs Committee suspended fundraising for more than two dozen House Democrats who backed an amendment to slash $3.3 billion in military aid to Israel, removing donation links from its online portal.",
+      "Rep. Thomas Massie introduced the measure to the fiscal 2027 State Department funding bill, which was defeated Wednesday by a 104-314-10 vote despite support from more than 100 Democrats.",
+      "Affected members include House Minority Whip Katherine Clark and former Speaker Nancy Pelosi, who received roughly $1.4 million and more than $19,000 respectively in AIPAC-related contributions according to Federal Election Commission records.",
+      "Defending his vote on Thursday, Rep. Jake Auchincloss stated Congress \"must act where the executives have failed,\" as the suspension reflects AIPAC's consistent strategy of linking campaign support to voting records, previously applied to 15 Republican lawmakers in 2024.",
+      "Legislative records show 104 Democrats voted to cut aid this week, reflecting a broader realignment within the Democratic Party regarding unconditional support for Israel amid the humanitarian crisis in Gaza."
     ],
-    "title": "Top UN official accuses Hamas of Gaza aid obstruction",
+    "title": "AIPAC halts fundraising for endorsed House Democrats who opposed Israel aid",
     "topic": null,
     "topic_full": null
   },
@@ -664,38 +669,38 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/white-house-defends-argentina-team-over-falklands-banner_404d96",
-    "article_url": "https://ground.news/article/white-house-defends-argentina-team-over-falklands-banner_404d96",
+    "article_path": "/article/blood-for-blood-a-billboard-in-iran-has-a-chilling-warning-for-trump-and-his-family",
+    "article_url": "https://ground.news/article/blood-for-blood-a-billboard-in-iran-has-a-chilling-warning-for-trump-and-his-family",
     "bias": [
-      "Left-Leaning coverage frames the banner episode as part of “football-washing” and commercialization, stressing calls to ban players and using sharper phrases like “punishment” and “indecent sale of a show”; right-leaning coverage instead recasts the same scene as a free-speech issue, foregrounding “rights,” “fully in their right,” and even the “First Amendment,” while downplaying punitive reactions.",
-      "The key dividing line is whether the Falklands/Malvinas banner is treated as a provocative political taunt or a legitimate expression.",
-      "Both sides note FIFA scrutiny and Giuliani’s defense, but they split over whether the event signals cultural exploitation or constitutional liberty."
+      "Left-Leaning coverage frames the Tehran mural as a “controversial” escalation in a “meme war,” centering the coffin image and a threatening message like “we will kill Trump,” while the right leans harder into menace, using terms like “vile,” “sick death fantasy,” and “poking the bear” to portray an Iranian regime threat against Trump and his family.",
+      "The center sits between them, stressing a “chilling warning” and “Blood for Blood” with less ideological heat.",
+      "The biggest dividing lines are family imagery, IRGC/state backing, and U.S. war context.",
+      "All sides agree it’s a blunt anti-Trump provocation in rising U.S.-Iran tension."
     ],
-    "bias_bar_text": "Left 27% Center 40% Right 33%",
-    "center_pct": 40.0,
+    "bias_bar_text": "L 13% 7% Right 80%",
+    "center_pct": 7.0,
     "error": null,
-    "left_pct": 27.0,
+    "left_pct": 13.0,
     "location": null,
-    "right_pct": 33.0,
+    "right_pct": 80.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, Argentina's football team displayed a banner reading \"Las Malvinas son Argentinas\" after defeating England 2-1 in the semi-final. The White House publicly defended the players' right to display the message.",
-      "Outgoing UK Prime Minister Keir Starmer slammed the display, with a spokesperson asserting, \"The World Cup might not be ours, but the Falkland Islands definitely are.\" The British government rejected Argentina's sovereignty claim.",
-      "On Friday, Andrew Giuliani, Executive Director of the White House Task Force for the FIFA World Cup 2026, defended the players, stating, \"We believe in our First Amendment rights here in the United States of America.\" Giuliani argued they have the ability to make such statements.",
-      "FIFA continues reviewing the incident ahead of Sunday's final against Spain, leaving disciplinary action unresolved. Officials from the United States administration stopped short of criticizing the team during an official media briefing.",
-      "Despite a 2013 referendum where 99.8% of voters chose to remain a British overseas territory, Argentinian President Javier Milei said the country is getting \"closer every day\" to sovereignty over the islands. Argentina aims to become first back-to-back World Cup champions in over 60 years."
+      "In Tehran's Palestine Square, officials unveiled a state-backed billboard depicting President Donald Trump , First Lady Melania Trump, and their five children in coffins draped in American flags.",
+      "The display features the slogan \"Blood for blood,\" reflecting ongoing calls for revenge following the death of Supreme Leader Ali Khamenei and several of his family members.",
+      "This follows an announcement by the Iran-backed Islamic Resistance in Iraq of a $10 million reward for anyone who kills Trump, describing it as retaliation for 2020 strikes.",
+      "CENTCOM reported fresh U.S. strikes on Iranian infrastructure near Bandar Abbas and Greater Tunb Island earlier this week as military tensions continue to deepen.",
+      "Trump has previously stated that any Iranian attempt to assassinate him would trigger a \"severe and destructive\" response, though hints of potential diplomatic talks have recently emerged."
     ],
-    "title": "White House defends Argentina team over Falklands banner",
+    "title": "Iran Places Billboard in Tehran Showing Trump in a Coffin",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/your-orange-juice-is-changing-heres-why_c6ead9",
-    "article_url": "https://ground.news/article/your-orange-juice-is-changing-heres-why_c6ead9",
+    "article_path": "/article/exclusive-secrets-behind-tyler-robinsons-lucrative-family-business-revealed-as-utah-taxpayers-foot-10m-legal-bills-for-charlie-kirks-all",
+    "article_url": "https://ground.news/article/exclusive-secrets-behind-tyler-robinsons-lucrative-family-business-revealed-as-utah-taxpayers-foot-10m-legal-bills-for-charlie-kirks-all",
     "bias": [
-      "Left-Leaning coverage frames the rule as a rescue for a citrus industry that has “declined precipitously,” stressing officials’ claim it will “boost Florida citrus” and treating the change as public-policy support; right-leaning coverage shifts toward skepticism and consumer optics, using phrases like “might not taste the difference,” “slack in its squeeze,” and “relaxed its grip” to imply the overhaul is modest and bureaucratic.",
-      "The biggest dividing lines are whether the story is about farmer recovery, consumer taste and prices, or regulatory cleanup; the center adds “red tape,” “modernizing,” and “America First” language.",
-      "All sides agree the FDA lowered the sugar standard and that Florida growers benefit."
+      "Left-Leaning coverage centers the indigency ruling and the “$10M bill,” framing the case as a taxpayer burden and using sharper civic language like “face” and “murder defence,” while right-leaning outlets push a more adversarial, accusatory narrative with terms like “exclusive,” “secrets,” “alleged killer,” “thriving,” and “brace/foot,” turning the family business into proof of privilege and public unfairness.",
+      "The key dividing line is whether the $10 million appears as a legal consequence to question or as a fiscal outrage to spotlight, with the right also heightening moral stakes through “assassinated” and “picture-perfect suburban life.” Both sides agree on the serious charge, the family business, and the public cost, but they sort those facts into different ideological frames."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -705,166 +710,161 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Friday, the FDA announced a new regulation lowering the minimum Brix sugar content for pasteurized orange juice from 10.5 percent to 10 percent, with officials in Lakeland stating the move advances the \"America First\" agenda.",
-      "Severe weather and citrus greening disease reduced Brix levels in domestic fruit, forcing manufacturers to import higher-Brix juice from countries like Brazil to meet previous federal standards.",
-      "The FDA also increased the allowable share of hybrid citrus varieties from 10 percent to 15 percent, while HHS Secretary Robert F. Kennedy Jr. said the policy supports the \"Make America Healthy Again\" initiative to bolster domestic production.",
-      "Florida Attorney General Ashley Moody praised the change, stating, \"Today is proof that the juice was worth the squeeze,\" and the FDA estimates the rule could produce annualized manufacturer savings of about $52.3 million.",
-      "Although the rule allows lower-Brix juice, the FDA expects the nutritional value and taste to remain unchanged; officials have not confirmed when consumers will see these newly standardized bottles on grocery store shelves."
+      "Matthew Robinson runs a successful masonry business in St. George, Utah, which continues to thrive with loyal clients despite his son's legal troubles.",
+      "Utah taxpayers are expected to cover Tyler Robinson 's defense costs, potentially exceeding $10 million as requested by his lawyers.",
+      "Matthew Robinson has supported his son during court proceedings and helped by turning him in after Tyler allegedly confessed to killing Charlie Kirk.",
+      "Matthew Robinson's business faced a 2014 embezzlement lawsuit filed by his brother, which was settled confidentially, yet the business remains successful."
     ],
-    "title": "Health Secretary Announces New Orange Juice Standards",
+    "title": "Tyler Robinson's father runs thriving hometown business as taxpayers face possible $10M defense bill: report",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/mexican-foreign-minister-says-trilateral-trade-talks-will-happen-when-appropriate_033a2f",
-    "article_url": "https://ground.news/article/mexican-foreign-minister-says-trilateral-trade-talks-will-happen-when-appropriate_033a2f",
-    "bias": null,
+    "article_path": "/article/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco",
+    "article_url": "https://ground.news/article/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco",
+    "bias": [
+      "Left-Leaning coverage frames Waymo as a public-safety threat, amplifying the July 4 chaos with phrases like “under fire,” “debacle,” and even “helpless” or “grave danger,” while center coverage treats the same episodes as a regulatory problem, using more measured but still negative language like “disruptions” and “traffic fiasco.” Right-leaning coverage softens the incidents as “unfortunate” and pivots to a broader tech narrative, invoking San Francisco as a “testing ground” and hinting at “limits” to innovation.",
+      "The key divide is whether the story is about vulnerable passengers and corporate failure, or about policy gaps around emergencies and major events; all sides still converge on tougher rules."
+    ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "no_change",
+    "status": "ok",
     "summary": [
-      "On Friday, Mexico's Foreign Affairs Minister Roberto Velasco Alvarez met Canada 's Foreign Affairs Minister Anita Anand in Ottawa, rejecting separate bilateral talks and affirming all three countries agree the Canada-United States-Mexico Agreement should remain trilateral.",
-      "The Trump administration opted not to renew CUSMA at the start of July, triggering rolling annual reviews for up to a decade, despite both Canada and Mexico calling for a 16-year extension by the July 1 deadline.",
-      "Mexico has held multiple official negotiations with the U.S. and appears further ahead in trade talks than Canada, with U.S. and Mexican officials scheduled for a third round next week in Mexico City while Ottawa has not begun similar discussions.",
-      "Velasco Alvarez rejected separate bilateral negotiations, stating \"each of us have bilateral issues,\" as Foreign Affairs Minister Anita Anand cautioned that comparing progress is \"difficult\" because Canada and Mexico address different concerns with the Americans.",
-      "Foreign Affairs Minister Anita Anand announced $12 million in funding for shared priorities with Mexico including combatting transnational crime, while Mexican President Claudia Sheinbaum emphasized strengthened ties, stating \"there are Canadian business investments in Mexico."
+      "On Thursday, San Francisco Mayor Daniel Lurie requested that the California Department of Transportation implement stricter safety regulations for autonomous vehicles, citing recent gridlock during the Fourth of July fireworks show.",
+      "Lurie argued that Waymo robotaxis became immobilized during the Fourth of July celebration and a December power outage, blocking key streets and compounding traffic that affected thousands of people.",
+      "More than 100,000 people packed San Francisco's waterfront for the Fourth of July celebration, and Christopher White, executive director of the San Francisco Bicycle Coalition, said 'it took a lot of people a very long time to get where they were going.'",
+      "Waymo issued a statement asserting it 'successfully supported some of the city's biggest events,' including the Super Bowl, FIFA World Cup, and Fan Fest, while collaborating with city agencies on transportation safety.",
+      "Lurie proposed four core operational capabilities requiring companies to keep traffic moving, provide operational transparency, and prove readiness before deploying fleets during major public events or emergencies."
     ],
-    "title": "Mexican foreign minister says trilateral trade talks will happen when ‘appropriate’",
+    "title": "San Francisco mayor urges state to tighten robotaxi regulations after recent Waymo disruptions",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/citizens-bank-to-cut-ties-with-corecivic-and-geo-after-a-fierce-public-pressure-campaign",
-    "article_url": "https://ground.news/article/citizens-bank-to-cut-ties-with-corecivic-and-geo-after-a-fierce-public-pressure-campaign",
+    "article_path": "/article/protests-erupt-as-trumps-envoy-sails-into-venice-on-450m-superyacht_430586",
+    "article_url": "https://ground.news/article/protests-erupt-as-trumps-envoy-sails-into-venice-on-450m-superyacht_430586",
     "bias": [
-      "Left-Leaning coverage casts Citizens Bank’s move as a win for activists, spotlighting a “fierce public pressure campaign” and even the bank’s own explanation that changing financial needs, not protests, drove the decision; right-leaning coverage is shorter and more wary, framing the same shift as a retreat after public pressure and suggesting a politically driven campaign, while center-leaning wording is the most pointedly critical, using “bowing to public pressure” and noting “left-leaning city governments.” All three agree the bank is winding down ties with CoreCivic and GEO, but they diverge on whether that looks like accountability, coercion, or institutional concession."
+      "Left-Leaning coverage turns the Venice arrival into a class critique, stressing the “mega-yacht,” “wealth and influence,” and even “new oligarchs,” while spotlighting protester backlash and public-access restrictions; right-leaning coverage, by contrast, often reframes the same scene as “bizarre diplomacy” or “coastal diplomacy” under attack, foregrounding activist resistance and the spectacle of a billionaire Trump ally.",
+      "Both sides seize on the yacht’s opulence and the protests, but they divide sharply over meaning: privilege abused versus diplomacy mocked.",
+      "Center coverage stays more restrained, treating the episode as a governance-and-tourism balancing act."
     ],
     "bias_bar_text": null,
-    "center_pct": 38.0,
+    "center_pct": 41.0,
     "error": null,
-    "left_pct": 56.0,
-    "location": "United States",
-    "right_pct": 6.0,
+    "left_pct": 33.0,
+    "location": "Venice",
+    "right_pct": 26.0,
     "status": "ok",
     "summary": [
-      "On Friday, Citizens Bank announced it will end credit facilities with CoreCivic and The GEO Group, two private prison operators that manage detention centers for federal immigration enforcement.",
-      "The De-ICE Citizens Bank Coalition led months of protests and divestment, with individuals and municipalities withdrawing more than $350 million in recent months to oppose the bank's financing of detention centers under the Trump administration.",
-      "Municipalities including Montclair and Jersey City fueled divestment by withdrawing nearly $91 million and more than $265 million respectively, while the Greater Boston Interfaith Organization pulled $3 million in protest.",
-      "Citizens claimed the exit was a \" business decision\" driven by changed capital needs and federal purchases of prison facilities, stating it does not reflect a shift in view regarding the companies' \"business models or operations.\"",
-      "While spokesperson Peyton Fleming called the move a \"huge win,\" activists remain skeptical, demanding written assurances and a timeline to ensure Citizens fully severs ties with the prison operators."
+      "On Friday, U.S. Ambassador Tilman Fertitta arrived in Venice aboard his 117-meter yacht, Boardwalk, launching the 'Freedom 250 Coastal Diplomacy' tour marking American independence's 250th anniversary amid immediate protests.",
+      "Fertitta, a billionaire businessman appointed by President Donald Trump, is touring 13 Italian regions to celebrate 'our shared history, our economic partnership, and the cultural bonds' that strengthen U.S.-Italy ties.",
+      "Activists from the Morion social centre unfurled a banner reading 'Venezia non si Usa'—'Venice is not to be used'—echoing protests against Jeff Bezos's 2025 wedding and reflecting broader opposition to U.S. policies.",
+      "Italy's Green and Left Alliance accused the government of diverting police to act as 'bodyguards' for Fertitta, while authorities tightened security ahead of Saturday's Redentore festival.",
+      "Fertitta's visit navigates a cooling relationship between Italian Premier Giorgia Meloni and Trump, whose social media attacks have strained ties once seen as a close European political alliance."
     ],
-    "title": "Citizens Bank to cut ties with CoreCivic and GEO after a fierce public pressure campaign",
-    "topic": "Business",
-    "topic_full": "Business · United States"
+    "title": "Protests Erupt as Trump's Envoy Sails Into Venice on $450M Superyacht",
+    "topic": "US Politics",
+    "topic_full": "US Politics · Venice"
   },
   {
-    "article_path": "/article/trump-infantino-give-world-cup-high-praise-calling-tournament-a-success",
-    "article_url": "https://ground.news/article/trump-infantino-give-world-cup-high-praise-calling-tournament-a-success",
+    "article_path": "/article/democratic-socialists-top-maga-candidates-among-voters-in-cnbcs-all-america-poll",
+    "article_url": "https://ground.news/article/democratic-socialists-top-maga-candidates-among-voters-in-cnbcs-all-america-poll",
     "bias": [
-      "Left-Leaning coverage stays comparatively restrained, emphasizing Infantino’s claim that the tournament was a “success” and a moment of global “unity,” while right-leaning outlets turn that same story into triumphalist, Trump-centered spectacle with phrases like “America has won,” “greatest,” and “most successful,” portraying him as indispensable.",
-      "Center coverage sits between them, adding concrete support such as sold-out stadiums and TV ratings.",
-      "The sharpest dividing lines are Trump’s role, future World Cup chatter involving the U.S. or China, and whether the event is framed as a measured milestone or a nationalist victory.",
-      "Both sides agree on praise and broad success, but diverge sharply on ideological meaning."
+      "Left-Leaning coverage frames the poll as a rebuke to MAGA , using charged phrases like “despise,” “stunning,” and “politically poisonous” to suggest economic turmoil has damaged the brand and even mocking “card-carrying” MAGA loyalists.",
+      "Right-Leaning coverage keeps the same contrast but turns it into a warning sign, spotlighting “socialist” versus “MAGA,” “more likely,” and a rise in socialism’s favorability from 18% to 28% to stress a broader leftward shift.",
+      "Both sides center the same poll result, but they diverge on whether it signals MAGA backlash or socialist momentum, reflecting deeper ideological anxieties about culture, elections, and political identity."
     ],
     "bias_bar_text": null,
-    "center_pct": 47.0,
+    "center_pct": 17.0,
     "error": null,
     "left_pct": 33.0,
     "location": "United States",
-    "right_pct": 20.0,
+    "right_pct": 50.0,
     "status": "ok",
     "summary": [
-      "On Saturday, FIFA President Gianni Infantino and President Donald Trump celebrated the World Cup 's success, citing nearly 6.7 million fans attending 102 matches across North America.",
-      "Spanning the United States, Canada, and Mexico, this year's tournament featured 48 teams—the largest in World Cup history. Infantino called the official game ball 'a magic object which has the power to unite the world.'",
-      "The France-England third-place game takes place today in Miami Gardens, Florida. Sunday's final between Argentina and Spain occurs at MetLife Stadium in East Rutherford, New Jersey.",
-      "Infantino pledged to the international community that he and FIFA would 'lend our full support' to youth mental health causes. He described FIFA as an 'official happiness provider to humanity' for 120 years.",
-      "Geopolitical controversy marked the tournament, including issues surrounding the Iranian team and criticism over the suspension of American player Folarin Balogun. Despite these tensions, organizers maintained the World Cup exceeded all expectations."
+      "On Friday, the CNBC All-America Economic Survey revealed voters find the MAGA label more politically poisonous than Democratic Socialism, with democratic socialist candidates faring better than MAGA supporters overall.",
+      "Fifty-Seven percent of voters say identifying as a MAGA supporter makes them less likely to vote for them; President Donald Trump's endorsement similarly repels 52% of voters from supporting a candidate.",
+      "Democratic socialist candidates face less resistance: 32% of voters would support one, compared to 50% who say they would not, creating a net advantage over MAGA-aligned candidates.",
+      "Democrats currently hold a four percentage-point lead in the generic ballot, with 49% of voters preferring a Democrat-controlled Congress over 45% for Republicans heading into midterm elections.",
+      "Voters aged 18-34 preferred socialism by an 18% margin, prompting Micah Roberts, a partner at Public Opinion Strategies, to warn that persistent attitudes could trigger a \"seismic shift\" in national economic policy."
     ],
-    "title": "Trump, Infantino give World Cup high praise, calling tournament a success",
-    "topic": "World Cup",
-    "topic_full": "World Cup · United States"
-  },
-  {
-    "article_path": "/article/senator-says-key-piece-of-college-sports-legislation-probably-has-60-votes-to-clear-upper-chamber",
-    "article_url": "https://ground.news/article/senator-says-key-piece-of-college-sports-legislation-probably-has-60-votes-to-clear-upper-chamber",
-    "bias": [
-      "Across left, center, and right coverage, the narrative is strikingly uniform: Sen. Eric Schmitt’s Protect College Sports Act is framed as a “key piece” of legislation that “probably” has 60 votes and could clear the Senate.",
-      "The real divide is not ideological spin but depth—center coverage adds the direct quote, the AP Sports Editors meeting, and the warning that the next two weeks are “critical,” while left and right stay mostly at headline level.",
-      "Even so, the shared hedging around “probably” and the procedural focus on vote count signal a common emphasis on legislative arithmetic over partisan drama."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": "United States",
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Sen. Eric Schmitt said the Protect College Sports Act likely has 60 Senate votes, the threshold needed to advance the bill regulating college athlete name, image, and likeness payments.",
-      "Sens. Ted Cruz, R-Texas, and Maria Cantwell, D-Wash., introduced the legislation to provide the NCAA and conferences liability protection while preempting the patchwork of state laws governing NIL payments.",
-      "In a letter last month, SEC commissioner Greg Sankey argued the bill's civil lawsuit provisions could increase litigation, suggesting the legislation might create more problems than it solves.",
-      "Leaders from the Southeastern and Big Ten, who oppose the bill as written, are negotiating with sponsors to address concerns regarding the option for conferences to pool media rights.",
-      "Schmitt called the next two weeks critical, warning that without the bill, \"the trajectory of this in three years will be even further unrecognizable,\" predicting women's sports teams might fold."
-    ],
-    "title": "Senator says key piece of college sports legislation ‘probably’ has 60 votes to clear upper chamber",
+    "title": "Democratic Socialists Top MAGA Candidates Among Voters in CNBC's All-America Poll",
     "topic": "US Politics",
     "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/ice-detention-center-worker-arrested-on-attempted-murder-allegation-internewscast-journal",
-    "article_url": "https://ground.news/article/ice-detention-center-worker-arrested-on-attempted-murder-allegation-internewscast-journal",
+    "article_path": "/article/abbott-discloses-cyberattack-on-cancer-diagnostics-business",
+    "article_url": "https://ground.news/article/abbott-discloses-cyberattack-on-cancer-diagnostics-business",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 100.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "Abbott Laboratories disclosed on Friday that a cyberattack hit its cancer diagnostics business , involving unauthorized access to internal systems and the LabCentral portal.",
+      "Multiple medtech firms including Stryker, Medtronic, and AdaptHealth have reported cyber incidents in recent months, placing Abbott within a broader industry trend.",
+      "Legacy Exact Sciences systems, acquired in a $21 billion deal earlier this year, remained separate from Abbott's systems and were not impacted by the incidents.",
+      "Abbott stated that operations, manufacturing, and product availability were not affected, with no known exposure of sensitive customer or business information.",
+      "Following the incidents, Abbott engaged third-party cybersecurity experts and law enforcement to investigate, expecting no material impact on business or financial results."
+    ],
+    "title": "Abbott investigates two separate cyber incidents, says no operations affected",
+    "topic": "Cyberattacks",
+    "topic_full": "Cyberattacks · United States"
+  },
+  {
+    "article_path": "/article/father-and-son-arrested-after-holding-2-forest-service-workers-who-were-held-at-gunpoint_479063",
+    "article_url": "https://ground.news/article/father-and-son-arrested-after-holding-2-forest-service-workers-who-were-held-at-gunpoint_479063",
     "bias": [
-      "Left-Leaning coverage frames the shooting as part of a broader ICE abuse story, spotlighting the worker, the private-prison operator, and even the protester “walking away,” with charged language like “blood on its hands” and “tragedy” to stress institutional culpability.",
-      "Right-Leaning coverage pivots toward the protester’s alleged “blocking access to facility,” using “JUST IN” and “attempted second-degree murder charge” to cast the arrest as urgent and the protest as disruptive.",
-      "Center coverage stays mostly procedural.",
-      "Both sides agree on the arrest and injury, but the split reflects deeper fault lines over immigration enforcement, protest legitimacy, and who is seen as the aggressor."
+      "Left-Leaning coverage centers the violent-crime frame, stressing “held at gunpoint,” “hostage,” and the arrest/charges, while right-leaning coverage pushes a more dramatic law-and-order narrative with words like “hostage crisis,” “standoff,” and “taken hostage,” plus the reassuring emphasis on being “released safely.” The key dividing line is whether the story is portrayed mainly as an alleged kidnapping or as a resolved public-safety episode; the right also foregrounds the 15-hour captivity, while the left de-emphasizes that resolution.",
+      "Center coverage stays more restrained, highlighting routine field operations.",
+      "Both sides agree on the core facts, but differ on severity, urgency, and narrative arc."
     ],
     "bias_bar_text": null,
-    "center_pct": 33.0,
+    "center_pct": 44.0,
     "error": null,
-    "left_pct": 43.0,
-    "location": "Colorado",
+    "left_pct": 32.0,
+    "location": "California",
     "right_pct": 24.0,
     "status": "ok",
     "summary": [
-      "On Thursday, July 16, 2026, Aurora Police arrested Brandon Booth, a 42-year-old employee of private prison firm GEO Group, after he allegedly shot a woman protesting outside the Aurora ICE Processing Center.",
-      "Employees were waiting in their vehicles along Nome Street, unable to enter the complex for work shifts due to the demonstration, which sparked a verbal confrontation with protesters.",
-      "After protesters took photos of vehicles and walked away, Booth retrieved a personally owned pistol and fired once, striking the woman in her lower body; police detained him in his vehicle a short distance away.",
-      "Booth faces charges of attempted second-degree murder, first-degree assault, and felony menacing, while GEO Group confirmed he has been placed on unpaid administrative leave.",
-      "The Aurora ICE Processing Center has been a focal point for immigrant rights protests in Colorado since President Donald Trump took office for a second time last year."
+      "A father and son are expected to face federal kidnapping charges after they zip-tied two U.S. Forest Service employees and held them at gunpoint near Mt. Shasta in Northern California.",
+      "The employees were conducting routine field operations in the Shasta-Trinity National Forest when they were taken on Thursday.",
+      "The workers were held for more than 12 hours near Gunboot Lake and were released safely early Friday morning.",
+      "FBI Sacramento Acting Special Agent Brian Tosh said it was fortunate no one was hurt during the standoff, as crisis situations like this rarely end with everyone leaving safely."
     ],
-    "title": "Off-Duty Employee Arrested in Shooting Near ICE Detention Center in Colorado that Injured a Woman",
-    "topic": "Immigration and Customs Enforcement",
-    "topic_full": "Immigration and Customs Enforcement · Colorado"
+    "title": "Father and son arrested after holding 2 Forest Service workers who were held at gunpoint",
+    "topic": "US Crime",
+    "topic_full": "US Crime · California"
   },
   {
-    "article_path": "/article/newborns-swapped-in-hospital-two-families-sue-after-dna-tests",
-    "article_url": "https://ground.news/article/newborns-swapped-in-hospital-two-families-sue-after-dna-tests",
+    "article_path": "/article/cnn-and-bangor-daily-news-to-host-july-23-debate-for-maine-democrats-running-to-replace-graham-platner_beb2c6",
+    "article_url": "https://ground.news/article/cnn-and-bangor-daily-news-to-host-july-23-debate-for-maine-democrats-running-to-replace-graham-platner_beb2c6",
     "bias": [
-      "Left-Leaning coverage frames the case as profound institutional harm, using moral language like “robbed” and “accusing” to stress lost lives and responsibility, while right-leaning coverage leans into conflict and legal exposure with terms like “swapped,” “negligence,” and “emotional distress,” making the lawsuit itself the story.",
-      "The sharp dividing line is culpability: the left emphasizes the hospital’s role in life-long damage, the right foregrounds the alleged swap and claims, and the center briefly balances both by noting there’s “no evidence” staff were responsible.",
-      "All three agree on the DNA revelation, hospital setting, and 38-year span, but differ on whether the event is a tragedy, a legal dispute, or both."
+      "Left coverage frames the story as Democrats “scrambling” to rebuild Platner’s progressive base and refocus on defeating Collins, while the right leans into skepticism and ridicule, using phrases like “forced out,” “impossible to decipher,” and “halting and nervous” to depict chaos and weakness.",
+      "The center stays more procedural, stressing the debate’s “difficulty” and who seems “best prepared.” The sharpest dividing lines are Platner’s removal, the party’s time pressure, and whether the race is a serious Senate pivot or a partisan farce; both sides still agree it matters for Collins and broader Senate control."
     ],
     "bias_bar_text": null,
-    "center_pct": 42.0,
+    "center_pct": 57.0,
     "error": null,
-    "left_pct": 44.0,
-    "location": "Colorado",
-    "right_pct": 14.0,
+    "left_pct": 30.0,
+    "location": "Maine",
+    "right_pct": 13.0,
     "status": "ok",
     "summary": [
-      "Kyle Bylin and Jeremy Morrison filed a lawsuit last week against Unity Medical Center in Grafton, North Dakota, alleging they were switched at birth on Jan. 26, 1988.",
-      "DNA tests revealed the switch two years ago, shattering what the men believed about their families and prompting the legal action against the hospital.",
-      "Unity Medical does not dispute the switch occurred but found no evidence staff were responsible; the hospital notes that nearly four decades of records no longer exist.",
-      "Evelyn Newton, who raised one of the men, told The Associated Press on Friday that her bond remains unchanged, stating, \"Kyle is still my son — that is never going to change.\"",
-      "Birth-Switch cases have surfaced globally, including in Pennsylvania where two girls were switched 75 years earlier, and in Norway and Canadian communities, though Dr. Jonathan Marron of Harvard Medical School's Center for Bioethics says such mix-ups should happen \"pretty close to never\" nowadays."
+      "Maine Democrats held their first debate to find a replacement for Graham Platner , who quit the race after a rape accusation surfaced despite winning the primary with 70 percent of the vote.",
+      "Secretary of State Shenna Bellows and Troy Jackson participated in the debate, with Jackson appearing confident and winning many online viewers over.",
+      "Ashley Webb, a trans female candidate, expressed the belief she should be allowed to use women’s bathrooms during the debate.",
+      "Moderators avoided addressing Platner’s alleged sexual assault or legal residency controversy during the debate."
     ],
-    "title": "Men Sue Hospital After DNA Tests Showed They Were Switched at Birth 38 Years Ago",
-    "topic": "Health",
-    "topic_full": "Health · Colorado"
+    "title": "Maine Democrats Hold First Debate to Replace Platner",
+    "topic": "Maine Politics",
+    "topic_full": "Maine Politics · Maine"
   }
 ]
