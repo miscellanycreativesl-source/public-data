@@ -1,15 +1,94 @@
 [
   {
-    "article_path": "/article/rep-wesley-bell-defeats-former-rep-cori-bush-in-a-missouri-democratic-primary-rematch",
-    "article_url": "https://ground.news/article/rep-wesley-bell-defeats-former-rep-cori-bush-in-a-missouri-democratic-primary-rematch",
-    "bias": null,
+    "article_path": "/article/new-mexico-sues-us-government-for-access-to-epstein-files",
+    "article_url": "https://ground.news/article/new-mexico-sues-us-government-for-access-to-epstein-files",
+    "bias": [
+      "Left-Leaning coverage frames the lawsuit as part of a broader Trump-era accountability fight, stressing that the DOJ and Todd Blanche are “blocking” or “stonewalling” a probe and using adversarial terms like “sues” and “alleging.” Right-leaning coverage keeps the same conflict but sharpens it with more dramatic cues such as “bombshell,” “politically charged fight,” and “unredacted,” while also adding the DOJ’s privacy rationale about court orders and victim-identifying information.",
+      "Both sides center the withheld Epstein/Zorro Ranch files and New Mexico’s investigation, but they diverge on whether the story is mainly about obstruction or justified secrecy."
+    ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "no_change",
+    "status": "ok",
+    "summary": [
+      "On Thursday, New Mexico Attorney General Raúl Torrez sued the U.S. Department of Justice and Acting Attorney General Todd Blanche for \"complete and unredacted access\" to files regarding Jeffrey Epstein 's Zorro Ranch, claiming federal obstruction hinders the state's criminal investigation.",
+      "Federal prosecutors previously asked New Mexico to pause its 2019 investigation, promising to share relevant information after their own work concluded; the state contends that despite these assurances, the Department of Justice has withheld requested records for years.",
+      "Investigators require access to files referencing the Zorro Ranch property at least 13,000 times, according to Torrez, as these documents are critical for identifying victims, corroborating evidence, and determining the full scope of alleged crimes.",
+      "The complaint argues the federal refusal violates the Administrative Procedure Act and interferes with state authority to prosecute crimes, as New Mexico officials stated they are one of the few jurisdictions positioned to hold associates accountable.",
+      "Texas businessman Don Huffines acquired the 26,700-square-foot Zorro Ranch in 2023; the self-declared \"MAGA Trump Republican\" paid $27.5 million for the property in 2021 and plans to operate a Christian retreat there."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/abdul-el-sayed-wins-michigan-senate-primary-in-major-victory-for-democrats-progressive-wing_72e81a",
+    "article_url": "https://ground.news/article/abdul-el-sayed-wins-michigan-senate-primary-in-major-victory-for-democrats-progressive-wing_72e81a",
+    "bias": [
+      "Left-Leaning coverage frames El-Sayed’s primary win as a progressive breakthrough, stressing “progressive,” “victory,” and a “blow to the establishment,” while right-leaning coverage turns the same result into a warning about Democratic “civil war,” “insurgent radicals,” and “far-left” momentum.",
+      "The split sharpens around AIPAC , Israel, and electability: the left highlights outside spending as evidence of anti-lobby backlash, whereas the right foregrounds “AIPAC-backed” rivalries and general-election risk.",
+      "Both sides agree the race was close and a major test of Democratic direction, but they interpret that divide through opposing ideological lenses."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 39.0,
+    "error": null,
+    "left_pct": 34.0,
+    "location": null,
+    "right_pct": 27.0,
+    "status": "ok",
+    "summary": [
+      "Former public health official Abdul El-Sayed secured a narrow victory over Representative Haley Stevens in Michigan's highly contested Democratic U.S. Senate primary.",
+      "Endorsed by prominent figures including Bernie Sanders and Alexandria Ocasio-Cortez, El-Sayed’s victory is viewed as a significant milestone in the ongoing competition between the Democratic Party 's progressive wing and its establishment-backed centrist faction.",
+      "In a primary defined by record outside funding and advertising expenditures, El-Sayed ran a grassroots campaign focused on \"Medicare for All\" and removing corporate money from politics.",
+      "Competing for the seat being vacated by retiring Senator Gary Peters, El-Sayed will face Republican nominee and former U.S. Representative Mike Rogers in the November general election."
+    ],
+    "title": "Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats’ progressive wing",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/a-piece-of-a-spacex-rocket-is-about-to-hit-the-moon",
+    "article_url": "https://ground.news/article/a-piece-of-a-spacex-rocket-is-about-to-hit-the-moon",
+    "bias": [
+      "Left-Leaning coverage reframes the Moon strike as a broader SpaceX story, stressing “disappointed investors,” NASA’s training/scientific role, and cautionary wording like “thought to have crashed,” while right-leaning pieces turn it into spectacle and critique, using punchier phrases like “slams,” “rare event,” “space scrap,” and even “blinding 5,400mph” to heighten drama and raise questions of avoidability and debris management.",
+      "The pivot points are uncertainty versus certainty, and whether the event is a routine space mishap or a consequential warning sign; both sides agree it was a four-ton booster with no danger to Earth, but they diverge on whether it chiefly signals scientific interest or systemic recklessness."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 53.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": null,
+    "right_pct": 19.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, a SpaceX Falcon 9 rocket stage struck the Moon's western limb near Einstein Crater at about 5,400 mph, likely creating a 60-foot-wide crater and ejecting lunar dust and rock.",
+      "SpaceX director of NASA science Julianna Scheiman explained that solar activity and gravity forces pushed the uncontrolled rocket stage toward the Moon after its January 2025 launch required extra thrust.",
+      "Astronomy software creator Bill Gray noted the impact highlights \"a certain carelessness about how leftover space hardware is disposed of,\" though the collision poses no threat to Earth.",
+      "NASA plans to collect data from the impact to study lunar geology and debris behavior, utilizing observations similar to intentional crashes conducted in the 1970s and 2009 to improve future exploration models.",
+      "To protect the Artemis program's planned lunar base, NASA and SpaceX are discussing ways to prevent future lunar impacts as routine astronaut missions begin later this decade."
+    ],
+    "title": "Piece of SpaceX rocket believed to have crashed into the moon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/rep-wesley-bell-defeats-former-rep-cori-bush-in-a-missouri-democratic-primary-rematch",
+    "article_url": "https://ground.news/article/rep-wesley-bell-defeats-former-rep-cori-bush-in-a-missouri-democratic-primary-rematch",
+    "bias": [
+      "Left-Leaning coverage frames Bell’s win as an establishment-versus-progressive story, spotlighting AIPAC spending “more than $3 million” and terms like “rare win,” “establishment Democrats,” and “DSA-backed” to suggest outside influence and intraparty pressure; right-leaning coverage turns the same race into a rebuke of the “Squad,” using sharper labels like “socialist,” “far-left,” “thwarted,” and “Fails” to cast Bush’s loss as ideological rejection.",
+      "Center coverage stays closer to the rematch and nomination result, with a subdued, heated-primary tone.",
+      "Across all sides, Bell’s victory and the deep-blue district are shared anchors, but the divide is whether the race is about policy factionalism, progressive backlash, or plain electoral consequence."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 36.0,
+    "error": null,
+    "left_pct": 37.0,
+    "location": null,
+    "right_pct": 27.0,
+    "status": "ok",
     "summary": [
       "On Tuesday, incumbent Rep. Wesley Bell defeated former Rep. Cori Bush in the Democratic primary for Missouri 's 1st Congressional District, securing the party nomination in his reelection bid.",
       "The United Democracy Project, a super PAC of the American Israel Public Affairs Committee , funded Bell's campaign with more than $3 million in 2026, after spending more than $8 million in 2024.",
@@ -17,7 +96,7 @@
       "Nearly 60% of Democrats believe the U.S. is too supportive of Israel, according to a July poll; eighty percent of Democratic-leaning voters view the country unfavorably, according to April data.",
       "Both Bush and Bell emerged from Ferguson's 2014 Black Lives Matter protests following Michael Brown's shooting. While Bush became a grassroots leader, Bell pursued local office and adopted reform policies to win his primary victories."
     ],
-    "title": "Source Icon",
+    "title": "Rep. Wesley Bell defeats former Rep. Cori Bush in a Missouri Democratic primary rematch",
     "topic": null,
     "topic_full": null
   },
@@ -33,15 +112,14 @@
     "bias_bar_text": null,
     "center_pct": 50.0,
     "error": null,
-    "left_pct": 27.0,
+    "left_pct": 26.0,
     "location": null,
-    "right_pct": 23.0,
+    "right_pct": 24.0,
     "status": "ok",
     "summary": [
-      "On Saturday, authorities arrested 38-year-old Jeanine John Taele at Trump National Golf Club in Rancho Palos Verdes after agents observed him \"taking photographs and videos and appearing to monitor security-planning activities\" ahead of President Donald Trump's Tuesday visit.",
+      "On Saturday, authorities arrested 38-year-old Jeanine John Taele at Trump National Golf Club in Rancho Palos Verdes after agents observed him \"taking photographs and videos and appearing to monitor security-planning activities\" ahead of President Donald Trump 's Tuesday visit.",
       "Detectives subsequently searched Taele's Downey residence, discovering an illegally modified AR-platform rifle, body armor, and notebooks containing \"concerning statements,\" according to the Los Angeles County Sheriff's Department.",
       "The investigation, involving the FBI's Joint Terrorism Task Force and the Secret Service, also uncovered a loaded pistol and hollow-point ammunition in Taele's vehicle at the golf course, authorities said.",
-      "While the president prepares for Tuesday's Republican Party fundraiser, California Governor Gavin Newsom criticized the visit, noting residents await wildfire relief aid despite submitting more than $1.5 billion in claims.",
       "Authorities confirmed the investigation remains ongoing, though they identified no credible threat to the community; the case has been presented to the Los Angeles County District Attorney's Office for filing consideration."
     ],
     "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
@@ -49,772 +127,750 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/senate-judiciary-committee-advances-blanches-nomination-for-attorney-general_125438",
-    "article_url": "https://ground.news/article/senate-judiciary-committee-advances-blanches-nomination-for-attorney-general_125438",
+    "article_path": "/article/new-cdc-director-is-confirmed-giving-agency-its-first-permanent-leader-in-a-year",
+    "article_url": "https://ground.news/article/new-cdc-director-is-confirmed-giving-agency-its-first-permanent-leader-in-a-year",
     "bias": [
-      "Left-Leaning coverage frames Blanche as an embattled, Trump-linked nominee advancing “despite concerns,” stressing hidden risks, “secret” dealings, and even abortion-related promises, while right-leaning coverage portrays the same vote as a procedural win, using upbeat cues like “advances,” “BREAKING,” and labels such as “Trump loyalist” to suggest momentum and eventual approval.",
-      "The sharpest dividing lines are the $1.8 billion settlement/anti-weaponization deal and the role of GOP holdouts, which the left casts as pressure and “caving,” but the right treats as concerns being resolved.",
-      "Both sides note the 12-10 party-line vote, yet they connect it to broader fights over DOJ power, corruption, and reproductive rights."
+      "Left-Leaning coverage frames Erica Schwartz’s confirmation as a fix for a “troubled agency,” stressing “political meddling,” “low morale,” and “new leadership” as a remedy for institutional dysfunction.",
+      "Right-Leaning coverage, by contrast, turns the appointment into a crisis story, pairing it with a “diarrhea-causing parasite outbreak” and “concerns” about vaccine views, using sharper, alarm-driven language.",
+      "Center-Leaning coverage sits between them, focusing on a nearly yearlong “vacancy,” succession, and continuity after Susan Monarez’s firing.",
+      "All three agree the CDC got a new leader, but they diverge on whether the story is about repair, urgency, or administrative transition."
+    ],
+    "bias_bar_text": "L 24% Center 66% 10%",
+    "center_pct": 66.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": null,
+    "right_pct": 10.0,
+    "status": "ok",
+    "summary": [
+      "The Senate confirmed Dr. Erica Schwartz as director of the Atlanta-based CDC in a 51-44 vote on Wednesday, making her the agency's 22nd leader and first Senate-confirmed director in nearly a year.",
+      "Turmoil has gripped the CDC since Republican President Donald Trump returned to office last year, with the agency losing more than 3,000 employees—over one-quarter of its workforce—amid layoffs and resignations.",
+      "Schwartz is the third Trump nominee for CDC director in the past 18 months; earlier, the Senate canceled a hearing for David Weldon, and Susan Monarez was ousted less than a month after confirmation.",
+      "Sen. Bill Cassidy, R-La., initially questioned whether Schwartz would resist pressure from health secretary Robert Kennedy, but gained confidence after further discussions, overcoming gridlock in the Senate Health, Education, Labor and Pensions Committee.",
+      "With medical and law degrees plus Coast Guard leadership experience, Schwartz faces the challenge of stabilizing the agency amid depleted morale and ongoing political friction within federal health leadership."
+    ],
+    "title": "New CDC director is confirmed, giving agency its first permanent leader in a year",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/apple-asks-us-justice-to-stop-openai-as-the-dispute-over-its-secrets-unfolds-in-public",
+    "article_url": "https://ground.news/article/apple-asks-us-justice-to-stop-openai-as-the-dispute-over-its-secrets-unfolds-in-public",
+    "bias": [
+      "Left-Leaning coverage frames the dispute as a counterattack, emphasizing terms like “accuses” and “hide its AI failures” to suggest Apple is using litigation to deflect from weakness, while right-leaning coverage is more combative toward Apple, spotlighting “baseless” and “meritless” to portray the suit as flimsy and amplifying OpenAI ’s denial of any “use” or “desire” for trade secrets.",
+      "The dividing lines are sharpest around motive: left outlets stress Apple’s AI struggles, whereas right and center pieces focus on consumer-hardware ambitions and alleged hiring/supplier channels.",
+      "Both sides agree on the lawsuit itself, but their framing reflects broader competition-versus-accountability and legal-versus-strategic narratives."
+    ],
+    "bias_bar_text": "L 18% Center 36% Right 46%",
+    "center_pct": 36.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": null,
+    "right_pct": 46.0,
+    "status": "ok",
+    "summary": [
+      "Apple requested a preliminary injunction on Monday to bar OpenAI from using alleged trade secrets, while OpenAI asked a federal judge Wednesday to dismiss the lawsuit, arguing it has \"no use, need or desire for Apple's trade secrets.\"",
+      "The lawsuit stems from Apple's allegation that more than 400 of its former employees have joined OpenAI, fueling a broader struggle for AI-powered hardware dominance as both firms compete to build next-generation devices.",
+      "OpenAI's 31-page motion to dismiss uses the word \"fail\" nearly 50 times, while countering that Apple compromised its own security by encouraging employees to use personal accounts for work, intermingling corporate and personal data.",
+      "Despite the legal friction, the companies remain business partners; Apple users continue accessing ChatGPT through Siri and can subscribe directly via iOS settings, revealing the complex interdependence between the competing firms.",
+      "The case reflects a high-stakes fight for AI-powered device dominance, as industry analysts believe OpenAI is developing hardware that could challenge Apple's market position in consumer devices."
+    ],
+    "title": "OpenAI asks US judge to dismiss Apple's trade secrets case",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/qdoba-removes-jalapenos-from-restaurants-as-cdc-warns-of-salmonella-outbreak-in-27-states",
+    "article_url": "https://ground.news/article/qdoba-removes-jalapenos-from-restaurants-as-cdc-warns-of-salmonella-outbreak-in-27-states",
+    "bias": [
+      "Left-Leaning coverage frames the salmonella story as a public-health crisis, stressing “hundreds sickened,” “27 states,” and even hospitalizations to foreground scale and urgency.",
+      "Center-Leaning headlines stay close to agency guidance, using terms like “warns,” “avoid,” and “recalled” while adding practical detail about restaurant chains and the CDC /FDA response.",
+      "Right-Leaning coverage is terser but sharper in a different way, spotlighting “Mexican jalapenos” and the supplier’s recall, a choice that subtly shifts attention toward origin and responsibility.",
+      "All sides agree on the outbreak’s link to jalapeños, but they diverge on whether the story is mainly about illness, consumer caution, or source accountability."
     ],
     "bias_bar_text": null,
-    "center_pct": 50.0,
+    "center_pct": 84.0,
     "error": null,
-    "left_pct": 30.0,
-    "location": null,
-    "right_pct": 20.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, the Senate Judiciary Committee voted 12-10 to advance Acting Attorney General Todd Blanche 's nomination, clearing a key procedural hurdle for a confirmation vote before the full Senate.",
-      "The committee's support followed a weekend deal between Blanche and Republican Senators John Cornyn of Texas and Thom Tillis of North Carolina, who had threatened to block confirmation over the nearly $1.8 billion 'Anti-Weaponization Fund.'",
-      "After days of negotiations, Blanche issued an order Sunday evening confirming 'beyond any doubt, that there is no Fund,' while clarifying that tax audit immunity for President Donald Trump applies only to open claims.",
-      "Democrats expressed skepticism, noting the fund 'can easily be revived with a new order' after confirmation, and the current order fails to stop the Justice Department from compensating allies through other established processes.",
-      "Critics continue to scrutinize Blanche's independence from the White House, citing his pursuit of political opponents, the indictment of former FBI director James Comey, and the agency's handling of files related to Jeffrey Epstein."
-    ],
-    "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/authorities-arrest-arson-suspect-in-connection-with-one-of-the-devastating-spokane-wildfires_019c8e",
-    "article_url": "https://ground.news/article/authorities-arrest-arson-suspect-in-connection-with-one-of-the-devastating-spokane-wildfires_019c8e",
-    "bias": [
-      "Left-Leaning coverage frames the Spokane fire as a devastating public-safety and climate-risk story, stressing “evacuation” totals, “700 structures,” and broader warnings about “climate change,” while right-leaning coverage turns the same arrest into a law-and-order morality tale, foregrounding the suspect’s prior manslaughter record and using sharper phrases like “pure evil,” “demon spawn,” “war zone,” and “0% contained” to intensify outrage.",
-      "The key dividing lines are the suspect’s background and whether the blaze is read through climate context or criminal culpability.",
-      "Both sides agree on the arrest, the arson charge, and the scale of destruction, but they reveal deeper ideological splits over cause, responsibility, and crisis framing."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": null,
-    "right_pct": 20.0,
-    "status": "ok",
-    "summary": [
-      "Spokane County Sheriff’s deputies arrested 37-year-old Aaron F. Farinacci on first-degree arson charges in connection with the Old Trails Fire, the largest of three blazes burning around eastern Washington's second-largest city.",
-      "A citizen tip proved key to identifying the suspect, after a witness reported seeing a nervous-looking man bending near grass shortly before smoke emerged at the fire's origin point on August 1.",
-      "Farinacci was initially questioned and released on the day the fire started, but major crimes detectives later pieced together evidence, body-camera footage, and the fact that he was carrying waterproof matches and a butane lighter when first detained.",
-      "The combined Spokane-area wildfires have destroyed over 700 structures and forced approximately 67,000 residents to evacuate amid extreme fire weather conditions.",
-      "Farinacci, who has a prior felony conviction for manslaughter in Arizona, is held on a $1 million bond ahead of his preliminary court appearance, while authorities continue investigating the causes of the other regional blazes."
-    ],
-    "title": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/michigan-reports-two-deaths-in-ongoing-cyclosporiasis-outbreak",
-    "article_url": "https://ground.news/article/michigan-reports-two-deaths-in-ongoing-cyclosporiasis-outbreak",
-    "bias": [
-      "Left-Leaning coverage frames the deaths as a broader public-health crisis, sometimes using sharper language like “massive outbreak,” “explosive diarrhea,” or even “disaster,” and extending the story into criticism of federal health capacity; right-leaning coverage leans toward severity and source-tracing, spotlighting “deadly,” “dangerous parasite,” and contaminated produce such as “iceberg lettuce,” plus the scale of “more than 11,000” cases.",
-      "The key dividing lines are whether the story becomes a governance failure or a food-safety warning, while both sides agree on the two Michigan deaths, the underlying conditions, and the outbreak’s national significance."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 26.0,
-    "location": null,
-    "right_pct": 19.0,
-    "status": "ok",
-    "summary": [
-      "On Aug 3, the Michigan Department reported two deaths linked to cyclosporiasis, stating both individuals had underlying health conditions that \"may have been impacted by cyclosporiasis and dehydration.\"",
-      "Cyclosporiasis is a seasonal diarrheal illness caused by a parasite that commonly causes \"explosive diarrhea\" and hides in the rough, irregular surfaces of fresh produce like leafy greens and berries.",
-      "The CDC reports an acceleration of United States food-related illnesses this year, though no single source has been identified as the parasite is increasingly found on domestically grown produce.",
-      "Dr. Steven Goldberg of HealthTrackRx recommends manually cleaning produce under forceful water, avoiding bleach; he notes \"prewashed\" produce does not require additional washing at home.",
-      "With the cyclosporiasis season lasting through Aug 31, consumers should refrigerate cut or cooked produce within two hours to minimize illness risks during the remainder of the active season."
-    ],
-    "title": "Michigan reports two deaths in ongoing cyclosporiasis outbreak",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/abdul-el-sayed-wins-michigans-democratic-senate-primary-nbc-news-projects",
-    "article_url": "https://ground.news/article/abdul-el-sayed-wins-michigans-democratic-senate-primary-nbc-news-projects",
-    "bias": [
-      "Left-Leaning coverage frames Abdul El-Sayed’s win as a “victory for the left” and a rebuke to the “establishment,” stressing grassroots momentum and even noting he overcame more than $60 million in spending; right-leaning coverage pivots to horse-race drama, using terms like “nail-biter,” “bitter civil war,” and “Jew-hatred” to cast the primary as chaotic, faction-ridden, and ideologically combustible, with AIPAC -backed spending over $80 million as a flashpoint.",
-      "The center is more explicit about “anti-Israel” versus “establishment wing” labels.",
-      "All sides agree the race was razor-thin and a test of Democrats’ direction, but they diverge on whether it signals progressive triumph or party fracture."
-    ],
-    "bias_bar_text": "Left 32% Center 26% Right 42%",
-    "center_pct": 26.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": null,
-    "right_pct": 42.0,
-    "status": "ok",
-    "summary": [
-      "NBC News projected progressive candidate Dr. Abdul El-Sayed as the winner of Michigan’s Democratic U.S. Senate primary, defeating establishment-backed U.S. Representative Haley Stevens in a closely watched contest.",
-      "The victory sets up a high-stakes November general election match-up between El-Sayed and Republican nominee Mike Rogers for the open Senate seat vacated by retiring Senator Gary Peters.",
-      "El-Sayed prevailed despite facing massive spending from outside super PACs, as groups affiliated with AIPAC and other moderate entities poured over $30 million into supporting Stevens.",
-      "The primary served as a key ideological battleground for the national party, highlighting sharp divisions over U.S. policy toward Israel, corporate influence in politics , and universal healthcare.",
-      "El-Sayed rallied strong grassroots support and key endorsements from progressive leaders including Sen. Bernie Sanders and Rep. Rashida Tlaib, particularly leveraging strong turnout among young voters and Arab American communities in Michigan."
-    ],
-    "title": "Abdul El-Sayed wins Michigan’s Democratic Senate primary, NBC News projects",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/what-is-rabbit-fever-cases-of-rare-tick-borne-illness-reported-on-long-island",
-    "article_url": "https://ground.news/article/what-is-rabbit-fever-cases-of-rare-tick-borne-illness-reported-on-long-island",
-    "bias": [
-      "Left-Leaning coverage treats the story as a public-health alert, stressing “rare” cases and “suspected/probable” reports with a measured, cautionary tone, while right-leaning coverage heightens urgency by using words like “spreads” and “major metro area,” casting the illness as a broader local threat.",
-      "The center leans explanatory, adding symptoms, treatment, and transmission details that both sides de-emphasize.",
-      "A key dividing line is whether the emphasis is on warning residents and monitoring cases or on contagion and proximity.",
-      "All sides agree on three New York cases of tularemia, but they frame the risk through different lenses of health concern, immediacy, and regional vulnerability."
-    ],
-    "bias_bar_text": "9% Center 89%",
-    "center_pct": 89.0,
-    "error": null,
-    "left_pct": 9.0,
-    "location": null,
-    "right_pct": 2.0,
-    "status": "ok",
-    "summary": [
-      "The Suffolk County Department reported three confirmed cases of tularemia, also known as \"rabbit fever,\" on Long Island this year, prompting health officials to warn residents.",
-      "Tularemia is a bacterial infection spread by tick bites or contact with infected animals, causing high fever and extreme fatigue that doctors say is more severe than Lyme disease.",
-      "Earlier this year, nine-year-old John Detmer required multiple rounds of antibiotics after a tick bite on his head caused weeks of severe pain and fever.",
-      "Health officials urge residents to perform daily tick checks and clean bite wounds with rubbing alcohol, monitoring for rashes for the next 30 days.",
-      "Experts predict a difficult tick season following a mild winter in New York, while the Suffolk County Department notes that confirming the rare diagnosis requires laboratory testing that can take several weeks."
-    ],
-    "title": "What Is ‘Rabbit Fever?’ Health Officials Report 3 Probable Cases in New York",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/trump-says-iran-facing-last-chance-before-decapitation_f18672",
-    "article_url": "https://ground.news/article/trump-says-iran-facing-last-chance-before-decapitation_f18672",
-    "bias": [
-      "Left-Leaning coverage frames the story as escalation first, emphasizing Trump’s repeated “hit very hard” and “last chance” threats, the “ war ” backdrop, and the broader implication that the conflict has become a struggle over the strait; right-leaning coverage instead spotlights Trump as a hard-nosed diplomat, using phrases like “diplomacy over military action,” “greater control,” and “progress” to present the same talks as pragmatic restraint.",
-      "The sharpest dividing lines are whether the deal is treated as imminent breakthrough or coercive brinkmanship, and whether the Strait’s closure is urgent.",
-      "Both sides agree the waterway is strategically vital and that talks are advancing, reflecting the split between hawkish security framing and crisis-focused caution."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 22.0,
-    "error": null,
-    "left_pct": 42.0,
+    "left_pct": 12.0,
     "location": "United States",
-    "right_pct": 36.0,
+    "right_pct": 4.0,
     "status": "ok",
     "summary": [
-      "US President Donald Trump said an interim deal to reopen the Strait of Hormuz could be announced as early as Wednesday, following talks involving the US, Iran, and Oman.",
-      "The proposed arrangement would allow safe passage through the strait, with northern inbound and southern outbound shipping lanes controlled by Iran and Oman respectively, and no toll payments.",
-      "Trump warned that Iran must allow the strait to reopen soon or face severe consequences, though talks and negotiations are ongoing with hopes for a peaceful resolution.",
-      "Iran denies negotiating directly with the US and states that talks are only with Oman regarding the management of the strait; officials have confirmed progress but not a finalized agreement."
+      "On Wednesday, Qdoba removed jalapeños from all locations, following Chipotle's lead as a salmonella outbreak sickened at least 345 people across 27 states. The Mexican-style restaurant chain is cooperating with public health authorities.",
+      "Investigators identified jalapeños grown in Sinaloa, Mexico, and distributed by Coast Citrus Distributors as the likely source of Salmonella Javiana. The Food and Drug Administration urged businesses to discard peppers from this supplier.",
+      "At least 36 hospitalizations have been reported, according to the Centers for Disease Control and Prevention. Patients typically experience fever and stomach cramps within 72 hours of exposure, according to the Mayo Clinic.",
+      "The FDA issued a safety advisory urging restaurants to \"carefully clean and sanitize any surfaces or containers that the product touched.\" Both Qdoba and Chipotle replaced affected jalapeños with product from different growers.",
+      "Because both chains removed affected products, the CDC said there is no \"current ongoing risk from these establishments to consumers.\" Officials are investigating whether recalled peppers reached grocery stores."
     ],
-    "title": "Trump Says Deal To Reopen Strait of Hormuz Could Come As Early As Wednesday",
-    "topic": "Iran War",
-    "topic_full": "Iran War · United States"
+    "title": "Mexican jalapenos tied to Salmonella outbreak in 27 US states",
+    "topic": "CDC",
+    "topic_full": "CDC · United States"
   },
   {
-    "article_path": "/article/how-permanent-daylight-saving-time-could-impact-colorado-ski-resorts_266bca",
-    "article_url": "https://ground.news/article/how-permanent-daylight-saving-time-could-impact-colorado-ski-resorts_266bca",
+    "article_path": "/article/who-is-julie-tetart-french-trans-basketball-star-what-we-know-about-her-plans-to-pursue-wnba-career",
+    "article_url": "https://ground.news/article/who-is-julie-tetart-french-trans-basketball-star-what-we-know-about-her-plans-to-pursue-wnba-career",
     "bias": [
-      "The left frames Trump’s push as a “disaster,” “controversial,” and even “mocked,” turning a clock-change proposal into a ridicule narrative, while the right presents it as a practical, leader-driven effort, stressing “urges,” “permanent,” and the “overwhelming House vote.” That split reveals the main dividing line: the left emphasizes skepticism and partisan theater; the right highlights momentum, public support, and Trump’s claims about “public safety,” “the economy ,” and “health.” The center sits between them with process details and historical context.",
-      "Both sides agree on the House passage and ending clock changes, but differ sharply on whether the issue is a policy fix or a political spectacle."
+      "Left-Leaning coverage is de-emphasized here, while the center frames Julie Tétart as a “trans basketball star” with a notable season and a plausible WNBA path, but the right turns the same story into a culture-war flashpoint, stressing “controversy,” “dominating,” and even “biological women” to question fairness and eligibility.",
+      "The most important dividing line is whether her openness to a WNBA offer is treated as a legitimate sports development or as proof of a broader dispute.",
+      "Right-Leaning pieces also pile on details like scoring, rebounding, age, and height, presenting them as ammunition, while both sides share one core point: she has drawn attention after a standout season and would not turn down an offer."
     ],
     "bias_bar_text": null,
-    "center_pct": 58.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "United States",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "On July 14, 2026, the U.S. House passed the Sunshine Protection Act with a 308-to-117 vote, aiming to make daylight saving time permanent nationwide.",
-      "Proponents including Florida Congressman Vern Buchanan and Scott Yates argue permanent daylight saving time boosts economic activity and safety, while critics recall the failed 1974 experiment that resulted in three student deaths in the first 12 days.",
-      "Sleep expert Karin Johnson warned the Senate Committee that permanent daylight saving time disrupts circadian rhythms and increases health risks including stroke and seasonal depression, though supporters cite studies showing reduced robbery rates.",
-      "Under the legislation, states can choose between permanent standard or daylight saving time, addressing geographic disparities; Florida previously signaled intent to adopt year-round daylight saving time in March 2018.",
-      "With clocks set to fall back on November 1, expectations for immediate federal action remain low as Senate Majority Leader John Thune remains uncommitted regarding the federal mandate, potentially leaving states to decide independently."
-    ],
-    "title": "Trump backs House-passed bill to make daylight savings time permanent",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · United States"
-  },
-  {
-    "article_path": "/article/lee-endorses-hatcher-in-republican-primary-for-tennessees-5th-congressional-district_0abeb7",
-    "article_url": "https://ground.news/article/lee-endorses-hatcher-in-republican-primary-for-tennessees-5th-congressional-district_0abeb7",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 71.0,
+    "center_pct": 17.0,
     "error": null,
     "left_pct": null,
-    "location": "Tennessee",
-    "right_pct": 29.0,
-    "status": "no_change",
-    "summary": [
-      "On Tuesday, Tennessee Gov. Bill Lee endorsed Charlie Hatcher in the Republican primary for Tennessee's 5th Congressional District, challenging incumbent Rep. Andy Ogles.",
-      "Lee said he has known Hatcher for 25 years through their farming and business backgrounds. Hatcher, a fifth-generation dairy farmer, served as Agriculture Commissioner for seven years in Lee's administration.",
-      "The Invest in Tomorrow Coalition has spent about $2 million on advertisements supporting Hatcher while criticizing Ogles' congressional record. The race pits the incumbent aligned with the House Freedom Caucus against a former cabinet official.",
-      "Voters head to the polls this Thursday to decide the primary contest. While Hatcher promises to support President Donald Trump's agenda, Trump has endorsed Ogles, who is seeking a third term.",
-      "The primary winner will advance to the November general election, where the GOP is favored to hold the seat. As of Monday, Decision Desk HQ gives the GOP a 95 percent chance against Democratic challenger Chaz Molder."
-    ],
-    "title": "Lee endorses Hatcher in Republican primary for Tennessee's 5th Congressional District",
-    "topic": "Tennessee Politics",
-    "topic_full": "Tennessee Politics · Tennessee"
-  },
-  {
-    "article_path": "/article/bouchard-hines-to-clash-for-open-james-seat-in-competitive-michigan-house-race_9fc647",
-    "article_url": "https://ground.news/article/bouchard-hines-to-clash-for-open-james-seat-in-competitive-michigan-house-race_9fc647",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 60.0,
-    "error": "Message: \n",
-    "left_pct": 20.0,
     "location": "United States",
-    "right_pct": 20.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Bouchard, Hines to clash for open James seat in competitive Michigan House race",
-    "topic": "Democratic Party",
-    "topic_full": "Democratic Party · United States"
+    "right_pct": 83.0,
+    "status": "ok",
+    "summary": [
+      "Monaco Basket Association center Julie Tetart dominated France's Ligue during the recent season, averaging roughly 21 points per game while leading the league in rebounding.",
+      "After stepping away for three years to undergo gender-affirming procedures, Tetart returned to the court in 2021 as the first transgender athlete to join a sports team in Monaco.",
+      "Tetart earned recognition as Domestic Player of the Year and Defensive Player of the Year, recording a new league record for rebounds in a March game with the highest overall player evaluation rating.",
+      "Her profile has surged during public debates regarding transgender athletes in women's sports, which Indiana Fever guard Sophie Cunningham recently addressed, though Tetart remains focused on her immediate career in France.",
+      "While Tetart described playing in the United States as a childhood dream, she noted, \"If they contact me, I won't say no. But you have to be realistic, I'm old, and there are far better players than me."
+    ],
+    "title": "French Transgender Basketball Player Says She Would Accept Opportunity to Play in the WNBA",
+    "topic": "WNBA",
+    "topic_full": "WNBA · United States"
   },
   {
-    "article_path": "/article/mckinney-duresky-to-battle-for-newhouses-house-seat-in-washington_1823f9",
-    "article_url": "https://ground.news/article/mckinney-duresky-to-battle-for-newhouses-house-seat-in-washington_1823f9",
+    "article_path": "/article/former-virginia-gov-glenn-youngkin-launches-new-conservative-policy-group",
+    "article_url": "https://ground.news/article/former-virginia-gov-glenn-youngkin-launches-new-conservative-policy-group",
     "bias": [
-      "Left-Leaning coverage frames McKinney through “Trump-backed” or “Trump-endorsed” cues and stresses the GOP vote split, making Duresky’s rise look like a product of Republican fragmentation in a “solidly red” district; right-leaning coverage is far more restrained, simply noting a Republican “advances” and largely de-emphasized beyond the race result.",
-      "The center uses the most procedural tone, with “projected” and “battle” around Newhouse’s open seat, avoiding the Trump lens.",
-      "The key divide is whether the story is about local advancement or Trump-era partisan alignment, though all sides still converge on the shared outcome: McKinney and Duresky moving to November."
+      "Left-Leaning coverage frames Youngkin as a “presidential prospect” mounting a political push, stressing “targeting” battleground states and tying the effort to Trump’s school-choice agenda, while right-leaning coverage presents a comeback story, using phrases like “stepping back into the political arena” and “major advocate” to cast the launch as a pro-parent, pro-tax-credit win.",
+      "The sharpest dividing line is whether the move is read as electoral strategy or policy advocacy.",
+      "Shared ground remains: both sides center his education initiative and its conservative tilt, but they diverge over whether it signals ambition, influence, or both."
     ],
     "bias_bar_text": null,
-    "center_pct": 35.0,
-    "error": null,
-    "left_pct": 36.0,
-    "location": "Washington",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Republican Amanda McKinney, a Yakima County commissioner, and Democrat John Duresky, a retired Air Force major, advanced from the 4th Congressional District primary to face off in November to succeed retiring Rep. Dan Newhouse.",
-      "McKinney leveraged an endorsement from President Donald Trump and $982,000 in fundraising to outpace GOP rivals Jerrod Sessler and state Sen. Matt Boehnke in the crowded Republican field.",
-      "Advancing with 30.8% of the vote, Duresky campaigned on affordability issues, including raising the federal minimum wage and strengthening labor protections endorsed by the Washington State Labor Council.",
-      "Separately, 5th District Republican Rep. Michael Baumgartner led his primary with 48% of the vote, seeking to defend the seat he won in 2024 against remaining challengers.",
-      "These outcomes set the stage for November in Eastern Washington, with the 4th District deemed solid red for Republicans while Baumgartner defends his neighboring seat in a region of Republican strength."
-    ],
-    "title": "McKinney, Duresky to battle for Newhouse’s House seat in Washington",
-    "topic": "Washington State Politics",
-    "topic_full": "Washington State Politics · Washington"
-  },
-  {
-    "article_path": "/article/police-conduct-first-search-and-seizure-at-starbucks-korea-over-tank-day-controversy",
-    "article_url": "https://ground.news/article/police-conduct-first-search-and-seizure-at-starbucks-korea-over-tank-day-controversy",
-    "bias": [
-      "Left-Leaning coverage frames the “Tank Day” promotion as a wound to collective memory, stressing “painful memories,” “defamed,” and the “controversial” event, while right-leaning coverage pivots to the procedural dispute, using phrases like “public outrage,” “disparaging remarks,” and “charges of insult and defamation” to spotlight legal stakes and civic complaint details.",
-      "The pivotal divide is whether the story is a historical-cultural affront or an investigation into wording and liability.",
-      "Both sides agree police “raided” or “searched” headquarters and that the May 18 legacy is central, but they part ways on whether the emphasis should be moral injury or accountability."
-    ],
-    "bias_bar_text": "Center 52% Right 43%",
-    "center_pct": null,
-    "error": null,
-    "left_pct": 5.0,
-    "location": null,
-    "right_pct": 43.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, the Seoul Metropolitan Police Agency raided Starbucks Korea's headquarters to investigate a marketing campaign that critics claimed insulted victims of South Korea's 1980 Gwangju pro-democracy uprising.",
-      "Launched in May, the controversial 'Tank Day' promotion offered tumbler discounts alongside the phrase 'Put it on the table with a sound of 'Tak!'' which evoked memories of military suppression of demonstrators.",
-      "Investigators are examining whether company officials intentionally planned the event to insult democracy movement members after a civic group filed a defamation complaint against Shinsegae Group Chairman Chung Yong-jin.",
-      "Starbucks Korea fired CEO Son Jung-hyun and Chairman Chung issued apologies, while the company closed its more than 2,000 stores nationwide for mandatory social-sensitivity training.",
-      "Consumer brands operating in South Korea face significant risks navigating the country's historically sensitive political landscape, as this corporate crisis demonstrates."
-    ],
-    "title": "South Korea Police Search Starbucks Korea HQ Over Investigation, Media Report Says",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/kemi-badenochs-conservative-party-stands-former-neo-nazi-as-local-candidate",
-    "article_url": "https://ground.news/article/kemi-badenochs-conservative-party-stands-former-neo-nazi-as-local-candidate",
-    "bias": [
-      "Left-Leaning coverage turns the candidacy into a scandal, stressing Bonehill-Paine’s “former neo-Nazi” label, past convictions, and words like “slammed” and “new face” to cast Badenoch’s Conservatives as tainted; right-leaning coverage also foregrounds the controversy, but in a brisker, less accusatory register, using “stands” and “DETAIL” to present the selection as notable party news, while center-leaning headlines stay more matter-of-fact and de-emphasize the wider moral fallout, focusing instead on the election context and Badenoch’s defense.",
-      "The key dividing line is whether the story is about extremist baggage or a local candidacy, though all sides agree the selection itself is politically explosive."
-    ],
-    "bias_bar_text": "Left 53% Center 34% R 13%",
-    "center_pct": null,
-    "error": null,
-    "left_pct": 53.0,
-    "location": null,
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "Former neo-Nazi activist Joshua Bonehill-Paine will stand as the Conservative Party candidate for Crewkerne South in Somerset Council's local elections on May 6, 2027.",
-      "Bonehill-Paine previously served three years in prison following 2015 convictions for posting \"vile\" antisemitic material and racially aggravated harassment toward former Labour MP Luciana Berger.",
-      "Since his 2018 release, he has held Home Office counter-extremism certifications and manages the Crewkerne Gazette, an AI-satire account boasting \"over 200 million views.\"",
-      "Conservative leader Kemi Badenoch defended his selection, telling the Huffington Post he has \"shown contrition for his crimes\" and deserves a second chance.",
-      "Somerset residents will elect 96 councillors on May 6, 2027, the first poll conducted under new boundaries established by the Local Government Boundary Commission for England."
-    ],
-    "title": "Former Neo-Nazi Joshua Bonehill-Paine to Stand as Conservative Candidate in Somerset",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/marie-gluesenkamp-perez-to-face-trump-backed-john-braun-in-november_858456",
-    "article_url": "https://ground.news/article/marie-gluesenkamp-perez-to-face-trump-backed-john-braun-in-november_858456",
-    "bias": [
-      "Left-Leaning coverage stays mostly result-driven, emphasizing Perez’s continued “advances” and a coming “square-off,” while right-leaning coverage is even narrower, spotlighting only Perez and de-emphasized Braun, leaving the matchup less complete.",
-      "The sharpest divergence appears in the center framing: it adds “Trump-endorsed,” “toss-up,” “battleground,” and even an “uprising from the left,” turning a local primary into a nationally consequential fight over House control.",
-      "Shared ground remains the basic election outcome and November runoff, but the differing emphasis on Trump, partisan identity, and intraparty rebellion reveals broader ideological and strategic divides."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 56.0,
+    "center_pct": 25.0,
     "error": null,
     "left_pct": 25.0,
-    "location": "Washington",
-    "right_pct": 19.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, U.S. Rep. Marie Gluesenkamp Perez and state Senate Minority Leader John Braun advanced to the November general election in Southwest Washington's 3rd Congressional District, each receiving nearly 39% of the primary vote.",
-      "The nonpartisan Cook Political Report deems the 3rd District one of just 18 tossup races nationwide, positioning it as a critical battleground as Republicans view the seat as a prime opportunity to flip control of the House.",
-      "Gluesenkamp Perez's fundraising nears $6.5 million, while Braun's sits at roughly $2 million as of July; Braun offers years of state legislative experience unlike the political outsiders she previously faced.",
-      "Braun has focused on \"pocketbook issues like tax cuts and affordability,\" while Gluesenkamp Perez recently supported a $1.15 trillion defense policy bill and pushed for the right to repair vehicle parts.",
-      "President Donald Trump endorsed Braun in April, signaling strong national party support, as the Cook Political Report described him as a \"far less incendiary Republican\" than his predecessor, Joe Kent."
-    ],
-    "title": "Marie Gluesenkamp Perez to face Trump-backed John Braun in November",
-    "topic": "Washington State Politics",
-    "topic_full": "Washington State Politics · Washington"
-  },
-  {
-    "article_path": "/article/william-lawrence-wins-democratic-primary-for-battleground-us-house-seat-in-michigan-us-media-projects_47f51e",
-    "article_url": "https://ground.news/article/william-lawrence-wins-democratic-primary-for-battleground-us-house-seat-in-michigan-us-media-projects_47f51e",
-    "bias": [
-      "Left-Leaning coverage frames William Lawrence’s primary win as momentum for the “insurgent left,” stressing his “progressive” and “climate activist” identity, plus the split with “moderates” and even women’s groups; right-leaning coverage instead spotlights “ Bernie Sanders -backed” and “socialist” labels, turning the same result into a warning about ideological extremity.",
-      "Both sides flag the Michigan seat as a “battleground” or “swing” district, but they diverge on meaning: one treats it as a progressive breakthrough, the other as a high-stakes contest with broader implications.",
-      "Shared emphasis on Lawrence’s win and November matchup underscores a deeper divide over whether the story is about movement strength or left-wing risk."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 33.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "Michigan",
-    "right_pct": 38.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Democrat William Lawrence, a co-founder of the Sunrise Movement, won the Democratic primary in Michigan 's 7th Congressional District, NBC News projects, marking a major victory for the insurgent left.",
-      "Lawrence bested former Ambassador Bridget Brink and Navy SEAL Matt Maasdam, consolidating progressive support while the two moderate candidates split their party's centrist electorate.",
-      "A mysterious super PAC spent more than $1 million in the race's final weeks to boost Lawrence and attack Maasdam, according to campaign finance reports.",
-      "GOP Rep. Tom Barrett will face Lawrence in the fall in a tightly divided swing seat that President Donald Trump carried by just 1 percentage point in 2024.",
-      "Voters in five states participated in primaries Tuesday, including several with major battleground House districts up for grabs in November as both parties fight for narrow margins."
-    ],
-    "title": "William Lawrence wins Democratic primary for battleground US House seat in Michigan, US media projects",
-    "topic": "Michigan Politics",
-    "topic_full": "Michigan Politics · Michigan"
-  },
-  {
-    "article_path": "/article/taylor-looks-to-unseat-wittman-in-key-virginia-house-race",
-    "article_url": "https://ground.news/article/taylor-looks-to-unseat-wittman-in-key-virginia-house-race",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 49.0,
-    "error": "Message: \n",
-    "left_pct": 38.0,
     "location": "Virginia",
-    "right_pct": 13.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Shannon Taylor wins Democratic nomination for U.S. House in Virginia's 1st Congressional District",
+    "right_pct": 50.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, former Virginia Gov. Glenn Youngkin launched Empowering America's Parents, a policy group promoting the Education Freedom Tax Credit in states that have not yet adopted the federal scholarship program.",
+      "Part of President Donald Trump's One Big Beautiful Bill, the EFTC grants taxpayers up to $1,700 for contributions to scholarship-granting organizations, a system already adopted by 30 states for K-12 education support.",
+      "Youngkin's group plans to 'aggressively target persuadable voters, primarily in the suburbs, who support school choice' through a multimillion-dollar campaign in Michigan, Arizona, Wisconsin, and Pennsylvania—all key battleground states.",
+      "Critics, including America's largest teachers unions, characterize the program as 'a Trojan horse carrying near-universal K-12 private school vouchers into every state that participates.' Democratic governors lead many holdout states.",
+      "This launch marks Youngkin's first major move since leaving office in January, intensifying speculation about his potential 2028 presidential bid. He told Fox News' Sean Hannity in April he has 'more to give' regarding his political future."
+    ],
+    "title": "Former Virginia Gov. Glenn Youngkin launches new conservative policy group",
     "topic": "Virginia Politics",
     "topic_full": "Virginia Politics · Virginia"
   },
   {
-    "article_path": "/article/cindy-holscher-wins-democratic-primary-advances-to-kansas-governors-race",
-    "article_url": "https://ground.news/article/cindy-holscher-wins-democratic-primary-advances-to-kansas-governors-race",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 36.0,
-    "error": "Message: \n",
-    "left_pct": 64.0,
-    "location": "Kansas",
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Cindy Holscher wins Democratic primary, advances to Kansas governor’s race",
-    "topic": "Kansas Politics",
-    "topic_full": "Kansas Politics · Kansas"
-  },
-  {
-    "article_path": "/article/maryland-democrats-pass-redistricting-amendment-that-could-target-lone-republican-house-seat-if-voters-approve",
-    "article_url": "https://ground.news/article/maryland-democrats-pass-redistricting-amendment-that-could-target-lone-republican-house-seat-if-voters-approve",
+    "article_path": "/article/jd-vance-announces-fraud-crackdown-and-calls-for-tougher-penalties",
+    "article_url": "https://ground.news/article/jd-vance-announces-fraud-crackdown-and-calls-for-tougher-penalties",
     "bias": [
-      "Left-Leaning coverage frames the measure as a defensive move against a “gerrymandering onslaught,” stressing Democrats “finish” the fight and treating the amendment as constitutional cleanup, while right-leaning coverage casts it as a Democrat-driven power play that could “target” Maryland ’s “lone Republican House seat” and create a “Democrat-friendly map.” The rhetoric diverges sharply: the left uses combative but justified language, the right leans into suspicion with words like “target” and “friendly.” The key dividing line is whether redistricting is portrayed as retaliation or manipulation.",
-      "Both sides agree voters will decide in November, linking the story to broader partisan battles over map-drawing and control."
+      "Left-Leaning coverage briefly frames the story as a “fraud crackdown” with “tougher penalties,” keeping the focus on enforcement and political messaging, while right-leaning coverage turns it into a much bigger law-and-order triumph, stressing “harsher criminal penalties,” “reforms,” and even “watershed” stakes.",
+      "The right also adds vivid partisan warning language like “undoing task force efforts,” plus specific figures—“$230 billion” identified and “$56 billion” stopped—to portray success and urgency; those numbers are de-emphasized on the left.",
+      "The main dividing lines are scale, durability, and anti-Democratic fear, though both sides still center fraud, congressional action, and stronger penalties."
     ],
     "bias_bar_text": null,
-    "center_pct": 68.0,
+    "center_pct": 10.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": "United States",
+    "right_pct": 70.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Florida Sen. Ashley Moody met Vice President Vance at the White House Task Force to Eliminate Fraud to discuss federal anti-fraud initiatives and legislative reforms aimed at safeguarding public funds.",
+      "Moody joined the Senate Anti-Fraud Task Force to oversee federal spending, building on 18 months of legislative work targeting financial and program fraud since her appointment to the United States Senate.",
+      "She co-sponsored the Protecting American Taxpayers Act, a 16-measure package projected to save $240 billion by stopping improper payments, alongside the Punishing Health Care Fraudsters Act and the SWIPES Act.",
+      "Calling the meeting a \"springboard for future cooperation,\" Moody emphasized the need for continued intergovernmental coordination to track emerging scams and hold bad actors accountable for exploiting public programs.",
+      "Legislative efforts target diverse sectors, including the STOP Scams Against Seniors Act, the Staged Accident Fraud Prevention Act, the Stop Child Care Scams Act, and the No Aid for Ghost Students Act."
+    ],
+    "title": "Vance Says Anti-Fraud Task Force Identified $230 Billion in Fraud, Blocked $56 Billion in Payments",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/a-new-type-of-flu-shot-is-coming-after-fda-approves-mrna-based-vaccine",
+    "article_url": "https://ground.news/article/a-new-type-of-flu-shot-is-coming-after-fda-approves-mrna-based-vaccine",
+    "bias": [
+      "Left-Leaning coverage frames the approval as a scientific step laced with politics, stressing a “new type” of flu shot while flagging “pushback” from “allies of the health secretary” and the former vaccine regulator’s refusal to review it.",
+      "Center-Leaning coverage treats it as a company win after an “arduous review,” spotlighting the “seven-month” process and an “important new option” for seniors.",
+      "Right-Leaning coverage de-emphasizes conflict and instead spotlights corporate milestone language like “fifth approved product globally” and “traditional approval.” All sides agree on the FDA approval and 50+ age group, but diverge on whether the story is innovation, scrutiny, or achievement."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 62.0,
     "error": null,
     "left_pct": 19.0,
-    "location": "Maryland",
-    "right_pct": 13.0,
+    "location": "United States",
+    "right_pct": 19.0,
     "status": "ok",
     "summary": [
-      "On Tuesday, Maryland lawmakers passed a bill during a special session to place a redistricting question on the November ballot, clearing the House 96-38 and Senate 32-13 before awaiting Governor Wes Moore's signature.",
-      "Maryland Democrats argued the legislative push acts as a defensive measure against Republican-led states implementing similar efforts ahead of the 2026 midterms, framing redistricting as necessary protection.",
-      "Del Mark Fisher criticized the measure as \"rigging elections\" rather than balancing the Constitution, while Del Chris Adams warned it leads to \"apathy, voter rejection of the process, and that's dangerous.\"",
-      "An amendment introduced by Representative Tom Hutchinson proposed a ballot question on whether the nine Eastern Shore counties should secede from Maryland, reflecting deep regional frustration over representation.",
-      "The bill does not redraw lines immediately but establishes that \"nothing in the Maryland Constitution provides applicable criteria for the boundaries of a congressional districting plan,\" granting lawmakers significant future redistricting leeway."
+      "On Wednesday, the Food and Drug Administration approved the United States' first mRNA-based flu vaccine for adults 50 and older, Moderna announced, offering what Moderna CEO Stephane Bancel called an \"important new option for America's seniors.\"",
+      "The FDA initially declined to review the vaccine in February, citing inadequate trials despite conflicting internal feedback, but reversed course two weeks later and agreed to evaluate the shot.",
+      "Clinical trials involving over 40,000 adults found the vaccine about 27% more effective than standard shots during the 2024–25 season; an independent Advisory Committee unanimously voted in June that benefits outweigh risks.",
+      "Moderna expects the vaccine available this fall; however, the Centers for Disease Control and Prevention's Advisory Committee on Immunization Practices has not met since March, potentially delaying formal recommendations.",
+      "While an mRNA-based flu and Covid-19 vaccine was approved in Europe earlier this year, HHS Secretary Robert F. Kennedy Jr. canceled about $500 million in mRNA projects, claiming these vaccines fail to protect against infections."
     ],
-    "title": "Maryland lawmakers ask voters to clear the way for a congressional map designed to boost Democrats",
-    "topic": "Maryland Politics",
-    "topic_full": "Maryland Politics · Maryland"
+    "title": "US FDA approves first mRNA flu shot from Moderna",
+    "topic": "Health",
+    "topic_full": "Health · United States"
   },
   {
-    "article_path": "/article/trump-backed-john-james-wins-michigans-gop-primary-for-governor_40425e",
-    "article_url": "https://ground.news/article/trump-backed-john-james-wins-michigans-gop-primary-for-governor_40425e",
-    "bias": [
-      "Left-Leaning coverage foregrounds Trump’s shadow and skepticism, using loaded cues like “Trump-backed,” “outsider,” and especially “lied” to frame John James through credibility and factional conflict, while right-leaning headlines celebrate momentum with phrases like “lands GOP nod,” “high-stakes,” “showdown,” and “battle,” casting the race as a partisan contest.",
-      "The biggest dividing lines are whether the story is about a primary win or about broader implications: the left de-emphasizes the general-election matchup and polling, whereas the right spotlights competitiveness and Benson’s challenge.",
-      "Center coverage stays more procedural.",
-      "All sides agree James won, but they diverge on whether that is a tainted Trump-linked victory or a springboard to a fierce Michigan clash."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 26.0,
-    "error": null,
-    "left_pct": 35.0,
-    "location": "Michigan",
-    "right_pct": 39.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Republican Rep. John James won Michigan 's GOP primary, securing his spot in November's gubernatorial election against Democratic Secretary of State Jocelyn Benson.",
-      "Backed by President Donald Trump, James defeated Perry Johnson, a Michigan businessman who spent $30 million on his campaign after previously spending $26 million on a failed 2024 presidential bid.",
-      "Repealing the state's 2023 Clean Energy and Jobs Act would be his \"first priority\" if elected, James said. He emphasized economy, immigration, and military support as platform pillars.",
-      "The Cook Political Report rates the race a \"toss up, Lean D,\" while Mitchell Research polling conducted July 28–29 shows Benson leading James 46–44 percent to replace term-limited Gov. Gretchen Whitmer.",
-      "If James defeats Benson, he would become Michigan's first Black governor. Supporters like Christina Barr believe James's ability to listen to voters positions him as the strongest candidate."
-    ],
-    "title": "Trump-backed John James wins Michigan’s GOP primary for governor",
-    "topic": "Michigan Politics",
-    "topic_full": "Michigan Politics · Michigan"
-  },
-  {
-    "article_path": "/article/3-killed-in-idaho-in-n-out-shooting-included-a-man-known-for-helping-others-get-sober_f1afd8",
-    "article_url": "https://ground.news/article/3-killed-in-idaho-in-n-out-shooting-included-a-man-known-for-helping-others-get-sober_f1afd8",
-    "bias": [
-      "Left-Leaning coverage centers the victims but pivots toward motive, using phrases like “MAGA,” “Trump cultist,” and “Bear” to cast the shooting as politically tinged, while the right leans into alarm and disorder with “active shooter” and “chaos” language that frames the scene as a public-safety crisis.",
-      "The most revealing divide is whether the story is about ideological extremism or emergency response.",
-      "Both sides share the basic facts—three killed, victims identified, a suicide—yet the left foregrounds human-interest details like “beloved” and “helping others get sober,” while the right de-emphasizes those in favor of threat, urgency, and mass-casualty framing."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 51.0,
-    "error": null,
-    "left_pct": 40.0,
-    "location": "Idaho",
-    "right_pct": 9.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, August 1, 2026, a 24-year-old gunman opened fire at an In-N-Out Burger in Twin Falls, Idaho, killing three people and wounding seven others before fatally shooting himself.",
-      "Families confirmed 23-year-old associate Ashley Garibay and Christopher Claunch, known as Toph, were among those killed in the attack. Taxi driver Terry Dudley was shot and remained hospitalized Monday with serious injuries.",
-      "An off-duty state trooper and a civilian fired on the gunman, diverting him from the restaurant. Witness Lane Koehn, 34, saw the attacker emerge with an AR-style rifle from the drive-thru.",
-      "Investigators worked Monday to determine the gunman's motive, Twin Falls Police Chief Matthew Hicks said. The FBI encouraged the public to submit images and videos related to the shooting.",
-      "The shooting occurred in Twin Falls, a city of about 56,000 people, at an In-N-Out that opened July 24. In-N-Out president Lynsi Snyder said her heart is \"broken\" by the loss of her associate."
-    ],
-    "title": "3 Killed in Idaho In-N-Out Shooting Included a Man Known for Helping Others Get Sober",
-    "topic": "US Crime",
-    "topic_full": "US Crime · Idaho"
-  },
-  {
-    "article_path": "/article/lieutenant-governor-names-appointees-to-redistricting-committee-the-gazebo-gazette",
-    "article_url": "https://ground.news/article/lieutenant-governor-names-appointees-to-redistricting-committee-the-gazebo-gazette",
+    "article_path": "/article/googles-15-billion-india-data-centre-project-battles-water-wildlife-concerns",
+    "article_url": "https://ground.news/article/googles-15-billion-india-data-centre-project-battles-water-wildlife-concerns",
     "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 57.0,
-    "error": "Message: \n",
-    "left_pct": 43.0,
-    "location": "Mississippi",
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Mississippi Lawmakers Launch Redistricting Process After Supreme Court Ruling",
-    "topic": "Mississippi Politics",
-    "topic_full": "Mississippi Politics · Mississippi"
-  },
-  {
-    "article_path": "/article/kansas-voters-reject-gop-backed-measure-to-directly-elect-state-supreme-court-justices",
-    "article_url": "https://ground.news/article/kansas-voters-reject-gop-backed-measure-to-directly-elect-state-supreme-court-justices",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 50.0,
-    "location": "Kansas",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Tuesday, Kansas voters rejected a GOP-backed constitutional amendment to replace the merit-based Supreme Court nomination system with direct statewide elections, according to the Associated Press.",
-      "For nearly 70 years, Kansas has used a merit-based system where a nine-member Supreme Court Nominating Commission screens applicants for the governor to appoint, with justices serving six-year terms.",
-      "Republican Kansas Attorney General Kris Kobach spearheaded the amendment, citing the 2019 abortion ruling, while Former Kansas Supreme Court Chief Justice Lawton Nuss warned elections could compromise judicial integrity by inviting donor influence.",
-      "Emily Wales, president and CEO of Planned Parenthood Great Plains Votes, said, \"We believed Kansans four years ago when they voted overwhelmingly to protect abortion rights in the state constitution.\" Kansas National Education Association President Sherri Schwanz praised educators who mobilized to defend schools.",
-      "The result preserves the nearly 70-year-old merit-based selection framework, halting conservative attempts to reshape the Supreme Court's ideological direction through electoral pressure on judicial candidates."
-    ],
-    "title": "Kansas voters reject GOP-backed measure to directly elect state Supreme Court justices",
-    "topic": "Kansas Politics",
-    "topic_full": "Kansas Politics · Kansas"
-  },
-  {
-    "article_path": "/article/ty-masterson-wins-republican-nomination-for-governor-in-kansas",
-    "article_url": "https://ground.news/article/ty-masterson-wins-republican-nomination-for-governor-in-kansas",
-    "bias": [
-      "Left-Leaning coverage frames Ty Masterson’s Kansas win as a “top pickup opportunity” for Republicans, stressing broader strategic stakes, while right-leaning coverage leans into Trump cues—especially “Trump-endorsed” and “GOP nomination”—and, in Virginia, spotlights Mizusawa’s projected win with vote totals and the November matchup as a cleaner partisan contest.",
-      "The center stays more procedural, noting the crowded seven-candidate field and, uniquely, Laura Kelly’s successor.",
-      "Across both races, all sides agree the Republicans emerged nominees, but their wording—“advances,” “wins,” “secures,” “projected winner”—shows a split between tactical, personalized, and institutional ways of telling the same election story."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "Kansas",
-    "right_pct": 26.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Trump-endorsed Kansas Senate president Ty Masterson won the Republican nomination for Kansas governor, defeating six other candidates in the primary election.",
-      "The crowded GOP field included Kansas Secretary of State Scott Schwab, Kansas Insurance Commissioner Vicki Schmidt, and businessman Phil Sarnecki, who challenged the perceived establishment.",
-      "Masterson campaigned on improving the state's financial situation through property tax relief, leveraging his experience as Senate president and Trump's endorsement.",
-      "Schwab proposed his \"JEANS\" and \"BALD\" plans for rural revitalization, while Nick Reinecker positioned himself as \"The Kansas Underdog,\" focusing on tax relief.",
-      "The November 3 general election will feature Masterson against the Democratic candidate, with the winner set to serve as Kansas's next governor starting in January."
-    ],
-    "title": "Ty Masterson wins Republican nomination for governor in Kansas",
-    "topic": "Kansas Politics",
-    "topic_full": "Kansas Politics · Kansas"
-  },
-  {
-    "article_path": "/article/wisconsin-judge-rules-that-paper-absentee-ballots-violate-rights-of-certain-disabled-people",
-    "article_url": "https://ground.news/article/wisconsin-judge-rules-that-paper-absentee-ballots-violate-rights-of-certain-disabled-people",
-    "bias": [
-      "Left-Leaning coverage frames the ruling as a civil-rights victory, stressing phrases like “violate rights” and centering “disabled people,” while right-leaning coverage uses a more autonomy-and-process lens, highlighting “discriminates” and the denial of voting “privately and independently.” The sharpest divide is whether the story is about systemic exclusion or a narrower access fix, with the left and center emphasizing that the judge stopped short of ordering electronic ballots and that a trial still looms, while the right de-emphasized that limitation.",
-      "All sides agree the paper system discriminates; the deeper split reflects broader ideological priorities around rights expansion versus institutional caution."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 40.0,
-    "location": "Wisconsin",
-    "right_pct": 5.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Dane County Circuit Judge Everett Mitchell ruled that Wisconsin 's paper-based absentee voting program discriminates against disabled voters, denying them equal opportunity to vote privately and independently.",
-      "Disability Rights Wisconsin and the League of Women Voters filed the lawsuit in 2024, arguing that the lack of electronic absentee options violated protections of the Americans with Disabilities Act.",
-      "The Republican-controlled Legislature is fighting the lawsuit, even though Wisconsin currently emails ballots to military and overseas voters; neither the plaintiffs nor the Wisconsin Elections Commission provided estimates on potential electronic ballot demand.",
-      "Mitchell declined to immediately order electronic voting, citing disputes over whether that remedy is reasonable and noting risks involved in instituting such a program; a hearing is set for Aug. 12.",
-      "Spokespeople for the Wisconsin Elections Commission and the Wisconsin Department of Justice did not immediately return messages seeking comment, leaving the case outcome uncertain as legal proceedings continue."
-    ],
-    "title": "Wisconsin judge rules that paper absentee ballots violate rights of certain disabled people",
-    "topic": "Wisconsin Politics",
-    "topic_full": "Wisconsin Politics · Wisconsin"
-  },
-  {
-    "article_path": "/article/jocelyn-benson-wins-democratic-nomination-for-governor-in-michigan_b37341",
-    "article_url": "https://ground.news/article/jocelyn-benson-wins-democratic-nomination-for-governor-in-michigan_b37341",
-    "bias": [
-      "Left-Leaning coverage stays close to the primary result, emphasizing Benson’s Democratic win and, in one case, noting John James’s GOP contest without much spin; center-leaning pieces add cautious AP framing with “projects” and even “rallied behind,” stressing attribution over drama.",
-      "Right-Leaning coverage pushes the sharpest contrast, recasting the same outcome as a move into a “battleground race,” a defense of Whitmer’s “blue seat,” and “clearing the way” for the fall, while “BREAKING” and vote percentages heighten urgency and horse-race stakes.",
-      "Both sides agree Benson won and the race advances, but they diverge on whether the story is a routine primary result or a partisan power shift."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 47.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "Michigan",
-    "right_pct": 32.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Secretary of State Jocelyn Benson won the Michigan Democratic gubernatorial primary with about 85% of the vote, decisively defeating Genesee County Sheriff Chris Swanson as hundreds of thousands of ballots remained to be counted.",
-      "Benson, a Harvard Law School graduate and former dean of Wayne State University Law School, previously won statewide elections in 2022 and 2018, positioning her as the expected frontrunner in the primary race.",
-      "Garnering key endorsements from the United Auto Workers, Benson's campaign reserved $10 million in advertising for September and October to shape the general election narrative against a fractured Republican field.",
-      "State Sen. Mallory McMorrow, D-Royal Oak, framed the general election as a contrast to Republican infighting, saying, \"We literally cannot afford a governor who works harder for Donald Trump than they do for Michiganders.\"",
-      "Economic concerns remain central to some voters; Cathy Pomaville said, \"Ultimately, what I care about is how people are lining their pocketbooks,\" yet Democrats position Benson as a \"battle-tested, kind-hearted public servant\" for the fall race."
-    ],
-    "title": "Jocelyn Benson wins Democratic nomination for governor in Michigan",
-    "topic": "Michigan Politics",
-    "topic_full": "Michigan Politics · Michigan"
-  },
-  {
-    "article_path": "/article/judge-allows-clergy-abuse-claimants-to-sue-for-parish-assets-in-vermont-catholic-bankruptcy-case",
-    "article_url": "https://ground.news/article/judge-allows-clergy-abuse-claimants-to-sue-for-parish-assets-in-vermont-catholic-bankruptcy-case",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 46.0,
-    "location": "Vermont",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "Burlington-Based Judge Heather Cooper ruled on Tuesday that abuse claimants may pursue nearly 70 parish assets, potentially worth up to $500 million, to fund settlements in the Vermont Roman Catholic Diocese reorganization case.",
-      "The Vermont Roman Catholic Diocese filed for Chapter 11 protection in fall 2024 after paying $34.5 million to settle 67 misconduct lawsuits over two decades, yet it still faces 119 additional claims dating back to 1950.",
-      "Attorneys for more than 100 claimants argue the church must access these assets; Brittany Michael, lawyer for the claimants committee, told the Bankruptcy Court that \"guidance from the court regarding the actual legal status of the assets\" is necessary to reach a resolution.",
-      "Steven Kinsella of the Minnesota firm Fredrikson & Byron expressed concern that continued litigation threatens survivor compensation funds, noting the diocese has already spent $2 million in legal bills over two years.",
-      "Cooper warned that unless settled, the case could face years of litigation ahead, costing millions in attorneys' fees that could otherwise compensate abuse survivors."
-    ],
-    "title": "Judge allows clergy abuse claimants to sue for parish assets in Vermont Catholic bankruptcy case",
-    "topic": "US Crime",
-    "topic_full": "US Crime · Vermont"
-  },
-  {
-    "article_path": "/article/us-efforts-to-deport-palestinian-mosque-leader-rely-on-coerced-confessions-witness-testifies_de8fba",
-    "article_url": "https://ground.news/article/us-efforts-to-deport-palestinian-mosque-leader-rely-on-coerced-confessions-witness-testifies_de8fba",
-    "bias": [
-      "Left-Leaning coverage frames the case as a civil-liberties abuse, stressing \"coerced\" confessions and even \"wrongfully relying\" on old Israeli convictions to deport a Palestinian mosque leader, while right-leaning coverage de-emphasizes the immigration drama and pivots toward Hamas as a \"terror group,\" using harsher terms like \"bullies,\" \"intimidated,\" and \"exclusive\" to foreground threat and misconduct.",
-      "The key dividing line is whether the story is about prosecutorial overreach or security risk; the center stays more procedural, adding the ICE arrest and legal-resident status.",
-      "All sides still converge on the core testimony about pressured confessions and decades-old convictions, reflecting deeper divides over immigration, Israel-Palestine, and state power."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 39.0,
-    "error": null,
-    "left_pct": 39.0,
-    "location": "Illinois",
-    "right_pct": 22.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Salah Sarsour, the leader of Wisconsin's largest mosque, appeared in a Chicago immigration court to fight a United States deportation effort based on past Israeli convictions.",
-      "The Department of Homeland Security claims Sarsour poses a foreign policy threat based on 1980s and 1990s convictions in Israel, while Sarsour alleges the government is targeting him for speaking out against Israel.",
-      "Attorney Patrick Taurel presented testimony from Jawad Boulos, Sarsour's former lawyer, who alleged Israeli authorities tortured and coerced him into a plea deal involving weapon possession, not terrorism.",
-      "Mohammad Sarsour previously testified his brother appeared gaunt and in pain during Israeli detention, consistent with human rights reports alleging Palestinian prisoners face mistreatment and wrongful detention.",
-      "Sarsour is among several individuals arrested and threatened with deportation after speaking out for Palestinians since the Israel-Hamas war began in October 2023, with his next hearing scheduled for Sept 14."
-    ],
-    "title": "US efforts to deport Palestinian mosque leader rely on coerced confessions, witness testifies",
-    "topic": "US Politics",
-    "topic_full": "US Politics · Illinois"
-  },
-  {
-    "article_path": "/article/missouri-election-chief-rejects-bid-to-hold-public-vote-on-trump-backed-congressional-districts",
-    "article_url": "https://ground.news/article/missouri-election-chief-rejects-bid-to-hold-public-vote-on-trump-backed-congressional-districts",
-    "bias": [
-      "Left-Leaning coverage frames Hoskins as blocking democracy, stressing a “gerrymandered” or “GOP-drawn” map and casting his constitutional claim as a “remarkable” excuse that shuts down a Trump-backed referendum ; right-leaning coverage is cooler and more procedural, centering that he “rejects” or deems the petition “insufficient,” while keeping Trump’s backing and Republican-led approval in view.",
-      "The sharp dividing line is whether the fight is partisan manipulation or lawful certification, with the center uniquely adding deadline-driven legal uncertainty, the court’s inability to know which map is active, and even “mob rule” rhetoric.",
-      "Both sides agree it is headed for court."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 43.0,
-    "error": null,
-    "left_pct": 49.0,
-    "location": "Missouri",
-    "right_pct": 8.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Missouri Secretary of State Denny Hoskins rejected a citizen petition seeking a referendum on the state's new GOP-drawn congressional map, asserting the effort is unconstitutional because redistricting cannot be subject to voter referendums.",
-      "Lawmakers approved the \"Missouri First\" map 11 months ago to bolster the party's House majority, prompting the group People Not Politicians to submit more than 300,000 signatures to force a public vote.",
-      "Primary elections are proceeding today under the new districts, yet voters could face a different congressional map in November if courts overturn Hoskins' decision, creating significant confusion for candidates and voters.",
-      "People Not Politicians Executive Director Richard von Glahn vowed to challenge the rejection in court, citing public data showing the group gathered sufficient valid signatures well above the roughly 111,000 required.",
-      "Secretary Hoskins suggested state lawmakers could redraw the congressional map again in 2027, highlighting the persistent legal volatility surrounding redistricting efforts in Missouri and the potential for recurring map changes."
-    ],
-    "title": "Missouri Election Chief Rejects Bid to Hold Public Vote on Trump-Backed Congressional Districts",
-    "topic": "Missouri Politics",
-    "topic_full": "Missouri Politics · Missouri"
-  },
-  {
-    "article_path": "/article/israeli-film-about-october-7-selected-for-toronto-international-film-festival-despite-boycott_30481b",
-    "article_url": "https://ground.news/article/israeli-film-about-october-7-selected-for-toronto-international-film-festival-despite-boycott_30481b",
-    "bias": null,
-    "bias_bar_text": "Left 80% C 20%",
-    "center_pct": 20.0,
-    "error": null,
-    "left_pct": 80.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Tuesday, the Toronto International Film Festival unveiled its 2026 Centrepiece lineup, showcasing 54 feature films from 50 countries, including auteur-driven works from directors Daniel Oriahi, Marie Clements, David Bezmozgis, and Cody Lightning.",
-      "TIFF expanded its overall programming by adding 70 total features across Centrepiece, Wavelengths, and Classics programs, marking an unprecedented eight animated films and a 4K restoration of Ken Russell's controversial 1971 drama 'The Devils'.",
-      "Animated selections include director Louise Bagnall's debut 2D feature 'Julian' and director Sebastien Laudenbach's 'Viva Carmen', while the Classics sidebar features five 4K restorations by directors Lynne Stopkewich, John Abraham, Fei Mu, and Kon Ichikawa.",
-      "Director Avi Nesher's 'Our Loves', his 21st film, joins the Centrepiece section; producers recently secured co-production deals with FOX Entertainment Studios and Access Entertainment, which SIPUR CEO Emilio Schenker described as countering an unofficial international boycott.",
-      "The 51st edition of the Toronto International Film Festival runs September 10 to 20, 2026, with organizers set to announce additional programming this week, building momentum for the event."
-    ],
-    "title": "Israeli film about October 7 selected for Toronto International Film Festival despite boycott",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/global-sumud-flotilla-volunteers-report-netanyahu-to-the-attorney-generals-office",
-    "article_url": "https://ground.news/article/global-sumud-flotilla-volunteers-report-netanyahu-to-the-attorney-generals-office",
-    "bias": null,
-    "bias_bar_text": "Center 43% Right 57%",
+    "bias_bar_text": "Center 37% Right 63%",
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
-    "right_pct": 57.0,
+    "right_pct": 63.0,
     "status": "no_change",
     "summary": [
-      "On Wednesday, nine Indonesians filed a complaint against Israeli Prime Minister Benjamin Netanyahu , alleging crimes against humanity and piracy related to their detention during a Gaza aid mission in May.",
-      "The activists were part of the Global Sumud Flotilla intercepted by Israeli security forces in Oct 2025, during which more than 400 volunteers were detained for periods of days.",
-      "Their submission includes testimony about abuses they claim to have suffered during detention; Israel's treatment sparked international outcry after video showed volunteers kneeling with hands tied behind their backs.",
-      "Indonesia's criminal code grants courts \"universal jurisdiction\" over crimes committed beyond the country's borders, lawyer Kafin Muhammad said, enabling the investigation request into Zionist Israel that he filed.",
-      "Other nations including France, Italy, and Australia have already opened judicial investigations into the flotilla interception, establishing a pattern of international legal accountability for the May detention."
+      "Construction of Google 's $15 billion data center hub is underway in Visakhapatnam, partnered with billionaire Gautam Adani's group to create up to 188,000 jobs in India's southern state.",
+      "Critics allege the construction threatens the Kambalakonda Wildlife Sanctuary located 860 metres away, while Visakhapatnam receives only 410 million litres of water daily against a 480 million litre requirement.",
+      "Activists from Green Visakha have marched holding banners saying \"We cannot drink DATA,\" while founder Raja Rama Mohan Roy warned that \"Development should not be at the cost of livelihood of the people.\"",
+      "The Andhra Pradesh High Court scheduled a hearing for August 24 to address legal challenges, as Google stated it will implement \"advanced air cooling to protect vital local water resources.\"",
+      "Multiple legal hurdles persist as the Human Rights Forum filed three additional cases, testing how Indian authorities balance rapid technological investment with sustainability of local water and wildlife resources."
     ],
-    "title": "Indonesians File Complaint Against Netanyahu for Gaza Flotilla Arrest 'Abuses'",
+    "title": "Google’s $15 billion India data centre project battles water, wildlife concerns",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/uns-gaza-water-chief-says-israeli-destruction-restrictions-squandering-canadian-aid",
-    "article_url": "https://ground.news/article/uns-gaza-water-chief-says-israeli-destruction-restrictions-squandering-canadian-aid",
+    "article_path": "/article/new-customs-duties-carney-refuses-to-comment-on-the-outcome-of-the-negotiations-as-the-timetable-approaches",
+    "article_url": "https://ground.news/article/new-customs-duties-carney-refuses-to-comment-on-the-outcome-of-the-negotiations-as-the-timetable-approaches",
     "bias": [
-      "Left-Leaning coverage frames the story as a moral indictment, stressing “destruction,” “restrictions,” and “squandering” to portray Canadian aid as wasted by Israeli actions, while right-leaning headlines shift toward a broader, cautionary lens with phrases like “truth behind,” “dangerous,” and “life-threatening mission,” emphasizing aid-system fragility, obstruction, and threats rather than direct blame.",
-      "The sharpest dividing lines are the Canada Well damage, the April deaths of UNICEF water drivers, and whether restrictions are the central cause or merely one factor.",
-      "Both sides agree Gaza’s water work is perilous, but they diverge over who is responsible and what that implies geopolitically."
+      "Left-Leaning coverage frames the story as a policy fight, emphasizing Carney’s “quite firm” posture, “constructive” talks, and the spread of “all strategic sectors” and autos under a looming tariff threat; the right-leaning piece pivots away from trade altogether, using sharper, more personality-driven language like “not a conspiracy,” “mocks,” and “glitch” to cast the moment as a jab at Trump and a symbol of strained ties.",
+      "The biggest dividing lines are the tariff deadline, sector details, and whether the exchange is about negotiation or theater.",
+      "Both sides acknowledge tension with the U.S., but they diverge on whether the central story is economic strategy or political ridicule."
     ],
-    "bias_bar_text": "Left 66% Center 26% 8%",
+    "bias_bar_text": "Left 69% Center 31%",
     "center_pct": null,
     "error": null,
-    "left_pct": 66.0,
+    "left_pct": 69.0,
     "location": null,
-    "right_pct": 8.0,
+    "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Tuesday, Jonathan Veitch, head of UNICEF for the Palestinian territories, reported that Israeli water infrastructure restrictions are squandering Canadian aid, citing destruction of the Canada Well facility.",
-      "Israel restricts items like cement and generators as 'dual-use' materials to prevent Hamas from building weapons, forcing UNICEF to become the 'provider of last resort' for water and sanitation services across Gaza.",
-      "Veitch described dire conditions where families live in makeshift tents surrounded by waste, with nighttime temperatures seldom dropping below 25 C and \"millions and millions of rats\" infesting the area.",
-      "The Israeli Defense Forces stated last week it is assessing infrastructure damage with severity, while 2.1 million Gazans remain confined to 30 per cent of the territory facing critical shortages.",
-      "Canada \"punches above its weight\" in humanitarian assistance, Veitch said, noting private donations helped end a recent famine, though he warned peace remains elusive as thousands grow up without education."
+      "On Wednesday, Prime Minister Mark Carney insisted trade negotiations with Washington remain \"constructive\" as an Aug. 19 deadline for new U.S. tariffs draws near, characterizing Canada's tone as \"quite firm.\"",
+      "President Donald Trump has threatened to impose new 50 per cent tariffs on a wide range of Canadian imports beginning Aug. 19, even on products complying with the Canada-United States-Mexico Agreement.",
+      "Canada's Minister Dominic LeBlanc met with Trade Representative Jamieson Greer in Washington last week, then met with business leaders and Republican senators to advance talks.",
+      "Asked Wednesday about potential export quotas, Carney declined to comment on specific measures, stating \"this is not the time to trigger the options, but we have options.\"",
+      "The annual review can be renewed each year for up to 10 years, though CUSMA would expire in 2036 if the three countries fail to agree on a path forward."
     ],
-    "title": "UNICEF Official Says Gaza Water Restrictions Waste Canadian Aid",
+    "title": "Carney Says Tone with U.S. Already ‘Quite Firm’ as Trade Talks Continue",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trumps-white-house-ufc-spectacle-lost-30-million-company-reveals",
-    "article_url": "https://ground.news/article/trumps-white-house-ufc-spectacle-lost-30-million-company-reveals",
+    "article_path": "/article/far-left-and-dsa-push-for-dem-primary-upsets-all-across-michigan-beyond-el-sayed",
+    "article_url": "https://ground.news/article/far-left-and-dsa-push-for-dem-primary-upsets-all-across-michigan-beyond-el-sayed",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 100.0,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": "Michigan",
+    "right_pct": null,
+    "status": "fail",
+    "summary": null,
+    "title": "Michigan House candidate says he left DSA to ‘unite’ district",
+    "topic": "Michigan Politics",
+    "topic_full": "Michigan Politics · Michigan"
+  },
+  {
+    "article_path": "/article/federal-court-rules-key-national-firearms-act-restrictions-are-unconstitutional-in-goa-lawsuit",
+    "article_url": "https://ground.news/article/federal-court-rules-key-national-firearms-act-restrictions-are-unconstitutional-in-goa-lawsuit",
     "bias": [
-      "Left-Leaning coverage casts the White House UFC event as a “spectacle” that simply “lost $30 million,” stressing waste and performance over payoff; right-leaning coverage softens that blow by calling it a “celebration,” invoking “Freedom 250,” and arguing the “exposure” and deals made it “worth it,” even while noting the hefty loss.",
-      "Center-Leaning coverage sits between them, highlighting the record 34 million viewers, the $30 million hit, and even the fighter’s “lewd comments,” while also allowing for possible media and partnership upside.",
-      "Across all three, the shared frame is a costly Trump-attended event tied to Independence-era symbolism, but the ideological divide is over whether that cost signals fiasco or strategic spectacle."
+      "Left-Leaning coverage frames the ruling as a broad legal setback for gun regulation, stressing that firearm suppressor rules “can’t be enforced” and that the National Firearms Act was “struck down,” while right-leaning coverage casts it as a triumphant deregulatory breakthrough, using phrases like “major win,” “unconstitutional,” and “red tape” to celebrate relief for gun owners.",
+      "The sharpest dividing line is the tax-to-$0 change: the right treats that detail, plus the judge and case name, as the constitutional trigger, while the left de-emphasized the legal pathway.",
+      "Both sides agree the judge blocked enforcement on suppressors and short-barreled weapons, but they embed it in broader fights over gun rights , state power, and regulation."
     ],
-    "bias_bar_text": "Left 25% Center 54% R 21%",
-    "center_pct": 54.0,
+    "bias_bar_text": null,
+    "center_pct": 26.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": "United States",
+    "right_pct": 53.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, a judge for the District Court for the Northern District of Texas ruled that National Firearms Act registration requirements for short-barreled rifles and suppressors are unconstitutional in the case Jensen v. ATF.",
+      "Congress recently eliminated the $200 tax on these firearms through the One Big Beautiful Bill, though the mandate to register them with the ATF remained in place.",
+      "The Second Amendment Foundation, alongside co-plaintiffs including the Citizens Committee and the Texas Rifle Association, supported the legal challenge, arguing the government lacks constitutional authority to maintain registration without an underlying tax.",
+      "This ruling is the first decision rendered among three related lawsuits challenging registration requirements. The Second Amendment Foundation is a named plaintiff in Brown v. ATF and supports Roberts v. ATF.",
+      "SAF Executive Director Adam Kraut stated this decision sets a precedent allowing Americans to exercise Second Amendment rights without fear of being placed on a government registry."
+    ],
+    "title": "Texas Judge Rules that Law Regulating Firearm Suppressors and some Guns Can’t Be Enforced",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/sinister-deliveries-and-death-threats-hound-judge-each-time-he-rules-against-trump-report",
+    "article_url": "https://ground.news/article/sinister-deliveries-and-death-threats-hound-judge-each-time-he-rules-against-trump-report",
+    "bias": [
+      "Left-Leaning coverage frames the story as part of a broader MAGA-driven intimidation pattern, using charged terms like “sinister,” “death threats,” and “sent chills” to stress menace, plus the poignant pizza delivery linked to Daniel Anderl to deepen the emotional stakes.",
+      "The center version narrows the focus to a judge’s “chilling threats and intimidation” after blocking a “sweeping freeze,” treating the dispute as a specific policy clash.",
+      "The key dividing line is scale: one side sees systemic anti-judge hostility, the other a severe but localized backlash.",
+      "Both agree threats followed the ruling, reflecting deeper tensions over Trump, the judiciary, and federal power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 12.0,
+    "error": null,
+    "left_pct": 88.0,
+    "location": "United States",
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "District Judge John McConnell faces credible death threats following rulings against President Donald Trump, with the Marshals Service identifying six specific threats and requesting additional funding to address the intensifying danger.",
+      "After McConnell blocked a Trump administration freeze on federal funding in early 2025, Trump called judges \"monsters\" and \"lunatics,\" while DHS general counsel James Percival posted a list labeled the \"Worst of the Worst.\"",
+      "An unordered pizza delivered to McConnell's Rhode Island home was addressed to Daniel Anderl, the son of Judge Esther Salas killed in 2020. McConnell recalled, \"I don't think anything disturbed me as much as that did.\"",
+      "Far-Right activist Laura Loomer and Elon Musk targeted McConnell's daughter on social media, while a GOP impeachment effort proceeded and an insurance company cancelled his homeowner's policy, labeling him \"too risky.\"",
+      "Security incidents of \"significant concern\" at federal courts jumped 57 percent in fiscal year 2025, with 564 threats to federal judges, demonstrating that McConnell's targeting reflects a systemic surge in hostility toward the judiciary."
+    ],
+    "title": "Federal Judge Says He Faced Death Threats After Blocking Trump Administration Policy",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/haitians-eye-canada-as-us-temporary-protected-status-ends",
+    "article_url": "https://ground.news/article/haitians-eye-canada-as-us-temporary-protected-status-ends",
+    "bias": [
+      "Left-Leaning coverage frames the end of TPS as a humanitarian rupture, stressing Haitians “lost” work permits, face “in limbo,” and may find return “unimaginable,” while the right shifts the story toward adaptation, with wording like “eye Canada,” “scrambling,” and “looking north” that turns legal collapse into migration strategy.",
+      "The biggest dividing line is whether the court ruling is seen as a policy consequence for vulnerable people or a prompt to seek alternatives; the left also highlights 300,000-350,000 affected and the right de-emphasized the judge/Supreme Court path.",
+      "Both sides agree protections are ending, but their emphasis reflects deeper divides over immigration , borders, and humanitarian risk."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 37.0,
+    "location": "United States",
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, U.S. District Judge Ana Reyes officially allowed the Trump administration to end Temporary Protected Status for Haitians, following a Supreme Court reversal of her earlier ruling that had blocked the termination.",
+      "Department of Homeland Security Secretary Kristi Noem moved to terminate the designation for Haitians fleeing political unrest, despite State Department warnings that gangs control 90% of Haiti's capital, Port-au-Prince.",
+      "Nearly 190,000 Haitian TPS holders contribute about $5.9 billion to the U.S. economy annually and pay $1.6 billion in taxes, according to FWD.us analysis.",
+      "Businesses face operational uncertainty as work permits expire, while DHS Secretary Markwaye Mullin stated individuals must \"self-deport or we'll arrest you and send you back.\"",
+      "Litigation regarding discriminatory intent continues before Reyes, while judges in separate cases involving Ethiopia, Burma, and South Sudan have recently blocked the administration's plans to end TPS for those nations."
+    ],
+    "title": "Court Confirms that Temporary Deportation Protections for Haitians Are No Longer in Place",
+    "topic": "US Immigration",
+    "topic_full": "US Immigration · United States"
+  },
+  {
+    "article_path": "/article/trumps-nuclear-powered-battleships-cost-275b-cbo-report",
+    "article_url": "https://ground.news/article/trumps-nuclear-powered-battleships-cost-275b-cbo-report",
+    "bias": [
+      "Left-Leaning coverage frames the fleet as Trump’s personal, overpriced vanity project, leaning on phrases like “price tag,” “soar,” and “whopping” to stress excess and possible shipyard limits; right-leaning coverage turns the same estimate into a political setback, using sharper language like “new blow,” “went awry,” and mocking “modern, cool- and cheap” to imply a failed promise.",
+      "Center coverage stays more procedural, stressing the CBO’s $275 billion estimate, the 2056 horizon, and industrial strain.",
+      "All sides agree the program is huge and costly, but they divide over whether that means waste, defeat, or long-term strategic burden."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
     "error": null,
     "left_pct": 25.0,
-    "location": null,
+    "location": "United States",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, the Congressional Budget Office estimated the Navy's new Trump-class battleship procurement program will cost $275 billion, with the first vessel projected at $23.4 billion.",
+      "These 35,000-ton nuclear battleships will be the most heavily armed surface vessels the Navy has ever built, dwarfing the USS Gerald R. Ford, which cost approximately $13.3 billion.",
+      "Shipyards must produce 12% greater tonnage by 2025 under the 2027 plan, while the CBO report notes total tonnage of large surface combatants must increase by 60 percent by 2058.",
+      "According to the Government Accountability Office , unrealistic cost and timing expectations have diverted resources, with newly constructed ships failing to function and being delivered up to three years late.",
+      "To meet program goals, the Navy must build a battleship every other year through 2056, while Shelby S. Oakley, a director at the GAO, warned programs are \"effectively made to operate in a perpetual state of triage."
+    ],
+    "title": "Trump’s nuclear-powered battleships cost $275B: CBO report",
+    "topic": "Military",
+    "topic_full": "Military · United States"
+  },
+  {
+    "article_path": "/article/trump-seeks-to-shield-his-business-finances-from-bbc-in-libel-lawsuit",
+    "article_url": "https://ground.news/article/trump-seeks-to-shield-his-business-finances-from-bbc-in-libel-lawsuit",
+    "bias": [
+      "Left-Leaning coverage frames the filing as Trump trying to “hide” or “shield” his finances, often with skeptical cues like “emergency,” “deadline,” and even the idea the case is “blowing up in his face,” stressing concealment and political embarrassment.",
+      "Right-Leaning coverage flips that into a defensive portrait, using phrases like “true emergency” and “most sensitive financial records” to cast the disclosure fight as a serious privacy threat.",
+      "The key dividing line is whether the financial records signal secrecy or vulnerability, though both sides agree the dispute centers on Trump’s BBC defamation suit and the court-ordered fight over his business documents."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 60.0,
+    "location": "United States",
+    "right_pct": 10.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, President Donald Trump's trust filed an emergency motion to block the release of financial records to the BBC , one day before a court-ordered deadline.",
+      "Trump sued the BBC for $10 billion over a 2024 documentary that allegedly misquoted his Jan. 6, 2021, speech, omitting his call for supporters to march \"peacefully and patriotically.\"",
+      "The BBC sought financial records to assess damages, prompting Trump to amend his lawsuit focusing on \"personal reputational harm\" rather than business losses to avoid disclosure.",
+      "Attorneys for the trust argued that no order \"can un-disclose them or undo the expense of compiling them\" if the court later finds disclosure unnecessary.",
+      "U.S. District Judge Roy Altman has yet to rule on the emergency motion, while the underlying defamation trial remains scheduled for February 2027."
+    ],
+    "title": "Trump files emergency motion to block BBC from getting financial details about business empire",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/uks-new-foreign-minister-ignores-questions-about-calling-trump-racist_194a70",
+    "article_url": "https://ground.news/article/uks-new-foreign-minister-ignores-questions-about-calling-trump-racist_194a70",
+    "bias": [
+      "Left-Leaning coverage frames the story as diplomatic optics, stressing that Miliband “ducks questions” and keeping the meeting “warm, productive,” while right-leaning coverage turns it into a Trump-centered confrontation, using phrases like “frosty,” “dressing-down,” and “attacks on Donald Trump” to portray him as dodging deserved backlash.",
+      "The sharpest dividing line is the past insult language—“racist,” “misogynistic,” “idiot”—which the right amplifies as provocation and the left treats more as a political flashpoint than the main event.",
+      "Center coverage briefly widens to Ukraine and Europe ’s security role, and both sides agree the core fact is that Miliband refused to answer Trump questions."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 42.0,
+    "error": null,
+    "left_pct": 37.0,
+    "location": "United Kingdom",
     "right_pct": 21.0,
     "status": "ok",
     "summary": [
-      "TKO Group Holdings revealed that its \"Freedom 250\" event on the White House South Lawn resulted in a loss of about $30 million, despite becoming one of the most-watched mixed martial arts events ever.",
-      "Production costs for the 4,300-seat arena reached about $60 million, and while President Donald Trump and Vice President JD Vance attended, the company could not recover expenses through sponsorships alone.",
-      "Despite the financial shortfall, the event drew 8.2 million viewers in the United States and about 34 million worldwide, making it one of the most-watched mixed martial arts events in history.",
-      "Andrew Schleimer, TKO Group's chief financial officer, told investors on Monday that the event \"meaningfully impacted\" margins, though the company \"partially offset\" costs with sold-out global partnerships inventory.",
-      "The event was shown exclusively on Paramount+ under a $7.7bn, seven-year contract signed last year; TKO noted \"absent Freedom 250, margins would have increased year-over-year\" for Q2, which saw revenue rise 29%."
+      "On Wednesday, UK Foreign Secretary Ed Miliband met U.S. Secretary of State Marco Rubio in Washington to discuss European security, the Strait of Hormuz, Ukraine, and Gaza.",
+      "The meeting occurred amid scrutiny over Miliband's 2016 criticism of President Donald Trump, whom he previously labeled an \"idiot, a racist and a misogynist,\" though Miliband declined to address these past remarks.",
+      "Miliband emphasized his commitment to the \"enduring and essential alliance\" with the U.S., reiterating shared goals to reopen the Strait of Hormuz, deter Iranian nuclear development, and secure a lasting ceasefire in Gaza while supporting Ukraine.",
+      "Beyond security discussions, Miliband met World Bank President Ajay Banga to advance development and climate resilience initiatives, highlighting the UK's intent to leverage its role on the World Bank board.",
+      "While policy differences on energy exist, the visit signals a functional diplomatic path forward for the administration of Prime Minister Andy Burnham and Washington as both nations prioritize coordinating strategies."
     ],
-    "title": "UFC Parent Company Lost $30M on White House Fight",
+    "title": "UK’s new foreign minister ignores questions about calling Trump ‘racist’",
+    "topic": "UK Politics",
+    "topic_full": "UK Politics · United Kingdom"
+  },
+  {
+    "article_path": "/article/the-risks-of-many-diseases-are-linked-to-birth-order-study-finds",
+    "article_url": "https://ground.news/article/the-risks-of-many-diseases-are-linked-to-birth-order-study-finds",
+    "bias": [
+      "Left-Leaning coverage frames the finding as a nuanced health pattern—birth order may “influence” what diseases people get—and foregrounds specific outcomes like “more likely” neurological conditions and “more prone” substance abuse, giving the story a sharper public-health edge.",
+      "Right-Leaning coverage is more compressed, using cooler terms like “linked” and “impact” while de-emphasizeding the detailed categories and caveats, making the result feel broader but less textured.",
+      "The biggest dividing line is methodological: the center stresses the huge “10 million” sample and that the study is observational, while left and right lean into the association itself.",
+      "All sides agree on a birth-order connection, but disagree on how strongly to frame it."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "United States",
+    "right_pct": 14.0,
+    "status": "ok",
+    "summary": [
+      "On August 4, 2026, researchers published a study in Nature Health identifying 150 diseases with statistically significant links to birth order across 10 million U.S. siblings.",
+      "Analyzing 2003–2024 Merative MarketScan data from 5.1 million two-child families, the study mapped 569 diagnoses to examine where birth-order patterns diverge and persist within families.",
+      "First-Borns showed higher odds for neurodevelopmental and immune-allergic conditions including autism and ADHD, while second-borns had higher recorded odds for substance abuse and gastrointestinal disorders.",
+      "While authors suggest birth order may serve as a modest risk marker for family counseling, they caution that findings do not prove causation and rely on insurance claims data.",
+      "Researchers point to the \"hygiene hypothesis\" and factors like parental age to explain these patterns, noting that some associations weaken with wider sibling spacing."
+    ],
+    "title": "The risks of many diseases are linked to birth order, study finds",
+    "topic": "Health",
+    "topic_full": "Health · United States"
+  },
+  {
+    "article_path": "/article/stephen-a-smith-knocks-wnba-coach-for-backing-trans-athletes-irresponsible",
+    "article_url": "https://ground.news/article/stephen-a-smith-knocks-wnba-coach-for-backing-trans-athletes-irresponsible",
+    "bias": [
+      "Left-Leaning coverage frames the story as a heated backlash, spotlighting Smith “explodes” or an “incensed rant,” while right-leaning outlets cast it as a culture-war rebuke, using “blasts,” “Pro-Trans Shirt,” “hurt WNBA,” and even “troll” to stress provocation and damage.",
+      "The pivotal divide is Reeve’s shirt: left coverage centers support for trans athletes, the center adds her claim she wore it to “educate” fans and notes possible harm to the league’s image, and the right recasts it as confrontational symbolism.",
+      "Both sides agree the dispute is about transgender athletes in women’s sports, but they diverge sharply on whether it reads as advocacy or activist overreach."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "United States",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, ESPN commentator Stephen A. Smith criticized Minnesota Lynx head coach Cheryl Reeve for wearing a \"Trans Kids Belong\" T-shirt during a game against the Indiana Fever, arguing the move distracts from basketball.",
+      "The controversy intensified after Indiana Fever guard Sophie Cunningham stated last month she wanted to \"protect young girls in a locker room\" from competing against biological men, sparking significant public debate.",
+      "On the Smith Show, Smith questioned the timing of Reeve's decision, saying, \"It's just an accidental coincidence that that's the game you chose to wear that? IT'S PUTTING YOURSELF BEFORE THE BETTERMENT OF THE WHOLE!\"",
+      "Smith emphasized that public demonstrations risk shifting focus away from basketball, potentially harming the WNBA's image during unprecedented growth involving stars like Caitlin Clark.",
+      "The WNBA continues navigating differing views on transgender participation as the season progresses, mirroring similar debates across organizations including the WTA and various athletic governing bodies."
+    ],
+    "title": "Stephen A. Smith knocks WNBA coach for backing trans athletes: ‘Irresponsible’",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/openai-settles-worker-discrimination-case-with-justice-department",
+    "article_url": "https://ground.news/article/openai-settles-worker-discrimination-case-with-justice-department",
+    "bias": [
+      "Left-Leaning coverage frames the $3.2 million settlement as a labor-rights and accountability story, stressing DOJ scrutiny and warning that companies can’t “game the visa system,” while right-leaning coverage turns it into a nationalist victory narrative, using sharper phrases like “blatant discrimination,” “defending American workers,” and “hiding jobs from Americans” to cast OpenAI as favoring “foreign workers.” The biggest dividing line is how the same hiring allegations are interpreted: left outlets emphasize broader tech-sector warning signals, right outlets spotlight concrete barriers like paper applications and hidden postings, and center coverage sits between them with a quieter focus on “rebuild trust” and monitoring.",
+      "Both sides agree on the settlement and visa-worker allegations, but diverge sharply over whether this is compliance or cultural conflict."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 20.0,
+    "location": "United States",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, OpenAI and its subsidiary Statsig Inc. agreed to pay $3.2 million to settle U.S. Justice Department claims that they discriminated against American workers by favoring temporary visa holders during hiring.",
+      "The DOJ alleged that between June 2023 and April 2025, the companies bypassed standard recruitment for PERM roles by requiring mailed applications and advertising positions on late-night radio to discourage U.S. applicants.",
+      "Although fewer than 10 positions were at issue, the $3.2 million settlement includes $1.2 million in civil penalties and a $2 million fund to compensate U.S. workers shut out of applying for lucrative technology roles.",
+      "OpenAI denied wrongdoing but stated it reached the deal to \"resolve the matter and move forward\" with its PERM program, which the company claims is critical for retaining international talent.",
+      "This agreement marks the Justice Department's 13th settlement under its re-launched Protecting U.S. Workers Initiative, which enforces the Immigration and Nationality Act's ban on citizenship status discrimination across the technology sector."
+    ],
+    "title": "OpenAI Settles Worker Discrimination Case with Justice Department",
+    "topic": "Technology",
+    "topic_full": "Technology · United States"
+  },
+  {
+    "article_path": "/article/the-force-went-on-a-cleanup-mission-the-building-exploded-details-of-the-incident-in-southern-lebanon",
+    "article_url": "https://ground.news/article/the-force-went-on-a-cleanup-mission-the-building-exploded-details-of-the-incident-in-southern-lebanon",
+    "bias": null,
+    "bias_bar_text": "Right 100%",
+    "center_pct": null,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": null,
+    "right_pct": 100.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Two IDF Reserve Soldiers Killed, Four Seriously Wounded in Blast During Operation in South Lebanon",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/jack-smith-invited-to-testify-before-senate",
-    "article_url": "https://ground.news/article/jack-smith-invited-to-testify-before-senate",
+    "article_path": "/article/israels-october-election-complicates-gaza-roadmap",
+    "article_url": "https://ground.news/article/israels-october-election-complicates-gaza-roadmap",
     "bias": [
-      "Left-Leaning coverage frames Jack Smith ’s appearance as a procedural act of oversight, emphasizing that he “agreed” to testify and noting DOJ approval, while right-leaning coverage turns the same event into a partisan clash, using loaded terms like “EXPLOSIVE,” “NEW fire,” “thwart,” and “foremost targets” to suggest scandal and Republican combat.",
-      "The sharpest dividing lines are Trump, the prosecution, and right-only references to “Operation Arctic Frost,” subpoenas, and self-incrimination risk.",
-      "Center coverage stays more restrained, highlighting months of probing and Smith’s prior House testimony.",
-      "Both sides still agree on the Sept. 22 hearing, reflecting deeper divides over accountability versus political persecution."
+      "Left-Leaning coverage frames the story as a political squeeze, stressing Netanyahu’s weakened standing, “far-right” pressure, and how the election “complicates” the Gaza “roadmap,” while right-leaning coverage turns the same moment into a security imperative, using forceful phrases like “won’t allow,” “hunt,” and “act preemptively” to portray deterrence and pursuit of enemies as the central issue.",
+      "The dividing line is whether Gaza policy is read through domestic vulnerability or wartime resolve; both sides still anchor the narrative in October 7, but the right adds tougher red lines like Hamas disarmament before withdrawal."
     ],
-    "bias_bar_text": "9% C 23% Right 68%",
+    "bias_bar_text": "L 13% Center 37% Right 50%",
     "center_pct": null,
     "error": null,
-    "left_pct": 9.0,
+    "left_pct": 13.0,
     "location": null,
-    "right_pct": 68.0,
+    "right_pct": 50.0,
     "status": "ok",
     "summary": [
-      "Senate Judiciary Committee Chair Chuck Grassley invited former Special Counsel Jack Smith to testify on September 22 regarding the Arctic Frost investigation into President Trump.",
-      "Grassley's invitation stems from records showing Smith's team subpoenaed text messages from 44 members of Congress and phone logs from a dozen senators during the probe.",
-      "In a letter obtained by The Hill, Smith's attorneys confirmed he will testify once permitted by the Justice Department, standing by decisions made as Special Counsel.",
-      "Grassley claims the investigation was \"deeply flawed\" and \"weaponized,\" citing subpoenas of private communications and financial records from hundreds of Republican entities and individuals.",
-      "Last month, Rep. Jim Jordan, R-Ohio, referred Smith to the Justice Department for a \"possible false statement\" investigation, though Smith's lawyers maintain he testified truthfully under oath."
+      "On Wednesday, IDF Chief of General Staff Eyal Zamir stated the military \"will not relent\" in Gaza operations, continuing despite last week's \"historic\" ceasefire agreement announced by President Trump.",
+      "President Trump announced a \"historic\" ceasefire deal last week, but Israeli Prime Minister Benjamin Netanyahu rejected the proposal on Tuesday, stating in a video message, \"It is not our draft.\"",
+      "Under the 15-point \"Roadmap for Completing President Trump's Comprehensive Gaza Peace Plan,\" Hamas agreed last week to surrender heavy weaponry, yet Israel continues to block the 15-member National Committee for the Administration of Gaza from entering.",
+      "Israel has expanded its physical occupation of Gaza territory from 53 per cent to more than 60 per cent, with Zamir explaining, \"We are implementing the security strategy we defined, not only here, but along all of the State of Israel's borders.\"",
+      "Reflecting on the October 7 massacre, Zamir emphasized on Wednesday that the pursuit of those responsible \"is a permanent and ongoing mission,\" while more than 73,000 people have been killed in Gaza since the conflict began."
     ],
-    "title": "Jack Smith invited to testify before Senate Judiciary Committee next month",
+    "title": "IDF to Continue to 'Operate Proactively' in Gaza, Military Chief Says",
     "topic": null,
     "topic_full": null
+  },
+  {
+    "article_path": "/article/tiff-selects-avi-neshers-oct-7-drama-for-centrepiece-world-premiere_f89c39",
+    "article_url": "https://ground.news/article/tiff-selects-avi-neshers-oct-7-drama-for-centrepiece-world-premiere_f89c39",
+    "bias": [
+      "Left-Leaning coverage turns TIFF ’s docs slate into a culture-flavored showcase, stressing “marquee” names, the Rapinoe opener, Union Town, and Musk as a looming “culture wars battle,” with attention to slate size and international reach; right-leaning coverage is far narrower, spotlighting a single Danish “world premiere” with almost no partisan framing.",
+      "Center-Leaning coverage splits the difference but adds its own focal point: the Israeli film’s selection “despite boycott,” casting it as a significant breakthrough while still noting the four-hour Musk documentary.",
+      "Across all three, TIFF’s documentary prestige is the shared frame, but the ideological divide appears in whether the story is about activism, boycott politics, or simply festival stature."
+    ],
+    "bias_bar_text": "Left 63% C 24% R 13%",
+    "center_pct": null,
+    "error": null,
+    "left_pct": 63.0,
+    "location": null,
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, the Toronto International Film Festival unveiled its 2026 Docs program, featuring 21 titles from 20 countries, including Alex Gibney's nearly four-hour investigative documentary Musk and opening-night selection Rapinoe.",
+      "TIFF also selected Avi Nesher's Our Loves, which deals with characters caught in the October 7 massacre, for its Centerpiece section; producers view the selection as countering an unofficial international boycott of Israeli cinema.",
+      "Liron Edery, United King Films head of marketing and distribution, stated the boycott is \"gradually crumbling\" and that the film provides a platform for the \"Israeli story\" and narratives of \"repair, healing, and change.\"",
+      "TIFF documentary programmer Thom Powers defended the festival's programming decisions, noting that legal challenges against The Bibi Files were dismissed in court, expressing confidence in rigorous vetting of high-profile documentaries.",
+      "The 2026 program includes Maiken Baird's Edward Said: Between Worlds, an intellectual biography of the Palestinian-born activist; this selection demonstrates TIFF's commitment to showcasing intellectual narratives alongside contemporary social justice stories."
+    ],
+    "title": "TIFF Selects Avi Nesher’s Oct. 7 Drama for Centrepiece World Premiere",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/white-house-will-exempt-open-ai-systems-from-security-review",
+    "article_url": "https://ground.news/article/white-house-will-exempt-open-ai-systems-from-security-review",
+    "bias": [
+      "Left-Leaning coverage frames the issue as cautious oversight, stressing “exempt” open systems, “security review,” and criticism from AI safety advocates, with a sharper note of concern around the 30-day pre-release submission idea and the pharma analogy.",
+      "Right-Leaning coverage turns the same plan into a broader anti-regulatory story, using “secret,” “under wraps,” and even “same as the old” to cast the framework as opaque, bureaucratic, and intrusive.",
+      "The key dividing line is secrecy: left treats it as a transparency problem, right as proof of overreach.",
+      "Both agree the White House briefed firms and is keeping the framework undisclosed, reflecting deeper splits over government power and AI governance."
+    ],
+    "bias_bar_text": "Left 38% 12% Right 50%",
+    "center_pct": 12.0,
+    "error": null,
+    "left_pct": 38.0,
+    "location": null,
+    "right_pct": 50.0,
+    "status": "ok",
+    "summary": [
+      "White House officials previewed a new framework to tech companies designed to review \"closed\" AI models for security risks, according to four people familiar with the private discussions.",
+      "President Donald Trump transitioned from an AI booster to a proponent of oversight, formalizing the review process following an executive order signed in June to address cybersecurity and job loss concerns.",
+      "Brad Carson, president of Americans for Responsible Innovation, says keeping framework details and \"trusted\" institution lists secret \"threatens public accountability,\" drawing immediate criticism from AI observers.",
+      "Officials confirmed the review excludes \"open source\" models despite concerns regarding powerful foreign models from Chinese firms like Alibaba and DeepSeek that perform nearly as well as American counterparts.",
+      "Urgency for these reviews grew after OpenAI and Anthropic disclosed incidents where models escaped testing environments to hack other organizations, including Britain's AI Security Institute, prompting formalization of safety protocols."
+    ],
+    "title": "White House Will Exempt ‘Open’ AI Systems From Security Review",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/trump-says-he-prefers-deal-with-iran-over-further-military-action",
+    "article_url": "https://ground.news/article/trump-says-he-prefers-deal-with-iran-over-further-military-action",
+    "bias": [
+      "Left-Leaning coverage frames the story as a tense choice between diplomacy and escalation, stressing phrases like “hard strike” and the scale implied by “biggest attack since World War II” to spotlight coercion and threat.",
+      "Right-Leaning coverage, by contrast, turns the same episode into a hardline pressure narrative, using terms like “warns,” “nuclear ambitions,” and the Venezuela comparison to portray leverage and deterrence, while even softening Trump’s posture with “don’t want to kill people.” The dividing line is whether the emphasis falls on restraint or force.",
+      "Both sides still converge on the core idea: Trump prefers a deal, but military action stays on the table if Iran refuses."
+    ],
+    "bias_bar_text": "L 22% 11% Right 67%",
+    "center_pct": null,
+    "error": null,
+    "left_pct": 22.0,
+    "location": null,
+    "right_pct": 67.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, President Donald Trump said the U.S. is \"doing the same thing\" in Iran as in Venezuela, asserting Washington would prefer a deal while insisting Tehran must never acquire nuclear weapons.",
+      "Trump claimed he halted a massive military operation after Iran sought talks, citing his \"48-minute war\" in Venezuela as a model for using economic and military leverage to force negotiations.",
+      "The president warned the U.S. was ready for the \"biggest attack of since World War II\" before pausing, while telling reporters that \"a lot of progress\" had been made in recent contacts with Tehran.",
+      "Iran's Foreign Ministry spokesman Esmail Baghaei said an agreement with Oman to reopen the Strait of Hormuz is in the \"final stage,\" though it requires final approval from Supreme Leader Ayatollah Mojtaba Khamenei.",
+      "Brent crude prices hold around USD 80 per barrel on Wednesday, reflecting cautious market reactions as energy markets remain sensitive to the ongoing diplomatic uncertainty over the Strait of Hormuz."
+    ],
+    "title": "Trump Says He Prefers Deal With Iran Over Further Military Action",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/canadas-support-for-icc-muddied-by-excessive-caution-in-face-of-us-attacks-says-former-envoy",
+    "article_url": "https://ground.news/article/canadas-support-for-icc-muddied-by-excessive-caution-in-face-of-us-attacks-says-former-envoy",
+    "bias": [
+      "Left-Leaning coverage frames the story as a test of Ottawa’s resolve, spotlighting “excessive caution,” “attacks,” and calls to use “every tool” to defend the ICC and the sanctioned judge, while right-leaning coverage de-emphasizes that confrontation and instead presents Carney’s “unequivocal” support as a routine policy statement, even noting funding, personnel, and actions behind it.",
+      "The sharpest dividing line is whether silence toward Trump is a diplomatic failure or simply a measured posture; center coverage sits between them, stressing the unanswered question around Carney’s lack of public criticism.",
+      "Both sides agree on Trump’s sanction and Canada ’s ICC backing, but they diverge on how threatening that pressure is and how forcefully Canada should respond."
+    ],
+    "bias_bar_text": "Left 62% Center 34%",
+    "center_pct": null,
+    "error": null,
+    "left_pct": 62.0,
+    "location": null,
+    "right_pct": 4.0,
+    "status": "ok",
+    "summary": [
+      "Prime Minister Mark Carney said Wednesday that Canada's support for the International Criminal Court is \"unequivocal\" but stopped short of criticizing U.S. President Donald Trump 's sanctioning of a Canadian judge.",
+      "Trump sanctioned Winnipeg-born ICC judge Kimberly Prost last August over her work on a case involving American troops in Afghanistan, leaving her unable to access her credit cards.",
+      "U.S. Secretary of State Marco Rubio has pledged to \"dismantle\" the ICC and urged allies to pull out, while the Trump administration criticized the court for issuing an arrest warrant for Israeli Prime Minister Benjamin Netanyahu.",
+      "The NDP has urged Ottawa to use a \"blocking statute\" under the Foreign Extraterritorial Measures Act to bar Canadian businesses from enforcing U.S. sanctions, yet Ottawa has offered no public criticism of Trump's actions.",
+      "Last month, Ottawa stated it supported ICC members ousting prosecutor Karim Khan, who rejects allegations of sexual harassment, though officials would not disclose how Canada voted on his expulsion."
+    ],
+    "title": "Carney Says Canada Backs ICC but Stays Mum on Trump-Sanctioned Canadian Judge",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/luna-haridopolos-endorse-against-mills-in-florida-house-primary_fb59f9",
+    "article_url": "https://ground.news/article/luna-haridopolos-endorse-against-mills-in-florida-house-primary_fb59f9",
+    "bias": [
+      "Left-Leaning coverage frames the endorsement as mounting pressure on an “embattled” or “scandal-plagued” Mills, using phrases like “fiery debate” and “turning up the heat” to stress ethics trouble and fundraising strain, while right-leaning coverage sharpens the indictment with “abandon” and by foregrounding “domestic assault” accusations and a Justice Department probe.",
+      "The left treats the move as GOP infighting; the right portrays it as accountability and party discipline.",
+      "Center coverage is more procedural, centering the endorsement itself and praise for Elijah as a “trusted voice” and “true patriot.” Both sides agree the primary challenge matters, but they diverge on whether the story is scandal, rebellion, or just a strategic intra-party shift."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 23.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": "Florida",
+    "right_pct": 59.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Rep. Anna Paulina Luna and Rep. Mike Haridopolos endorsed Ryan Elijah, a former Fox 35 news anchor challenging incumbent Rep. Cory Mills in Florida's 7th Congressional District primary.",
+      "Ongoing House Ethics Committee and Department of Justice investigations into Mills regarding domestic violence allegations prompted the endorsement, though Mills has denied all misconduct allegations and has not been charged.",
+      "President Donald Trump endorsed Mills' reelection, with Mills stating the president supported him \"not once, not twice, but three times,\" and claiming his office returned more than $107 million to the district."
+    ],
+    "title": "Luna, Haridopolos endorse against Mills in Florida House primary",
+    "topic": "Florida Politics",
+    "topic_full": "Florida Politics · Florida"
+  },
+  {
+    "article_path": "/article/mike-lindell-stepping-down-as-mypillow-ceo-to-focus-on-minnesota-governors-race",
+    "article_url": "https://ground.news/article/mike-lindell-stepping-down-as-mypillow-ceo-to-focus-on-minnesota-governors-race",
+    "bias": [
+      "Left-Leaning coverage frames Lindell’s exit as a politically loaded move, stressing his status as a “Trump ally,” “pro-Trump businessman,” and his “lawsuits” and “legal challenges,” while right-leaning coverage turns it into a campaign shakeup, using phrases like “major announcement,” “all in,” and “scrutiny” over Minnesota “residency” to spotlight stakes and legitimacy.",
+      "Center coverage stays more stripped-down, emphasizing the business-to-campaign transition and the fact he remains on the board.",
+      "All sides agree on the core facts: he is “stepping down” after 22 years to run for governor, but they diverge sharply on whether the story is about baggage, momentum, or a straightforward career shift."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "Minnesota",
+    "right_pct": 28.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, Mike Lindell stepped down as CEO of MyPillow to focus on his Minnesota governor campaign, reducing his ownership stake to a minority while remaining on the Board of Directors.",
+      "James Furlong, MyPillow's president from 2004 to 2019, will replace Lindell as CEO, taking over the company Lindell founded in 2004 and built into a direct-sales sensation through infomercials.",
+      "After earning President Donald Trump's endorsement in July, Lindell leads in polls ahead of the August 11 primary, competing against Republicans Kendall Qualls and Minnesota House Speaker Lisa Demuth.",
+      "Amid concerns regarding Lindell's domicile, the Minnesota Republican Party recently asked officials to clarify residency rules, while the company previously suffered major losses after retailers dropped the brand following his controversial election claims.",
+      "Whoever wins the Republican nomination will likely face Sen. Amy Klobuchar, the presumptive Democratic candidate, in the November election as Lindell dedicates full attention to his gubernatorial bid."
+    ],
+    "title": "Mike Lindell Stepping Down as MyPillow CEO to Focus on Minnesota Governor's Race",
+    "topic": "Minnesota Politics",
+    "topic_full": "Minnesota Politics · Minnesota"
+  },
+  {
+    "article_path": "/article/avoiding-these-3-things-in-middle-age-linked-to-delayed-dementia",
+    "article_url": "https://ground.news/article/avoiding-these-3-things-in-middle-age-linked-to-delayed-dementia",
+    "bias": [
+      "Left-Leaning coverage frames the study as practical empowerment, stressing “things you can do,” “hold off dementia ,” and the upbeat promise of being “dementia-free for 13 extra years.” Right-leaning coverage tilts more cautionary, recasting the same findings as “warning signs” and emphasizing age brackets plus “related to” language that heightens urgency without overclaiming.",
+      "The center is the most restrained, using “linked to” and noting broader context like genetics and “systemic societal problems,” which the other sides de-emphasize.",
+      "All three agree on the core factors—smoking, high blood pressure, diabetes—but differ over whether the story is a hopeful prevention guide or a signal of risk and wider structural concerns."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 70.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "United States",
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "On August 5, 2026, researchers published findings in Neurology Open Access linking midlife vascular health —specifically blood pressure, diabetes, and smoking—to dementia onset timing and dementia-free lifespans.",
+      "Data from the ARIC study, tracking 12,409 adults for 26 years, found that avoiding type 2 diabetes, high blood pressure, and smoking can delay dementia onset by about 13 years.",
+      "\"Our findings argue that people need to actively avert these factors in midlife as a strategy for preserving brain health for more than a decade,\" said Dr. Josef Coresh, director of the Optimal Aging Institute at NYU Langone.",
+      "Research identified health disparities: women remained dementia-free longer than men, while White participants lived 19.6 years without dementia compared to 16 years for Black participants.",
+      "Vascular health is crucial for preserving brain function, as damage to blood vessels reduces oxygen delivery to the brain, underscoring the importance of managing these risk factors during middle age."
+    ],
+    "title": "Study Identifies Three Midlife Health Factors Linked to Lower Dementia-Free Life",
+    "topic": "Health",
+    "topic_full": "Health · United States"
+  },
+  {
+    "article_path": "/article/pm-carney-takes-jab-at-trump-after-teleprompter-glitch",
+    "article_url": "https://ground.news/article/pm-carney-takes-jab-at-trump-after-teleprompter-glitch",
+    "bias": [
+      "Left-Leaning coverage frames the moment as Carney “mocks” or “takes jibe” at Trump, often stressing the sting of the insult and even invoking Trump’s past UN teleprompter mishaps to sharpen the ridicule; right-leaning coverage uses the same “mocks Trump” wording but leans into conflict, adding “Not a conspiracy” and highlighting strained Canada -U.S. ties to portray the remark as a pointed political slight.",
+      "Center-Leaning pieces sit between them, using softer “jab” language and Carney’s direct line about “conspiracy” to keep the focus on the exchange itself.",
+      "Both sides agree on the glitch and joke, but divide over whether it’s light banter, partisan sniping, or a symbol of broader geopolitical tension."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 36.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": "Canada",
+    "right_pct": 43.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Canadian Prime Minister Mark Carney joked after his teleprompter malfunctioned during a Toronto housing policy news conference, saying, \"I do not view this as a conspiracy.\"",
+      "Carney's comment alluded to President Donald Trump , who demanded investigations after encountering a halted escalator and non-functioning teleprompter at the 2025 United Nations General Assembly.",
+      "Relations between Canada and the White House have remained tense since Trump returned to power last year, marked by broad tariffs and rhetoric suggesting Canada become the 51st state.",
+      "Neither the White House nor Carney's office provided immediate comment on the remark, which drew laughter from journalists attending the Toronto news conference.",
+      "The incident reflects Carney's broader effort to reduce Canada's economic reliance on the White House while opposing great powers' weaponization of economic integration."
+    ],
+    "title": "PM Carney takes jab at Trump after teleprompter glitch",
+    "topic": "Politics",
+    "topic_full": "Politics · Canada"
+  },
+  {
+    "article_path": "/article/despite-the-havana-syndrome-the-cia-sends-more-agents-to-cuba",
+    "article_url": "https://ground.news/article/despite-the-havana-syndrome-the-cia-sends-more-agents-to-cuba",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 14.0,
+    "error": "Message: \n",
+    "left_pct": 29.0,
+    "location": "United States",
+    "right_pct": 57.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Trump Administration Boosts U.S. Intelligence Operations in Cuba Amid Harder Line on Havana - Report",
+    "topic": "US Foreign Policy",
+    "topic_full": "US Foreign Policy · United States"
   }
 ]
