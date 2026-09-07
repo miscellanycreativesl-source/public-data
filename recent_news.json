@@ -1,12 +1,12 @@
 [
   {
-    "article_path": "/article/94f4a4ab-7501-4240-a62f-123fa7439472",
-    "article_url": "https://ground.news/article/94f4a4ab-7501-4240-a62f-123fa7439472",
+    "article_path": "/article/at-least-5-dead-after-amazon-cargo-plane-barreled-off-runway-at-miami-airport_573a53",
+    "article_url": "https://ground.news/article/at-least-5-dead-after-amazon-cargo-plane-barreled-off-runway-at-miami-airport_573a53",
     "bias": [
-      "Left-Oriented coverage, often using “major win for voters” and “guaranteeing” voting rights, frames the injunction as protection against disenfranchisement and possible Republican advantage; right-oriented coverage stresses ballot distribution already underway, “uncertainty,” “chaos,” and even “catastrophe ahead,” portraying litigation as operational danger.",
-      "The dividing line is a USPS eligibility-list rule that could permit rejecting ballots from unlisted voters.",
-      "Both note the Trump administration ’s appeal, nationwide stakes, and midterm timing, while center coverage de-emphasizes partisan effects and emphasizes the judge’s “likely unconstitutional” reasoning and procedural injunction.",
-      "Together, the frames reflect competing priorities: access versus election administration and stability."
+      "Coverage largely shares the same account—an Amazon-branded Boeing 767 overran Miami’s runway, struck vehicles, killed five, injured five, and triggered a ground stop—but framing diverges.",
+      "Left-Leaning reports emphasize human loss and disruption, using “dead,” “injured,” “barreled off,” and “thick black plume,” while noting possible weather involvement.",
+      "Right-Leaning reports intensify danger and spectacle through “bursts into flames,” “terrifying footage,” “chaos,” and roadway threats.",
+      "Center coverage preserves early uncertainty, distinguishes 21 Air from Amazon, and stresses the FAA /NTSB investigation and “disabled aircraft.” The dividing line is confirmed evidence versus dramatic implications, though all stress fatalities, emergency response, and unresolved causation."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -16,13 +16,93 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
+      "On Sunday, 21 Air Flight 7598, a Boeing 767-300 operating for Amazon Prime Air, overran Miami International Airport's diagonal runway and struck multiple vehicles near the northwest perimeter, catching fire.",
+      "The 32-year-old jet departed from Luis Muñoz Marín International Airport in San Juan, Puerto Rico, and was attempting to land when the incident occurred; investigators are examining flight data to determine the cause.",
+      "Miami-Dade Fire Rescue Chief Ray Jadallah confirmed five fatalities, with three survivors in critical condition and two hospitalized. More than 60 fire-rescue units responded to extinguish flames and extricate victims trapped in vehicles.",
+      "Transportation Secretary Sean Duffy issued a full ground stop at Miami International Airport, disrupting operations airport-wide. FlightAware reported nearly 250 delayed flights by late Sunday as runways and taxiways remained closed.",
+      "The National Transportation Safety Board deployed a team led by Chairwoman Jennifer Homendy to investigate the crash. Analysts will examine flight recorders and wreckage to determine the cause, a process expected to span several months."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/administration-asks-supreme-court-to-lift-block-on-usps-mail-in-rules-for-midterms",
+    "article_url": "https://ground.news/article/administration-asks-supreme-court-to-lift-block-on-usps-mail-in-rules-for-midterms",
+    "bias": [
+      "Left-Leaning coverage frames the administration’s third Supreme Court appeal as repeated “restrictions” threatening voting access, stressing an allegedly unconstitutional policy and warning of election consequences; “easily should lose” adds overtly adversarial judgment.",
+      "Right-Leaning coverage portrays the same appeal as restoring election safeguards, emphasizes federal-versus-state authority, and attacks the ruling through phrases like “radical Obama judge,” while warning of “electoral chaos” if rules change late.",
+      "Center coverage de-emphasizes partisan blame, presenting a procedural dispute under urgent ballot deadlines.",
+      "All perspectives highlight the injunction, Postal Service role, and unresolved Supreme Court review, reflecting broader divides over voter access, election integrity, and institutional power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": 31.0,
+    "location": null,
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "The Trump administration on Sunday filed an emergency application with the Supreme Court seeking to lift a federal judge's block on new United States Postal Service mail-in voting restrictions ahead of November's midterm elections.",
+      "Stemming from a March executive order, the plan requires states to provide the Department of Homeland Security with voter lists and mandates unique barcodes on ballot envelopes, shifting election administration duties traditionally managed by states to federal agencies.",
+      "U.S. District Judge Indira Talwani extended her block on Friday, finding the rule \"threatens disenfranchisement of millions\" and likely violates the Constitution by intruding on Congress's Elections Clause powers and state authority.",
+      "North Carolina has already begun mailing ballots, with Alabama scheduled to start September 9 and at least five additional states beginning the week of September 13, leaving the Supreme Court to decide amid active voting.",
+      "Control of Congress hangs in the balance as nearly one-third of U.S. voters rely on mail ballots; the Supreme Court's ruling will determine whether procedural changes take effect mid-election or remain blocked through November 3."
+    ],
+    "title": "Trump administration makes another Supreme Court appeal on mail ballot fight",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles_928bf8",
+    "article_url": "https://ground.news/article/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles_928bf8",
+    "bias": [
+      "Left-Leaning coverage foregrounds U.S. responsibility and civilian consequences, calling the tanker strikes possible “war crime,” questioning missile claims with “after saying,” and linking them to a wider, six-month escalation threatening shipping and energy markets.",
+      "Right-Leaning coverage frames the same action as justified deterrence after “unprovoked attacks,” portraying Iran’s vessels as a “shadow network” and praising a “forceful reprisal,” “obliterates,” or “take out.” Center coverage more cautiously attributes claims to CENTCOM, stresses a “dangerous escalation,” and notes limited independent verification.",
+      "The sharpest divide concerns whether the tankers were civilian targets or sanctions-linked military -financing assets, though all perspectives emphasize the three strikes, evaded missiles, no U.S. casualties, and rising U.S.-Iran tensions."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 48.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": null,
+    "right_pct": 28.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, U.S. Central Command forces struck three Iranian oil tankers in regional waters in retaliation for ballistic missile attacks by the Islamic Revolutionary Guard Corps against two US Navy warships.",
+      "The US military stated that these vessels were part of \"a multibillion-dollar shadow network\" that funds the IRGC and its regional proxies, serving as a primary financial lifeline for the Iranian military organization.",
+      "Confirmed by CENTCOM, US forces \"permanently disabled\" the M/T Downy off Kharg Island and the M/T Stark 1 near Jask, while the unladen M/T Kylo was \"completely destroyed\" in the Gulf of Oman.",
+      "Threatening that retaliation would be \"more severe than before,\" Iran countered CENTCOM commander Admiral Brad Cooper, who warned, \"We will impose an even higher economic cost.\"",
+      "With gasoline prices expected to hit $4.03, this incident marks a dangerous escalation in the six-month conflict, during which President Donald Trump described the ongoing hostilities as \"small potatoes,\" dismissing concerns of an active war."
+    ],
+    "title": "CENTCOM Strikes 3 Iranian Oil Tankers After Missile Attack on Warships",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/federal-judge-extends-block-on-trump-executive-order-seeking-to-limit-mail-voting-in-the-midterms_ef418c",
+    "article_url": "https://ground.news/article/federal-judge-extends-block-on-trump-executive-order-seeking-to-limit-mail-voting-in-the-midterms_ef418c",
+    "bias": [
+      "Left-Leaning coverage frames the injunction as a “major win for voters,” portraying Trump’s rules as “restrictions” risking disenfranchisement and potentially benefiting Republicans.",
+      "Right-Leaning coverage instead stresses “uncertainty,” “chaos,” and “catastrophe ahead,” depicting the ruling and late procedural changes as threats to ballot processing, election officials, and “election integrity,” while using vivid metaphors like “Return To Sender.” Center coverage foregrounds constitutional reasoning, feasibility, and competing claims about noncitizen voting.",
+      "The pivotal divide is whether the policy primarily restricts access or safeguards elections.",
+      "All perspectives emphasize the injunction, ongoing litigation, and potential midterm disruption, reflecting wider clashes over voting rights, election trust, and institutional authority."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 61.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": null,
+    "right_pct": 21.0,
+    "status": "ok",
+    "summary": [
       "District Court Judge Indira Talwani issued a preliminary injunction on Friday, extending her block on President Donald Trump 's executive order restricting mail-in voting for the midterms. The ruling replaces her temporary order as states begin distributing ballots.",
       "Democrats and voting rights groups filed multiple lawsuits challenging the order, arguing the Constitution grants Congress, not Trump, authority over voting procedures. Their legal challenge emerged after Trump issued the executive order in March.",
       "North Carolina began distributing mail ballots on Friday, with more states expected to follow swiftly. Election officials contend there is insufficient time to revise their systems to comply with the new Postal Service directives.",
       "Trump is expected to appeal Talwani's latest ruling, continuing the legal battle as the midterms approach. Control of Congress remains at stake, heightening the urgency of the unresolved dispute.",
       "The Supreme Court overturned a previous challenge last month as premature, pointedly declining to rule on the legality of Trump's moves. This leaves fundamental constitutional questions about presidential authority unresolved heading into the election cycle."
     ],
-    "title": "Source Icon",
+    "title": "Federal judge extends block on Trump executive order seeking to limit mail voting in the midterms",
     "topic": null,
     "topic_full": null
   },
@@ -54,381 +134,474 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/lindsay-clancy-judge-declares-a-mistrial-after-the-states-top-court-denies-defenses-appeal_24548e",
-    "article_url": "https://ground.news/article/lindsay-clancy-judge-declares-a-mistrial-after-the-states-top-court-denies-defenses-appeal_24548e",
+    "article_path": "/article/armed-person-lunges-at-ohio-candidate-acton-at-fair_c24338",
+    "article_url": "https://ground.news/article/armed-person-lunges-at-ohio-candidate-acton-at-fair_c24338",
     "bias": [
-      "Coverage agrees that a judge declared a mistrial after roughly seven days of deadlock, but diverges sharply over meaning: left-leaning accounts foreground postpartum psychosis, criminal responsibility, and the family’s “heart-wrenching” ordeal, while right-leaning narratives stress accountability, an alleged lone holdout juror, and a defense appeal labeled “desperate” or a “Hail Mary,” even praising the dissenter as a “hero.” The pivotal divide is whether mental illness explains culpability or excuses consequences, alongside disputed claims about juror bias and an 11–1 split.",
-      "Center coverage mainly explains procedure and retrial options.",
-      "All emphasize the unresolved case and possibility of retrial, reflecting broader tensions over mental health, punishment, and institutional trust."
+      "Left-Leaning coverage frames the Canfield Fair incident as an “assassination attempt,” invoking “political violence” and even “Heavily Armed Republican” to connect an unestablished affiliation to MAGA extremism.",
+      "Right-Leaning coverage emphasizes a “burst of violence,” weapons, injuries, and “intruder,” while questioning the campaign’s “dramatic account,” highlighting conflicting law-enforcement descriptions and the unproven motive.",
+      "Center coverage uses qualifiers such as “reportedly” and “allegedly,” noting Acton was unharmed and the suspect arrested.",
+      "All perspectives stress an armed confrontation, injuries, and police intervention, but their divide reflects broader disputes over political violence, evidentiary caution, and partisan responsibility."
     ],
-    "bias_bar_text": null,
+    "bias_bar_text": "L 24% Center 55% R 21%",
     "center_pct": 55.0,
-    "error": null,
-    "left_pct": 22.0,
-    "location": null,
-    "right_pct": 23.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Judge William Sullivan indicated a mistrial in the Lindsay Clancy murder trial after jurors remained deadlocked regarding her responsibility for the 2023 deaths of her three children.",
-      "Clancy pleaded not guilty, with defense lawyers arguing she suffered from severe postpartum psychosis; prosecutors countered that she intentionally committed the acts, rejecting the mental health defense.",
-      "After a six-week trial, jurors remained deadlocked; defense attorney Kevin Reddington cited a note from the foreperson indicating one holdout juror refused to change their vote despite an 11-1 split.",
-      "A hearing is scheduled for Tuesday, Sept. 29, to address defense motions and discuss a potential retrial, as Plymouth District Attorney Timothy Cruz considers whether to prosecute the case again.",
-      "Legal analysts suggest a retrial is likely to prevent Clancy from going free, though prosecutors could still negotiate a plea agreement as the legal process moves forward."
-    ],
-    "title": "Lindsay Clancy judge declares a mistrial after the state’s top court denies defense’s appeal",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/us-payrolls-rose-162-000-in-august-much-more-than-expected-unemployment-rate-at-41_d985d1",
-    "article_url": "https://ground.news/article/us-payrolls-rose-162-000-in-august-much-more-than-expected-unemployment-rate-at-41_d985d1",
-    "bias": [
-      "Left-Leaning coverage highlights the 162,000-job gain—“more than double” forecasts—yet calls the report “noisy” and the labor market “fragile under the hood,” stressing 4.1% unemployment’s limits, 3.1% wage growth versus inflation , weak participation, and concentrated hiring.",
-      "Right-Leaning coverage celebrates a “blowout,” “shattering expectations,” and claims “Trumpnomics is working,” linking results to Trump and rebuking “doomsayers,” while favoring rate cuts despite hike implications.",
-      "Center coverage presents a “solid” rebound, sector details, revisions, and conditional Fed consequences.",
-      "All agree hiring beat forecasts and markets reacted, but their divide reflects competing priorities: economic validation versus skepticism about distribution, policy attribution, and borrowing costs."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 44.0,
     "error": null,
     "left_pct": 24.0,
     "location": null,
-    "right_pct": 32.0,
+    "right_pct": 21.0,
     "status": "ok",
     "summary": [
-      "On Friday, the Bureau of Labor Statistics reported the U.S. economy added 162,000 payroll jobs in August, far exceeding expectations, while the unemployment rate held steady at 4.1 percent.",
-      "Leisure and hospitality drove gains with 59,000 new positions, while the Bureau revised June and July payrolls upward by a combined 55,000 jobs to reflect stronger underlying labor market momentum.",
-      "Labor force participation rose to 61.6 percent, reflecting returning workers, though wage growth slowed to 3.1 percent annually—consistent with the Fed's 2 percent inflation target.",
-      "Investors ramped up bets on a September Federal Reserve rate hike to roughly 62 percent, with market participants weighing the robust jobs data against persistent inflation concerns.",
-      "President Donald Trump renewed his demand for lower interest rates on Truth Social, complicating the Fed's decision-making ahead of next week's inflation data, which will likely determine the September rate decision."
+      "On Sunday, an armed individual lunged at Ohio gubernatorial candidate Amy Acton during a campaign stop at the Canfield Fair in Mahoning County, injuring multiple people in the process.",
+      "Chris Anderson, chairman of the Mahoning County Democratic Party , confirmed shortly after that police took the suspect into custody armed with multiple weapons as campaign volunteers were knocked to the ground.",
+      "Communications Director Addie Bullock stated Acton is \"grateful\" for the \"swift and decisive action\" of law enforcement, while the campaign prays for the recovery of those injured.",
+      "\"This kind of violence has no place in Ohio,\" Bullock said, emphasizing that Acton will stand up to the \"chaos, hate and vitriol\" affecting political discourse.",
+      "Acton, a physician and former director of the Ohio Department of Health, faces Republican Vivek Ramaswamy to succeed term-limited Gov. Mike DeWine in the 2026 gubernatorial race."
     ],
-    "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+    "title": "Armed Person Lunges at Ohio Candidate Acton at Fair",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-again-appeals-to-supreme-court-on-mail-voting-restrictions-with-midterm-elections-looming_85ed68",
-    "article_url": "https://ground.news/article/trump-again-appeals-to-supreme-court-on-mail-voting-restrictions-with-midterm-elections-looming_85ed68",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 50.0,
+    "article_path": "/article/house-gop-conference-chair-says-rep-max-miller-is-our-nominee-right-now-despite-abuse-allegations_7788bb",
+    "article_url": "https://ground.news/article/house-gop-conference-chair-says-rep-max-miller-is-our-nominee-right-now-despite-abuse-allegations_7788bb",
+    "bias": [
+      "Left-Leaning coverage casts McClain’s support for Max Miller as partisan loyalty overriding accountability, using terms like “sociopath,” “embattled,” “grilled,” and “violently abusing,” while spotlighting nearly $450,000 in party spending.",
+      "Center coverage emphasizes Miller as the Republican nominee and notes McClain’s qualification that she hopes the allegations are untrue.",
+      "Right-Leaning framing presents a fellow Republican standing by Miller amid “controversy” and “mounting calls” to resign, with less emphasis on the spending.",
+      "The pivotal divide is whether McClain’s “anyone with an R” stance signals troubling ethical priorities or ordinary political calculation; all acknowledge the allegations, candidacy, and her support."
+    ],
+    "bias_bar_text": "Left 50% Center 33% R 17%",
+    "center_pct": 33.0,
     "error": null,
-    "left_pct": 33.0,
+    "left_pct": 50.0,
     "location": null,
     "right_pct": 17.0,
-    "status": "no_change",
+    "status": "ok",
     "summary": [
-      "On Thursday, the Trump administration asked the Supreme Court to lift a temporary block on new Postal Service rules requiring federal review of mail ballot envelopes and voter data before the November 3 election.",
-      "President Donald Trump issued an executive order in March requiring states to use a federal portal for voter information and USPS-approved envelopes, citing a need to combat voter fraud.",
-      "Boston-Based U.S. District Judge Indira Talwani blocked the rule citing an \"impossible\" timeline, while an anonymous whistleblower warned the portal was developed through a \"rushed, chaotic, and fundamentally flawed\" process.",
-      "North Carolina began sending out ballots on Friday as required by state law, while State Attorney General Jeff Jackson warned that sudden restrictions could \"throw our election into chaos.\"",
-      "The Supreme Court requested a response by September 8, as legal experts debate whether the executive branch can dictate state election administration practices for the November 3 general election."
+      "On Sunday, House Republican Conference Chair Lisa McClain defended Rep. Max Miller on \"Face the Nation,\" dismissing calls for the Ohio Republican to resign despite domestic abuse allegations because she \"will support anyone with an R behind their name.\"",
+      "Emily Moreno, daughter of GOP Sen. Bernie Moreno, alleged the congressman verbally and physically abused her and their two-year-old daughter, including claims he pointed a gun at her and fractured the toddler's collarbone.",
+      "The National Republican Congressional Committee announced last week it would spend roughly $450,000 on Miller's campaign, though Sens. Katie Britt, Jim Banks, and Roger Marshall have called on him to resign.",
+      "Defending her position, McClain argued Miller has been a \"good advocate for his constituents\" while emphasizing her focus on \"winning the House back\" and \"rooting out waste, fraud, and abuse.\"",
+      "Miller claimed the allegations are \"destructive\" and lack evidence, having released documents to defend himself; President Trump previously raised concerns but Miller remains in the race."
     ],
-    "title": "Trump again appeals to Supreme Court on mail-voting restrictions with midterm elections looming",
+    "title": "House GOP conference chair says Rep. Max Miller is \"our nominee right now\" despite abuse allegations",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles_928bf8",
-    "article_url": "https://ground.news/article/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles_928bf8",
+    "article_path": "/article/the-us-tariff-on-canadian-imports-could-send-already-soaring-hockey-gear-prices-even-higher",
+    "article_url": "https://ground.news/article/the-us-tariff-on-canadian-imports-could-send-already-soaring-hockey-gear-prices-even-higher",
     "bias": [
-      "Left-Leaning coverage foregrounds U.S. responsibility and civilian consequences, calling the tanker strikes possible “war crime,” questioning missile claims with “after saying,” and linking them to a wider, six-month escalation threatening shipping and energy markets.",
-      "Right-Leaning coverage frames the same action as justified deterrence after “unprovoked attacks,” portraying Iran’s vessels as a “shadow network” and praising a “forceful reprisal,” “obliterates,” or “take out.” Center coverage more cautiously attributes claims to CENTCOM, stresses a “dangerous escalation,” and notes limited independent verification.",
-      "The sharpest divide concerns whether the tankers were civilian targets or sanctions-linked military -financing assets, though all perspectives emphasize the three strikes, evaded missiles, no U.S. casualties, and rising U.S.-Iran tensions."
+      "Left-Leaning coverage foregrounds household strain: families are “feeling the pinch” as children outgrow gear, with prices “soaring” and “skyrocketed” portraying the 50% tariff as another affordability threat.",
+      "Right-Leaning coverage is terser, centering the helmet’s rise from $400 to $1,000 and similarly using “skyrocketed,” while de-emphasizing replacement pressures and broader protectionism.",
+      "Center coverage uses “could” and adds a chest-protector example, from $465 to $900, signaling caution.",
+      "The pivotal difference is emphasis—family burdens versus concise price evidence—not opposing interpretations: all portray rising costs and the tariff as potentially worsening consumer harm, revealing shared concern more than partisan division."
     ],
-    "bias_bar_text": "Left 25% Center 49% Right 26%",
-    "center_pct": 49.0,
+    "bias_bar_text": null,
+    "center_pct": 47.0,
     "error": null,
-    "left_pct": 25.0,
-    "location": null,
-    "right_pct": 26.0,
+    "left_pct": 42.0,
+    "location": "Minnesota",
+    "right_pct": 11.0,
     "status": "ok",
     "summary": [
-      "On Saturday, U.S. Central Command forces struck three Iranian oil tankers in regional waters in retaliation for ballistic missile attacks by the Islamic Revolutionary Guard Corps against two US Navy warships.",
-      "The US military stated that these vessels were part of \"a multibillion-dollar shadow network\" that funds the IRGC and its regional proxies, serving as a primary financial lifeline for the Iranian military organization.",
-      "Confirmed by CENTCOM, US forces \"permanently disabled\" the M/T Downy off Kharg Island and the M/T Stark 1 near Jask, while the unladen M/T Kylo was \"completely destroyed\" in the Gulf of Oman.",
-      "Threatening that retaliation would be \"more severe than before,\" Iran countered CENTCOM commander Admiral Brad Cooper, who warned, \"We will impose an even higher economic cost.\"",
-      "With gasoline prices expected to hit $4.03, this incident marks a dangerous escalation in the six-month conflict, during which President Donald Trump described the ongoing hostilities as \"small potatoes,\" dismissing concerns of an active war."
+      "Kelly Rand's twin teenage boys in St. Paul, Minnesota, frequently need new hockey equipment due to growth spurts.",
+      "The US imposed 50% tariffs on over 550 Canadian goods, including hockey sticks and skates, raising costs for hockey equipment.",
+      "An average hockey stick costs about $200, with premium models reaching $400.",
+      "The Sports & Fitness Industry Association, led by CEO Todd Smith, is advocating for the removal of tariffs amid a 7% growth in US hockey participation over the past three years."
     ],
-    "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-    "topic": null,
-    "topic_full": null
+    "title": "The US tariff on Canadian imports could send already soaring hockey gear prices even higher",
+    "topic": "U.S.-Canada Relations",
+    "topic_full": "U.S.-Canada Relations · Minnesota"
   },
   {
-    "article_path": "/article/president-trump-approves-federal-aid-for-colorado-wildfire-recovery",
-    "article_url": "https://ground.news/article/president-trump-approves-federal-aid-for-colorado-wildfire-recovery",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 67.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "Colorado",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "President Donald Trump approved FEMA public assistance on Friday for Colorado's Major Disaster Declaration, supporting Pueblo, Custer, and Ouray counties recovering from summer wildfires.",
-      "The Aspen Acres Fire and Gold Mountain Fire burned more than 140,000 acres combined, destroying over 300 homes and damaging critical public infrastructure across three counties.",
-      "Governor Jared Polis submitted the formal request in August, bolstered by 173 letters from bipartisan elected officials, nonprofit groups, and homeowners demonstrating urgent need for federal aid.",
-      "The Colorado Division of Homeland Security and Emergency Management can now implement debris removal and repair essential infrastructure like roads and water systems at no cost to homeowners.",
-      "Individual Assistance and Hazard Mitigation funding requests remain under review, following the administration's previous denial of disaster aid for fires and flooding in Colorado last year."
-    ],
-    "title": "Colorado gets federal approval for major disaster declaration in Aspen Acres and Gold Mountain fires",
-    "topic": "Colorado Politics",
-    "topic_full": "Colorado Politics · Colorado"
-  },
-  {
-    "article_path": "/article/doj-charges-illegal-voters-from-three-states-in-2022-and-2024-elections",
-    "article_url": "https://ground.news/article/doj-charges-illegal-voters-from-three-states-in-2022-and-2024-elections",
+    "article_path": "/article/warning-signs-abound-for-trumps-republicans-as-midterm-campaign-begins-final-sprint_568c03",
+    "article_url": "https://ground.news/article/warning-signs-abound-for-trumps-republicans-as-midterm-campaign-begins-final-sprint_568c03",
     "bias": [
-      "Left-Leaning coverage frames the matter as a formal DOJ announcement involving “crimes related to noncitizen voting ,” using restrained legal language and de-emphasizing election years, immigration status, and arrest footage.",
-      "Right-Leaning coverage intensifies the stakes with repeated terms like “illegal voters,” “illegal aliens,” “FIVE,” “Trump DOJ,” and “key swing states,” portraying five cases across the 2022 and 2024 elections as evidence of election-integrity and immigration concerns.",
-      "The pivotal divide is whether to foreground procedural charges or broader threats to electoral legitimacy, especially the allegation that a U.S. citizen helped with registration.",
-      "Both sides emphasize five defendants, three states, and voting-related crimes, reflecting wider disputes over immigration and election security."
+      "Left-Leaning coverage frames Trump as an electoral burden, using “sinking popularity,” “panic,” and “ball and chain” to portray Republican candidates as anxious and potentially distancing themselves from him, while citing declining approval among Republicans.",
+      "Center-Leaning accounts emphasize mechanisms—trade conflict, inflation , gas-price volatility, and national debt—describing “deep unpopularity” and a “growing crisis.” Right-leaning coverage largely accepts the warning that Trump’s unpopularity threatens narrow Republican congressional majorities but de-emphasizes intraparty panic and economic detail.",
+      "All perspectives converge on electoral vulnerability as campaigns intensify, reflecting broader divides over Trump’s leadership, economic legacy, and party loyalty."
     ],
     "bias_bar_text": null,
-    "center_pct": null,
+    "center_pct": 33.0,
     "error": null,
-    "left_pct": 14.0,
+    "left_pct": 56.0,
     "location": "United States",
-    "right_pct": 86.0,
+    "right_pct": 11.0,
     "status": "ok",
     "summary": [
-      "The Justice Department charged five individuals in Pennsylvania, Wisconsin, and New Jersey on Friday with voting -related crimes, with Attorney General Todd Blanche calling election fraud a \"serious crime.\"",
-      "Homeland Security claimed in July it identified 250,000 potential noncitizens on voter rolls across four states, though the Department has yet to release specific voter lists or details on how it identified them.",
-      "In Pennsylvania, prosecutors indicted Thomas Holtzman, his wife Marisol Guzman, and Katya Rodriguez for alleged 2024 election violations; Mercedes Alexandra Cardoso and Jesus Javier Jurado Garcia faced charges in New Jersey and Wisconsin respectively.",
-      "Gov. Mikie Sherrill claimed a \"software error\" registered about 6,600 noncitizens in New Jersey, though election officials maintain that noncitizen voting remains a rare occurrence despite these cases.",
-      "President Donald Trump's administration is seeking to crack down on alleged noncitizen voter registrations, with officials stating that any noncitizens found voting will be held accountable."
+      "As the campaign sprint kicks off on Labor Day Monday, President Donald Trump 's deep unpopularity imperils Republican chances of maintaining narrow congressional majorities with just two months before November's midterm elections.",
+      "Trump's approval ratings remain at an all-time low according to the latest Reuters/Ipsos survey, with broad majorities dissatisfied with the economy and the war in Iran; his net disapproval is nearly twice what it was in 2018.",
+      "While Democratic candidates nationally have outraised their opponents, Republican-aligned super PACs far outstrip Democratic counterparts, with Trump's own super PAC holding a $400 million war chest to fuel GOP efforts.",
+      "Invoking the 1994 \"Contract with America\" campaign, House Speaker Mike Johnson said the election is \"a contrast between common sense and crazy\" as Republicans attempt to paint progressive candidates as socialists.",
+      "Even if Democrats prevail in competitive races in Georgia, Maine, Michigan and North Carolina, they must still win at least two of four states Trump carried by double digits in 2024—Alaska, Iowa, Ohio and Texas—to secure Senate control."
     ],
-    "title": "DOJ charges illegal voters in Pennsylvania, New Jersey, and Wisconsin",
-    "topic": "Department of Justice",
-    "topic_full": "Department of Justice · United States"
+    "title": "Warning signs abound for Trump’s Republicans as midterm campaign begins final sprint",
+    "topic": "Republican Party",
+    "topic_full": "Republican Party · United States"
   },
   {
-    "article_path": "/article/doj-ordered-to-name-planners-of-18b-slush-fund",
-    "article_url": "https://ground.news/article/doj-ordered-to-name-planners-of-18b-slush-fund",
+    "article_path": "/article/small-plane-crash-in-central-california-leaves-2-dead-and-2-in-critical-condition",
+    "article_url": "https://ground.news/article/small-plane-crash-in-central-california-leaves-2-dead-and-2-in-critical-condition",
     "bias": [
-      "Left-Leaning coverage portrays the $1.8 billion proposal as a secretive “slush fund,” with “shadowy figures,” possible benefits for January 6 participants, and the disclosure order as a “major” DOJ defeat.",
-      "Right-Leaning framing instead calls its designers “masterminds,” labels related prosecutions “lawfare,” and presents “anti-weaponization” as a remedy for government targeting, while stressing the fund is “defunct.” Center coverage bridges the divide, calling it “dead” yet asking why its architects still matter, echoing the judge’s demand for accountability.",
-      "All perspectives emphasize the disclosure order, abandoned program, and ongoing litigation, reflecting broader disputes over institutional trust, January 6, and politicized justice."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 38.0,
-    "error": null,
-    "left_pct": 54.0,
-    "location": "United States",
-    "right_pct": 8.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, U.S. Magistrate Judge Ivan D. Davis ordered the Department of Justice to identify the architects behind the controversial $1.8 billion anti-weaponization fund, compelling the agency to disclose the names to plaintiffs' attorneys.",
-      "The initiative originated from a settlement agreement between President Donald Trump and the Internal Revenue Service, intended to compensate individuals claiming political victimization, but faced bipartisan backlash over concerns it could reward defendants from the January 6, 2021, Capitol riot.",
-      "Justice Department attorneys unsuccessfully fought to keep the names hidden, arguing the lawsuit was moot after Acting Attorney General Todd Blanche formally rescinded the fund last month; Judge Davis rejected these claims, ruling that procedural discovery rules apply to all parties.",
-      "While the Justice Department moved to appeal the decision, the ruling marks a significant breakthrough for plaintiffs, including former federal prosecutor Andrew Floyd, though Davis ordered that discovery materials remain protected from public disclosure during litigation.",
-      "Transparency advocates view the ruling as a victory for judicial oversight, though the fund remains \"dead\" per Blanche; critics continue challenging the program's legality, particularly regarding potential revival since the original agreement's signatories remain undisclosed."
-    ],
-    "title": "Judge orders reveal of architects of $1.8B anti-weaponization fund",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/democrats-outnumber-republicans-ahead-of-midterms",
-    "article_url": "https://ground.news/article/democrats-outnumber-republicans-ahead-of-midterms",
-    "bias": [
-      "Left-Leaning coverage frames Democrats’ reported ten-point Gallup advantage—the largest since 2008—as a “backlash” exposing a “critical failure” in Republicans’ “propaganda machine,” using terms like “propagandists” and “barking GOP marketing” to portray conservative media as coordinated and deceptive.",
-      "Center coverage instead calls the shift a “warning,” emphasizing midterm “referendum” dynamics and the historical tendency of presidents’ parties to lose seats, while de-emphasizing the media critique and exact margin.",
-      "Both highlight Democratic momentum and potential consequences for the president, but their dividing line is whether the result signifies ideological-media collapse or a conventional electoral vulnerability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 45.0,
-    "error": null,
-    "left_pct": 46.0,
-    "location": "United States",
-    "right_pct": 9.0,
-    "status": "ok",
-    "summary": [
-      "Gallup data released this quarter shows Democrats holding a 10-point party-identification advantage over Republicans, with 49 percent of Americans identifying as or leaning toward Democrats compared to 39 percent for Republicans.",
-      "This 10-point lead marks a significant reversal from late 2024, when Republicans held a 47 percent to 43 percent advantage, driven by shifting alignments among young, Hispanic, and female voters.",
-      "Underlying metrics show 31 percent of Americans identify as Democrats, 25 percent as Republicans, and 44 percent as independents; Quantus Insights polling shows Democrats leading 49.7 percent to 42.8 percent in generic congressional ballots.",
-      "Although the Democratic edge is wide, Republican advantages in congressional district maps could limit seat gains, as experts note party identification does not guarantee voter turnout or election outcomes in November.",
-      "President Donald Trump, whose approval rating has remained below 40 percent for months, has vowed to campaign in 35 races to boost Republican prospects before the midterm elections."
-    ],
-    "title": "Democrats Hold Biggest Party-Affiliation Lead in More Than a Decade, Gallup Finds",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/rfk-jr-is-investigating-whether-troops-died-of-covid-vaccine-army-doctor-says_4a2699",
-    "article_url": "https://ground.news/article/rfk-jr-is-investigating-whether-troops-died-of-covid-vaccine-army-doctor-says_4a2699",
-    "bias": [
-      "Left-Leaning coverage frames the inquiry as pursuing “baseless theories,” using “No Vax Fury,” “plant,” and “chase” to portray vaccine skepticism as politically driven confrontation with military institutions; it also raises possible conflicts with prior Defense Department reporting.",
-      "Right-Leaning coverage presents a legitimate review of harms following the “Biden-era mandate,” invoking “decisive action,” “unverified deaths,” 28 potentially associated deaths, and 2,544 reported or potentially relevant military deaths, without establishing causation.",
-      "Center wording preserves uncertainty through “probes” and “whether,” while de-emphasizing Theresa Long.",
-      "All agree an investigation exists, involves Long, Kennedy, and Hegseth, and concerns military deaths—reflecting broader divides over mandates and institutional credibility."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 4.0,
-    "error": null,
-    "left_pct": 28.0,
-    "location": "United States",
-    "right_pct": 68.0,
-    "status": "ok",
-    "summary": [
-      "On August 14, Army physician Theresa Long testified she is reviewing 2,544 unverified VAERS reports of troop deaths to assess potential links to COVID-19 vaccines, a year-long investigation assigned by Defense Secretary Pete Hegseth under Health Secretary Robert F. Kennedy Jr.",
-      "This inquiry re-examines the Biden-era military vaccine mandate, which required service members to receive COVID-19 shots, leading to the discharge of nearly 9,000 troops before Congress ordered the Pentagon to rescind the policy.",
-      "Long testified she has personal knowledge of 28 vaccine-related deaths and claimed officials inflated efficacy data until it \"made it look like the vaccine had, like, cured everything.\" Pentagon reports, however, identified no vaccine-related deaths, though they documented a short-term rise in heart inflammation within 21 days of vaccination.",
-      "Public health experts caution that VAERS is an unvetted surveillance system, complicating analysis of the 2,544 reports, while the FDA requires warnings for myocarditis and pericarditis that studies show are not sustained over a one-year period.",
-      "Kennedy, a vocal vaccine skeptic who has branded COVID vaccines the \"most deadly vaccines in history,\" aims to restore trust through this review and the COVID-19 Reinstatement and Reconciliation Task Force, which the Pentagon established to assist discharged service members."
-    ],
-    "title": "RFK Jr. is investigating whether troops died of Covid vaccine, Army doctor says",
-    "topic": "Robert F. Kennedy Jr.",
-    "topic_full": "Robert F. Kennedy Jr. · United States"
-  },
-  {
-    "article_path": "/article/tetris-suggests-white-house-build-the-wall-game-infringes-copyright_39755e",
-    "article_url": "https://ground.news/article/tetris-suggests-white-house-build-the-wall-game-infringes-copyright_39755e",
-    "bias": [
-      "Left-Leaning coverage frames the roughly five-game arcade as a “racist knock-off,” “dehumanizing and cruel,” even an “ethnic cleansing campaign,” emphasizing immigrant demonization and political trolling; right-leaning coverage calls it a “parody,” portrays Tetris as “angry” or threatening legal action, and foregrounds “border security,” MAGA branding, and forthcoming games.",
-      "The pivotal divide is whether “Build the Wall” is cruel anti-immigrant propaganda or policy-themed entertainment caught in a copyright dispute.",
-      "Center coverage moderates both, stressing mechanics, “trivializing serious issues,” and unresolved infringement.",
-      "All emphasize the unauthorized Tetris-like design, revealing broader cultural conflict over immigration and political messaging."
+      "Left-Leaning coverage foregrounds human loss—“terrible aviation tragedy,” two children killed, and adults “in danger of life”—while de-emphasizing flames and infrastructure.",
+      "Right-Leaning accounts intensify physical peril with “fiery” and “horror plane crash,” smoke, flames, “dozens of firefighters,” nearby homes, and possible power disruption; both repeatedly stress the children’s deaths, though the right more explicitly highlights investigation and unresolved cause.",
+      "Center coverage is more attribution-focused, using “reports say” and describing firefighters containing the blaze, but one item reports three deaths and one critical injury, contradicting the dominant two-dead, two-critical account.",
+      "Shared emphasis on emergency response and uncertainty reflects differing priorities: human impact versus dramatic danger and containment."
     ],
     "bias_bar_text": null,
     "center_pct": 31.0,
     "error": null,
-    "left_pct": 39.0,
-    "location": "United States",
-    "right_pct": 30.0,
+    "left_pct": 19.0,
+    "location": "Fresno",
+    "right_pct": 50.0,
     "status": "ok",
     "summary": [
-      "The Tetris Company said Friday it did not authorize or license its intellectual property for a 'Build the Wall' game released on the White House website Thursday, stating it was 'not involved in the creation' of the controversial title.",
-      "On Thursday, the White House launched an online 'arcade' page featuring five video games that promote administration policies, including 'Rio Run,' a clone of the 'Snake' game where players imprison immigrants on the southern border.",
-      "Asserting rights from a 2012 copyright case, Tetris denounced the clone for dividing people, adding that the company takes copyright infringement 'very seriously' and is reviewing the matter.",
-      "Rights advocates condemned the games for featuring racist themes, with Amerika Garcia Grewal, co-director of the Frontera Federation, stating the designers 'have lost touch with what it means to be human and care for others.'",
-      "Unauthorized use of copyrighted works, including music by musician Olivia Rodrigo and imagery from Sega Corporation and the 'Halo' video game series, marks a recurring pattern of administration controversies regarding mass deportation efforts."
+      "On Saturday afternoon, a small plane crashed near Sierra Sky Park in northwest Fresno, killing two people and critically injuring two others.",
+      "The crash occurred at noon on Blythe Avenue between Milburn Ave and Brawley Ave near Sierra Sky Park Airport, though the Fresno Fire Department could not immediately confirm how the plane crashed.",
+      "Multiple agencies including Fresno Police, Fresno Fire Department, North Central Fire Department coordinated response efforts at the scene, with Action News crews gathering information from officials.",
+      "Two critically injured victims were transported to Community Regional Medical Center, while at least 50 to 500 residents lost power in the crash area; PG&E later restored electrical service.",
+      "As FOX26 continued coverage and Neighbors captured video of the aftermath, authorities withheld additional passenger information while investigations into the crash cause remained ongoing."
     ],
-    "title": "Tetris suggests White House ‘Build the Wall’ game infringes copyright",
-    "topic": "White House",
-    "topic_full": "White House · United States"
+    "title": "Small Plane Crash in Central California Leaves 2 Dead and 2 in Critical Condition",
+    "topic": "Aviation Accidents",
+    "topic_full": "Aviation Accidents · Fresno"
   },
   {
-    "article_path": "/article/robin-morgan-dead-womens-media-center-co-founder-with-jane-fonda-and-gloria-steinem-was-85",
-    "article_url": "https://ground.news/article/robin-morgan-dead-womens-media-center-co-founder-with-jane-fonda-and-gloria-steinem-was-85",
+    "article_path": "/article/14-people-hospitalized-at-chainsmokers-concert-in-california_6cecb2",
+    "article_url": "https://ground.news/article/14-people-hospitalized-at-chainsmokers-concert-in-california_6cecb2",
     "bias": [
-      "Left-Leaning coverage frames Robin Morgan as a movement-maker, foregrounding “feminist,” “Rest in Power,” and “architect” to celebrate her leadership at *Ms.* and the Women’s Media Center, while stressing her bond with Gloria Steinem.",
-      "Center coverage uses a restrained obituary lens, emphasizing her transformation from “wholesome child star” to “all-American radical” and second-wave feminist, with institutional accomplishments and emotional timing de-emphasized.",
-      "No right-leaning perspective is provided, so its likely counter-framing cannot be assessed.",
-      "Both perspectives emphasize her death at 85, poetry, editing, activism, and co-founding role, reflecting shared recognition of feminism ’s cultural and historical significance."
+      "Left-Leaning coverage largely reports a “wave of medical incidents,” highlighting suspected “alcohol intoxication and drug-related issues” and noting that the duo had not publicly responded; right-leaning coverage instead spotlights “disturbing scenes,” fans “rushed” to hospitals, and a “second incident,” framing the concert as recurring disorder and a public-safety failure.",
+      "Center coverage bridges these approaches but intensifies the event as “chaos” while adding that patients were cleared within two hours.",
+      "The pivotal divide is causation versus pattern: substances and accountability on the left, repeated breakdown and alarm on the right.",
+      "All emphasize 14 hospitalizations, emergency response, and the concert’s seriousness, reflecting broader disputes over contextual explanation versus cultural-order warnings."
     ],
     "bias_bar_text": null,
-    "center_pct": 45.0,
+    "center_pct": 55.0,
     "error": null,
-    "left_pct": 47.0,
-    "location": "New York",
-    "right_pct": 8.0,
+    "left_pct": 24.0,
+    "location": "California",
+    "right_pct": 21.0,
     "status": "ok",
     "summary": [
-      "Robin Morgan, a pioneering second-wave feminist, poet, and former Ms. magazine editor-in-chief, died peacefully in her sleep on Saturday at age 85.",
-      "Transitioning from a 1940s child star to an 'all-American radical,' Morgan co-founded the Women's Media Center with Gloria Steinem and Jane Fonda 21 years ago.",
-      "Morgan published more than 20 books, including the seminal 'Sisterhood is Powerful' anthology, and remained professionally active despite living with Parkinson's disease for over a decade.",
-      "Women's Media Center President Julie Burton honored Morgan as 'one of the architects of the contemporary women's movement,' while Jane Fonda credited her with inspiring her feminist education.",
-      "Following the recent death of her friend and colleague Gloria Steinem, the Women's Media Center pledged to continue their mission of strengthening democracy and media representation for women."
+      "On Friday, September 4, 14 people were transported to local hospitals during an outdoor concert by The Chainsmokers at Discovery Meadow in San Jose, California, after the San Jose Fire Department responded to reports of multiple patients requiring medical attention at 8:22 p.m.",
+      "Police told NBC Bay Area that concertgoers were treated for \"suspected alcohol intoxication and drug-related issues,\" while the San Jose Fire Department immediately deployed an Ambulance Task Force, additional advanced life support fire units, and a Battalion Chief.",
+      "At least 10 attendees were taken to the hospital during the final 30 minutes of the show, with a total of 14 ambulances responding to transport patients requiring urgent care.",
+      "No arrests were reported following the incident, and The Chainsmokers have not publicly addressed the situation at press time despite the significant medical response required.",
+      "The duo continued their US tour on Saturday, September 5, performing at the Encore Beach Club in Las Vegas as part of a residency following a summer featuring appearances at Lollapalooza and other major festivals."
     ],
-    "title": "Robin Morgan, poet and feminist whose allies included Jane Fonda and Gloria Steinem, dies at 85",
-    "topic": "Feminism",
-    "topic_full": "Feminism · New York"
+    "title": "14 people hospitalized at Chainsmokers concert in California",
+    "topic": "Medical",
+    "topic_full": "Medical · California"
   },
   {
-    "article_path": "/article/decades-of-neglect-kennedy-center-urges-for-renovations-after-chunk-of-ceiling-falls",
-    "article_url": "https://ground.news/article/decades-of-neglect-kennedy-center-urges-for-renovations-after-chunk-of-ceiling-falls",
+    "article_path": "/article/kremlin-says-it-does-not-rule-out-restart-of-peace-talks-with-ukraine-and-us",
+    "article_url": "https://ground.news/article/kremlin-says-it-does-not-rule-out-restart-of-peace-talks-with-ukraine-and-us",
     "bias": [
-      "Left-Leaning coverage frames the failure through “torrential rain,” treating it as evidence that renovations are needed while de-emphasizing political blame.",
-      "Right-Leaning coverage pivots to “decades of neglect,” “crumbled,” and a proposed two-year renovation, portraying prolonged mismanagement as central, though another right-leaning account attributes damage to severe storms without assigning blame.",
-      "Center coverage bridges both frames, pairing “wild” or “powerful” storm language with the legal battle, Trump’s support for closure, and the White House ’s neglect claim.",
-      "Across perspectives, the ceiling fell after severe weather and renovations gained renewed emphasis; temporary closure is reported in center and right coverage, not universally established by the left."
+      "Left-Leaning coverage frames the Kremlin’s statement as a limited opening, stressing “still too early,” missing dates, and whether Putin merely tolerates talks; it casts U.S. envoys as seeking dialogue to “find a way out of the war.” Right-leaning coverage emphasizes “restart,” “positive” momentum, and envoys “breathing new life into stalled talks,” portraying diplomacy as progress while acknowledging no venue or timetable.",
+      "Center coverage stays attributed and restrained, simply reporting a possible resumption.",
+      "The dividing line is cautious non-commitment versus emerging momentum, though all perspectives highlight trilateral talks after the envoys’ visits and the broader hope of ending the Ukraine war ."
     ],
-    "bias_bar_text": null,
-    "center_pct": 69.0,
+    "bias_bar_text": "L 16% C 24% Right 60%",
+    "center_pct": 24.0,
     "error": null,
-    "left_pct": 21.0,
-    "location": "United States",
-    "right_pct": 10.0,
+    "left_pct": 16.0,
+    "location": null,
+    "right_pct": 60.0,
     "status": "ok",
     "summary": [
-      "A partial ceiling collapse in the Kennedy Center's grand foyer caused debris to fall onto the carpeted hallway connecting its main auditoriums, though no injuries were reported.",
-      "Kennedy Center representatives attributed the structural failure to stormy weather and decades of deferred maintenance, using the incident to press for an immediate two-year venue shutdown.",
-      "The center's Trump-aligned leadership frame the damage as justification for a controversial $250 million revitalization plan backed by President Donald Trump .",
-      "The administration remains in an ongoing legal battle after a federal judge previously blocked attempts to close the facility and struck down the addition of Trump's name to the building's facade.",
-      "Community advocacy groups and opponents argued that leadership is exaggerating minor structural damage to force through the prolonged closure and bypass court injunctions."
+      "On Monday, the Kremlin said it does not rule out resuming trilateral peace talks between Russia, Ukraine, and the United States, though spokesman Dmitry Peskov noted it remains too early to determine dates or locations.",
+      "The remarks followed a weekend visit to Moscow and Kyiv by United States envoys Jared Kushner and Steve Witkoff , who are attempting to revive stalled negotiations aimed at ending the war in Ukraine.",
+      "Calling the efforts a \"small step towards peace,\" Peskov praised the American negotiators and noted that Russian President Vladimir Putin holds President Donald Trump's commitment in high regard.",
+      "The Kremlin has not ruled out a phone call between President Vladimir Putin and President Donald Trump to discuss the envoys' trip, though Peskov declined to share details of the latest United States peace proposals.",
+      "Moscow had not received information regarding contacts between the United States envoys and Ukrainian officials in Kyiv on Sunday, as the Kremlin remains focused on the ongoing trilateral format."
     ],
-    "title": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "title": "Kremlin Says It Does Not Rule Out Restart of Peace Talks with Ukraine and US",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/alcohol-linked-cancers-toll-extends-far-beyond-the-liver-with-deaths-rising-across-age-groups",
-    "article_url": "https://ground.news/article/alcohol-linked-cancers-toll-extends-far-beyond-the-liver-with-deaths-rising-across-age-groups",
+    "article_path": "/article/prediction-markets-regulation-draws-closer-to-supreme-court",
+    "article_url": "https://ground.news/article/prediction-markets-regulation-draws-closer-to-supreme-court",
+    "bias": null,
+    "bias_bar_text": "Left 33% Center 67%",
+    "center_pct": 67.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": null,
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "On Wednesday, New Jersey Attorney General Jennifer Davenport filed a Supreme Court petition seeking to resolve whether states can block prediction markets or whether these platforms constitute federally regulated swaps rather than illegal gambling.",
+      "Litigation has erupted across at least 20 states, with courts currently split on whether prediction markets violate state gambling laws; companies like Kalshi claim their products are federally regulated swaps rather than sports bets.",
+      "A recent Ninth Circuit Court of Appeals ruling supporting Nevada's laws created a conflict with earlier decisions, and legal expert Daniel Wallach notes the high court reverses lower courts roughly 70% of the time.",
+      "The Supreme Court now has about 90 days to decide whether to grant the petition, while Kalshi will have 30 days to respond once docketed, marking the first certiorari petition on this business model.",
+      "Analysts suggest the Supreme Court might wait for the Commodity Futures Trading Commission to finalize its event contract rulemakings, as final rules would likely face Administrative Procedures Act challenges signaling the issue is not yet ready for review."
+    ],
+    "title": "Prediction markets’ regulation draws closer to Supreme Court",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/musk-has-started-spending-money-to-help-ken-paxton-will-it-help-change-the-course-of-the-texas-senate-race",
+    "article_url": "https://ground.news/article/musk-has-started-spending-money-to-help-ken-paxton-will-it-help-change-the-course-of-the-texas-senate-race",
     "bias": [
-      "Left-Leaning coverage uses stark phrases such as “no safe level,” “single drink,” and “dying from cancer ,” stressing risk, awareness, and public-health urgency.",
-      "Right-Leaning coverage is shorter, framing the findings as a “sobering warning” while spotlighting that deaths “more than doubled” and that small amounts may raise risks for nine cancers; demographic and methodological context is de-emphasized.",
-      "Center coverage adds the “growing burden,” age and sex patterns, and cancers beyond the liver, including colorectal and breast cancer.",
-      "Across perspectives, the shared emphasis is clear: alcohol-attributable cancer deaths rose from about 11,400 in 1990 to 23,100 in 2023, and risk may occur at low consumption levels."
+      "Left-Leaning coverage frames Musk’s spending as billionaire intervention that could “change the course” of Texas’s Senate race, implicitly stressing outside influence; right-leaning coverage calls it a “massive fund” and casts Musk as a Republican “relief pitcher” for a “financially struggling” candidate, expanding the stakes to national midterms.",
+      "Center coverage is more contextual, emphasizing Paxton’s vulnerability, his opponent James Talarico’s fundraising advantage, and possible Republican “floodgates,” while keeping the outcome uncertain.",
+      "The sharpest divide is whether Musk represents undue influence or strategic rescue.",
+      "All perspectives agree his PAC support could reshape a competitive race, reflecting broader arguments over money, party power, and nationalization."
     ],
     "bias_bar_text": null,
-    "center_pct": 84.0,
+    "center_pct": 88.0,
+    "error": null,
+    "left_pct": 6.0,
+    "location": "Texas",
+    "right_pct": 6.0,
+    "status": "ok",
+    "summary": [
+      "Elon Musk's America PAC disclosed spending nearly $250,000 to aid Texas Attorney General Ken Paxton this week, signaling a significant reengagement in Republican midterm efforts to protect the Senate majority.",
+      "Paxton's campaign faces a deep financial deficit against Democratic rival James Talarico, prompting national GOP leaders to seek support from Musk and other wealthy donors to bolster the attorney general's standing.",
+      "Republican outside groups are spending a combined $11 million on advertising this week, swamping the roughly $4 million from Talarico's campaign; this contrasts sharply with August when Democrats spent $13.3 million to Republicans' $4.7 million.",
+      "Senate Majority Leader John Thune urged President Donald Trump earlier this week to deploy some of the roughly $400 million in his MAGA Inc. war chest to support Paxton, as Trump indicated plans to direct reserves to 'people that I think are good Republicans.'",
+      "The committee disclosed another $2.9 million on Friday night alone for midterm races, with PAC officials stating they coordinate with the wider Republican apparatus to shape the election outcome."
+    ],
+    "title": "Musk’s PAC Steps In to Boost Paxton in Texas Senate Race",
+    "topic": "Ken Paxton",
+    "topic_full": "Ken Paxton · Texas"
+  },
+  {
+    "article_path": "/article/fetterman-staffers-launch-anonymous-account-dems-revolt",
+    "article_url": "https://ground.news/article/fetterman-staffers-launch-anonymous-account-dems-revolt",
+    "bias": [
+      "Left-Leaning coverage foregrounds Fetterman’s rebuttal, using terms like “disgruntled staffers,” “smears,” and “lies,” while also stressing troubling texts and concerns about his closeness to Republicans.",
+      "Right-Leaning coverage instead spotlights alleged neglect of constituents, an anonymous X account, pro-Israel advocacy and media appearances, and Democratic disorder through phrases like “Dems revolt” and “disgrace.” Center framing presents a narrower contest between accusations of “indifference” and Fetterman’s denial.",
+      "The pivotal divide is whether the episode signals personal misconduct and party dysfunction or a politically motivated attack.",
+      "All emphasize missed meetings, former aides’ allegations, and Fetterman’s rejection, reflecting broader disputes over accountability, party loyalty, and ideological priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 56.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "Pennsylvania",
+    "right_pct": 15.0,
+    "status": "ok",
+    "summary": [
+      "Pennsylvania Democrat Senator John Fetterman is facing backlash after The Wall Street Journal published text messages alleging indifference to his work, while former aides launched an anonymous X account threatening to release further critical details.",
+      "Adam Jentleson, Fetterman's former chief of staff, raised concerns about the senator's behavior and mental health in a 2024 letter, establishing a pattern of staff complaints that preceded this week's report.",
+      "Leaked messages show Fetterman questioned why he had to meet with Children's Hospital of Philadelphia officials regarding Medicaid cuts and griped about a three-hour funeral for three police officers killed in York.",
+      "In a statement to CNN, Fetterman dismissed the claims as \"smears\" from \"disgruntled staffers,\" apologized for a \"dumb joke\" about the hospital meeting, and asserted he remains committed to delivering for Pennsylvania.",
+      "These internal conflicts coincide with Fetterman's sagging approval ratings within the Democratic Party amid policy battles over Iran, Israel, and immigration, as he prepares for a potential 2028 reelection campaign."
+    ],
+    "title": "Sen. Fetterman rejects former staffers' accusations of neglecting Senate duties as 'hit pieces'",
+    "topic": "John Fetterman",
+    "topic_full": "John Fetterman · Pennsylvania"
+  },
+  {
+    "article_path": "/article/trump-vance-headline-first-rnc-midterm-convention-in-dallas_224059",
+    "article_url": "https://ground.news/article/trump-vance-headline-first-rnc-midterm-convention-in-dallas_224059",
+    "bias": [
+      "Left-Leaning coverage portrays the Dallas convention as Republican dependence on a weakening Trump, using phrases like “careening towards defeat,” “stuck,” “all-about-me,” and even “fabrications” to evoke panic, dysfunction, and deception; softened campaign references become evidence of retreat.",
+      "Right-Leaning coverage frames the same distancing as disloyalty, calling for a “tough message” while presenting Trump as a mobilizing asset, the gathering as a “last chance,” and its spectacle as “Trumpapalooza.” Center coverage treats it as a “calculated risk,” emphasizing logistics and turnout.",
+      "All agree Trump, Vance, and voter mobilization anchor the event, but reactions expose deeper divides over loyalty, electability, and Trump’s role."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 38.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": "Dallas",
+    "right_pct": 44.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Sept. 9, the Republican National Committee begins its inaugural two-day midterm convention at the American Airlines Center in Dallas, headlined by President Donald Trump and Vice President JD Vance.",
+      "President Trump urged the GOP to host this gathering to frame November's midterms as a referendum on his presidency, aiming to mobilize low-propensity voters and showcase candidates in 35 competitive races.",
+      "Yet 45 of 70 surveyed Republican candidates are declining to participate, while recent surveys show Trump's favorability at 42 and unfavorability at 51—his largest negative gap in a decade.",
+      "House Minority Leader Hakeem Jeffries and the Democratic National Committee are sending lawmakers to Texas to challenge the GOP's convention messaging, focusing their counter-programming on economic affordability.",
+      "C-SPAN will provide the only complete, uninterrupted coverage of the 109 scheduled speeches. Trump, originally set only for Thursday, is now slated to appear both nights to bolster Republican support."
+    ],
+    "title": "Trump, Vance Headline First RNC Midterm Convention in Dallas",
+    "topic": "Republican National Convention",
+    "topic_full": "Republican National Convention · Dallas"
+  },
+  {
+    "article_path": "/article/hunter-biden-to-run-for-president-in-2028-joe-bidens-son-drops-major-hint-if-i-get-your-endorsement_a8f6c2",
+    "article_url": "https://ground.news/article/hunter-biden-to-run-for-president-in-2028-joe-bidens-son-drops-major-hint-if-i-get-your-endorsement_a8f6c2",
+    "bias": [
+      "Left-Leaning coverage frames Hunter Biden ’s remark as a consequential “battle for the White House,” emphasizing “dramatic new twists” and his “commitment to the rule of law,” while de-emphasizing the endorsement condition and possible joking tone.",
+      "Right-Leaning accounts stress skepticism, “fueling speculation,” and whether he is following his father’s path, with stigmatizing labels such as “former crackhead” and “drug candidate,” alongside references to addiction and sexuality.",
+      "Center coverage more cautiously calls it a “major hint” while distinguishing consideration from an announcement.",
+      "All perspectives agree he said “may have to” run in 2028 during a radio interview, exposing broader divides over dynasty, credibility, and political legitimacy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 24.0,
     "error": null,
     "left_pct": 12.0,
     "location": "United States",
-    "right_pct": 4.0,
+    "right_pct": 64.0,
     "status": "ok",
     "summary": [
-      "More than 23,000 cancer deaths in the United States in 2023 were attributed to alcohol consumption, more than double the roughly 11,000 deaths in 1990.",
-      "Alcohol-Related cancer deaths increased across multiple cancer types, including breast, colorectal, liver, and esophageal cancers.",
-      "Men and adults aged 55 and older accounted for most alcohol-related cancer deaths, with the leading cancer types varying by demographic group.",
-      "Alcohol is a carcinogen, and even one daily drink may increase the risk of dying from multiple cancers, including breast, prostate, liver, and colorectal cancers."
+      "During a radio interview with John Catsimatidis on Sunday, Hunter Biden said he \"may have to\" run for president, an appearance that reignited 2028 speculation despite stopping short of an official campaign announcement.",
+      "Contrasting with his recent remarks, Hunter Biden previously joked on 'Real Time with Bill Maher' that any campaign announcement would indicate he had relapsed, reflecting his documented struggles with addiction.",
+      "Biden identified his primary qualifications as a commitment \"to adhering to the rule of law\" and emphasized helping the \"50 million Americans\" struggling with addiction.",
+      "Critics cite the 56-year-old's past legal troubles as disqualifying for higher office; he received a full pardon from President Joe Biden in December 2024 covering federal gun and tax charges.",
+      "Biden praised the Democratic Party's \"incredible bench\" of candidates for 2028, naming Kentucky Gov. Andy Beshear, Illinois Gov. Pritzker, and California Gov. Gavin Newsom as potential contenders in an unsettled field."
     ],
-    "title": "Just one drink a day may increase the risk of dying from numerous cancers, study says",
-    "topic": "Cancer",
-    "topic_full": "Cancer · United States"
+    "title": "Hunter Biden: ‘I may have to’ run for president in 2028",
+    "topic": "Hunter Biden",
+    "topic_full": "Hunter Biden · United States"
   },
   {
-    "article_path": "/article/venezuelan-billionaire-lands-pentagon-backed-oil-deal-amid-past-money-laundering-probe",
-    "article_url": "https://ground.news/article/venezuelan-billionaire-lands-pentagon-backed-oil-deal-amid-past-money-laundering-probe",
+    "article_path": "/article/vazquez-family-sues-park-mental-health-over-san-diego-mosque-shooting",
+    "article_url": "https://ground.news/article/vazquez-family-sues-park-mental-health-over-san-diego-mosque-shooting",
     "bias": [
-      "Left-Leaning coverage frames Betancourt’s shift from “wanted oilman” under a “sprawling” probe to “Trump’s partner” as a troubling accountability failure, emphasizing secrecy, conflicts, and personal risk.",
-      "Right-Leaning coverage portrays him as an “indispensable intermediary,” highlighting alleged help to U.S. authorities, Maduro’s “authoritarian” rule, and Pentagon-backed access to Venezuelan crude as strategic necessity.",
-      "Center coverage stresses procedure—prosecutors “quietly” closing the investigation—while noting the unresolved rationale.",
-      "The pivotal divide is whether the deal represents compromised oversight or effective resource diplomacy.",
-      "All perspectives emphasize the prior allegations, investigation’s closure, and major oil arrangement, reflecting broader tensions over ethics, executive power, and U.S. influence abroad."
+      "Left-Leaning coverage foregrounds institutional accountability, using “failed to heed” and “mass shooting” to portray a mental-health facility’s alleged inaction as central; center coverage emphasizes the lawsuit’s “negligence,” “wrongful death,” specific provider, May 14 warning, and four deaths, while distinguishing allegations from findings.",
+      "Right-Leaning coverage pivots toward public-safety danger, stressing FBI warnings, “dark-web activity,” “concerning comments,” and the preventability of the “attack,” while de-emphasizing legal detail.",
+      "The key divide is whether the story is chiefly institutional neglect or an alarming security failure.",
+      "All perspectives emphasize the FBI warning, online threats, the shooting, and the parents’ lawsuit, reflecting shared concern filtered through accountability and crime-focused priorities."
     ],
     "bias_bar_text": null,
-    "center_pct": 58.0,
+    "center_pct": 44.0,
     "error": null,
-    "left_pct": 15.0,
-    "location": "United States",
-    "right_pct": 27.0,
+    "left_pct": 40.0,
+    "location": "San Diego",
+    "right_pct": 16.0,
     "status": "ok",
     "summary": [
-      "President Donald Trump's administration struck a sweeping oil arrangement with Venezuelan entrepreneur Alejandro Betancourt, securing a 35% stake in his company, North American Blue Energy Partners, to manage Venezuelan crude reserves.",
-      "Betancourt emerged as a central U.S. partner after providing intelligence that assisted the January 3 operation removing former President Nicolas Maduro, despite facing earlier international money-laundering investigations.",
-      "Federal prosecutors in Miami paused their investigation into Betancourt in recent months, with sources alleging pressure from Deputy Attorney General Todd Blanche; the Justice Department called such claims a \"complete fabrication.\"",
-      "The Pentagon's Office of Strategic Capital gains a 35% stake in NABEP, while the State Department secures the right to purchase 20% of oil at cost with preferential access to the remaining 80% of output.",
-      "Former Trump official Elliott Abrams criticized the alliance, calling Betancourt \"the most shadowy and repellent Venezuelan businessman,\" though administration officials defend him as a \"proven operator\" essential for energy assets."
+      "On August 31, the family of 18-year Caleb Vazquez filed a lawsuit against Park Mental Health Treatment of San Diego, alleging negligence regarding his involvement in the deadly mosque shooting that killed three people.",
+      "Vazquez was receiving treatment for depression and psychotic episodes at the residential facility. Law enforcement had previously flagged his behavior and confiscated 26 guns from his father under a California law targeting dangerous individuals.",
+      "Four days before the shooting, the FBI warned his mother about Vazquez's dark web threats of violence. According to the lawsuit, she notified the facility after the warning, but the facility failed to intervene before he went missing.",
+      "Park Mental Health denied responsibility in a statement, calling the lawsuit \"misguided\" and asserting that \"neither Park nor its employees are responsible for Mr. Vazquez's actions.\" The facility attributed conduct solely to him and his co-conspirator.",
+      "While authorities continue investigating the May 18 shooting at the Islamic Center of San Diego, North Carolina officials recently indicted a 17-year co-conspirator identified as Cain Clark in connection with the attack."
     ],
-    "title": "Venezuelan billionaire lands pentagon-backed oil deal amid past money-laundering probe",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "title": "Vazquez Family Sues Park Mental Health Over San Diego Mosque Shooting",
+    "topic": "US Crime",
+    "topic_full": "US Crime · San Diego"
+  },
+  {
+    "article_path": "/article/us-embassy-warns-of-surging-illness-in-cuba_49efcd",
+    "article_url": "https://ground.news/article/us-embassy-warns-of-surging-illness-in-cuba_49efcd",
+    "bias": [
+      "Left-Leaning coverage frames Cuba ’s illnesses as consequences of U.S. policy, using terms like “fuel blockade,” “aggravated,” and “deterioration” to emphasize sanctions’ humanitarian costs; right-leaning coverage foregrounds a “worsening water, power crisis,” “sharp rise” in illness, crime, medicine shortages, and UN warnings, portraying systemic Cuban failure while also saying restrictions “intensified” blackouts.",
+      "Center coverage de-emphasizes partisan blame, focusing on the alert, resident symptoms, and infrastructure breakdown.",
+      "The pivotal divide is whether sanctions are the principal cause or context for Cuba’s collapse, though all perspectives highlight unsafe water, unreliable electricity, food-safety risks, and the embassy warning—reflecting broader disputes over U.S. pressure, Cuban governance, and humanitarian responsibility."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 34.0,
+    "error": null,
+    "left_pct": 22.0,
+    "location": "Cuba",
+    "right_pct": 44.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, Embassy Havana issued a Health Alert noting a significant increase in diarrheal illnesses across Cuba , linking the rise to the continuing degradation of the island's water and energy infrastructure.",
+      "The Trump administration imposed a fuel blockade nine months ago, causing a sharp spike in Blackouts and complicating refrigeration and sanitary measures for Residents in homes and businesses.",
+      "Embassy officials advised travelers to \"be cautious of... perishable foods that may have been inadequately stored\" and recommended bringing a personal supply of medications \"given local medication shortages.\"",
+      "The health warning follows a security alert issued Wednesday regarding a notable increase in thefts and vehicle-related Incidents in Havana amid worsening economic conditions.",
+      "UN-Appointed experts have warned that ongoing sanctions threaten rights to health and food, stating \"The humanitarian consequences are already unfolding into a full-blown crisis."
+    ],
+    "title": "U.S. Embassy Warns of Surging Illness in Cuba",
+    "topic": "Cuba",
+    "topic_full": "Cuba · Cuba"
+  },
+  {
+    "article_path": "/article/trump-shares-map-that-renames-new-mexico-as-new-america",
+    "article_url": "https://ground.news/article/trump-shares-map-that-renames-new-mexico-as-new-america",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s “New America” proposal as a bizarre, “unhinged” distraction, emphasizing officials’ “fury,” nationalist symbolism, and the online “hoax” that falsely suggested an executive order had already changed the name.",
+      "Right-Leaning coverage instead presents it as part of an America-themed geographic “rebrand,” highlighting Trump’s “prestigious and beautiful” rationale, the White House repost, and related naming initiatives.",
+      "Center coverage bridges the divide by treating the post as unofficial, noting the hoax and legal limits on presidential authority—points de-emphasized in the left compilation.",
+      "Across perspectives, Trump’s post, the governor’s rejection, and broader renaming campaign remain shared reference points, reflecting disputes over seriousness, symbolism, and presidential power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": "New Mexico",
+    "right_pct": 35.0,
+    "status": "ok",
+    "summary": [
+      "A viral claim circulated recently that President Donald Trump signed an executive order renaming New Mexico to \"New America.\" The assertion spread widely online despite originating from a satirical social media post rather than official government action.",
+      "The Facebook page Casper Planet, which describes its output as \"Snews that doesn't matter,\" created the original post on August 29, 2026. Variations spread across Instagram and Threads, garnering more than 2.7 million views.",
+      "Trump's previous executive orders renaming the Gulf of Mexico and Lake Ontario to \"Lake America\" on August 27, 2026, likely made the satirical claim seem credible to observers unfamiliar with Casper Planet's satirical nature.",
+      "No credible reporting or official government documentation confirms a move to change New Mexico's name. Fact-checkers found no verification from officials, as the claim relied entirely on fabricated geographic reviews.",
+      "Casper Planet administrator Justin Hathaway told Snopes, \"I just love doing this satire stuff, it's such an outlet for me.\" He noted satire encourages readers to engage with content fully rather than accepting headlines uncritically."
+    ],
+    "title": "Trump Shares Map that Renames New Mexico as ‘New America’",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · New Mexico"
+  },
+  {
+    "article_path": "/article/us-tourism-groups-want-to-win-canadian-visitors-back-a-testy-trade-war-isnt-helping",
+    "article_url": "https://ground.news/article/us-tourism-groups-want-to-win-canadian-visitors-back-a-testy-trade-war-isnt-helping",
+    "bias": [
+      "Left-Leaning coverage foregrounds an “acrimonius” or “testy trade war,” portraying confrontational tensions as discouraging Canadians and potentially hardening their resolve to avoid the United States.",
+      "The right-leaning material, limited to a truncated headline, de-emphasizes those consequences and centers tourism groups’ effort to “win” visitors back, suggesting a recovery-oriented economic frame.",
+      "Center coverage bridges them, detailing billboards, banners, online ads, social media, and special offers, alongside Josh Loewen’s view of “conciliatory overtures.” The dividing line is whether to stress conflict’s relational costs or promotional responses; all acknowledge strained trade relations complicating cross-border tourism."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": "United States",
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "U.S. tourism organizations are actively courting Canadian visitors through expanded marketing efforts. Brand USA is bringing its Travel Week trade event to Canada for the first time in October, while New York state launched a \"NY Loves Canada\" promotion this summer.",
+      "Triggered by President Donald Trump's rhetoric about making Canada the 51st state and subsequent trade policies, Canadian travel to the United States plunged sharply. Statistics Canada reported that Canadian residents made 25% fewer return border crossings in 2025 than the prior year.",
+      "Regional data underscores the impact across destinations. Visit California estimates Canadian visitation fell 20%, while Visit Florida saw a 7% decline in 2025. Some Las Vegas hotels are treating the Canadian dollar as equivalent to the U.S. dollar to offer additional value.",
+      "Despite tentative improvements during the 2026 World Cup when border crossings picked up slightly, hospitality consultant Deborah Friedland at Eisner Advisory Group warned the broader trend remains negative. \"It's one step forward and two steps back,\" she said.",
+      "Long-Term recovery likely hinges on future political changes and relationship repair. Vancouver marketing executive Loewen, whose family chose Mexico instead this year, said recovery depends on \"who is elected next\" and their willingness to foster ties with Canada."
+    ],
+    "title": "U.S. Tourism Groups Court Canadians as Travel Boycott Continues",
+    "topic": "U.S.-Canada Relations",
+    "topic_full": "U.S.-Canada Relations · United States"
+  },
+  {
+    "article_path": "/article/us-structured-venezuela-oil-position-to-protect-it-from-dilution-official-says",
+    "article_url": "https://ground.news/article/us-structured-venezuela-oil-position-to-protect-it-from-dilution-official-says",
+    "bias": [
+      "Coverage is not split between left and right here: left-leaning reporting is de-emphasized, while center coverage narrowly explains the legal-financial mechanics—a 35% U.S. position held as warrants, designed to “protect” against dilution, while stressing that the Pentagon is not obligated to buy the equity.",
+      "Right-Leaning coverage adopts a more expansive, upbeat frame, calling the company an “oil giant,” touting “full project value,” 100-year rights to 17 oilfields and roughly 65 billion barrels, and portraying the pact as aligning Venezuela’s energy sector with U.S. interests; it also raises the less flattering issue of noncompetitive concessions.",
+      "Both emphasize safeguarding U.S. interests, reflecting broader geopolitical and economic priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 29.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 71.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, U.S. officials confirmed the Pentagon protected its 35% stake in North American Blue Energy Partners using \"penny warrants,\" ensuring the government's position remains secure against future capital raises.",
+      "Controlled by Venezuelan businessman Alejandro Betancourt, NABEP received 100-year rights to 17 oilfields holding an estimated 65 billion barrels of reserves as part of the recent deal between Washington and Caracas.",
+      "Under the deal, 20% of warrants can be purchased at production-cost pricing rather than market rates, while the U.S. retains dividends before exercising the warrants.",
+      "Energy Secretary Chris Wright said this week Venezuela's oil output, currently near 1.1 million to 1.2 million barrels a day, could double in coming years as deals with Chevron, Eni, ONGC, GeoPark, and GE Vernova take effect.",
+      "Lawmakers have demanded greater transparency on Cerberus-affiliated contracts, requiring officials who previously worked at Cerberus Capital Management to recuse themselves from such transactions, which now require review by Commerce Secretary Howard Lutnick."
+    ],
+    "title": "US structured Venezuela oil position to protect it from dilution, official says",
+    "topic": "Venezuela Politics",
+    "topic_full": "Venezuela Politics · United States"
   },
   {
     "article_path": "/article/trump-officials-draft-plan-to-pay-at-home-parents-using-funds-for-working-ones-honolulu-star-advertiser_2539d0",
     "article_url": "https://ground.news/article/trump-officials-draft-plan-to-pay-at-home-parents-using-funds-for-working-ones-honolulu-star-advertiser_2539d0",
-    "bias": null,
+    "bias": [
+      "Left-Leaning coverage frames the draft as a “significant change” redirecting money from working parents and possibly creating an “only federal subsidy” for stay-at-home caregivers, while right-leaning accounts portray it as a “paycheck” expanding “family choices” and rewarding “traditional families.” The sharpest rhetorical divide appears in “strangers to raise their kids,” which casts outside childcare as inferior, versus concern over effects on working families and providers.",
+      "Both sides note a potential $9,000-per-child benefit, the married-couple eligibility, and JD Vance ’s role; center coverage is more restrained, emphasizing that funds are being repurposed and the plan remains unsettled.",
+      "Shared attention to parental care and federal spending reflects broader disputes over family structure, government support, and childcare priorities."
+    ],
     "bias_bar_text": null,
-    "center_pct": 33.0,
-    "error": "Message: \n",
-    "left_pct": null,
+    "center_pct": 28.0,
+    "error": null,
+    "left_pct": 17.0,
     "location": "United States",
-    "right_pct": 67.0,
-    "status": "fail",
-    "summary": null,
+    "right_pct": 55.0,
+    "status": "ok",
+    "summary": [
+      "The Trump administration is drafting a rule to allow married couples to receive Child Care and Development Fund subsidies when one parent stays home, providing about $9,000 per child annually from the $12 billion program.",
+      "Vice President Vance has long argued that young children fare better at home, a stance reflected in the Heritage Foundation Project 2025 blueprint, which recommends redirecting childcare funds to offset at-home care costs rather than universal daycare.",
+      "About 80% of the 870,000 families currently receiving subsidies are headed by single working parents, most of them mothers. Roughly 225,000 childcare providers depend on these subsidies, and critics warn the reallocation could force rate hikes or closures.",
+      "Some department lawyers have questioned whether limiting the benefit to married couples can withstand legal scrutiny. The rule requires White House approval and public comment before taking effect as soon as next year.",
+      "The proposal represents one of the Trump administration's most significant efforts to redirect federal funds toward promoting traditional family structures. If finalized, it would create the first federal subsidy explicitly paying parents to stay home rather than work."
+    ],
     "title": "Trump Administration Considers Childcare Subsidies for Families With Stay-at-Home Spouses: Report",
     "topic": "US Politics",
     "topic_full": "US Politics · United States"
@@ -444,9 +617,9 @@
     "bias_bar_text": null,
     "center_pct": 31.0,
     "error": null,
-    "left_pct": 24.0,
+    "left_pct": 25.0,
     "location": "United States",
-    "right_pct": 45.0,
+    "right_pct": 44.0,
     "status": "ok",
     "summary": [
       "On Sunday, the 5,000-strong crew of the USS Abraham Lincoln departed Thailand, concluding a five-day port call in Pattaya after a nine-month Middle East deployment.",
@@ -460,48 +633,6 @@
     "topic_full": "U.S. Navy · United States"
   },
   {
-    "article_path": "/article/moscow-has-not-ruled-out-trilateral-meeting-between-presidents-of-russia-us-china-tass-reports",
-    "article_url": "https://ground.news/article/moscow-has-not-ruled-out-trilateral-meeting-between-presidents-of-russia-us-china-tass-reports",
-    "bias": [
-      "Left-Leaning coverage frames Moscow’s statement as a diplomatic “window,” emphasizing how the meeting’s substance and expected results would be defined.",
-      "Center coverage uses attributed, cautious language—“not ruled out” and “possible”—to present a high-level diplomatic possibility without asserting momentum.",
-      "Right-Leaning coverage makes the scenario more personal and geopolitical by naming Putin, Trump, and Xi, invoking APEC, and adding the unclear phrase “no use,” while still stressing that an agenda must be clarified.",
-      "The key divide is emphasis, not certainty: all portray Ryabkov’s proposal as hypothetical, unscheduled, and not yet in formal preparation, though the center de-emphasizes agenda details."
-    ],
-    "bias_bar_text": "L 15% Center 31% Right 54%",
-    "center_pct": null,
-    "error": null,
-    "left_pct": 15.0,
-    "location": null,
-    "right_pct": 54.0,
-    "status": "ok",
-    "summary": [
-      "Russia 's Deputy Foreign Minister Sergei Ryabkov said Moscow has not ruled out a trilateral meeting between the presidents of Russia, the United States, and China.",
-      "Ryabkov stated that before preparing for the meeting, it is necessary to understand the agenda and what results are expected.",
-      "Kremlin aide Yuri Ushakov previously mentioned the possibility of such a meeting at the APEC summit in Shenzhen, China, in November.",
-      "The potential meeting would involve key leaders from Russia, the United States, and China to discuss significant issues."
-    ],
-    "title": "Moscow has not ruled out trilateral meeting between presidents of Russia, US, China, TASS reports",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/about-two-years-later-two-bodies-of-55-martyrs-were-recovered-from-under-the-ruins-of-a-house-in-the-olive-district",
-    "article_url": "https://ground.news/article/about-two-years-later-two-bodies-of-55-martyrs-were-recovered-from-under-the-ruins-of-a-house-in-the-olive-district",
-    "bias": null,
-    "bias_bar_text": "Left 71% Right 29%",
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": 71.0,
-    "location": null,
-    "right_pct": 29.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
-    "topic": null,
-    "topic_full": null
-  },
-  {
     "article_path": "/article/unicef-estimates-20-million-children-suffered-online-sexual-abuse-in-one-year_12bdae",
     "article_url": "https://ground.news/article/unicef-estimates-20-million-children-suffered-online-sexual-abuse-in-one-year_12bdae",
     "bias": [
@@ -511,11 +642,11 @@
       "All emphasize the scale and social-media connection, while differing over lived harm, measurement limits, and prevention priorities."
     ],
     "bias_bar_text": null,
-    "center_pct": 25.0,
+    "center_pct": 24.0,
     "error": null,
-    "left_pct": 45.0,
+    "left_pct": 48.0,
     "location": "Geneva",
-    "right_pct": 30.0,
+    "right_pct": 28.0,
     "status": "ok",
     "summary": [
       "On Thursday, UNICEF reported that 20 million children across 21 countries experienced online sexual exploitation or abuse in the past year, with most cases occurring on social media platforms.",
@@ -529,262 +660,156 @@
     "topic_full": "UNICEF · Geneva"
   },
   {
-    "article_path": "/article/trumps-maga-inc-gives-10-million-to-paxtons-senate-campaign-ahead-of-midterms",
-    "article_url": "https://ground.news/article/trumps-maga-inc-gives-10-million-to-paxtons-senate-campaign-ahead-of-midterms",
+    "article_path": "/article/former-air-force-secretary-questions-advice-trump-received-before-starting-iran-war_55773c",
+    "article_url": "https://ground.news/article/former-air-force-secretary-questions-advice-trump-received-before-starting-iran-war_55773c",
     "bias": [
-      "Left-Leaning coverage frames MAGA Inc.’s $10 million intervention as a consequential, possibly excessive deployment of Trump’s “massive war chest,” using phrases like “wades into,” “pump,” and “whopping” while stressing Paxton’s “tough race,” delayed spending, and strategic implications.",
-      "Right-Leaning coverage presents the same sum as energetic support—“pours” money into the contest—de-emphasizing attack-ad content, FEC documentation, and broader campaign dynamics.",
-      "Center coverage bridges the divide by calling the race “neck-and-neck” and the advertising “attack ads.” All perspectives agree on the $10 million backing, Paxton-Talarico matchup, and 2026 timing, revealing competing views of money as intervention versus partisan mobilization."
+      "Left-Leaning coverage frames Kendall’s warning as institutional peril, using “culture of fear” and “generational damage” to portray Hegseth’s leadership as corrosive.",
+      "Center coverage adopts a more measured “questions” and emphasizes “politicizing” the military , personnel changes, and scrutiny of Trump’s advice before the Iran war.",
+      "The right-leaning framing, despite also criticizing Hegseth, stresses a “fear climate” allegedly “driving exits” and Kendall’s claim he “couldn’t serve” under Trump and Hegseth.",
+      "The dividing lines are long-term military damage, politicization, Iran decision-making, and departures; all perspectives nonetheless center Kendall’s criticism and alleged fear, reflecting broader disputes over institutional norms and partisan control."
     ],
     "bias_bar_text": null,
-    "center_pct": 38.0,
+    "center_pct": 49.0,
     "error": null,
-    "left_pct": 19.0,
+    "left_pct": 38.0,
     "location": "United States",
-    "right_pct": 43.0,
+    "right_pct": 13.0,
     "status": "ok",
     "summary": [
-      "On Saturday, a Federal Election Commission filing revealed that President Donald Trump's super PAC, MAGA Inc., donated $10 million to Texas Attorney General Ken Paxton 's U.S. Senate campaign.",
-      "Paxton faces a tight contest against Democrat James Talarico, as Republicans hold a 53-47 Senate edge and Democrats need just four seats to win the majority.",
-      "MAGA Inc. split the $10 million between $5 million for ads supporting Paxton and $5 million for ads opposing Talarico, drawing from a war chest holding more than $400 million in July.",
-      "Trump told reporters on Friday he plans to spend between $400 million and $500 million from the PAC's $1 billion war chest, saying, \"We're going to spend a lot of money because we don't want to lose our country.\"",
-      "The Cook Political Report and Fox News recently deemed the race a toss-up; the funding arrives days before Republicans convene in Texas for a midterm convention aimed at engaging GOP voters."
+      "On Sunday, Former Air Force Secretary Frank Kendall III accused Defense Secretary Pete Hegseth of politicizing the military, warning that he has created a \"climate of fear\" driving experienced leaders to resign.",
+      "Hegseth has removed or sidelined numerous senior military leaders, including roughly 25 senior officers, while arguing that personnel changes are necessary to restore accountability and a stronger \"warrior\" culture.",
+      "Army Secretary Dan Driscoll resigned after months of reported tension with Hegseth, marking one of the most consequential Pentagon departures since Hegseth took office.",
+      "North Carolina Senator Thom Tillis recently urged President Donald Trump to find new Pentagon leadership, writing that the administration should retain and empower military talent rather than diminish it.",
+      "With ongoing operations against Iran, Kendall warned that weakened institutional checks threaten long-term military readiness, saying \"all of our guardrails are gone\" as midterm elections approach."
     ],
-    "title": "Trump's MAGA Inc gives $10 million to Paxton's Senate campaign ahead of midterms",
-    "topic": "Ken Paxton",
-    "topic_full": "Ken Paxton · United States"
+    "title": "Former Air Force secretary says he ‘couldn’t serve’ in Trump administration",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/investors-argue-against-novel-etf-label-in-letters-to-us-sec",
-    "article_url": "https://ground.news/article/investors-argue-against-novel-etf-label-in-letters-to-us-sec",
+    "article_path": "/article/storm-creates-huge-waves-and-dangerous-currents-at-southern-california-beaches",
+    "article_url": "https://ground.news/article/storm-creates-huge-waves-and-dangerous-currents-at-southern-california-beaches",
     "bias": [
-      "No left-leaning coverage is provided, while center- and right-leaning accounts largely converge: both frame investors’ SEC letters as a procedural challenge to a proposal labeling a broad range of funds “novel ETFs.” The phrase “argue against” emphasizes opposition, while “novel” subtly suggests unusualness, but neither side uses overtly partisan language such as “woke,” “crisis,” or “government overreach.” The key dividing line—whether the label could create confusion, compliance costs, or legal uncertainty—is de-emphasized, as are the SEC’s rationale and proposal details.",
-      "Both perspectives emphasize regulatory disagreement over broader ideological stakes."
+      "Left-Leaning coverage emphasizes public safety, “dangerous” currents, beach “havoc,” and the striking figure of 177 lifeguard rescues, portraying an offshore storm through risks to swimmers and surfers.",
+      "Right-Leaning framing foregrounds “powerful swells,” “mass flooding,” a “frantic effort” to protect homes, live tracking, and property damage, turning the same event into an urgent disruption narrative.",
+      "Center coverage, where present, uses measured terms such as “chances,” “some,” and “hazardous,” balancing offshore movement with localized flooding and forecasts.",
+      "The pivotal divide is whether Marie signifies rescue danger or broader coastal crisis, though all perspectives stress high surf, possible flooding, and life-threatening conditions despite no landfall."
     ],
     "bias_bar_text": null,
-    "center_pct": 57.0,
+    "center_pct": 58.0,
     "error": null,
-    "left_pct": null,
-    "location": "United States",
-    "right_pct": 43.0,
+    "left_pct": 25.0,
+    "location": "California",
+    "right_pct": 17.0,
     "status": "ok",
     "summary": [
-      "Market participants filed letters with the SEC opposing a proposal to label various funds as 'novel ETFs,' warning the broad classification lacks a precise definition and could hinder future product innovation.",
-      "The SEC launched a broad-based review to label a wide range of exchange-traded funds as 'novel ETFs' after several asset managers attempted to roll out funds tied to prediction markets.",
-      "Rafferty Asset Management COO Angela Brickl argued 'Novel ETFs' cannot be effectively defined, while Nasdaq senior vice president Jeffrey Davis acknowledged some recent filings have 'tested the boundaries' of current rules.",
-      "Industry groups warned that changing the process allowing new ETFs to launch automatically 75 days after filing could jeopardize growth in the $12 trillion U.S. ETF market.",
-      "Better Markets securities policy director Ben Schiffrin suggested regulators focus on structural characteristics affecting investor protection rather than asset-class labels, a view echoed by Adjacent Markets COO Douglas Crescenzi."
+      "On Monday, remnants of Hurricane Marie continued generating dangerous high surf and rip currents along the Southern California coast, with coastal flood advisories remaining in effect through Tuesday night.",
+      "While Hurricane Marie remains well offshore, its powerful southeast-to-south swells inundated parking lots near the Seal Beach Pier, prompting crews to deploy emergency berm reinforcement and water-pumping operations.",
+      "Newport Beach lifeguards performed 177 rescues on Saturday alone, with Los Angeles County lifeguards anticipating over 1,000 water rescues throughout the holiday weekend.",
+      "Seal Beach officials closed the 8th Street and 10th Street parking lots until Wednesday to protect property, while cleanup crews continued pumping water from homes and streets.",
+      "Forecasters expect the storm's influence to wane as the Southland transitions to a heat wave, with triple-digit temperatures likely in warmer areas from Tuesday through Thursday."
     ],
-    "title": "Investors argue against novel ETF label in letters to US SEC",
-    "topic": "US Economy",
-    "topic_full": "US Economy · United States"
+    "title": "Storm Creates Huge Waves and Dangerous Currents at Southern California Beaches",
+    "topic": "Hurricanes",
+    "topic_full": "Hurricanes · California"
   },
   {
-    "article_path": "/article/chimpanzees-have-accents-too-study-finds",
-    "article_url": "https://ground.news/article/chimpanzees-have-accents-too-study-finds",
+    "article_path": "/article/secret-navy-seal-night-mission-to-clear-hormuz-mines-revealed_296fb3",
+    "article_url": "https://ground.news/article/secret-navy-seal-night-mission-to-clear-hormuz-mines-revealed_296fb3",
     "bias": null,
     "bias_bar_text": null,
-    "center_pct": 81.0,
+    "center_pct": 29.0,
     "error": null,
     "left_pct": null,
-    "location": "Brazil",
-    "right_pct": 19.0,
+    "location": "Iran",
+    "right_pct": 71.0,
     "status": "no_change",
     "summary": [
-      "Published on September 2, a study in PLOS One reveals young chimpanzees develop population-specific vocal accents, challenging the assumption that these calls are entirely genetically programmed.",
-      "Researchers analyzed 11,225 recorded calls from 30 chimpanzees at Chimfunshi Wildlife Orphanage in Zambia and Gombe National Park in Tanzania to track how vocalizations evolve across populations.",
-      "While grunts and laughs displayed population-specific signatures early in infancy, whimpers only developed distinct regional variations during juvenile years, suggesting vocal traits are shaped by social environments.",
-      "Lead researcher Kassandra Giragosian of Queen Mary University of London said vocalizations \"continue to develop\" beyond birth, mirroring how human vocal patterns sharpen as children absorb nearby speech.",
-      "Evidence suggests chimpanzee communication is more flexible than previously believed, with vocalizations reflecting not genetic presets but an audible history of social integration and community membership."
+      "On Tuesday, the United States launched a limited drone strike on Larak Island, destroying a Fajr-5 rocket launch platform that American officials alleged Iran adapted for minelaying operations.",
+      "Prior to the strike, Oman and the Islamic Republic negotiated a settlement over control of the Strait, prompting critics to allege the U.S. operation aimed to disrupt these diplomatic talks rather than address mine threats.",
+      "American intelligence estimates Iran maintains a stockpile of between 2,000 and 6,000 naval mines, featuring systems ranging from First World War-era designs to advanced acoustic-signature mines difficult to detect.",
+      "Iranian forces responded with massive strikes on U.S. facilities in Kuwait and Jordan, while Lloyd and London remain unconvinced that passage through the Strait is safe for civilian transit.",
+      "Since the start of hostilities on February 28, Tehran has demonstrated a capacity to endure severe military threats, drawing on 47 years of preparation that suggests the recent strike will not alter Iran's strategic posture."
     ],
-    "title": "Baby chimps develop regional accents, new study finds",
-    "topic": "Animals",
-    "topic_full": "Animals · Brazil"
+    "title": "Secret Navy SEAL Night Mission to Clear Hormuz Mines Revealed",
+    "topic": "Navy SEAL",
+    "topic_full": "Navy SEAL · Iran"
   },
   {
-    "article_path": "/article/us-ambassador-to-israel-says-there-is-no-plan-to-force-palestinians-out-of-gaza",
-    "article_url": "https://ground.news/article/us-ambassador-to-israel-says-there-is-no-plan-to-force-palestinians-out-of-gaza",
+    "article_path": "/article/chris-wright-declines-to-predict-gas-prices-in-cnn-interview_ee824b",
+    "article_url": "https://ground.news/article/chris-wright-declines-to-predict-gas-prices-in-cnn-interview_ee824b",
     "bias": [
-      "Left-Leaning coverage foregrounds humanitarian danger, calling ministers’ ideas “mass removal” or “expel” and stressing Gaza ’s prior internal displacement; right-leaning coverage centers Huckabee’s denial, uses “voluntary emigration” to distinguish departure from “forced expulsion,” and highlights demands for “severe consequences” over settler violence.",
-      "The pivotal divide is whether proposed Palestinian departure represents coercive population transfer or a voluntary option, especially amid discussions involving roughly two million residents; center coverage adds the “far-right” label and a proposed timetable affecting 250,000 people in the first year.",
-      "All perspectives emphasize Huckabee’s categorical denial, but their framing reflects broader disputes over Israeli intent, Palestinian rights, security, and U.S. responsibility."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": "United States",
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, US Ambassador to Israel Mike Huckabee stated there is no Israeli plan to force Palestinians out of Gaza, directly contradicting recent suggestions by two Israeli ministers.",
-      "Defence Minister Israel Katz and Far-right security minister Itamar Ben-Gvir proposed migration from Gaza this week, with Ben-Gvir outlining a seven-year plan for what he termed \"voluntary emigration.\"",
-      "Huckabee visited Turmus Aiya, a West Bank town with roughly 3,000 residents, where about 80% are Palestinian Americans seeking help against constant attacks from violent settler extremists.",
-      "Mayor Nawwaf Zaghoul told reporters residents would ask the ambassador to help secure their safety, citing constant harassment by extremists that prevents locals from protecting their homes.",
-      "Although Huckabee, a Baptist minister, supports Israeli settlements, he called for prosecuting violent extremists, noting their actions represent a minority of the community numbering around 750,000."
-    ],
-    "title": "US ambassador to Israel says there is no plan to force Palestinians out of Gaza",
-    "topic": "Israel-Gaza",
-    "topic_full": "Israel-Gaza · United States"
-  },
-  {
-    "article_path": "/article/rhode-island-gov-dan-mckee-faces-rematch-with-helena-foulkes-amid-turmoil-over-washington-bridge",
-    "article_url": "https://ground.news/article/rhode-island-gov-dan-mckee-faces-rematch-with-helena-foulkes-amid-turmoil-over-washington-bridge",
-    "bias": [
-      "Left-Leaning coverage frames McKee’s rematch as a “tough” test intensified by Washington Bridge “turmoil,” emphasizing governance, infrastructure, and the governor’s refusal to take Foulkes’s concession call.",
-      "Right-Leaning coverage de-emphasizes the bridge controversy, instead portraying momentum through Foulkes having “outraised” McKee and deploying campaign advertisements, while stressing his “narrow” prior victory.",
-      "Center-Leaning accounts balance both candidates and historical context but retain the crisis-tinged “turmoil” framing.",
-      "The concession-call episode and bridge fallout are pivotal dividing lines, while all perspectives emphasize the Democratic rematch, Foulkes’s challenge, and McKee’s slim previous win—reflecting broader divides over accountability versus campaign strength."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 39.0,
-    "error": null,
-    "left_pct": 46.0,
-    "location": "Rhode Island",
-    "right_pct": 15.0,
-    "status": "ok",
-    "summary": [
-      "Rhode Island Gov. Dan McKee faces challenger Helena Foulkes in a Democratic primary on Sept 9, seeking to avoid becoming the first Rhode Island governor to lose a primary in more than 30 years.",
-      "After closing the Washington Bridge in 2023 due to a \"critical failure,\" McKee faces lingering anger from voters as repair timelines have extended beyond initial promises.",
-      "Accusing her of fueling the opioid crisis, Foulkes denies the charge and argues that CVS reduced its opioid dispersal by 40% when she was president of the Pharmacy division.",
-      "Business leaders urged McKee to stop criticizing CVS, warning it could drive companies out of the state. Foulkes claims voters feel state government \"works with a powerful few.\"",
-      "Democratic voters this election year have shown a growing willingness to oust incumbents. Foulkes, who has outraised the incumbent, described the political environment as a \"great moment to be an outsider."
-    ],
-    "title": "McKee, Foulkes Set for Rhode Island Primary Rematch Amid Bridge Backlash",
-    "topic": "Rhode Island Politics",
-    "topic_full": "Rhode Island Politics · Rhode Island"
-  },
-  {
-    "article_path": "/article/even-snakes-have-to-audition-for-the-opera-at-the-met-princess-the-boa-constrictor-got-the-part",
-    "article_url": "https://ground.news/article/even-snakes-have-to-audition-for-the-opera-at-the-met-princess-the-boa-constrictor-got-the-part",
-    "bias": [
-      "This story reveals little left-right ideological division: left-leaning coverage playfully emphasizes Princess “nailing” an audition and “got the part,” framing the boa’s success as charming entertainment , while right-leaning coverage narrows attention to the Met’s rule that everyone—including the snake—must audition, with “got the part” adding restrained celebration.",
-      "Center coverage expands the frame through wordplay such as “s-s-s-s-starring,” plus the Coney Island setting and handler Zoe Ziegfeld.",
-      "The pivotal divide is emphasis, not politics: novelty and performance versus institutional rigor and production context.",
-      "All perspectives agree on the Met, Mozart adaptation, Princess’s role, and the story’s humorous appeal."
+      "Left-Leaning coverage portrays Energy Secretary Chris Wright’s hesitation as an administrative failure, using terms like “embarrassingly,” “dodges,” “stunned,” and “crashes and burns,” while stressing $4.14 gasoline, record diesel prices, consumer costs, and midterm-election vulnerability.",
+      "Center coverage softens that critique, describing him as “wavers” but “cautiously predicted” prices would fall, alongside economic context.",
+      "Right-Leaning framing de-emphasizes the interview exchange, presenting the record Labor Day price chiefly as a consequence of the “ Iran war ” and refinery disruptions rather than mismanagement.",
+      "All emphasize record costs and geopolitical-supply pressures, reflecting broader divides over accountability, markets, and government competence."
     ],
     "bias_bar_text": null,
     "center_pct": 56.0,
     "error": null,
-    "left_pct": 34.0,
-    "location": "New York",
-    "right_pct": 10.0,
-    "status": "ok",
-    "summary": [
-      "On Aug. 28, 2026, the Metropolitan Opera selected a boa constrictor named Princess for a role in an adaptation of Wolfgang Amadeus Mozart's opera in New York.",
-      "This adaptation, inspired by a 1950s Coney Island carnival, features performance artist Zoe Ziegfeld as the snake handler, who evaluates the snakes' demeanor face-to-face before rehearsals.",
-      "Nancy Novograd of All Tame Animals provided the snakes, ensuring the chosen reptile has the right color, size, and temperament for stage performance.",
-      "Princess, a larger yellow-peach boa constrictor, secured the role due to her visual presence, while a slightly smaller brown boa constrictor named Nala will serve as understudy.",
-      "Having spent seasons performing on Coney Island, Ziegfeld, a former carnival performer who previously executed a Human Blockhead act, brings authentic experience to the opera's sideshow-themed production."
-    ],
-    "title": "Even snakes have to audition for the opera at the Met. Princess the boa constrictor got the part",
-    "topic": "Entertainment",
-    "topic_full": "Entertainment · New York"
-  },
-  {
-    "article_path": "/article/former-cowboys-running-back-emmitt-smith-is-sued-by-investor-over-wind",
-    "article_url": "https://ground.news/article/former-cowboys-running-back-emmitt-smith-is-sued-by-investor-over-wind",
-    "bias": [
-      "Across the coverage, all sides describe a lawsuit over a $2.5 million loan intended for a Texas wind farm, involving Emmitt Smith, partners, and a Native American investment company.",
-      "Although left-leaning headlines remain restrained, accompanying coverage uses sharper terms such as “defrauded,” “cheating,” and “ NFL legend,” portraying alleged misconduct more forcefully.",
-      "Right-Leaning coverage is shorter, framing an unresolved investor dispute and de-emphasizing corporate and procedural detail.",
-      "Center coverage preserves allegation-based wording while adding Kituwah LLC, Delaware, and the claim that funds repaid an earlier investor.",
-      "Thus, the main divide is rhetorical emphasis and detail, not disagreement over the core allegations."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 69.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "Dallas",
+    "left_pct": 40.0,
+    "location": "United States",
     "right_pct": 4.0,
     "status": "ok",
     "summary": [
-      "Emmitt Smith is sued by Kituwah LLC, a Native American investment company, over the alleged misuse of a $2.5 million loan intended for a Texas wind farm project.",
-      "Kituwah LLC claims that 4 13 Solutions used the loan funds to repay a previous investor linked to Smith's company.",
-      "Smith and his business partner David Mosley are accused of misrepresenting their efforts to obtain a U.S. Department of Energy loan that would require repayment to Kituwah.",
-      "Kituwah states that the loan accrued about $600,000 in interest and seeks damages from a jury due to alleged project delays and lack of communication from Smith and his associates."
+      "On Sunday, Energy Secretary Chris Wright declined to offer a firm gasoline price forecast during a CNN appearance. He instead referenced futures markets suggesting potential relief, despite record-high pump prices over the Labor Day weekend.",
+      "Hostilities in the Strait of Hormuz have disrupted shipping and killed over a dozen civilians, while damage to Russian refineries has limited global supply. These factors have strained energy markets since the conflict began in February.",
+      "In March, Wright told CNN's Jake Tapper that gas prices might remain above $3 until 2027. These projections drew criticism from President Donald Trump, who later publicly stated, \"I think he's wrong on that,\" adding friction to administration messaging.",
+      "According to the American Automobile Association , U.S. regular gasoline averaged $4.15 per gallon this Sunday. Global crude benchmarks closed above $96 per barrel on Friday, Sept 4, 2026, representing potential upside risks that may offset anticipated price declines.",
+      "Wright suggests costs will likely decrease after the summer driving season ends following Labor Day on Sept 7, 2026, as gasoline futures for delivery two months ahead are trading $0.30 lower than current levels."
     ],
-    "title": "Kituwah Sues Emmitt Smith Over Alleged Misuse of $2.5M Wind Farm Loan",
-    "topic": "NFL",
-    "topic_full": "NFL · Dallas"
+    "title": "Chris Wright Declines to Predict Gas Prices in CNN Interview",
+    "topic": "US Economy",
+    "topic_full": "US Economy · United States"
   },
   {
-    "article_path": "/article/musk-dismisses-gibney-documentary-alleging-election-ties-to-starlink_10fa38",
-    "article_url": "https://ground.news/article/musk-dismisses-gibney-documentary-alleging-election-ties-to-starlink_10fa38",
+    "article_path": "/article/katz-threatens-all-out-war-against-the-palestinian-authority",
+    "article_url": "https://ground.news/article/katz-threatens-all-out-war-against-the-palestinian-authority",
     "bias": [
-      "Left-Leaning coverage portrays Musk as a “chaotic,” “dangerous” power broker, emphasizing his reported $259 million campaign contribution, data access, and possible election “meddling” as democratic threats; words like “dark,” “unmasked,” “fraud,” and “bombshell” create an ominous, accusatory tone.",
-      "Right-Leaning coverage instead defends Musk, labels the filmmaker a “scuzzy documentarian,” and frames the “space lasers” allegation as a “conspiracy theory” or “misinformation,” stressing claimed rebuttals by election officials and fact-checkers.",
-      "Center coverage de-emphasizes these stakes, focusing on Byrne’s “scathing” song and Musk’s reaction.",
-      "All acknowledge the HBO documentary, its song, and Musk’s political influence, reflecting wider divides over elite power and election legitimacy."
+      "Left-Leaning coverage frames Israel as threatening the Palestinian Authority , emphasizing “vows war” and “full-scale war,” while de-emphasizing operational details; center coverage foregrounds the conditional trigger—an attack on West Bank Jewish settlements—and repeatedly uses “total war,” alongside the political label “occupied West Bank.” Right-leaning coverage instead portrays the PA as tied to “terror infrastructure,” an “intifada,” or an “invasion,” highlighting possible strikes on officials, evacuations, and lasting military control, with “all-out” signaling maximal retaliation.",
+      "All perspectives agree Katz issued a warning invoking October 7, but diverge over whether the central story is Israeli escalation or Palestinian security threat."
     ],
-    "bias_bar_text": null,
-    "center_pct": 31.0,
+    "bias_bar_text": "8% Center 34% Right 58%",
+    "center_pct": 34.0,
     "error": null,
-    "left_pct": 58.0,
-    "location": "Venice",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "Ahead of the Venice International Film Festival premiere on September 8, director Alex Gibney's documentary 'Musk' drew renewed attention as the billionaire dismissed recent coverage on X with dismissive remarks including 'Lmao.'",
-      "The 232-minute film reframes the billionaire as a '21st century reincarnation of the confidence man,' investigating his influence through the Department of Government Efficiency . The documentary alleges personnel held 'super admin' access to federal IT systems.",
-      "Text exchanges in the film show Musk allegedly claiming he had 'ten thousand lasers in space' and mentioning an 'anomaly in the matrix.' The film acknowledges no proof he accessed sensitive information.",
-      "Political spending remains a focus as the documentary examines Musk's role in the 2024 election and his estimated $291 million in contributions. Musk continues rebuting claims on social media.",
-      "With an October 16 U.S. theatrical release, the documentary faces anticipation over its Oscar-eligible original song 'Let Me Sell You a Dream.' Gibney positions the film as a 'definitive and unvarnished examination' of power."
-    ],
-    "title": "Musk Dismisses Gibney Documentary Alleging Election Ties to Starlink",
-    "topic": "Starlink",
-    "topic_full": "Starlink · Venice"
-  },
-  {
-    "article_path": "/article/facts-matter-less-israel-huckabee-slam-uk-foreign-secretary-over-gaza-medicine-claims_25a90c",
-    "article_url": "https://ground.news/article/facts-matter-less-israel-huckabee-slam-uk-foreign-secretary-over-gaza-medicine-claims_25a90c",
-    "bias": [
-      "Center-Leaning coverage emphasizes the disputed question of whether Israel blocked medicine from Gaza, using attributed language such as “claims” and “facts matter less,” while right-leaning coverage foregrounds Israel’s rejection of Miliband’s account as “stories” or “entirely fictitious” and the diplomatic shock of Huckabee’s “blistering attack” on Britain.",
-      "Both repeatedly feature “Jew hate,” though the right gives it greater prominence and uses sharper terms like “blasted” and “lost it.” Neither supplies independent medical or humanitarian verification, detailed case evidence, or a full British response.",
-      "The divide reflects broader tensions over Israel, Gaza, antisemitism , and acceptable diplomatic criticism."
-    ],
-    "bias_bar_text": "L 19% Center 31% Right 50%",
-    "center_pct": 31.0,
-    "error": null,
-    "left_pct": 19.0,
+    "left_pct": 8.0,
     "location": null,
-    "right_pct": 50.0,
+    "right_pct": 58.0,
     "status": "ok",
     "summary": [
-      "On Saturday, Israel's Foreign Ministry and US Ambassador to Israel Mike Huckabee criticized British Foreign Secretary Ed Miliband for claiming medicines are being blocked from entering the Gaza Strip.",
-      "Miliband published a video describing the situation as \"horrifying,\" alleging that \"medicines being blocked from getting in\" and children are dying while awaiting vital treatment.",
-      "The Foreign Ministry refuted these allegations, stating \"22,500 tons of medical supplies have entered Gaza since the ceasefire began,\" with 200 residents leaving the Strip for medical treatment in the past two weeks.",
-      "Escalating the diplomatic friction, Huckabee wrote that \"the Brits have lost it,\" claiming the British government's \"Jew hatred knows no bounds and recognizes no facts.\"",
-      "Huckabee also visited the Palestinian town of Turmus Ayya on Saturday to meet families of US citizens killed by settlers, where roughly 80% of residents hold US citizenship."
+      "On Monday, Israeli Defense Minister Israel Katz announced the military is preparing for \"all-out war\" in the West Bank if Palestinian Authority forces launch an attack similar to October 7.",
+      "Following a stabbing attack near Nablus, Katz and Prime Minister Benjamin Netanyahu instructed the IDF to prepare for the scenario to prevent an intifada \"lasting for years.\"",
+      "Under the proposed plan, Israel would target Palestinian Authority officials with measures including targeted killings, resident evacuations, and continued military presence in cleared areas, Katz said.",
+      "Katz presented the initiative as a contingency measure, asserting it would activate only if Israel witnesses major security deterioration and obtains intelligence of a large-scale assault.",
+      "While Katz claims West Bank terrorism is at its lowest level in decades, the strategy draws comparisons to previous IDF operations in Gaza and Lebanon."
     ],
-    "title": "Israel, Huckabee slam UK foreign secretary over Gaza medicine claims",
+    "title": "Israel Vows War with Palestinian Authority in Case of October 7-Style Attack",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/iran-coordinates-with-hezbollah-hamas-houthis-for-attack-israeli-intel-suggests",
-    "article_url": "https://ground.news/article/iran-coordinates-with-hezbollah-hamas-houthis-for-attack-israeli-intel-suggests",
+    "article_path": "/article/katz-the-fear-of-an-uprising-and-the-fall-of-the-regime-could-push-iran-to-desperate-measures",
+    "article_url": "https://ground.news/article/katz-the-fear-of-an-uprising-and-the-fall-of-the-regime-could-push-iran-to-desperate-measures",
     "bias": [
-      "Center-Leaning coverage frames the story as an Israeli intelligence assessment that Iran may “coordinate” Hezbollah , Hamas, and the Houthis for a “simultaneous assault,” preserving attribution and uncertainty.",
-      "Right-Leaning coverage intensifies the warning, portraying Iran as “plotting” a new “October 7-style attack” with “terrorist proxies,” while broadening the alleged coalition to Iraqi militias and emphasizing joint training and rebuilt missile and drone capabilities.",
-      "The pivotal divide is whether the report signifies cautious coordination or active, morally charged preparation for a multifront threat.",
-      "Both perspectives highlight Iran’s regional network, possible attacks on Israel, and the October 7 comparison, reflecting wider disagreements over security urgency and geopolitical threat perception."
+      "Left-Leaning coverage frames Katz’s warning through civilian risk, economic pressure, unrest, and the possibility of Tehran taking “desperate action,” using phrases like “Back to the Stone Age” and “sweeping strikes” to stress destructive escalation.",
+      "Right-Leaning coverage instead foregrounds deterrence and resolve, portraying retaliation as “devastating,” “broad,” and a forceful response that could hit military , civilian, and energy infrastructure; “fires back” heightens its combative tone.",
+      "Center coverage softens the binary by attributing a “massive response” to officials while adding missile movements and “economic death throes.” All emphasize Katz’s conditional warning and regional escalation, reflecting wider divides over restraint, sovereignty, and military power."
     ],
-    "bias_bar_text": "C 17% Right 83%",
+    "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
-    "right_pct": 83.0,
+    "right_pct": null,
     "status": "ok",
     "summary": [
-      "Israeli intelligence reports indicate Iran is preparing a coordinated multifront attack against Israel, seeking to apply lessons from the October 7, 2023, Hamas assault by involving regional allies from the outset.",
-      "Unlike the October 7 attack, which occurred without full coordination, Tehran is now considering a plan to incorporate multiple fronts into preparations from the beginning to ensure simultaneous operations.",
-      "To \"connect and prepare the external fronts,\" senior Quds Force officials have held conference calls and coordinated activities with Hezbollah , Houthis in Yemen, and Iraqi militias.",
-      "The election of Khalil al-Hayya as Hamas's leader in July strengthens the faction seeking to preserve its close strategic relationship with Iran, advancing coordination efforts.",
-      "Operating in a regional reality changed by the fall of the Assad regime in Syria, the Iranian axis is now placing increased importance on militias in Iraq and the Houthis."
+      "On Thursday, Defense Minister Israel Katz warned that an Iranian attack would prompt Israel to strike Iran's national, military , civilian, and energy infrastructure, threatening to send the country \"back deep into the Stone Age and darkness.\"",
+      "Tensions heightened after Iran warned the United States of retaliation if Israeli forces capture the Hezbollah-held Ali al-Taher ridge in Lebanon, where Iranian officers are allegedly stationed alongside Hezbollah fighters.",
+      "Katz argued that Iran's deteriorating economic and political stability could push Tehran toward \"desperate measures,\" noting Israel remains prepared for any further escalation, offensively and defensively.",
+      "Prime Minister Benjamin Netanyahu similarly declared this week that Israel would ultimately defeat the Islamic Republic, stating, \"We will defeat this regime. It will fall, we will bring it down.\"",
+      "Defense Secretary Pete Hegseth extended deployments for roughly 50,000 American forces through 2027 to ensure the United States maintains capacity to rapidly respond if Iran escalates the confrontation."
     ],
-    "title": "Iran coordinates with Hezbollah, Hamas, Houthis for attack, Israeli intel. suggests",
+    "title": "IDF Clears Hezbollah Underground Infrastructure, JD Vance Says US Will Probe Strike on Iran Wedding",
     "topic": null,
     "topic_full": null
   },
@@ -798,12 +823,12 @@
       "No right-leaning headlines were provided, so a left-right contrast cannot be established.",
       "Shared available emphasis concerns Israel’s severe operational water disruption, not agreement on its origins."
     ],
-    "bias_bar_text": "Left 67% 11% R 22%",
+    "bias_bar_text": null,
     "center_pct": null,
     "error": null,
-    "left_pct": 67.0,
+    "left_pct": null,
     "location": null,
-    "right_pct": 22.0,
+    "right_pct": null,
     "status": "ok",
     "summary": [
       "Five of Israel's six desalination plants shut down this week after microscopic Synechococcus algae clogged intake pipes in the Mediterranean Sea, with the organism originating from Egypt's Nile River delta.",
@@ -817,77 +842,81 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/a-record-38-of-republicans-say-canada-is-unfriendly-or-an-enemy-of-the-us_5356ee",
-    "article_url": "https://ground.news/article/a-record-38-of-republicans-say-canada-is-unfriendly-or-an-enemy-of-the-us_5356ee",
+    "article_path": "/article/trumps-trade-war-with-canada-is-becoming-a-ballot-box-issue-ahead-of-us-midterms",
+    "article_url": "https://ground.news/article/trumps-trade-war-with-canada-is-becoming-a-ballot-box-issue-ahead-of-us-midterms",
     "bias": [
-      "Left-Leaning coverage frames the 41% of Canadians calling the U.S. an “enemy” as a rupture in historically close ties, attributing it “almost entirely” to Trump, sovereignty concerns, and a “trade war.” Right-leaning coverage similarly spotlights Canadian hostility but stresses the alarming “record” 38% of Republicans labeling Canada “unfriendly” or an “enemy,” presenting reciprocal deterioration with less historical context.",
-      "Center coverage narrows the lens to that Republican figure and names the pollster, while de-emphasizing the Canadian result.",
-      "All perspectives connect worsening sentiment to Trump-era trade tensions, revealing a broader divide over accountability, nationalism, and bilateral trust."
+      "The left-leaning framing casts the dispute as “Trump’s trade war ,” stressing personal responsibility, escalation, electoral risk, and Canada’s potential leverage to make Trump “regret” the policy.",
+      "Center coverage instead presents it as an “unexpected issue” for midterm voters and adds Susan Collins’s description of Canada as a “friend,” “close ally,” and not an “adversarial country,” highlighting controversy over treating an ally like China.",
+      "No right-leaning perspective is provided, so its rhetoric and interpretation cannot be compared.",
+      "Across the available perspectives, escalation, voter implications, and Canada’s importance remain shared themes, while conflict and retaliation versus alliance context mark the key divide."
     ],
-    "bias_bar_text": "Left 33% Center 34% Right 33%",
-    "center_pct": 34.0,
+    "bias_bar_text": "Left 69% Center 31%",
+    "center_pct": 31.0,
     "error": null,
-    "left_pct": 33.0,
+    "left_pct": 69.0,
     "location": null,
-    "right_pct": 33.0,
+    "right_pct": null,
     "status": "ok",
     "summary": [
-      "A record 38% of Republicans describe Canada as unfriendly or an enemy, marking the highest level in the past decade, according to an Economist and YouGov Poll conducted August 28-31, 2026.",
-      "President Donald Trump's confrontational economic policies, including a 50% tariff on Canadian goods and an order to rename Lake Ontario to Lake America in United States federal usage, have driven the shift.",
-      "Broad opposition persists across party lines: 58% of Americans oppose tariff increases, while 87% of Democrats and 64% of Independents express disapproval, compared with only 25% of Republicans.",
-      "A Leger survey released Saturday found a plurality of Canadians now view the United States as an \"enemy\" nation, with Leger vice president Andrew Enns attributing the shift to President Donald Trump's repeated attacks on their sovereignty.",
-      "Brian Rathbun, a professor at the University of Toronto, warned that while Canadians currently separate their dislike of Trump from their view of Americans, persistent confrontation could fracture the relationship long-term."
+      "As the United States approaches pivotal midterm elections this November, President Donald Trump 's escalating trade war with Canada has emerged as an unexpected issue for voters in many states.",
+      "Tensions surged last month after trade talks between the two countries collapsed, prompting Trump to impose 50 per cent tariffs on Canadian goods and sign an executive order renaming Lake Ontario as \"Lake America.\"",
+      "Polls suggest two-in-three Americans disapprove of the lake's renaming, while only 20 per cent of Americans supported higher tariffs on Canada, affecting key battleground states including Michigan and Maine.",
+      "Maine Republican Sen. Susan Collins acknowledged the tariffs are \"terrible for Maine,\" while Democrats see an opening to challenge Republicans facing re-election difficulties in competitive border states.",
+      "Canada is set to implement its retaliatory duties on Tuesday, intensifying economic uncertainty ahead of the November midterms and potentially reshaping the political landscape in border states."
     ],
-    "title": "A record 38% of Republicans say Canada is unfriendly or an enemy of the U.S.",
+    "title": "Trump's trade war with Canada is becoming a ballot box issue ahead of U.S. midterms",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/us-structured-venezuela-oil-position-to-protect-it-from-dilution-official-says",
-    "article_url": "https://ground.news/article/us-structured-venezuela-oil-position-to-protect-it-from-dilution-official-says",
-    "bias": null,
-    "bias_bar_text": "Center 33% Right 67%",
+    "article_path": "/article/canadas-exchange-rate-with-us-is-unacceptable-trump",
+    "article_url": "https://ground.news/article/canadas-exchange-rate-with-us-is-unacceptable-trump",
+    "bias": [
+      "The left-leaning excerpt largely echoes Trump’s “unacceptable” currency “imbalance” claim and its “no longer” urgency, even noting it has persisted for years, while de-emphasizing trade context or wider implications.",
+      "Center coverage calls the remark a “fresh escalation” and “trade fight,” linking it to tariffs, leverage, and Trump’s view of an “unfair” relationship, while noting he offered no explanation.",
+      "Right-Leaning framing connects intensifying “trade tensions” to foreign-exchange uncertainty, investor risk, and possible negotiation collapse.",
+      "All perspectives attribute the assertion to Trump, without independent data or expert validation, reflecting differing priorities: quotation, diplomatic context, and market consequences."
+    ],
+    "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
-    "right_pct": 67.0,
-    "status": "no_change",
+    "right_pct": null,
+    "status": "ok",
     "summary": [
-      "On Thursday, the Pentagon protected its 35% stake in a Venezuelan oil venture using \"penny warrants\" in North American Blue Energy Partners , ensuring the U.S. position remains secure against future capital raises.",
-      "Controlled by Venezuelan businessman Alejandro Betancourt, NABEP received 100-year rights to 17 oilfields holding an estimated 65 billion barrels of reserves as part of the recent Washington-Caracas deal.",
-      "Under the arrangement, 20% of warrants can be purchased at production-cost prices rather than market rates, while the U.S. retains dividends before exercising the warrants.",
-      "Energy Secretary Chris Wright said this week Venezuela 's oil output, currently near 1.1 million to 1.2 million barrels daily, could double as separate deals with Chevron, Eni, ONGC, GeoPark, and GE Vernova take effect.",
-      "Lawmakers have demanded greater transparency on Cerberus-affiliated contracts, requiring former Cerberus Capital Management staff to recuse from such transactions, with Commerce Secretary Howard Lutnick reviewing all approvals."
+      "On Sunday, President Donald Trump escalated the trade dispute with Canada, warning on Truth Social that the country's currency imbalance with the United States is \"unacceptable\" and vowing the situation will not continue.",
+      "Heightened rhetoric and a breakdown in high-stakes negotiations preceded the warning, following Trump's August 25 claim that Canada had been \"ripping off\" the United States for decades through excessive tariffs on American farmers and businesses.",
+      "Trump asserted that the United States lost an average of $60 billion annually in trade with Canada over the past decade, while Canada has pledged to match U.S. trade actions \"dollar for dollar\" starting September 8.",
+      "Cultural friction intensified after the Trump administration backed renaming Lake Ontario as \"Lake America,\" a symbolic gesture that drew condemnation from Canadian officials after Google Maps and Apple Maps updated their applications for U.S. users.",
+      "Neither the White House nor Canadian Prime Minister Mark Carney provided details on new actions following Trump's latest post, leaving the prospect of further trade restrictions and retaliatory measures uncertain as negotiations remain stalled."
     ],
-    "title": "US structured Venezuela oil position to protect it from dilution, official says",
+    "title": "Trump: Canada’s currency imbalance with US will be ‘no longer’",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-i-dont-wear-a-wig",
-    "article_url": "https://ground.news/article/trump-i-dont-wear-a-wig",
+    "article_path": "/article/he-needs-to-step-aside-furious-fox-news-host-scorches-absent-gop-senator",
+    "article_url": "https://ground.news/article/he-needs-to-step-aside-furious-fox-news-host-scorches-absent-gop-senator",
     "bias": [
-      "Left-Leaning coverage frames Trump’s denial as a failed, even comic defense, using terms like “misremembered,” “bizarre speech,” “hair metamorphosis,” and “hairy disaster,” while invoking a biographer’s alleged “patch kit” and linking sweating or visual changes to credibility concerns.",
-      "Center coverage softens the ridicule, pairing his statement with “conflicting photos” and “profusely sweating” as contextual reasons for uncertainty.",
-      "Right-Leaning coverage instead presents the matter as a “rumor” supposedly conjured by liberals, treating Trump’s response as a straightforward rebuttal and de-emphasizing the Ohio wind anecdote and maintenance claims.",
-      "All acknowledge the denial and social-media speculation, reflecting wider divides over credibility, media hostility, and partisan blame."
+      "Left-Leaning coverage frames McConnell’s prolonged absence as a transparency and leadership crisis, using terms like “vanishing act,” “cover-up,” “scorches,” and “notoriously obstructive,” while stressing delayed disclosures and demanding he prove his capacity or “quit.” Right-leaning coverage likewise presses for action—“fed up,” “immediately,” or “quit”—but presents the episode primarily as a health-related interruption, emphasizing his fall, pneumonia treatment, age, and an expected return, while noting James Comer had not spoken with him directly.",
+      "The pivotal divide is whether limited communication signals concealment or simply medical uncertainty; both sides nonetheless portray the absence as politically consequential and agree that McConnell should return promptly or resign."
     ],
-    "bias_bar_text": "Left 61% Center 28% 11%",
+    "bias_bar_text": null,
     "center_pct": null,
     "error": null,
-    "left_pct": 61.0,
+    "left_pct": null,
     "location": null,
-    "right_pct": 11.0,
+    "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Wednesday, President Donald Trump denied persistent wig rumors during a White House Rose Garden dinner, claiming a windy 2024 campaign rally near Dayton International Airport proved his hair is real.",
-      "Speculation intensified after the 80-year-old president appeared with a fuller, blonder mane in Las Vegas on August 5, prompting detractors to speculate he was wearing a weave or hairpiece.",
-      "Biographer Michael Wolff claimed on his podcast, \"Inside Trump's Head,\" that Trump utilizes a portable \"patch kit\" of hair tufts applied with paste, describing the maintenance as a \"major enterprise.\"",
-      "Lawyer George Conway and comedian Rosie O'Donnell mocked Trump's appearance, with Conway suggesting \"something needs to be done about his hair under the Twenty-Fifth Amendment.\"",
-      "Press photographs from the 2024 Ohio rally show Trump wearing a red MAGA baseball cap, directly contradicting his claims and fueling continued online scrutiny of his appearance."
+      "On Saturday, Fox News contributor Joe Concha demanded that Senator Mitch McConnell return to work or resign, citing the Kentucky Republican's months-long absence from the Senate and public eye.",
+      "McConnell has been absent from the Senate for 12 weeks following his mid-June hospitalization, during which his office reported he was treated for a fall and a \"mild case of pneumonia.\"",
+      "Despite earlier denials of confirmed scheduling announcements, Kentucky Rep. James Comer claimed Saturday that staff expects McConnell back in September, citing conversations with the senator's office.",
+      "Fox News host Tomi Lahren criticized the arrangement, arguing that \"unelected staffers are running the show\" for the 84-year-old lawmaker, calling it unfair to Americans awaiting updates.",
+      "Concha issued a blunt ultimatum: \"If he does not come back in September, he needs to step down,\" demanding McConnell appear publicly to prove his fitness or resign amid mounting pressure for \"proof of life\" evidence."
     ],
-    "title": "Trump: 'I don't wear a wig'",
+    "title": "Joe Concha Tells Mitch McConnell to Return or Step Down Over Senate Absence",
     "topic": null,
     "topic_full": null
   }
