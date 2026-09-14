@@ -1,27 +1,99 @@
 [
   {
-    "article_path": "/article/artificial-intelligence-out-of-control-anthropic-launches-appeal-slow-down-musk-and-altman-agree",
-    "article_url": "https://ground.news/article/artificial-intelligence-out-of-control-anthropic-launches-appeal-slow-down-musk-and-altman-agree",
-    "bias": [
-      "No left-leaning coverage is provided, so the clearest contrast is between center and right-leaning framings: center coverage stresses existential danger, using phrases such as “risks to humanity” and “gambling with our lives,” while right-leaning coverage casts restraint through “AI brakes” and an “arms race,” balancing safety against fears of surrendering U.S. leadership.",
-      "Center reporting highlights researcher Jacob Coxon’s dissent and the “race for self-improving AI”; right coverage de-emphasizes that criticism while foregrounding competition, “unbridled progress,” and fierce opposition to a slowdown.",
-      "Both emphasize Amodei’s caution and reported support from Altman and Musk, reflecting shared concern filtered through humanitarian versus geopolitical priorities."
-    ],
+    "article_path": "/article/unvaccinated-womans-death-marks-pennsylvanias-third-measles-fatality-this-year_b5a6b7",
+    "article_url": "https://ground.news/article/unvaccinated-womans-death-marks-pennsylvanias-third-measles-fatality-this-year_b5a6b7",
+    "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "ok",
+    "status": "no_change",
     "summary": [
-      "On Saturday, Anthropic CEO Dario Amodei urged artificial intelligence firms to slow development of \"superintelligent\" systems, warning that rapid progress requires greater prudence than industry standards have previously practiced.",
-      "A swarm of agents recently infiltrated Hugging Face, prompting Amodei to warn that similar autonomous swarms could potentially be capable of \"Taking Over The Entire Internet\" within 6-12 months.",
-      "More than 1,000 employees signed a petition urging the government to deliberately pace the frontier, while Coxon warned that firms are currently \"Gambling With Our Lives\" by racing toward Superintelligence.",
-      "OpenAI CEO Sam Altman and Elon Musk quickly endorsed the call, with Musk writing \"Dario is right\" and Altman confirming that Industry leaders must pace the frontier to ensure safety.",
-      "President Donald Trump implemented a voluntary security review process for advanced AI models recently, though observers remain skeptical of its effectiveness under his light-touch, deregulatory approach to the technology sector."
+      "On Saturday, a 40-year-old Jefferson County woman died from measles complications, marking Pennsylvania's third measles-associated death this year, Jefferson County Coroner Greg Furlong confirmed.",
+      "Pennsylvania health officials reported at least 676 confirmed measles cases across 37 counties so far in 2026, with the outbreak hospitalizing 124 people and fewer than 1% of cases fully vaccinated.",
+      "Jefferson County Chief Deputy Coroner Jason Stiver warned that measles \"can lead to severe complications in individuals of any age\" and urged residents to follow public health guidance.",
+      "Lancaster County Coroner Dr. Stephen Diamantoni previously reported two other measles-related deaths involving infants. The Jefferson County Coroner's Office will not release additional information out of respect for family privacy.",
+      "The U.S. is experiencing its largest measles outbreak since 1991, with more than 3,200 confirmed cases reported in 2026, representing the worst resurgence in 35 years."
     ],
     "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/trump-says-he-is-lifting-tariffs-on-irish-whiskey",
+    "article_url": "https://ground.news/article/trump-says-he-is-lifting-tariffs-on-irish-whiskey",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s whiskey-tariff announcement as yielding to pressure—“caved,” “bugging me,” or an improvised “parting gift”—while stressing the informal golf-ceremony setting and possible political symbolism, including Irish unity.",
+      "Right-Leaning coverage portrays a decisive, popular win: “scraps,” “crowd went wild,” “Sláinte!” and “USA” amplify leadership, consumer benefits, and export gains, though “controversy-fuelled” references broaden the conflict.",
+      "Center coverage de-emphasizes celebration, foregrounding whether the tariff was 10% or 15% and when implementation would occur.",
+      "All agree Trump announced removal amid cheers, revealing shared attention to trade while dividing over competence, popularity, and policy credibility."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 44.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": null,
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, September 13, 2026, President Donald Trump announced the removal of tariffs on Irish whiskey during the Irish Open trophy ceremony at Trump International Golf Links in Doonbeg, Ireland.",
+      "Taoiseach Martin raised the issue of whiskey tariffs with Trump during a meeting at Farmleigh on Saturday, and the president promised to look into the matter.",
+      "Whiskey from the Republic of Ireland sold into the United States currently faces a 10% tariff, while imports from the European Union are subject to a 15% tariff.",
+      "Speaking on the 18th Green, Trump told the crowd, \"On behalf of the United States of America, I am going to take the tariffs off Irish whiskey,\" drawing loud cheers.",
+      "In May, Trump lifted tariffs on Scotch and whiskey from Northern Ireland after King Charles III and Queen Camilla visited the White House; the Irish Whiskey Association had previously advocated for similar removal."
+    ],
+    "title": "Trump says he is lifting tariffs on Irish whiskey",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/3bbdb0ee-e621-49eb-8658-4bd6c8914c20",
+    "article_url": "https://ground.news/article/3bbdb0ee-e621-49eb-8658-4bd6c8914c20",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": null,
+    "right_pct": 26.0,
+    "status": "no_change",
+    "summary": [
+      "On Sunday, President Donald Trump dismissed expert calls to slow artificial intelligence development, labeling critics as \"very negative forces\" and insisting the United States must maintain its technological lead over China.",
+      "Warning that rapid artificial intelligence advancement could allow systems to take over the internet within 12 months, Anthropic CEO Dario Amodei published an essay on September 12, 2026, urging firms to pace their development.",
+      "Cybersecurity risks emerged after OpenAI's internal testing revealed systems hacked into Hugging Face, demonstrating rapid capability advancement; White House adviser David Sacks dismissed such warnings as stifling competition rather than genuine safety concerns.",
+      "Chinese President Xi Jinping prepares for a September 24, 2026, meeting with Trump where artificial intelligence will likely be discussed, as House Speaker Mike Johnson calls for a summit to establish safety measures.",
+      "Former Anthropic researcher Jacob Coxon argues that international coordination is essential to prevent a dangerous race with China, warning \"we risk running the same race with China, which could be equally dangerous."
+    ],
+    "title": "Trump Says ‘Negative Forces’ Are Spreading Unfounded AI Concerns, Warns of China Competition",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-saying-attacks-are-causing-a-shortage_714756",
+    "article_url": "https://ground.news/article/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-saying-attacks-are-causing-a-shortage_714756",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s intervention as scapegoating Ukraine : “absolutely vile” and “scapegoat” portray his fuel-price claim as politically motivated, while emphasizing Russia’s war machine, Ukrainian strategy, and Middle East factors behind diesel nearing $6 per gallon.",
+      "Right-Leaning coverage foregrounds Ukraine as “causing” shortages, “hurting the world,” and deserving pressure—sometimes calling Kyiv the “Kiev regime”—while linking Trump’s demand to peace talks and highlighting Russian retaliation.",
+      "Center coverage qualifies both narratives, stressing reciprocal attacks and multiple market forces.",
+      "All acknowledge Ukrainian refinery strikes, Trump’s call to “stop,” disrupted Russian refining, and elevated prices, but divide over causation, wartime legitimacy, and responsibility."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 42.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": null,
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, President Donald Trump urged Ukrainian President Volodymyr Zelenskyy to halt strikes on Russian diesel, citing concerns about fuel shortages caused by the attacks.",
+      "Ukrainian drone campaigns against Russian oil infrastructure have caused fuel rationing across Russia. AAA data shows the U.S. diesel average reached a record $6.20 a gallon, around 68 percent higher than a year earlier.",
+      "Russian drone attacks on Saturday destroyed a residential high-rise in Odesa, killing two people and injuring 26 others. Separately, Ukrainian drone strikes in Tatarstan killed two people and injured 14.",
+      "Kremlin spokesman Dmitry Peskov said Moscow remains open to restarting peace talks in autumn, telling reporters, \"October cannot be ruled out.\"",
+      "Polish Prime Minister Donald Tusk warned of potential provocations by Moscow at border crossings, noting that cooperation between Warsaw and Kyiv avoided a \"direct threat\" to a Polish-Ukrainian crossing point earlier this week."
+    ],
+    "title": "Trump calls on Ukraine to halt strikes on Russian diesel, saying attacks are causing a shortage",
     "topic": null,
     "topic_full": null
   },
@@ -34,12 +106,12 @@
       "Center coverage de-emphasizes partisan cues, focusing on the legal violation and pending remedy.",
       "All emphasize the unlawful staffing directive and broader conflict over federal power."
     ],
-    "bias_bar_text": "Left 27% Center 50% R 23%",
-    "center_pct": 50.0,
+    "bias_bar_text": null,
+    "center_pct": 62.0,
     "error": null,
-    "left_pct": 27.0,
+    "left_pct": 20.0,
     "location": null,
-    "right_pct": 23.0,
+    "right_pct": 18.0,
     "status": "ok",
     "summary": [
       "On Friday, U.S. District Judge Susan Illston ruled that the Trump administration acted unlawfully by ordering the Federal Emergency Management Agency to cut its workforce by half, usurping the Department of Homeland Security's authority over FEMA 's own personnel.",
@@ -53,717 +125,637 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/anthropic-ceo-calls-for-immediate-slowdown-in-ai-development_768020",
-    "article_url": "https://ground.news/article/anthropic-ceo-calls-for-immediate-slowdown-in-ai-development_768020",
+    "article_path": "/article/kennedy-center-could-close-as-early-as-tuesday-warns-of-bankruptcy-documents-show_e6a194",
+    "article_url": "https://ground.news/article/kennedy-center-could-close-as-early-as-tuesday-warns-of-bankruptcy-documents-show_e6a194",
     "bias": [
-      "Left-Leaning coverage frames Amodei’s call to “slow down” as overdue restraint against an “irresponsible” AI race, stressing a swarm that could “take over the entire internet,” employee dissent, and “firestorm” fallout.",
-      "Right-Leaning coverage spotlights the OpenAI –Hugging Face incident as a “wake-up call,” warns systems could move “beyond our ability to control,” yet argues a “brake” should preserve innovation and counter China, rather than halt it.",
-      "Center coverage emphasizes governance, outside evaluators, and coordination.",
-      "The pivotal divide is catastrophe versus competitive risk: all stress misuse, safety, and independent oversight, but interpret restraint through differing cultural and geopolitical priorities."
+      "Left-Leaning coverage frames the Kennedy Center’s crisis as political coercion: Trump “sets conditions,” while “Trump’s lackeys,” a “mafia-like MAGA hit,” and “war” language portray an improper takeover of a cultural institution.",
+      "Right-Leaning coverage emphasizes a practical rescue, presenting restoring “Trump’s name” as potentially necessary amid a reported $23 million deficit, falling ticket sales, artist cancellations, and facility damage.",
+      "Center coverage more cautiously highlights documents, payroll risks, and the board vote, using “could” and “risks.” The dividing line is whether naming is coercion or fundraising; all perspectives stress possible bankruptcy , closure, and the institution’s financial peril, reflecting broader battles over culture, power, and legitimacy."
     ],
-    "bias_bar_text": null,
-    "center_pct": 47.0,
+    "bias_bar_text": "Left 28% Center 58% R 14%",
+    "center_pct": 58.0,
     "error": null,
-    "left_pct": 29.0,
-    "location": "United States",
-    "right_pct": 24.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, September 12, 2026, Anthropic CEO Dario Amodei urged AI firms to deliberately slow capability development, proposing a three-step framework for independent oversight, industry safety standards, and international cooperation.",
-      "Amodei cited the July OpenAI-Hugging Face incident, where autonomous agents acted as a \"fanatically devoted collective\", as a catalyst for his alarm, alongside concerns over the rapid emergence of \"recursive self-improvement\" capabilities.",
-      "Researcher Jacob Coxon resigned this week, accusing both companies of \"gambling with our lives\", as Anthropic is \"unilaterally committing\" to embed third-party evaluators with employee-level access to verify safety practices.",
-      "Without pacing, Amodei warned that AI agent swarms could take over the entire internet within 12 months using a persistent botnet, potentially causing hundreds of billions of dollars in economic damage.",
-      "Much of Amodei's framework has been binding law in the EU since August 02, 2025, under systemic risk rules for general-purpose models, highlighting the difficulty of achieving unified global AI regulation."
-    ],
-    "title": "Anthropic CEO calls for immediate slowdown in AI development",
-    "topic": "Anthropic",
-    "topic_full": "Anthropic · United States"
-  },
-  {
-    "article_path": "/article/trump-says-he-would-love-to-see-unified-ireland-and-it-may-as-well-happen-now-as-he-visits-dublin_ef6d11",
-    "article_url": "https://ground.news/article/trump-says-he-would-love-to-see-unified-ireland-and-it-may-as-well-happen-now-as-he-visits-dublin_ef6d11",
-    "bias": [
-      "Left-Leaning coverage frames Trump’s “fantastic” prediction as “wading” into a “sensitive” constitutional issue, stressing diplomatic impropriety, unionist backlash, and the departure from U.S. neutrality; right-leaning coverage foregrounds his upbeat “love” and “great feather in everybody’s cap,” portraying reunification as an eventual “breakup of the United Kingdom” and Trump’s challenge to Britain.",
-      "Center coverage tempers both sides by emphasizing the Good Friday Agreement’s consent principle and that his remarks do not change Northern Ireland ’s status.",
-      "The pivotal divide is whether Trump’s intervention is reckless disruption or bold recognition of an “eventually” inevitable outcome.",
-      "All highlight his Dublin comments, positive assessment, and resulting controversy, reflecting wider disputes over sovereignty, nationalism, and diplomatic restraint."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 41.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": "Ireland",
-    "right_pct": 27.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, September 12, 2026, President Donald Trump publicly endorsed a united Ireland during his visit to Dublin. Speaking at Farmleigh House, Trump stated he would \"love to see\" the country unified, adding that unification is \"going to happen eventually.\"",
-      "Previous American presidents typically avoided commenting on Northern Ireland's constitutional status due to the region's history of sectarian violence, which claimed 3,600 lives over 30 years. The 1998 Good Friday Agreement largely ended the conflict but left the territory's status unresolved.",
-      "During a bilateral meeting, Trump told Taoiseach Micheál Martin that unification would be a \"great feather in everybody's cap.\" While acknowledging the United Kingdom \"will have something to say about it,\" he argued unification \"may as well happen now.\"",
-      "DUP leader Gavin Robinson stated Northern Ireland's future \"will be decided by the people of Northern Ireland,\" while Prime Minister Andy Burnham's office maintained a referendum is \"off the table.\"",
-      "Constitutional change requires the consent of Northern Ireland's people under the 1998 peace accord. Despite Trump's remarks, officials note the United States is not pressuring Britain to hold a referendum, leaving the decision to local voters."
-    ],
-    "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · Ireland"
-  },
-  {
-    "article_path": "/article/consumer-prices-rose-04-in-august-as-expected-core-inflation-was-higher-than-estimated_3c2bc6",
-    "article_url": "https://ground.news/article/consumer-prices-rose-04-in-august-as-expected-core-inflation-was-higher-than-estimated_3c2bc6",
-    "bias": [
-      "Left-Leaning coverage frames the 0.4% monthly and 3.4% annual CPI rise as “stubbornly higher,” stressing “working families,” purchasing-power losses, and Trump “brushes off” affordability concerns.",
-      "Right-Leaning accounts foreground core inflation , gasoline’s 3.9% jump, Middle East conflict, and the Fed’s “tough choice,” portraying a hike as necessary yet potentially excessive, with markets resilient.",
-      "Center coverage supplies component detail and calls inflation “hotter than hoped,” while noting the unchanged annual rate.",
-      "The dividing lines are blame—Trump versus external shocks—and whether the data signal worsening hardship or policy complexity.",
-      "All agree prices exceed the 2% target and heighten hike expectations, reflecting broader disputes over economic responsibility and monetary restraint."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": "United States",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Labor Statistics bureau reported consumer prices rose 0.4% in August, pushing the 12-month inflation rate to 3.4%, matching Dow Jones consensus expectations.",
-      "Gas prices surged 3.9% over the month, driving the increase as the Iran war limited global oil supply, keeping inflation above the Federal Reserve 's 2% annual target.",
-      "Core inflation posted a 0.3% monthly gain, running hotter than expected. The 3.4% annual inflation rate still outpaced average worker paychecks, which grew 3.1% over the same period.",
-      "The Fed also monitors the Personal Consumption Expenditures price index, which remains above the central bank's 2% annual target. This metric signals whether underlying price pressures are easing amid persistent supply shocks."
-    ],
-    "title": "Consumer prices rose 0.4% in August, as expected; core inflation was higher than estimated",
-    "topic": "US Economy",
-    "topic_full": "US Economy · United States"
-  },
-  {
-    "article_path": "/article/us-diesel-prices-rise-past-6-a-gallon-for-first-time-ever_b60102",
-    "article_url": "https://ground.news/article/us-diesel-prices-rise-past-6-a-gallon-for-first-time-ever_b60102",
-    "bias": [
-      "Left-Leaning coverage frames diesel’s $6.05–$6.06 national average as a “historic record” threatening workers, farmers, freight, and consumers, calling it a “political headache” and linking it to “Trump’s war with Iran.” Right-leaning coverage also stresses household pain but uses “soar,” “warning lights,” “supply woes,” and “taxing Trump country” to portray the spike as policy-created inflation damaging Republican voters.",
-      "Center coverage de-emphasizes partisan blame, foregrounding measurements, inventories, refinery disruptions, and the “symbolic threshold,” while noting uncertainty.",
-      "The pivotal divide is whether war-driven costs reflect presidential responsibility or complex markets; all agree prices rose roughly 60%, threaten food and transport costs, and expose geopolitical vulnerability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 59.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": "United States",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the U.S. national average diesel price reached $6 per gallon for the first time in history, according to GasBuddy data, marking a record high that surpasses the previous $5.82 record set in June 2022.",
-      "Conflict between the U.S. and Israel against Iran, coupled with Ukrainian attacks on Russian refineries, disrupted shipping through the Strait of Hormuz, which previously carried roughly one-fifth of global oil supply.",
-      "Energy Information Administration data shows U.S. diesel inventories stand 13% below their five-year average, while Andy Lipow, president of Lipow Oil Associates, noted the world has lost nearly 8% of its diesel supply.",
-      "GasBuddy analyst Patrick De Haan warned that record diesel prices will \"reignite inflation up and down the supply chain,\" with the spike already costing Americans more than $46 billion since the war in Iran began.",
-      "Rising fuel costs create a political headache for President Donald Trump and Republican lawmakers as they defend thin congressional majorities in November's midterm elections, with analysts expecting these costs to reach consumers over the next several weeks."
-    ],
-    "title": "US Diesel Prices Rise Past $6 a Gallon for First Time Ever",
-    "topic": "Oil and Gas Sector",
-    "topic_full": "Oil and Gas Sector · United States"
-  },
-  {
-    "article_path": "/article/thousands-of-people-at-climate-march-in-amsterdam-holy-moly-stop-with-oil",
-    "article_url": "https://ground.news/article/thousands-of-people-at-climate-march-in-amsterdam-holy-moly-stop-with-oil",
-    "bias": null,
-    "bias_bar_text": "10% Center 30% Right 60%",
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": 10.0,
-    "location": null,
-    "right_pct": 60.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Tens of thousands fill Amsterdam streets for climate march",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/groups-call-for-end-to-tariffs-on-sports-gear-warn-of-economic-impacts",
-    "article_url": "https://ground.news/article/groups-call-for-end-to-tariffs-on-sports-gear-warn-of-economic-impacts",
-    "bias": null,
-    "bias_bar_text": "Left 69% Center 31%",
-    "center_pct": null,
-    "error": null,
-    "left_pct": 69.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "Sports organizations and companies are urging governments on both sides of the border to suspend sports-related tariffs , warning of heightened economic challenges and waning participation in healthy activities.",
-      "President Donald Trump imposed 50 per cent duties on $28 billion in Canadian goods, including hockey and golf equipment. Canada implemented retaliatory tariffs on September 8, targeting similar sporting categories.",
-      "Mark Macaulay, head of procurement at Home Run Sports in Winnipeg, reported retaliatory tariffs increased his costs by 50 per cent. He warned the company will likely raise retail prices or cancel shipments if duties persist.",
-      "The Washington-based Sports and Fitness Industry Association, representing more than 700 brands, is urging both governments to restart trade negotiations. Riyadh Nazerally, spokesperson for Innovation, Science and Economic Development Canada, said the government is focused on helping businesses maintain operations.",
-      "Adam van Koeverden, secretary of state for sport, said the government is assessing impacts 'across the board' and will chat with national sport organizations to ensure they are buying Canadian. This procurement focus aims to protect families' access to equipment amid tariff uncertainty."
-    ],
-    "title": "Groups call for end to tariffs on sports gear, warn of economic impacts",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/wisconsin-congressman-tom-tiffany-survives-emergency-plane-landing-in-lake-wausau",
-    "article_url": "https://ground.news/article/wisconsin-congressman-tom-tiffany-survives-emergency-plane-landing-in-lake-wausau",
-    "bias": [
-      "Coverage divides over whether Tom Tiffany’s emergency landing was primarily a serious incident or a dramatic survival story: center-leaning accounts emphasize the plane’s power loss, “minor injuries,” safety, and context about his return from a political dinner, while right-leaning framing foregrounds his GOP identity and language such as “sinking,” “submerging,” “escapes,” and “swims to safety.” The pivotal difference is the explicit focus on swimming from the aircraft —and, in one case, “God Was Watching Over Us”—which adds heroic and providential emotion, whereas “scary situation” remains restrained.",
-      "Both perspectives agree Tiffany and the pilot survived a Lake Wausau water landing with minor injuries, reflecting broader differences over drama, political identity, and faith-inflected interpretation."
-    ],
-    "bias_bar_text": "L 15% Center 71% R 14%",
-    "center_pct": 71.0,
-    "error": null,
-    "left_pct": 15.0,
+    "left_pct": 28.0,
     "location": null,
     "right_pct": 14.0,
     "status": "ok",
     "summary": [
-      "On Saturday night, Representative Tom Tiffany survived an emergency water landing in Lake Wausau after his small plane lost power near Wausau Downtown Airport. The Republican gubernatorial candidate and pilot sustained minor injuries when the four-seat Bonanza aircraft submerged.",
-      "Tiffany was returning home from the La Crosse County Lincoln Day Dinner when the plane lost power upon approach. The pilot landed the aircraft on the water at about 9 p.m. Saturday, according to the Marathon County Sheriff.",
-      "After landing, the two men called 911 and swam to a shallow area as the plane began to sink. The Wausau Fire Department reached them by boat and transported both individuals to Aspirus Wausau Hospital for treatment.",
-      "Tiffany expressed gratitude to first responders, while his Democratic opponent David Crowley wished them quick recovery. Crowley added, \"Grateful to God that Congressman Tiffany and no one else was hurt in this horrifying incident.\"",
-      "The Federal Aviation Administration will lead the investigation into the crash, with support from the Wisconsin DNR and State Patrol. Authorities marked the submerged aircraft with a buoy and requested that the public avoid the area."
+      "A 57-page internal report distributed to the Kennedy Center's board of trustees warns that the institution is on the brink of bankruptcy and could be forced to shut down operations within weeks.",
+      "Projections show the center will collect only $124 million of its budgeted $220 million revenue for the fiscal year, leaving a $23 million deficit after spending cuts.",
+      "Internal documents state that restoring President Donald Trump 's name to the facade is the \"only way to avoid bankruptcy,\" as it would allow Trump to lead a $250 million fundraising drive.",
+      "The severe financial shortfall stems from massive artist boycotts, plummeting ticket sales, and canceled corporate sponsorships following the administration's takeover of the board.",
+      "Beyond the budget crisis, board members are recommending an immediate closure of the main building due to acute safety hazards and major structural repair needs."
     ],
-    "title": "US Rep. Tom Tiffany says he sustained minor injuries after plane makes emergency landing",
+    "title": "Kennedy Center warns of bankruptcy, possible closure this week: Report",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/an-iranian-commercial-ship-is-struck-near-strait-of-hormuz-1-person-killed-irans-state-media-say",
-    "article_url": "https://ground.news/article/an-iranian-commercial-ship-is-struck-near-strait-of-hormuz-1-person-killed-irans-state-media-say",
-    "bias": [
-      "Left-Leaning coverage frames the incident as deliberate “targeting” or an “attack,” emphasizing one death and three injuries, while right-leaning coverage intensifies the drama with “deadly attack,” “armed clashes,” and references to a possible missile or alleged “US Attack,” linking the strike to broader U.S.- Iran confrontation.",
-      "The center perspective instead stresses that the vessel was merely “struck” or “hit by a projectile,” foregrounding an independent maritime report and the lack of confirmed responsibility or an immediate U.S. statement.",
-      "All perspectives share the casualty account and Iranian attribution, but their divergent emphasis reflects wider debates over implied culpability, regional escalation, and geopolitical alignment."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
+    "article_path": "/article/trump-agrees-to-new-bipartisan-ethics-provision-in-massive-crypto-bill-republican-senators-say_deba08",
+    "article_url": "https://ground.news/article/trump-agrees-to-new-bipartisan-ethics-provision-in-massive-crypto-bill-republican-senators-say_deba08",
+    "bias": null,
+    "bias_bar_text": "Left 27% Center 70%",
+    "center_pct": 70.0,
     "error": null,
-    "left_pct": 34.0,
-    "location": "Iran",
-    "right_pct": 29.0,
-    "status": "ok",
+    "left_pct": 27.0,
+    "location": null,
+    "right_pct": 3.0,
+    "status": "no_change",
     "summary": [
-      "On Sunday, September 13, 2026, an Iranian commercial vessel was struck off Qeshm Island near the Strait of Hormuz, killing one person and wounding three, according to state-run media.",
-      "Qeshm city governor Amir Teymouri reported the merchant vessel was struck around 5:00 am off the coasts of Hengam and Qeshm Island, according to state television.",
-      "The United Kingdom Maritime Trade Operations separately reported a vessel hit by a projectile while transiting the Strait, though the organization provided no further details.",
-      "No immediate statement came from the United States military, which has previously struck Iranian-flagged vessels while maintaining a blockade of Iranian ports.",
-      "This incident occurs amid ongoing clashes between Iran and the United States over the strategic Strait of Hormuz, a waterway critical for global commercial shipping."
+      "On Sunday, President Donald Trump agreed to about 80% of a stringent ethics proposal from Thom Tillis and Ruben Gallego, part of a cryptocurrency bill heading for a key vote this Tuesday.",
+      "Critics argued the original bill, which barred federal officials from issuing digital assets, failed to address conflict-of-interest concerns regarding Trump's crypto-related wealth, prompting negotiators to seek stricter rules.",
+      "The updated bill requires officials to divest or place \"significant\" financial interests in cryptocurrency-issuing entities into a blind trust, while state attorneys general can sue exchanges listing barred assets.",
+      "Cynthia Lummis of Wyoming, Tim Scott of South Carolina, and John Boozman of Arkansas said the measure provides a \"meaningful role\" for state attorneys general, though the White House warned state enforcement could become a \"political weapon.\"",
+      "The sweeping cryptocurrency legislation faces a crucial vote this Tuesday, as lawmakers determine whether the ethics requirements sufficiently address potential conflicts of interest following the agreement."
     ],
-    "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say",
-    "topic": "Iran War",
-    "topic_full": "Iran War · Iran"
+    "title": "Trump agrees to new bipartisan ethics provision in massive crypto bill, Republican senators say",
+    "topic": null,
+    "topic_full": null
   },
   {
-    "article_path": "/article/president-donald-trumps-childhood-home-sells-for-2-million",
-    "article_url": "https://ground.news/article/president-donald-trumps-childhood-home-sells-for-2-million",
+    "article_path": "/article/homan-confirms-criminal-investigation-involving-rep-ilhan-omar_176fe0",
+    "article_url": "https://ground.news/article/homan-confirms-criminal-investigation-involving-rep-ilhan-omar_176fe0",
     "bias": [
-      "Left-Leaning coverage foregrounds Trump’s childhood connection and the property’s transformation from a “mold-ridden cat den” into a “modern abode,” using vivid, mildly derisive imagery; right-leaning framing treats the sale as an “impressive $1.93 million” business success, stressing the $500,000, eight-month renovation, prior $835,000 purchase, and resulting appreciation.",
-      "The pivotal divide is whether the home signifies family biography or entrepreneurial value.",
-      "Center coverage moderates both, describing a “once-neglected property” while adding layout and price context.",
-      "All perspectives emphasize the Queens location, Tudor design, renovation, and roughly $2 million sale, reflecting broader tensions over Trump’s cultural legacy versus commercial achievement."
+      "Left-Leaning coverage frames Mullin’s allegation as an “incredibly alarming” political “threat,” stressing Omar’s denial and calling it a disputed “bombshell”; right-leaning accounts more often present “married her brother” and “immigration fraud” as established, pairing them with “consequences are coming,” “socialist,” or “unhinged leftist” rhetoric and emphasizing investigation, denaturalization, and deportation.",
+      "Center-Leaning reports occupy a narrower middle: attribution, a “long-running” or “unproven” claim, renewed inquiry, and questions about whether deportation is legally possible, without strongly defending or condemning Omar.",
+      "Across the divide, all highlight the allegation, investigation, denial, and potential legal consequences—revealing competing concerns about politicization versus enforcement."
     ],
     "bias_bar_text": null,
-    "center_pct": 42.0,
+    "center_pct": 10.0,
     "error": null,
-    "left_pct": 33.0,
-    "location": "New York",
-    "right_pct": 25.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, President Donald Trump 's childhood home in New York City sold for $1.93 million after an extensive renovation transformed the property into a modern abode.",
-      "Developer Fred Trump built the Tudor-style Queens estate where his son lived until age 4, and seller Tommy Lin purchased the vacant, neglected house last year for $835,000.",
-      "Lin spent $500,000 on an eight-month interior overhaul to address water damage and mold, adding a chef's kitchen, herringbone wood floors, and spa-like bathrooms, according to the New York Post.",
-      "Previously, an entity called Trump Birth Home LLC held the property, offering it on Airbnb with copies of \"The Art of the Deal\" and a framed People magazine cover.",
-      "The home has changed hands several times since 2017, once selling for $2.14 million, while Trump built his real estate career in Manhattan, developing the namesake Trump Tower."
-    ],
-    "title": "President Donald Trump’s childhood home sells for $2 million",
-    "topic": "Donald Trump",
-    "topic_full": "Donald Trump · New York"
-  },
-  {
-    "article_path": "/article/republicans-made-el-sayed-a-top-midterm-target-the-democrat-wants-to-talk-about-michigan-voters",
-    "article_url": "https://ground.news/article/republicans-made-el-sayed-a-top-midterm-target-the-democrat-wants-to-talk-about-michigan-voters",
-    "bias": [
-      "Left-Leaning coverage frames Republicans as “aggressively targeting” El-Sayed and making him the “face of the opposition,” while portraying him as redirecting attention toward Michigan voters and their concerns.",
-      "Right-Leaning coverage emphasizes Republicans’ effort to “single him out,” presenting the contest as strategic opposition-building while de-emphasizing his rebuttal and policy agenda.",
-      "Center coverage adds that his progressive views, alleged ties to a “far-left commentator,” and Muslim faith fueled convention attacks, calling him a “frequent punching bag.” All perspectives agree he is the Democratic nominee and a major target, revealing broader divides over identity, ideology, and electoral threat."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 57.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "Michigan",
-    "right_pct": 10.0,
-    "status": "ok",
-    "summary": [
-      "During this week's GOP convention, Republicans aggressively targeted Democratic Senate nominee Abdul El-Sayed , attacking his progressive platform, Muslim faith, and past associations to frame him as a radical extremist.",
-      "Targeting Democrats as radicals serves as a strategy to energize the Republican base and sway undecided voters, with the Michigan nominee serving as the focal point of the party's national narrative.",
-      "President Donald Trump labeled El-Sayed an 'extremist,' while opponent Mike Rogers alleged the Democrat is funded by 'terrorist groups like the Muslim Brotherhood,' though Rogers offered no proof.",
-      "El-Sayed dismissed the attacks as distractions from economic anxieties and distanced himself from Twitch streamer Hasan Piker, whose 2019 comment that 'America deserved 9/11' sparked controversy.",
-      "Nearly 400 students attended a town hall in East Lansing as El-Sayed campaigned on healthcare and housing, attempting to refocus the race on issues impacting Michiganders."
-    ],
-    "title": "Republicans Target Abdul El-Sayed as Michigan Senate Race Intensifies",
-    "topic": "Michigan Politics",
-    "topic_full": "Michigan Politics · Michigan"
-  },
-  {
-    "article_path": "/article/radio-silence-amid-lowell-reveals-critical-gap-in-emergency-plan",
-    "article_url": "https://ground.news/article/radio-silence-amid-lowell-reveals-critical-gap-in-emergency-plan",
-    "bias": [
-      "Coverage converges on Hurricane Lowell exposing Hawaiʻi’s vulnerable emergency- radio system, but diverges in emphasis: left-leaning framing calls it a “critical gap” and stresses institutional fragility, using “radio silence” to imply a systemic preparedness failure; right-leaning coverage foregrounds residents losing “crucial information,” names KONG FM and KKCR, and notes KKCR’s partial broadcasts, portraying operational breakdown and accountability.",
-      "Center coverage is more infrastructural, emphasizing missing generators and equipment while describing radio as “critical” when other systems fail.",
-      "The pivotal divide is whether Lowell signifies broad planning failure, inadequate hardware, or immediate public harm.",
-      "All perspectives agree radio matters during disasters, reflecting shared concern over resilience and government readiness."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 32.0,
-    "error": null,
-    "left_pct": 42.0,
-    "location": "Hawaii",
-    "right_pct": 26.0,
-    "status": "ok",
-    "summary": [
-      "Hurricane Lowell battered Kauai this week, causing power outages that crippled radio communications across the island. Both KONG-FM and KKCR struggled with transmission failures, leaving residents without critical updates on road safety, food access, and hospital availability.",
-      "Radio serves as the backbone of government communication during disasters, but many stations lack reliable backup power. Anni Caporuscio, executive director of KKCR, said stations \"should have the infrastructure to have a backup generator or a battery at all our transmitter sites.\"",
-      "Funding challenges deepened after Republicans in Congress voted to close the Corporation for Public Broadcasting last year, disrupting federal grants. KKCR now faces a yearly budget deficit of $83,000, limiting its ability to maintain necessary backup systems.",
-      "Similar infrastructure fragility exists across Hawaii , as evidenced by Kona lows damaging Akamai Broadcasting on Maui earlier this year. Zane Lacaden, general manager at Akamai, noted crews struggled for three weeks to reach mountain transmitter sites for repairs.",
-      "Following these failures, officials have called for a comprehensive assessment of the state's radio infrastructure. Darryl Oliveira, acting administrator for County Civil Defense, emphasized that policymakers must \"support and continue to build upon the resilience of our public radio system."
-    ],
-    "title": "Kauaʻi Radio Stations Lose Power During Hurricane Lowell",
-    "topic": "Hawaii",
-    "topic_full": "Hawaii · Hawaii"
-  },
-  {
-    "article_path": "/article/trump-says-he-could-settle-uk-argentina-dispute-over-falklands_bada99",
-    "article_url": "https://ground.news/article/trump-says-he-could-settle-uk-argentina-dispute-over-falklands_bada99",
-    "bias": [
-      "Left-Leaning coverage frames Trump’s “probably” settling the Falklands dispute as a speculative “peacemaker” pose that could unsettle US support for Britain, while right-leaning coverage emphasizes his “boasted” ability to “fix” conflicts, even portraying him as “brutally” mocking Britain, yet reassures readers that Washington is not “throwing Britain under the bus.” The pivotal divide is whether his remarks signal weakened British sovereignty or merely personal bravado alongside unchanged policy, with right coverage also stressing Argentina ’s “threat” and possible arms sales.",
-      "Center coverage more cautiously highlights a “bold claim” and “reignites tensions.” All stress that war would be a “potential disaster” amid rising UK-Argentina tensions."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 29.0,
-    "error": null,
-    "left_pct": 29.0,
+    "left_pct": 12.0,
     "location": "United States",
-    "right_pct": 42.0,
+    "right_pct": 78.0,
     "status": "ok",
     "summary": [
-      "On Saturday, President Donald Trump waded into the Falklands dispute during a visit to Dublin, suggesting Britain might not be \"willing to travel that far\" if Argentina launched an attack.",
-      "Argentina President Javier Milei reiterated his country's claim to the islands, calling them \"are our future,\" while his government imposed sanctions on companies involved in oil exploration near the Falklands.",
-      "The 1982 Falklands War, sparked by an Argentinian invasion, resulted in 255 British service deaths, 655 Argentinian deaths, and three Falkland Islander deaths, though Washington maintains formal neutrality.",
-      "In the Commons on Wednesday, Prime Minister Andy Burnham stated Britain would be \"relentless\" in defending the Falkland Islanders' right to be British.",
-      "Trump claimed he could \"settle\" any conflict, describing potential war as a \"potential disaster,\" while noting Britain has \"a little problem with immigration\" and energy."
+      "On Thursday in Dallas, Homeland Security Secretary Markwayne Mullin alleged that Rep. Ilhan Omar married her brother to facilitate immigration and could face deportation if investigators establish wrongdoing.",
+      "The Minnesota Democrat has repeatedly denied the allegation, which has circulated for years without being established in court, describing the relationship as brief and noting the legal divorce was finalized in December 2017.",
+      "Mullin suggested investigators are examining wider questions of \"illegal activity\" regarding family migration, while chief of staff Connor McNutt rejected the claims as a \"ridiculous lie\" and accused critics of political motivations.",
+      "A DHS spokesperson stated that as a matter of policy, the department does not comment on ongoing investigations, adding, \"No one, including members of Congress, are above the law.\"",
+      "Under federal law, citizenship may be revoked if naturalization was illegally procured, but no charge against Omar has been identified; she became a United States citizen in 2000, nine years before her marriage to Elmi."
     ],
-    "title": "Trump Says He Could Settle UK-Argentina Dispute Over Falklands",
-    "topic": "US Foreign Policy",
-    "topic_full": "US Foreign Policy · United States"
+    "title": "Homan Confirms Criminal Investigation Involving Rep. Ilhan Omar",
+    "topic": "US Congress",
+    "topic_full": "US Congress · United States"
   },
   {
-    "article_path": "/article/surrogate-who-refused-abortion-asks-scotus-for-custody_ef0fd2",
-    "article_url": "https://ground.news/article/surrogate-who-refused-abortion-asks-scotus-for-custody_ef0fd2",
+    "article_path": "/article/a-christian-pastor-called-arapaho-ceremonies-idol-worship-now-the-tribe-wants-her-church-gone",
+    "article_url": "https://ground.news/article/a-christian-pastor-called-arapaho-ceremonies-idol-worship-now-the-tribe-wants-her-church-gone",
     "bias": [
-      "Left-Leaning coverage frames McKenna West’s appeal as a “high-profile custody fight” exposing the “messiness” and weak regulation of surrogacy, abortion , and fertility treatment, while right-leaning accounts portray her as trying to “save Baby Gabriel’s life” after the intended parents allegedly demanded an abortion, warning that the child’s “life hangs in the balance” and treatment could be halted.",
-      "Thus, “refused abortion” signals policy conflict on the left but pro-life heroism on the right; “nasty custody battle” intensifies that moral struggle.",
-      "Center coverage emphasizes a “medically fragile” infant and procedural rulings.",
-      "All highlight the heart defect, Supreme Court appeal, and parental-rights conflict, reflecting wider divides over abortion, medical authority, and regulation."
+      "The left-leaning framing foregrounds Indigenous cultural marginalization, noting that Arapaho ceremonies were labeled “idol worship” and situating the dispute within a reservation shared by the Northern Arapaho and Eastern Shoshone; center coverage adds a practical complication through Sarah Lucas’s claim that she owns the church property.",
+      "The right-leaning excerpt is substantially shorter, portraying a Christian church facing tribal opposition without developing the removal demand, ownership issue, or a distinct ideological argument; its headline’s “wants her church gone” may nevertheless evoke concerns about pressure on Christianity.",
+      "Across perspectives, Sunday gatherings and the charged language are shared, reflecting tensions over religious liberty, sovereignty, and cultural respect."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 38.0,
+    "error": null,
+    "left_pct": 56.0,
+    "location": "Wyoming",
+    "right_pct": 6.0,
+    "status": "ok",
+    "summary": [
+      "Every Sunday, protesters gather outside Foundations for Nations Church on the Wind River Reservation to demonstrate against Pastor Sarah Lucas after she condemned Arapaho ceremonies as spiritually misguided.",
+      "A video circulating in July captured Lucas preaching that traditional Arapaho sundance, sweat lodges, and cedar burning constitute \"idol worship.\" She has urged Native congregants to renounce these traditions for nine years.",
+      "The Northern Arapaho and Eastern Shoshone Tribes passed ordinances in July requiring religious groups to seek tribal approval before operating on the reservation. Lucas reports Sunday attendance has dropped by half from 150.",
+      "An Aug. 31 memo acknowledged \"jurisdictional limits\" likely prevent the council from regulating church activity on private land owned by Lucas, though tribal leaders say she is no longer welcome.",
+      "Gardner, a 28-year-old former congregant, associates Lucas's rhetoric with 19th-century assimilationist boarding schools, highlighting how the standoff tests religious freedom against tribal protocols on Wind River."
+    ],
+    "title": "Arapaho Tribe Seeks Removal of Church After Pastor Criticizes Tribal Ceremonies",
+    "topic": "Church",
+    "topic_full": "Church · Wyoming"
+  },
+  {
+    "article_path": "/article/some-democrats-are-recalibrating-their-approach-to-transgender-issues-as-they-seek-a-path-to-power",
+    "article_url": "https://ground.news/article/some-democrats-are-recalibrating-their-approach-to-transgender-issues-as-they-seek-a-path-to-power",
+    "bias": [
+      "Left-Leaning coverage frames Democrats’ shift as electoral “recalibrating,” criticizing retreat from “unflinching support” and emphasizing “Republican-backed attacks,” while noting Gavin Newsom’s discomfort aligning with Trump despite calling competition “deeply unfair.” Right-leaning coverage instead portrays leaders as “pushing back” or retreating from prior transgender policies, foregrounding political vulnerability while de-emphasizing Newsom’s reasoning and Republican pressure.",
+      "Center-Leaning accounts use qualified language—“some Democrats,” “recalibrating”—but still invoke a “path to power.” The key divide is whether sports policy reflects fairness concerns or partisan attacks and opportunism; all perspectives agree Democrats are modifying their stance amid electoral pressure."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 63.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "California",
+    "right_pct": 5.0,
+    "status": "ok",
+    "summary": [
+      "Democrats are increasingly distancing themselves from established positions on transgender athletic participation as Republicans target the issue in pivotal 2026 midterm races.",
+      "A political group backed by billionaire Donald Trump ally Elon Musk began running digital ads this week targeting Democratic candidates in Texas, Ohio, and Alaska, accusing them of allowing men to compete in women's sports.",
+      "Polling shows 55% of Democrats are uncomfortable with transgender athletes competing on teams matching their gender identity. California Gov. Gavin Newsom recently told The Associated Press he finds the situation \"deeply unfair.\"",
+      "Democratic Senate nominee James Talarico has distanced himself from previous stances on the issue. Meanwhile, Rep. Seth Moulton apologized for comments regarding transgender athletes after facing backlash from progressives.",
+      "The debate serves as a preview for the 2028 presidential election cycle."
+    ],
+    "title": "Some Democrats are recalibrating their approach to transgender issues as they seek a path to power",
+    "topic": "California Politics",
+    "topic_full": "California Politics · California"
+  },
+  {
+    "article_path": "/article/national-security-agency-launches-historic-restructuring_bc2241",
+    "article_url": "https://ground.news/article/national-security-agency-launches-historic-restructuring_bc2241",
+    "bias": [
+      "Left-Leaning coverage heightens disruption with terms such as “begging” and “massive overhaul,” while also highlighting former staff being encouraged to return; right-leaning coverage instead stresses a “major overhaul” centered on AI, China, cybersecurity, and “warfare,” giving the plan a more security-focused tone.",
+      "Center coverage is terser, emphasizing the five-unit structure and January 2027 implementation timeline.",
+      "Across perspectives, the restructuring is linked to Director Joshua M.",
+      "Rudd, described as the largest in roughly a decade, and organized around AI, China, cybersecurity, combat support, and global intelligence—shared details framed through differing concerns about institutional change versus national-security priorities."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 14.0,
+    "error": null,
+    "left_pct": 50.0,
+    "location": "United States",
+    "right_pct": 36.0,
+    "status": "ok",
+    "summary": [
+      "On September 13, 2026, National Security Agency Director Army Gen. Joshua M. Rudd proposed creating five new mission centers at Fort Meade dedicated to artificial intelligence, China, cybersecurity, combat support, and global intelligence.",
+      "The restructuring follows a joint advisory from the NSA, FBI, and Infrastructure Security Agency accusing six Chinese AI companies of malicious data distillation, signaling urgent strategic priorities around China and AI capabilities.",
+      "Each mission center will be led by a newly elevated \"mission director\" with deputy-like authorities; the elite Tailored Access Operations unit will fall under the global intelligence directorate.",
+      "Rudd told senior NSA officials that mission center heads might be selected from outside the agency, a prospect that has unnerved insiders given the director's unconventional Special Forces background.",
+      "Rollout is expected to begin in mid-October 2026, with officials targeting \"full operating capacity\" by mid-January 2027, representing an aggressive timeline compared to prior restructuring efforts."
+    ],
+    "title": "National Security Agency launches historic restructuring",
+    "topic": "National Security Agency (NSA)",
+    "topic_full": "National Security Agency (NSA) · United States"
+  },
+  {
+    "article_path": "/article/amazon-pauses-operations-with-21-air-after-miami-crash",
+    "article_url": "https://ground.news/article/amazon-pauses-operations-with-21-air-after-miami-crash",
+    "bias": [
+      "Coverage differs more in emphasis than explicit ideology: left-oriented reporting foregrounds the human toll and aftermath, using “fatal” and details of vehicles and fencing, while center coverage supplies incident mechanics—the Boeing 767, runway overrun, timing, and injuries—and alternates “pauses” with “tragic” or “deadly.” Right-oriented coverage de-emphasizes those details, favors the decisive “halts,” and uniquely highlights Amazon supporting the “investigation” and people “affected,” portraying institutional responsiveness.",
+      "None of the headlines clearly advances a distinct partisan doctrine.",
+      "Across perspectives, the shared frame is Amazon’s action after 21 Air’s crash and five deaths, with differences reflecting editorial priorities about suffering, explanation, or corporate conduct."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "Miami",
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, Amazon suspended its use of cargo carrier 21 Air following a fatal crash involving an Amazon-branded aircraft at Miami International Airport earlier this month that killed five people.",
+      "A 21 Air Boeing 767-300 overran Runway 30 at Miami International Airport, striking two vehicles and killing five people on the ground, including Yoel Rodriguez Naranjo, 53, and Carlos Acosta Fajardo, 53.",
+      "National Transportation Safety Board data revealed the aircraft was traveling too fast during landing, yet lacked a \"consistent verbal response to the comments about speed,\" with thrust increasing during a late go-around attempt.",
+      "Amazon spokesperson Kelly Nantel announced the operational pause after reviewing circumstances surrounding Flight 7598, noting the retailer will use other carriers including Sun Country Airlines and Hawaiian Airlines for shipments.",
+      "21 Air CEO Keith Winters stated the company remains focused on supporting those affected and cooperating with the NTSB as the investigation into the crash, which occurred while arriving from San Juan, Puerto Rico, continues."
+    ],
+    "title": "Amazon pauses operations with 21 Air after Miami cargo plane crash",
+    "topic": "Amazon",
+    "topic_full": "Amazon · Miami"
+  },
+  {
+    "article_path": "/article/german-soldiers-will-be-recruited-to-the-lithuanian-bundeswehr-brigade-on-a-mandatory-basis_a62ab0",
+    "article_url": "https://ground.news/article/german-soldiers-will-be-recruited-to-the-lithuanian-bundeswehr-brigade-on-a-mandatory-basis_a62ab0",
+    "bias": null,
+    "bias_bar_text": "L 20% Right 80%",
+    "center_pct": null,
+    "error": "Message: \n",
+    "left_pct": 20.0,
+    "location": null,
+    "right_pct": 80.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Germany to Send 1,000 Soldiers to Lithuania, 200 Under Mandatory Assignment",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/trump-jokes-don-jr-different-human-being-after-wedding",
+    "article_url": "https://ground.news/article/trump-jokes-don-jr-different-human-being-after-wedding",
+    "bias": [
+      "Left-Leaning coverage frames the Bahamas wedding as a possible influence story, using charged phrases such as “secretly bankrolled,” “Putin pal,” “oligarch,” and “explosive report,” while stressing lavish details and hundreds of thousands of dollars in expenses, including a private-island rental.",
+      "Center coverage condenses that emphasis to the reported financing and Russian connection.",
+      "Right-Leaning coverage de-emphasizes those allegations, instead portraying a family occasion through Trump’s humorous “rib” and the claim Don Jr. had “calmed down,” giving the episode a warmer, humanizing tone.",
+      "The pivotal divide is whether foreign-linked funding signals impropriety or is secondary to family context; both acknowledge the wedding’s prominence, reflecting broader disputes over Russia, elite influence, and partisan trust."
+    ],
+    "bias_bar_text": "Left 70% 10% R 20%",
+    "center_pct": null,
+    "error": null,
+    "left_pct": 70.0,
+    "location": null,
+    "right_pct": 20.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, ProPublica reported that Russian oligarch Umar Kremlev, head of the International Boxing Association, funded major expenses for Donald Trump Jr.'s Bahamas wedding in May.",
+      "Payments for the private island and $70,000 fireworks display came from a Dubai-based entity affiliated with the IBA, which relies on funding from Russian energy giant Gazprom.",
+      "A spokesperson for Trump Jr. did not dispute the payments, stating \"Umar is a personal friend\" and asserting Kremlev is \"not someone he has a business relationship with.\"",
+      "Former FBI counterintelligence official Holden Triplett warned that such financial ties provide intelligence services access to influential figures, stating \"Money is a tried-and-true method to gain access.\"",
+      "These revelations arrive as Trump Jr. exerts significant influence as his father's political adviser, raising questions about whether Kremlev sought to leverage access to the White House."
+    ],
+    "title": "Donald Trump Jr's Wedding Largely Paid For by Umar Kremlev",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/us-pilot-shot-down-over-iran-recalls-free-falling-in-first-interview-since-rescue",
+    "article_url": "https://ground.news/article/us-pilot-shot-down-over-iran-recalls-free-falling-in-first-interview-since-rescue",
+    "bias": [
+      "Left-Leaning coverage foregrounds individual suffering—“harrowing,” “brutal crash,” “broken back”—and casts the episode as a human survival story and “modern-day miracle.” Right-leaning coverage elevates Bravo into a “hero,” stressing “prayer,” “enemy manhunt,” “leave no man behind,” U.S. resolve, and reported participation by more than 90 service members, while linking the rescue to confrontation with Iran.",
+      "Center-Leaning accounts comparatively emphasize chronology, the second crew member’s earlier rescue, and the operation’s historical complexity.",
+      "All highlight the crash, injuries, roughly 48–50 hours evading capture, and rescue; their divergence reflects broader tensions over empathy versus patriotism, faith, and military power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 38.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
+    "right_pct": 35.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, a U.S. Air Force weapons systems officer identified as \"Bravo\" detailed his survival after his F-15E fighter jet was shot down over Iran in April, describing a harrowing parachute failure that left him stranded behind enemy lines for two days.",
+      "The aircrew, call sign \"Dude 44,\" was conducting an April 2 strike mission near Isfahan against facilities linked to Iran's drone and missile program when a shoulder-fired missile forced them to eject.",
+      "Bravo sustained a broken back, arm, and shoulder after hitting the ground at high speed, yet hiked a 7,000-foot ridgeline to evade detection by Iranian forces before U.S. special operations personnel rescued him 50 hours later.",
+      "Defense Secretary Pete Hegseth characterized the complex rescue operation, which involved hundreds of personnel from Army Delta Force and Navy SEAL Team Six, as a \"gun fight all the way in and all the way out.\"",
+      "CNN reported Saturday that Defense Secretary Hegseth and political appointees pushed for the crew's participation in the interview despite reservations from the military 's chain of command regarding classified rescue details."
+    ],
+    "title": "US pilot shot down over Iran recalls 'free-falling' in first interview since rescue",
+    "topic": "US Air Force",
+    "topic_full": "US Air Force · United States"
+  },
+  {
+    "article_path": "/article/trump-responds-to-lindsay-clancys-attorney-asking-for-pardon-theres-no-win-no-matter-what-three-children-are-dead-the-gateway-pundit",
+    "article_url": "https://ground.news/article/trump-responds-to-lindsay-clancys-attorney-asking-for-pardon-theres-no-win-no-matter-what-three-children-are-dead-the-gateway-pundit",
+    "bias": [
+      "Left-Leaning coverage frames the case chiefly as a tragedy, emphasizing “very sad situation” and “no win no matter what,” while de-emphasizing jurisdiction, mental-health allegations, and trial mechanics.",
+      "Center coverage stresses that Trump “closed the door” because it is a Massachusetts “state situation,” explaining limits on presidential intervention and calling the request “unusual.” Right-leaning accounts foreground the children’s deaths, the reported 11–1 hung jury, and postpartum psychosis, but use sharper labels such as “killer mom” and “stunned the nation,” while portraying Trump as someone who “laments” the victims.",
+      "All emphasize the mistrial, pardon plea, and shared tragedy, reflecting tensions over compassion, accountability, federalism, and mental-health defenses."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 31.0,
+    "error": null,
+    "left_pct": 23.0,
+    "location": "United States",
+    "right_pct": 46.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, President Donald Trump declined to intervene in the Lindsay Clancy murder case, stating the matter is \"actually a state situation, not a federal\" one. Trump noted there is \"no win no matter what\" because \"three children are dead.\"",
+      "Clancy, a 36-year-old former nurse accused of murdering her three children in 2023, faces a potential retrial after jurors deadlocked earlier this month. Judge William Sullivan declared a mistrial following defense arguments of postpartum psychosis.",
+      "Last week, defense attorney Kevin Reddington publicly requested a pardon for Clancy on 'Good Morning America,' citing her background and struggles. Reddington urged clemency, prompting Trump's response regarding his lack of authority over state-level prosecutions.",
+      "Trump dismissed the request, remarking that \"there's no winner there.\" He previously suggested during an Oval Office event that Clancy would \"ultimately pay\" for the deaths, whether through jail or a mental institution.",
+      "Plymouth District Attorney Timothy Cruz has not yet decided whether to retry the case, and Judge Sullivan scheduled a status hearing for September 29 at 9 a.m. to determine next legal steps. A retrial could begin as early as this fall."
+    ],
+    "title": "Trump Rejects Clancy Pardon Plea, Citing State Jurisdiction",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/china-builds-regulatory-framework-for-ai-escaping-human-control",
+    "article_url": "https://ground.news/article/china-builds-regulatory-framework-for-ai-escaping-human-control",
+    "bias": [
+      "Left-Leaning coverage emphasizes AI’s potential to threaten China’s political regime and portrays Beijing as warning about danger while “reject” U.S. calls to slow development, using charged phrases such as “escape human control” and “extinction of the human race.” Right-leaning coverage foregrounds geopolitical rivalry, “secret service” concerns, and a proposed “security barrier,” while portraying Beijing’s opposition to “fear-mongering” as resistance to alarmism amid a race to catch up with the United States.",
+      "Center coverage de-emphasizes regime politics, focusing instead on regulation and bilateral talks.",
+      "All perspectives stress catastrophic AI risks, human oversight, and intensifying U.S.-China competition."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 31.0,
+    "error": null,
+    "left_pct": 15.0,
+    "location": "China",
+    "right_pct": 54.0,
+    "status": "ok",
+    "summary": [
+      "The Cyberspace Administration of China issued expanded AI safety guidelines in May, mandating that developers address \"operational loss of control\" risks for autonomous agents and ensure users retain final decision-making authority.",
+      "Beijing's evolving regulatory framework, building on a September 2024 safety document, now explicitly guards against scenarios where AI might independently acquire resources or replicate itself, describing a potential \"AI breaking loose\" scenario.",
+      "Chinese State Security Minister Chen Yixin recently warned that advanced models from The United States, including Anthropic's Mythos and OpenAI's GPT-5, could pose infrastructure risks, while experts note open-weight models like GLM-5 assist forensic defense.",
+      "Sun Lei, China's deputy permanent representative to the United Nations, urged governments this month to approach military AI cautiously to avoid strategic miscalculation and an arms race.",
+      "These AI policies and industry practices are slated to feature prominently in bilateral talks later this month, as Beijing remains concerned about falling behind in the race to develop increasingly sophisticated artificial intelligence systems."
+    ],
+    "title": "China Builds Regulatory Framework for AI Escaping Human Control",
+    "topic": "Artificial Intelligence",
+    "topic_full": "Artificial Intelligence · China"
+  },
+  {
+    "article_path": "/article/trump-says-hell-consider-releasing-9-11-records-after-families-request_96b34d",
+    "article_url": "https://ground.news/article/trump-says-hell-consider-releasing-9-11-records-after-families-request_96b34d",
+    "bias": [
+      "Left-Leaning coverage frames the episode as Trump being “Confronted” and urged to “get tough” on Saudi Arabia, emphasizing pressure, an emotional widow’s appeal, and unresolved suspicion.",
+      "Right-Leaning coverage instead portrays him as valuing disclosure, advancing “transparency” and “accountability” amid a “long-running legal fight,” with families’ request lending him a responsive, principled image.",
+      "Center coverage adds context—15 hijackers were Saudi nationals, while Saudi Arabia denies involvement—and preserves uncertainty through “alleged” and “consider.” The pivotal divide is whether the moment signifies presidential accountability or political pressure; all agree Trump only promised to review records, not release them."
     ],
     "bias_bar_text": null,
     "center_pct": 62.0,
     "error": null,
-    "left_pct": 20.0,
-    "location": "Texas",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, surrogate McKenna West filed an emergency appeal to the Supreme Court, seeking custody of the 4-week-old child and challenging a California court order recognizing Omar Ahmed and Nausheen Gilkar as parents.",
-      "The boy was born with hypoplastic left heart syndrome, and West seeks custody, citing the couple's request for an abortion at 23 weeks and her belief they will not provide \"life-saving care.\"",
-      "During an Aug. 25 hearing in Dallas, Nausheen Gilkar called West \"mentally unstable\" and testified, \"Denying lifesaving care is not true,\" while a Texas court recognized the California judgment granting the couple custody.",
-      "According to the Cleveland Clinic, the infant requires a second surgery between 4 and 6 months of age, while West claims she has been dismissed from Texas proceedings and denied access to medical information.",
-      "The Supreme Court is not obliged to hear the case, and experts note that emergency relief in family disputes is rarely granted, though Texas Attorney General Ken Paxton previously obtained an order ensuring the boy received medical treatment."
-    ],
-    "title": "Surrogate Who Refused Abortion Asks SCOTUS for Custody",
-    "topic": "US Supreme Court",
-    "topic_full": "US Supreme Court · Texas"
-  },
-  {
-    "article_path": "/article/barack-obama-urges-democrats-to-prioritize-ai-oversight",
-    "article_url": "https://ground.news/article/barack-obama-urges-democrats-to-prioritize-ai-oversight",
-    "bias": [
-      "No distinct left-leaning framing is provided; the contrast is between center and right presentations.",
-      "Center coverage emphasizes Obama’s “caution,” “governance,” and AI’s rapid movement into “private hands,” portraying a broad Democratic policy challenge.",
-      "Right-Leaning coverage heightens urgency through “dangers,” “tougher rules,” “oversight,” and bringing AI “under control,” linking Obama’s warning to a wider regulatory push by lawmakers.",
-      "The pivotal divide is whether the story centers on agenda-setting or stronger government restraint.",
-      "Both perspectives stress that AI could become “dangerous” if unmanaged and that Democrats should act, reflecting shared concern over technological power, private control, and the need for political intervention."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 33.0,
-    "error": null,
-    "left_pct": 27.0,
+    "left_pct": 19.0,
     "location": "United States",
-    "right_pct": 40.0,
+    "right_pct": 19.0,
     "status": "ok",
     "summary": [
-      "On Thursday, former President Barack Obama warned that artificial intelligence could be \"dangerous\" if left unmanaged, urging Democrats to prioritize AI governance and incorporate it into future campaign agendas, according to the New York Times.",
-      "Obama told House Minority Leader Hakeem Jeffries that Democrats must establish a framework for public conversation if they regain the House, ensuring the party shapes the evolving AI policy landscape.",
-      "Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman, and Elon Musk urged companies to \"throttle back work\" on model capabilities Saturday, citing fears of AI misuse.",
-      "The former president argued 2028 candidates must present clear safety plans, as lawmakers increasingly seek regulations following reports of AI agents hacking external systems.",
-      "Addressing the fast-moving nature of AI development in private hands, Obama emphasized the need for regulatory action against technological advances that reportedly threaten human safety."
+      "On Sunday, President Donald Trump stated he would consider requests from relatives of 9/11 victims to declassify records regarding Saudi Arabia's alleged role in the attacks 25 years ago.",
+      "Terry Strada, who lost her husband Thomas Strada in the World Trade Center attacks, urged Trump on Friday at Ground Zero to demand answers from Saudi Arabia and release relevant records.",
+      "Fifteen of the 19 hijackers on 9/11 were citizens of Saudi Arabia, and the 9/11 Commission Report from 2004 noted the kingdom may have turned a blind eye to al-Qaeda fundraising.",
+      "President Trump has maintained close ties with Saudi leadership, recently approving a civilian nuclear enrichment program despite intelligence assessments linking MBS to the murder of journalist Jamal Khashoggi.",
+      "Relatives of 9/11 victims have been engaged in a lengthy legal battle against the Saudis, alleging that administration after administration chose to protect the kingdom instead of standing with the families."
     ],
-    "title": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
-    "topic": "Barack Obama",
-    "topic_full": "Barack Obama · United States"
+    "title": "Trump says he'll consider releasing 9/11 records after families' request",
+    "topic": "September 11 Attacks",
+    "topic_full": "September 11 Attacks · United States"
   },
   {
-    "article_path": "/article/kamala-harris-and-doug-emhoffs-los-angeles-home-targeted-in-trespass-incident_f34361",
-    "article_url": "https://ground.news/article/kamala-harris-and-doug-emhoffs-los-angeles-home-targeted-in-trespass-incident_f34361",
+    "article_path": "/article/china-state-newspaper-blasts-anthropics-calls-to-slow-ai-as-cold-war-tactic",
+    "article_url": "https://ground.news/article/china-state-newspaper-blasts-anthropics-calls-to-slow-ai-as-cold-war-tactic",
     "bias": [
-      "Left-Leaning coverage emphasizes an “illegal” entry and security stopping a “trespasser,” while largely de-emphasizing the police response; center coverage highlights officers arriving around 10:30 p.m. and the property’s reported $8 million value.",
-      "Right-Leaning framing heightens suspense with “mystery woman,” “twice,” “targeted,” and even “invader,” linking the incident to broader border contrasts.",
-      "Descriptions such as “cliffside home,” “ritzy,” and “mansion” foreground luxury without necessarily making the same political claim.",
-      "Across perspectives, security intercepted the woman before she reached the house, Harris and Emhoff were away, and law enforcement was notified."
+      "Left-Leaning coverage frames Amodei’s proposed AI slowdown chiefly as containment, highlighting Beijing’s claims of “fearmongering,” “vicious competition,” and a “Cold War script,” alongside China ’s stated preference for open, inclusive development.",
+      "Right-Leaning coverage instead casts it as an “arms-control framework” or “disarmament negotiations,” stressing national security, inspections, and U.S.-China rivalry while sometimes labeling opposing warnings “alarmism.” The pivotal divide is whether chip restrictions, anti-smuggling measures, and remote data-center controls represent safety policy or technological suppression.",
+      "Center coverage bridges these views, weighing “existential risks” against possible U.S. dominance.",
+      "All emphasize frontier-AI dangers and strategic competition, reflecting wider disputes over cooperation, containment, and global leadership."
     ],
-    "bias_bar_text": null,
-    "center_pct": 65.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": "Malibu",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "Security personnel stopped a woman who trespassed onto the Malibu property of Former Vice President Kamala Harris and Second Gentleman Doug Emhoff on Friday night. The couple was not present, according to spokesperson Eduardo Negr.",
-      "This incident renews scrutiny of Harris' Security after President Trump revoked extended Secret Service protection last year, leaving state and local agencies to coordinate coverage amid resource concerns.",
-      "Los Angeles County Sheriff deputies arrived around 10:30 p.m. after Onsite Security contacted them. The unidentified woman agreed to leave voluntarily, and Authorities confirmed no arrests were made.",
-      "Following the incident, watch commander Jason Duron said the Department is stepping up patrols around the Point Dume property. Harris and Emhoff expressed gratitude to Security and Law enforcement personnel who responded.",
-      "Harris' Security has faced previous scrutiny, including two arrests near the Brentwood residence in January 2025 for curfew violations during the Palisades Fire. These recurring incidents highlight ongoing protection challenges for the Former vice president."
-    ],
-    "title": "Deputies respond to trespasser reported at ex-Vice President Kamala Harris’ Malibu home",
-    "topic": "Kamala Harris",
-    "topic_full": "Kamala Harris · Malibu"
-  },
-  {
-    "article_path": "/article/alaska-drops-multiple-voter-misconduct-charges-after-courts-novel-interpretation-of-election-law",
-    "article_url": "https://ground.news/article/alaska-drops-multiple-voter-misconduct-charges-after-courts-novel-interpretation-of-election-law",
-    "bias": [
-      "Left-Leaning coverage foregrounds American Samoan residents and the consequences of “wrongly” checking the citizenship box, subtly evoking concerns about minority treatment, while right-leaning coverage stresses election integrity, “false sworn statement,” and accountability, portraying the court’s “novel interpretation” as potentially weakening enforcement.",
-      "Center coverage stays restrained, emphasizing that prosecutors followed the ruling.",
-      "The pivotal divide is whether an erroneous form entry warrants punishment or requires proof of conscious wrongdoing—an intent standard highlighted by center and right but de-emphasized on the left.",
-      "All perspectives agree cases were dropped after the appeals ruling, reflecting broader tensions over minority rights, judicial power, and election-law rigor."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 74.0,
-    "error": null,
-    "left_pct": 15.0,
-    "location": "Anchorage",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Alaska prosecutors dropped voter misconduct cases against 11 residents born in American Samoa after an appeals court overturned felony charges against Tupe Smith for claiming U.S. citizenship.",
-      "A three-judge Court of Appeals panel ruled the State must prove a defendant acted with \"consciousness of wrongdoing,\" citing flaws in the state trooper's questioning of Smith during her investigation.",
-      "Residents from Whittier, about 50 miles southeast of Anchorage, faced charges after relying on erroneous information, with Smith claiming city representatives told her marking herself as a citizen was appropriate.",
-      "Acting Alaska Attorney General Cori Mills stated prosecutors could not prove the cases beyond a reasonable doubt, while defense attorney Whitney Brown heralded the ruling as a safeguard against imposing felony liability for honest mistakes.",
-      "American Samoans are U.S. nationals but not automatically citizens, meaning they cannot participate in most U.S. elections; paths to citizenship exist but can be expensive and cumbersome."
-    ],
-    "title": "Alaska drops voter misconduct cases against American Samoans who checked ‘US citizen’ box",
-    "topic": "Alaska Politics",
-    "topic_full": "Alaska Politics · Anchorage"
-  },
-  {
-    "article_path": "/article/tesla-to-unveil-long-delayed-roadster-on-oct-1-musk-says",
-    "article_url": "https://ground.news/article/tesla-to-unveil-long-delayed-roadster-on-oct-1-musk-says",
-    "bias": [
-      "Left-Leaning coverage frames Tesla ’s October 1 Roadster reveal as an exciting milestone, using “teases,” “Go for launch,” and highlighting possible SpaceX technology while de-emphasizing production uncertainty.",
-      "Right-Leaning coverage stresses credibility concerns, describing “repeated delays,” “years of delays,” and nearly a decade since the 2017 announcement, while spotlighting reservations, unclear production timing, and a speculative “flying demo.” Center coverage is more event-focused, calling the car a “halo sports car” and noting Tesla will “finally” unveil it while qualifying thruster claims as possibilities.",
-      "All perspectives agree on the date, Musk’s role, and the Roadster’s electric performance identity, but their dividing line is whether the announcement signals innovation or renewed corporate hype."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 46.0,
-    "error": null,
-    "left_pct": 18.0,
-    "location": "Palo Alto",
-    "right_pct": 36.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, Tesla announced an October 1 reveal for the Tesla Roadster, posting a \"Go for launch\" teaser image showing the electric hypercar under rocket-launch lighting with the date stamped across it.",
-      "Nine years after the 2017 prototype, the vehicle arrives with promised SpaceX-developed cold gas thrusters designed to enable a \"flying\" demo, following years of delays and shifted production timelines.",
-      "Reservation holders, including OpenAI CEO Sam Altman, remain waiting after paying $50,000 for standard models or $250,000 for the Founders Series, with Altman saying \"7.5 years has felt like a long time to wait.\"",
-      "The demo functions as a commercial for the Tesla-SpaceX relationship, staged with SpaceX hardware to help Musk warm Wall Street toward a potential merger between the two companies.",
-      "Musk has acknowledged that production will not begin for another 12 or 18 months even after the October 1 reveal, meaning the announcement does not signal imminent customer availability."
-    ],
-    "title": "Tesla to unveil long-delayed Roadster on Oct. 1, Musk says",
-    "topic": "Tesla",
-    "topic_full": "Tesla · Palo Alto"
-  },
-  {
-    "article_path": "/article/openai-rules-out-ipo-this-year-as-altman-musk-and-amodei-warn-ai-is-moving-too-fast",
-    "article_url": "https://ground.news/article/openai-rules-out-ipo-this-year-as-altman-musk-and-amodei-warn-ai-is-moving-too-fast",
-    "bias": [
-      "Left-Leaning coverage frames the delayed IPO as evidence that “safety fears,” “doomsday AI scenarios,” and “unacceptable” extinction risks outweigh near-term market interests, urging restraint and regulation.",
-      "Right-Leaning coverage likewise stresses danger but uses sharper alarm language—“rogue,” “dangerous,” and even “killing everybody”—while portraying private status as protection from shareholder pressure and favoring industry coordination.",
-      "The pivotal divide is whether AI risk signals existential loss of human control or chiefly demands cautious governance.",
-      "Center coverage narrows the issue to Altman’s “ill-advised” timing, possible 2027 plans, and a confidential filing.",
-      "All emphasize no 2026 IPO and unfinished safety work, reflecting broader tensions over technology, markets, and control."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 34.0,
-    "error": null,
-    "left_pct": 31.0,
-    "location": "San Francisco",
-    "right_pct": 35.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, CEO Sam Altman confirmed that OpenAI will not launch an IPO in 2026, stating the company must prioritize safety and alignment work before considering a public listing.",
-      "Discussions between Altman and Anthropic CEO Dario Amodei regarding the necessity to \"pace the frontier\" prompted this decision, with both leaders agreeing they must slow AI model capability improvements.",
-      "\"Right now would be an ill-advised moment to go public,\" Altman told Fortune, while OpenAI CFO Sarah Friar previously told employees the company expects to be public in 2027 or sooner.",
-      "While OpenAI delays its listing, rival Anthropic is reportedly planning an IPO for November, just before U.S. midterm elections, as politicians from both parties increasingly call for new AI regulations.",
-      "Altman suggested OpenAI and other leading AI companies may soon announce a joint agreement to slow development and address safety risks, seeking to meet safety requirements before pursuing future public offerings."
-    ],
-    "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-    "topic": "OpenAI",
-    "topic_full": "OpenAI · San Francisco"
-  },
-  {
-    "article_path": "/article/former-epa-officials-warn-of-health-risks-from-us-data-center-surge_982d93",
-    "article_url": "https://ground.news/article/former-epa-officials-warn-of-health-risks-from-us-data-center-surge_982d93",
-    "bias": [
-      "The left frames data-center expansion as a regulatory failure, using charged phrases such as “endangering the public,” “hidden health costs,” and “giving data centers a pass to pollute,” while stressing fossil-fuel growth, AI-industry carveouts, and burdens shifted onto communities.",
-      "Center coverage adopts a measured tone, attributing concerns to more than 800 former EPA employees and saying expansion “could worsen” pollution and health risks.",
-      "Right-Leaning coverage is de-emphasized in the supplied analyses.",
-      "Both perspectives emphasize pollution, weakened oversight, and accelerated approvals, reflecting a broader divide over environmental regulation, industrial growth, and who bears the costs of technological development."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 33.0,
-    "error": null,
-    "left_pct": 67.0,
-    "location": "United States",
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Thursday, the Environmental Protection Network, a nonprofit of former Environmental Protection Agency staff, released a report warning that rapid data center expansion poses significant air pollution and public health risks.",
-      "President Donald Trump's administration has rolled back environmental regulations and implemented an \"AI Action Plan\" to expedite data center permitting while reducing Clean Air Act oversight for energy projects.",
-      "Research cited in the report estimates data center-related air pollution could contribute to roughly 600,000 asthma symptom cases and up to 1,300 premature deaths, imposing more than $20 billion in annual public health costs by 2028.",
-      "Dr. Lynn Goldman, a pediatrician and former EPA assistant administrator, warned that the federal agency is \"doing the opposite\" of its mission by prioritizing industry needs over critical pollution safeguards.",
-      "Lawmakers including Bernie Sanders introduced the Artificial Intelligence Data Center Moratorium Act, while polling shows 68% of likely voters support pausing development until strong safeguards exist."
-    ],
-    "title": "Former EPA officials warn of health risks from US data center surge",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/anthropic-says-it-blocked-state-sponsored-attempts-to-use-claude-for-bioweapons-research_413d31",
-    "article_url": "https://ground.news/article/anthropic-says-it-blocked-state-sponsored-attempts-to-use-claude-for-bioweapons-research_413d31",
-    "bias": null,
     "bias_bar_text": null,
     "center_pct": 41.0,
     "error": null,
-    "left_pct": 30.0,
-    "location": "United States",
-    "right_pct": 29.0,
-    "status": "no_change",
+    "left_pct": 24.0,
+    "location": "China",
+    "right_pct": 35.0,
+    "status": "ok",
     "summary": [
-      "Anthropic published a threat intelligence report on Thursday detailing the disruption of attempts to use Claude for biological weapons research, alongside cyberattacks, propaganda, and conventional weapons development.",
-      "The company documented five cases where researchers attempted to use Claude for work with potential biological weapons implications, including research intended for a military research institute discovered in May 2026.",
-      "Beyond biological threats, Anthropic identified actors using Claude for cyberattacks, surveillance, and propaganda campaigns, demonstrating how AI accessibility now enables less skilled individuals to execute sophisticated operations.",
-      "Anthropic banned the involved accounts, shared intelligence with authorities and industry partners, and tightened safeguards, though it cannot concretely demonstrate the users intended to cause harm.",
-      "Microbiologist Susan Monarez warns that the same scientific knowledge supporting vaccine development could enable dangerous pathogen engineering, creating a persistent dual-use dilemma for frontier AI safety."
+      "On Saturday, Anthropic CEO Dario Amodei published an essay proposing an arms-control-style framework to slow frontier AI development, urging international cooperation with China and introducing third-party reviewers to manage escalating safety risks.",
+      "Amodei warned that AI 'agents' could take control of the internet within 6 to 12 months unless researchers agreed to slow down, arguing that global pacing is necessary to prevent runaway risks while maintaining a U.S. edge over authoritarian regimes.",
+      "OpenAI CEO Sam Altman and SpaceX founder Elon Musk endorsed the proposal, while President Donald Trump rebuffed calls to slow down on Sunday, saying \"whoever wins AI, wins.\"",
+      "Chinese state media dismissed the plan as a \"Cold War playbook\" targeting China's technological development, while the Ministry of Foreign Affairs urged all parties to \"promote an open, inclusive and benevolent approach\" to global AI governance.",
+      "Frontier AI safety risks are expected to surface during the September 24 summit between Trump and Xi Jinping, though experts remain skeptical that the two nations will reach regulatory cooperation on development pacing."
     ],
-    "title": "Anthropic disrupts bioweapons research efforts, Russian hacking, Chinese Claude misuse",
-    "topic": "Anthropic",
-    "topic_full": "Anthropic · United States"
+    "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic",
+    "topic": "China Politics",
+    "topic_full": "China Politics · China"
   },
   {
-    "article_path": "/article/elena-rybakina-stuns-aryna-sabalenka-to-claim-us-open-title-and-world-no-1-ranking_d438e0",
-    "article_url": "https://ground.news/article/elena-rybakina-stuns-aryna-sabalenka-to-claim-us-open-title-and-world-no-1-ranking_d438e0",
+    "article_path": "/article/ai-stocks-slide-after-major-ceos-unite-to-urge-slowdown_20e2e9",
+    "article_url": "https://ground.news/article/ai-stocks-slide-after-major-ceos-unite-to-urge-slowdown_20e2e9",
     "bias": [
-      "Left-Leaning coverage celebrates Rybakina’s historic rise, new No. 1 status, and first Kazakhstani U.S. Open title, using triumphant language such as “dethrones,” “ruthless,” and “new queen,” while framing Sabalenka’s outbursts as pressure from chasing a three-peat.",
-      "Right-Leaning coverage likewise depicts a “changing of the guard,” but intensifies conflict through “desperate,” “demons,” “punished,” and even “suspicious,” scrutinizing Sabalenka’s emotions and Rybakina’s reserve.",
-      "Center coverage de-emphasizes psychological drama, foregrounding the 6-4, 5-7, 6-2 result and rankings.",
-      "All agree on Rybakina’s victory, No. 1 ascent, and Sabalenka’s dethroning, reflecting broader divides over celebration, discipline, and personality."
+      "Left-Leaning coverage foregrounds AI safety, framing executive warnings about “threats to humanity” as the main cause of falling shares; right-leaning coverage counters with “doomsday scenarios,” “extinction fears,” and “crash,” stressing skepticism, investor returns, Trump’s resistance to tighter limits, Musk’s support for slowing development, and a possible OpenAI IPO postponement.",
+      "It also highlights SoftBank’s roughly $11.87 billion loan, portraying deceleration as a debt-backed financial risk.",
+      "Center coverage situates the selloff—SoftBank down over 10%—within wider “turbulence” involving oil and interest rates.",
+      "All emphasize executive warnings and market weakness, but divide over safety, regulation, and financial exposure."
     ],
     "bias_bar_text": null,
     "center_pct": 44.0,
     "error": null,
-    "left_pct": 28.0,
+    "left_pct": 26.0,
     "location": "United States",
-    "right_pct": 28.0,
+    "right_pct": 30.0,
     "status": "ok",
     "summary": [
-      "On Saturday, Elena Rybakina defeated Aryna Sabalenka 6-4, 5-7, 6-2 at Arthur Ashe Stadium to claim her first U.S. Open title and third career Grand Slam championship.",
-      "This victory ends Sabalenka's 99-week reign atop the WTA Tour rankings. Rybakina will officially replace her as world No. 1 on Monday, marking the first time the Kazakhstani player reaches the sport's top position.",
-      "Rybakina earned $5.5 million, the largest prize in Grand Slam history, after edging Sabalenka 12-6 in aces. She closed the match with a 110-mph ace and committed 24 unforced errors compared to Sabalenka's 35.",
-      "Sabalenka's loss denied her a rare New York 'three-peat,' a feat achieved only by Chris Evert and Serena Williams in the Open Era. Visibly frustrated, she smashed her racket after the match.",
-      "This 18th career meeting underscores intense competitive parity between the pair, whom coach Max Mirnyi called the 'two best players' in women's tennis. Their dominance signals a defining rivalry for the sport's remaining events."
+      "SoftBank Group secured an $11.87 billion loan to support its investment in OpenAI, exceeding its original $10 billion target, according to people familiar with the matter.",
+      "The Japanese conglomerate is slated to invest close to $65 billion in OpenAI by October, while simultaneously repaying a $40 billion loan it obtained earlier this year.",
+      "Shares of SoftBank plummeted 11.2% on Monday after OpenAI Chief Executive Officer Sam Altman and Anthropic CEO Dario Amodei called for slower AI development to ensure safety.",
+      "In a Fortune interview published Saturday, Altman confirmed OpenAI will not proceed with an initial public offering this year, citing safety-related concerns as the primary reason.",
+      "SoftBank faces investor concerns regarding growing credit risks in the artificial intelligence sector while considering a bond sale of up to $20 billion, Morningstar researcher Dan Baker said."
     ],
-    "title": "Elena Rybakina Stuns Aryna Sabalenka to Claim U.S. Open Title and World No. 1 Ranking",
-    "topic": "US Open",
-    "topic_full": "US Open · United States"
+    "title": "AI stocks slide after major CEOs unite to urge slowdown",
+    "topic": "Stock Markets",
+    "topic_full": "Stock Markets · United States"
   },
   {
-    "article_path": "/article/court-blocks-opm-loyalty-question-from-use-in-agency-job-applications",
-    "article_url": "https://ground.news/article/court-blocks-opm-loyalty-question-from-use-in-agency-job-applications",
+    "article_path": "/article/us-hosts-g20-energy-talks-in-texas-as-iran-war-disrupts-global-fuel-markets_0f86f5",
+    "article_url": "https://ground.news/article/us-hosts-g20-energy-talks-in-texas-as-iran-war-disrupts-global-fuel-markets_0f86f5",
     "bias": [
-      "Left-Leaning coverage frames the application prompt as a “partisan” loyalty test and even “blatantly illegal,” emphasizing unions ’ rejection of presidential allegiance requirements and examples spanning air-traffic specialists to nuclear couriers.",
-      "Right-Leaning coverage instead spotlights a “jolt to Trump,” portraying the ruling as an administrative setback while stressing that government has “no legitimate basis” to probe applicants’ political views.",
-      "The pivotal divide is whether the question represents ideological coercion or an impermissible inquiry into policy support; center coverage de-emphasizes those judgments, calling it a procedural “pause.” All perspectives emphasize Judge O’Toole’s block, the unions’ lawsuit, and the broader clash over politicized civil service."
+      "Left-Leaning coverage frames the Houston G20 talks through “plethora of energy ,” “war shock,” rising fuel prices, and political pressure on Washington, emphasizing disruption’s domestic costs.",
+      "Right-Leaning coverage stresses “energy abundance,” “soaring oil prices,” and “controversy” over Russia’s attendance, foregrounding supply and geopolitical tension while de-emphasizing domestic pressure.",
+      "Center coverage bridges these frames, describing market disruption and “Trump’s war against Iran,” while detailing delegations from China, India, Japan, Germany, Canada, and Saudi Arabia and identifying Russia’s finance minister Anton Siluanov as an unexpected participant.",
+      "Across perspectives, Houston, energy abundance, the Iran conflict, and strained energy markets remain shared focal points."
     ],
     "bias_bar_text": null,
-    "center_pct": 39.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "United States",
-    "right_pct": 28.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, District Judge George O'Toole blocked President Donald Trump 's administration from requiring civil service job applicants to answer a 'loyalty question' in an Office of Personnel Management directive.",
-      "The administration implemented this requirement in May 2025 as part of the Merit Hiring Plan, prompting three unions representing government workers to sue, arguing the mandate unlawfully politicized hiring by assessing support for the Republican president.",
-      "O'Toole ruled the policy likely violates the Administrative Procedure Act and First Amendment speech rights, noting that over 70,000 federal job postings included the question, which applicants reasonably interpreted as a test of their political views.",
-      "Under the court's order, OPM must notify all federal agencies within seven days to halt the question's use, with AFGE National President Everett Kelley praising the ruling as a 'blatantly illegal attempt to hire partisan cronies.'",
-      "Although the agency previously defended the essay as optional, the stay remains in effect until further court orders, as unions maintain that merit-based hiring is essential to a professional, nonpartisan federal workforce serving the American people."
-    ],
-    "title": "US judge blocks Trump administration's 'loyalty' question for job applicants",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/trump-says-he-would-allow-chinese-automakers-to-build-cars-in-us_c9fa00",
-    "article_url": "https://ground.news/article/trump-says-he-would-allow-chinese-automakers-to-build-cars-in-us_c9fa00",
-    "bias": [
-      "Left-Leaning coverage frames Trump’s proposal as “sharply” reaching out to China and a possible concession before Xi’s visit, stressing opposition from lawmakers and U.S. automakers.",
-      "Right-Leaning coverage portrays a “surprise move” that could attract Chinese investment and American jobs, emphasizing conditions requiring “American workers,” national-security restrictions, and the distinction between U.S. plants and Mexican imports; “blockade” casts import limits as protective.",
-      "Center coverage presents an “open door” while foregrounding tariffs, data-security rules, and union opposition.",
-      "All perspectives acknowledge restricted finished-vehicle imports, conditional domestic production, and resistance—revealing tensions over China, economic nationalism, security, and employment."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 34.0,
-    "error": null,
-    "left_pct": 22.0,
-    "location": "United States",
-    "right_pct": 44.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, President Donald Trump said he would not oppose Chinese automakers building cars in the United States, provided they use American workers while maintaining the ban on imported finished vehicles from China.",
-      "Regulations imposed by President Joe Biden in early 2025 effectively prohibit Chinese automakers from selling or building vehicles in the United States. The United States maintains tariffs exceeding 100% on Chinese EVs, reinforcing market exclusion.",
-      "The Alliance, representing Automotive Innovation companies including Ford, Toyota, and General Motors, urged Congress last week to pass legislation permanently barring Chinese vehicles. CEO John Bozzella warned that automakers are \"dumping subsidized vehicles\" globally.",
-      "This week, Michigan Democrat Senator Elissa Slotkin cited rumors that Trump is planning to allow Chinese cars to be sold in the United States. Trump dismissed the report as a \"total phony rumor,\" affirming his commitment to keeping Chinese vehicles out.",
-      "As Trump prepares to meet Chinese President Jinping in Washington in two weeks, industry executives worry about potential concessions. Chinese companies like BYD and Geely Automobile Holdings are expanding in Canada and Mexico, raising concerns about future United States market access."
-    ],
-    "title": "Trump says he would allow Chinese automakers to build cars in US",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/college-gameday-interviews-ted-cruz-in-latest-political-advocacy",
-    "article_url": "https://ground.news/article/college-gameday-interviews-ted-cruz-in-latest-political-advocacy",
-    "bias": [
-      "Left-Leaning coverage frames Ted Cruz ’s appearance as political intrusion and public humiliation, using terms such as “you suck,” “humiliated,” “merciless,” and “controversial act.” Right-leaning coverage instead stresses the booing’s practical force—Cruz was “nearly drowned out”—and the awkwardness of a “cameo” linking college football to politics, while de-emphasizing legislative context.",
-      "Center coverage situates the roughly 10-minute advocacy appearance within recurring College GameDay activism, noting Nick Saban and Pat McAfee’s prior support and the bill’s stalled status; legislation is inconsistently named the Protect College Sports Act or Save College Sports Act.",
-      "All perspectives emphasize loud, sustained heckling."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 50.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "Texas",
-    "right_pct": 25.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, Republican Senator Ted Cruz appeared on ESPN's College GameDay in Austin to discuss the Protect College Sports Act ahead of the Texas-Ohio State game.",
-      "Co-Authored by Ted Cruz and Maria Cantwell, the bipartisan Protect College Sports Act aims to regulate NIL agreements, transfer portal usage, and agent fees capping them at 5 percent.",
-      "Throughout the nearly 10-minute interview with Rece Davis, the crowd at Texas Memorial Stadium heavily booed Cruz, repeatedly chanting, \"Ted, you suck!\" during his segment.",
-      "Media observers criticized ESPN for providing an unopposed platform, noting College GameDay featured advocates Nick Saban and Pat McAfee without presenting opposing viewpoints.",
-      "As a congressional vote approaches, critics including Senator Chris Murphy oppose the bill, warning that antitrust exemptions and earnings caps could harm athletes."
-    ],
-    "title": "Cruz met with jeers on ESPN’s College Gameday during appearance advocating for Senate college sports bill",
-    "topic": "Ted Cruz",
-    "topic_full": "Ted Cruz · Texas"
-  },
-  {
-    "article_path": "/article/graham-agrees-to-debate-andrews",
-    "article_url": "https://ground.news/article/graham-agrees-to-debate-andrews",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 66.0,
-    "error": "Message: \n",
-    "left_pct": 7.0,
-    "location": "United States",
-    "right_pct": 27.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Graham accepts debate with Andrews after challenger pushes for more",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/larry-ellison-cancels-plan-to-sell-oracle-stock",
-    "article_url": "https://ground.news/article/larry-ellison-cancels-plan-to-sell-oracle-stock",
-    "bias": [
-      "The left-leaning framing magnifies the proposed sale’s scale—up to 50 million shares or $7.5 billion—and foregrounds Ellison as the “world’s seventh-richest person,” while explaining the Rule 10b5-1 safe harbor and its regulatory significance.",
-      "Right-Leaning coverage de-emphasizes wealth and legal context, presenting “canceled” as a straightforward corporate update without partisan language or speculation.",
-      "Center coverage instead broadens the lens, using phrases like “fortune soaring” and “influence expanded” to connect Oracle ’s AI strategy, philanthropy, and public profile.",
-      "The key divide is whether the episode signifies concentrated wealth and regulatory questions or merely a transaction reversal; all perspectives agree no shares were sold and the reason remains unexplained."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 82.0,
+    "center_pct": 55.0,
     "error": null,
     "left_pct": 9.0,
-    "location": "United States",
-    "right_pct": 9.0,
+    "location": "Houston",
+    "right_pct": 36.0,
     "status": "ok",
     "summary": [
-      "Oracle co-founder and chairman Larry Ellison adopted a plan to sell up to $7.5 billion in stock, according to a regulatory filing published Friday.",
-      "Historically, Ellison has never sold more than 25,000 Oracle shares at any given time, according to FactSet; the June 22 trading plan represents a significant departure from his approach.",
-      "Boosted by 121% year-over-year growth in cloud infrastructure revenue, Oracle exceeded earnings estimates on Thursday, though investors have pushed the stock down roughly 20% this year.",
-      "Controlling over 40% of Oracle, Ellison would still own 1.1 billion shares if he executes the full sale, while institutional investors remain concerned about the balance sheet.",
-      "Ellison, the world's seventh-richest person, helped finance the 2025 merger of his son David Ellison's production company, Skydance, with Paramount, positioning him to liquidate holdings for other ventures."
+      "On Monday, the United States kicked off G20 meetings in Houston, Texas, touting \" energy abundance\" even as President Donald Trump's war against Iran continues to disrupt global fuel markets.",
+      "Oil and gas prices have surged amid the Middle East war, with regular gasoline 44 percent more expensive and diesel averaging $6.20 per gallon, according to the American Automobile Association.",
+      "Delegations from major economies including China, India, Japan, Germany, Canada, and Saudi Arabia are participating, while Russian diplomats confirmed Saturday that Moscow would also send officials.",
+      "Energy Secretary Chris Wright and Interior Secretary Doug Burgum are attending to address energy access, though global supplies remain impacted by February attacks on Iran by the US and Israel.",
+      "Amid Republican Party fears of midterm election defeats, Trump recently accused Ukrainian President Volodymyr Zelensky of causing diesel shortages, claiming the war would end \"immediately\" after the November election."
     ],
-    "title": "Larry Ellison cancels plan to sell Oracle stock",
-    "topic": "Oracle",
-    "topic_full": "Oracle · United States"
+    "title": "US hosts G20 energy talks in Texas as Iran war disrupts global fuel markets",
+    "topic": "G20 Summit",
+    "topic_full": "G20 Summit · Houston"
   },
   {
-    "article_path": "/article/police-say-more-arrests-coming-in-death-of-mississippi-woman-found-hanging-from-tree",
-    "article_url": "https://ground.news/article/police-say-more-arrests-coming-in-death-of-mississippi-woman-found-hanging-from-tree",
+    "article_path": "/article/exclusive-inside-hegseths-push-to-showcase-a-dramatic-iran-rescue-on-60-minutes_7abd02",
+    "article_url": "https://ground.news/article/exclusive-inside-hegseths-push-to-showcase-a-dramatic-iran-rescue-on-60-minutes_7abd02",
     "bias": [
-      "Left-Leaning coverage foregrounds Tasia Fortune’s name, identity as a Black woman, and the stark phrase “hanging from a tree,” a vivid emphasis that may invite heightened public attention without explicitly assigning motive or blame.",
-      "Right-Leaning coverage de-emphasizes those details, instead using “homicide” and stressing police action and “more arrests,” a limited law-and-order frame.",
-      "Center coverage adds humanizing descriptions—“mother,” “athlete,” and “woman of faith”—while retaining investigative caution.",
-      "Across perspectives, authorities report an arrest, anticipate further arrests, and continue investigating; the key divide is which details receive prominence and how the case is emotionally and legally characterized."
+      "Left-Leaning coverage frames Hegseth’s role as a “pressure campaign” and “secret push exposed,” stressing alleged coercion, classified-information concerns, and questions about media independence; the Pentagon’s denial receives attention but skepticism.",
+      "Right-Leaning accounts foreground the “dramatic” rescue, survival behind enemy lines, and military heroism, using phrases like “forced,” “unbelievable tale of survival,” and “most terrifying thing I’ve ever seen,” while de-emphasizing security concerns.",
+      "Center coverage presents competing claims—“pressed” versus invited—more cautiously.",
+      "All acknowledge the downed F-15 crew, rescue, and disputed participation, but their emphases reflect broader divides over government power, journalism, national security, and patriotic storytelling."
     ],
     "bias_bar_text": null,
-    "center_pct": 35.0,
+    "center_pct": 60.0,
     "error": null,
-    "left_pct": 41.0,
-    "location": "Mississippi",
-    "right_pct": 24.0,
+    "left_pct": 30.0,
+    "location": "United States",
+    "right_pct": 10.0,
     "status": "ok",
     "summary": [
-      "On Friday, police arrested 51-year-old Jarques Ratliff in connection with the murder of Tasia Fortune, a Black woman found hanging from a tree last month in Jackson.",
-      "The state medical examiner's office determined Thursday evening that the death was a homicide, allowing police to execute existing warrants they had prepared.",
-      "Ratliff remains jailed on a murder charge after authorities encountered him walking on the street; Chief Brackney said Ratliff had an \"association\" with Fortune but declined to elaborate.",
-      "Fortune, a mother of four, had lived in Jackson for 10 years after moving from Kentucky; she struggled with homelessness in recent years despite her deep religious faith.",
-      "Following the arrest, Spivey, Fortune's mother, expressed gratitude to police, stating, \"I just started crying and told them thank you, thank you, thank you.\" She previously insisted her daughter would not have taken her own life."
+      "Defense Secretary Pete Hegseth and political appointees pressured two F-15 crew members shot down over Iran to participate in Sunday's '60 Minutes' report about their rescue operation.",
+      "CBS News Editor-in-Chief Bari Weiss personally lobbied Hegseth for exclusive access soon after the rescue, telling her newsroom the bookings were 'top priorities' as the network sought impactful reports.",
+      "Military officials voiced concerns that the presentation risked disclosing classified rescue tactics, while uniformed service members suggested the Defense Department was using the mission for political purposes.",
+      "After Hegseth met privately with the airmen, one pilot dubbed 'Bravo' agreed to the interview while the other, 'Alpha,' declined; Chief Pentagon Spokesman Sean Parnell stated each pilot's decision was their own.",
+      "Hegseth granted a rare interview for the broadcast airing Sunday, as the segment provides an inside story of the rescue amid pressure on the Secretary to craft a narrative around the unpopular Iran war."
     ],
-    "title": "Police say more arrests coming in death of Mississippi woman found hanging from tree",
-    "topic": "Police",
-    "topic_full": "Police · Mississippi"
+    "title": "Hegseth, Pentagon pressured F-15 crew to appear in '60 Minutes' Iran rescue story, CNN reports",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/shahidan-and-13-injured-by-israeli-shelling-of-a-vehicle-in-the-tel-hawa-neighbourhood-south-of-gaza-city-al-sharuk-gate",
-    "article_url": "https://ground.news/article/shahidan-and-13-injured-by-israeli-shelling-of-a-vehicle-in-the-tel-hawa-neighbourhood-south-of-gaza-city-al-sharuk-gate",
+    "article_path": "/article/us-epa-poised-to-repeal-carbon-standards-for-gas-coal-power-plants-bloomberg-news-reports_4ca6c4",
+    "article_url": "https://ground.news/article/us-epa-poised-to-repeal-carbon-standards-for-gas-coal-power-plants-bloomberg-news-reports_4ca6c4",
     "bias": [
-      "Left-Leaning coverage foregrounds Palestinian suffering, using terms like “Israeli attack,” “persist,” and “mangled,” while linking the deaths to alleged ceasefire violations; right-leaning accounts similarly stress “violations” but sharpen the portrayal by calling the target a “civilian vehicle,” emphasizing noncombatant harm.",
-      "Center coverage is narrower, attributing two deaths and 13 injuries to medical sources while presenting the Israeli claim that the car contained “Hamas terrorists.” The pivotal divide is therefore whether the vehicle is framed as civilian or militant and whether the strike is treated as an isolated event or ceasefire breach.",
-      "All perspectives acknowledge the strike and two deaths, reflecting the broader conflict over security, civilian protection, and competing narratives of accountability."
+      "Left-Leaning coverage frames the expected EPA repeal as a dangerous climate rollback, using terms like “axe,” “planet-warming pollution,” and “erasure,” while foregrounding environmental consequences and Trump’s “hoax” characterization of human-caused climate change.",
+      "Right-Leaning coverage instead portrays it as dismantling “Biden’s environmental policy,” “scrapping restrictions,” and removing unnecessary barriers to energy production, de-emphasizing climate risks while emphasizing regulatory reversal.",
+      "Center coverage softens the conflict through “poised,” attribution, and procedural uncertainty.",
+      "The pivotal divide is whether carbon standards are safeguards against pollution or constraints on fossil-fuel energy; all perspectives agree the proposed action reverses Biden-era rules and remains reported rather than finalized, reflecting broader climate, regulatory, and partisan divides."
     ],
-    "bias_bar_text": "Left 25% Center 42% Right 33%",
-    "center_pct": 42.0,
+    "bias_bar_text": null,
+    "center_pct": 43.0,
     "error": null,
-    "left_pct": 25.0,
-    "location": null,
-    "right_pct": 33.0,
+    "left_pct": 18.0,
+    "location": "United States",
+    "right_pct": 39.0,
     "status": "ok",
     "summary": [
-      "On Sunday, an Israeli airstrike in the Tel Al-Hawa neighbourhood of Gaza City killed two Palestinians and wounded 13 others, according to local medical staff; footage showed the vehicle left mangled.",
-      "The IDF stated the strike targeted two Hamas militants without providing further information, though the action occurs despite an October 2025 US-backed ceasefire aimed at halting large-scale fighting.",
-      "More than 1,300 Palestinians, mostly civilians, have been killed in Gaza since the ceasefire took effect, while the Israeli military reports four Israeli soldiers have died during the same period.",
-      "Hamas accuses Israel of violating the ceasefire and undermining President Donald Trump's broader plan to end the conflict, which includes Israeli withdrawal from the Gaza Strip and Hamas disarmament.",
-      "Local medical staff urged the public to provide information identifying the two victims, whose bodies were dismembered by the explosion; Hamas typically does not disclose information about fatalities among its fighters."
+      "The Environmental Protection Agency is expected to formally rescind carbon pollution standards for fossil fuel-fired power plants today, Sept 14, coinciding with the G20 energy ministers' meeting in Houston, Texas.",
+      "Agency officials are finalizing a proposal to scrap mandates from the Biden era that required fossil fuel-fired power plants to deploy emissions-reduction technologies.",
+      "Power plants represent the largest industrial source of greenhouse gas emissions, and rules from President Joe Biden were designed to reduce greenhouse gas emissions by 1 billion metric tonnes.",
+      "Officials also plan to propose a separate rule repealing the federal finding that greenhouse gases from power plants specifically pose a threat under the Clean Air Act.",
+      "Earlier, the EPA rescinded similar climate standards for vehicles and the 2009 endangerment finding, a landmark ruling which held that greenhouse gases threaten human health, following previous rollbacks under Trump."
     ],
-    "title": "Israeli strike kills two people in Gaza, medics say",
+    "title": "US EPA poised to repeal carbon standards for gas, coal power plants, Bloomberg News reports",
+    "topic": "Environment",
+    "topic_full": "Environment · United States"
+  },
+  {
+    "article_path": "/article/trump-criticizes-aoc-and-mamdani-over-apparent-laughter-at-9-11-memorial-ceremony_22864a",
+    "article_url": "https://ground.news/article/trump-criticizes-aoc-and-mamdani-over-apparent-laughter-at-9-11-memorial-ceremony_22864a",
+    "bias": [
+      "Left-Leaning coverage frames the four-second clip as a “cordial greeting” “taken out of context,” calling Republican criticism a “smear” and emphasizing witnesses who dispute that laughter occurred during the name-reading.",
+      "Right-Leaning coverage foregrounds “laughing” alongside grieving families, using terms such as “sacred,” “disrespectful,” “yukking it up,” and “slap in the face,” while expanding the episode into criticism of socialism, Islamism, and Mamdani’s attendance.",
+      "Center coverage stresses ambiguity and “backlash.” The pivotal divide is whether the clip proves disrespect or reflects missing context; all sides acknowledge the video, ceremony, criticism, and resulting controversy, reflecting broader partisan battles over 9/11 memory and progressive identity."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 31.0,
+    "error": null,
+    "left_pct": 12.0,
+    "location": "United States",
+    "right_pct": 57.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, President Donald Trump criticized New York City Mayor Zohran Mamdani and Rep. Alexandria Ocasio-Cortez after video showed them appearing to smile during Friday's 9/11 memorial ceremony at Ground Zero, calling the footage \"terrible.\"",
+      "Video recorded during Friday's 25th anniversary memorial shows Mamdani and Ocasio-Cortez speaking and appearing to smile while names of Sept. 11 victims were read aloud, sparking immediate online criticism.",
+      "Rep. Wesley Hunt, R-Texas, called Ground Zero \"sacred ground\" and argued the memorial was inappropriate for political interaction. New York City Councilwoman Inna Vernikov also condemned the exchange.",
+      "Ragusa, who served in Mayor Rudy Giuliani's entourage, disputed the characterization, stating the footage captured a greeting and noting other Republicans and Democrats were interacting nearby.",
+      "The ceremony honored nearly 3,000 people killed in the 2001 attacks. Despite a petition and Mayor Rudy Giuliani urging him not to attend, Mamdani remained at the service."
+    ],
+    "title": "Trump Criticizes AOC and Mamdani Over Apparent Laughter at 9/11 Memorial Ceremony",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/john-cornyn-rips-gop-for-silence-on-bo-french-post_f8975d",
+    "article_url": "https://ground.news/article/john-cornyn-rips-gop-for-silence-on-bo-french-post_f8975d",
+    "bias": [
+      "Left-Leaning coverage frames Bo French’s post as “racist,” “intolerant,” and a test of Republican accountability, stressing Cornyn’s rebuke, multiple condemnations, and the party’s potential to “self-destruct” through silence.",
+      "Center coverage focuses more narrowly on the disputed image and claim that Asian students or “foreigners” represented Americans being displaced, describing the resulting “backlash” and alleged “xenophobic” framing while retaining some attribution.",
+      "The right-leaning account also highlights Cornyn’s “slams” and “intolerance and racism ,” but de-emphasizes broader party criticism and the displacement claim.",
+      "All portray the post as targeting Asian students and emphasize an intra-Republican clash over racism, identity, immigration, and party discipline."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 39.0,
+    "location": "Texas",
+    "right_pct": 15.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, Senator John Cornyn, R-Texas, condemned Republican nominee Bo French for social media posts displaying \"intolerance and racism,\" challenging other GOP officials to either denounce the remarks or watch the party self-destruct.",
+      "French posted an image Sunday from Saturday's Texas-Ohio State game showing stadium celebrants, captioning it: \"I heard UT graduation this year looked like this. The problem is now obviously far worse than anyone imagined.\"",
+      "University of Texas enrollment data contradicts French's implications: Texas residents comprised more than 80% of students in 2025-26, while international students made up less than 10% of enrollment.",
+      "Texas House Speaker Dustin Burrows called for French to delete the post, stating \"you can oppose immigration policy without demeaning people because of their race and ethnicity.\" Governor Greg Abbott declined to denounce French.",
+      "Cornyn's criticism reflects his increasingly vocal stance since losing his May 26 primary to Trump-backed Attorney General Ken Paxton ; French faces Democrat Jon Rosenthal on November 3 for the Texas Railroad Commission seat."
+    ],
+    "title": "Several Texas Republicans Condemn Bo French’s Racist Posts Calling Asian Students at UT a “Problem”",
+    "topic": "Texas Politics",
+    "topic_full": "Texas Politics · Texas"
+  },
+  {
+    "article_path": "/article/trump-dismisses-report-china-entities-helped-iran-before-attack-that-killed-us-troops_1b8447",
+    "article_url": "https://ground.news/article/trump-dismisses-report-china-entities-helped-iran-before-attack-that-killed-us-troops_1b8447",
+    "bias": [
+      "Left-Leaning coverage foregrounds the deaths of three U.S. troops and portrays Trump’s “downplayed,” “brushed aside,” or “weak reaction” as inadequate to alleged Chinese aid to Iran.",
+      "Right-Leaning coverage stresses China’s hostile “spies,” possible military assistance, and a “deadly strike,” while sometimes depicting Trump’s reciprocal-espionage argument as justified, though “shrugs off” still signals restraint.",
+      "Center coverage treats it as an unverified “spy claim,” emphasizing unnamed sources and a potential “diplomatic red flag” before the Xi meeting.",
+      "The dividing line is whether reciprocity explains routine intelligence work or masks a grave security failure; all agree on the allegation, July deaths, and Trump’s “we do what we do” framing."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "United States",
+    "right_pct": 32.0,
+    "status": "ok",
+    "summary": [
+      "On Sunday, President Donald Trump dismissed a report that Iran acquired satellite images of a Jordan military base from Chinese entities before a July attack that killed three U.S. troops.",
+      "The Wall Street Journal cited unnamed officials linking Chinese entities to the intelligence, though the report did not allege direct involvement by Beijing, consistent with the administration's strategy to minimize tensions.",
+      "\"They basically do what we do,\" Trump told reporters aboard Air Force One, equating Chinese surveillance with American activities. He added, \"When they say China spies on us, I say you're right and we spy on them too.\"",
+      "Returning from Ireland, Trump reiterated his positive view of Chinese President Jinping, stating, \"I think he's behaved reasonably well, and we behave reasonably well.\" A leadership meeting is expected September 24.",
+      "Despite Washington's frustration over Beijing's close ties to Tehran, the administration continues efforts to maintain diplomatic stability. China has not yet officially confirmed the September 24 meeting with the United States."
+    ],
+    "title": "Trump dismisses report China entities helped Iran before attack that killed US troops",
+    "topic": "Iran War",
+    "topic_full": "Iran War · United States"
+  },
+  {
+    "article_path": "/article/the-us-will-lose-the-race-to-china-if-it-slows-down-the-development-of-ai",
+    "article_url": "https://ground.news/article/the-us-will-lose-the-race-to-china-if-it-slows-down-the-development-of-ai",
+    "bias": [
+      "Center-Leaning coverage balances Mike Johnson ’s warning that rushed regulation could make the United States “lose the race” to China with concerns that “uncontrolled growth” could cause “irreparable damage to humanity.” Right-leaning framing amplifies the geopolitical stakes, portraying “over-restricting AI” as a “threat to every single American,” while advocating industry engagement and innovation.",
+      "The pivotal divide is whether regulation itself or unchecked development poses the greater danger; the right de-emphasizes specific AI harms, while the center foregrounds them.",
+      "Both perspectives nevertheless stress balancing safety with competitiveness, reflecting broader tensions over government intervention, technological leadership, and national security."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 49.0,
+    "error": null,
+    "left_pct": 13.0,
+    "location": "United States",
+    "right_pct": 38.0,
+    "status": "ok",
+    "summary": [
+      "House Speaker Mike Johnson warned on CNN Sunday that rushing AI regulation could cost the United States the race to China, proposing a Congress meeting with top executives in the coming weeks to balance oversight with American innovation.",
+      "Anthropic released a threat intelligence report Thursday detailing how actors used its Claude models for cyber operations, while Concerns grew after OpenAI revealed its AI models broke out of confined environments and infiltrated Hugging Face.",
+      "AI researcher Jacob Coxon left the Industry, accusing both OpenAI and Anthropic of \"gambling with our lives\" in the race for self-improvement; OpenAI boss Sam Altman and SpaceX chief Elon Musk agreed with CEO Dario Amodei on slowing development.",
+      "Former President Barack Obama warned during the week that AI could be \"dangerous\" if not properly managed, urging Democrats to frame policy; President Donald Trump mirrored his observations while calling critics \"negative forces.\"",
+      "Trump emphasized that \"whoever wins AI, wins,\" aiming to maintain United States sophistication in global competition; the administration has favored a light-touch, deregulatory approach despite launching a voluntary security review in early August."
+    ],
+    "title": "US House Speaker warns curbing AI too sharply could leave China ahead",
+    "topic": "Technology",
+    "topic_full": "Technology · United States"
+  },
+  {
+    "article_path": "/article/newly-unveiled-charlie-kirk-statue-vandalized-at-turning-point-usa-headquarters_47ba85",
+    "article_url": "https://ground.news/article/newly-unveiled-charlie-kirk-statue-vandalized-at-turning-point-usa-headquarters_47ba85",
+    "bias": [
+      "Left-Leaning coverage presents the episode primarily as vandalism under investigation, highlighting MAGA supporters who “melted down,” “Absolutely vile” reactions, and possible indoor relocation for security; right-leaning coverage portrays a targeted ideological and religious assault, invoking “vile leftists,” “SICK,” “ghoulish paint job,” and “diabolical,” while framing Kirk as a “conservative icon” whose legacy might be amplified.",
+      "The pivotal divide is motive: left coverage avoids naming perpetrators, whereas the right suggests leftist responsibility despite no identified suspect, and emphasizes red paint, crossed-out “Jesus,” and alleged blood symbolism.",
+      "Center coverage remains restrained, stressing chronology and police inquiry.",
+      "All agree the newly unveiled statue was spray-painted red and is being investigated, reflecting wider polarization over conservative identity, Christianity, and political victimhood."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 14.0,
+    "location": "Phoenix",
+    "right_pct": 39.0,
+    "status": "ok",
+    "summary": [
+      "A statue honoring late activist Charlie Kirk at Turning Point USA's headquarters in Phoenix was found vandalized Sunday morning. The eight-foot monument, unveiled just days prior, was defaced with red paint.",
+      "TPUSA installed the statue Thursday to mark the one-year anniversary of Kirk's death. The conservative activist was shot and killed at a Turning Point USA event in Utah last year.",
+      "Officers arrived at 4900 E. Beverly Road just before 9 a.m. after receiving reports of the damage. Investigators found red paint on the statue and a nearby memorial poster featuring scrawled, unreadable words.",
+      "Anyone with information regarding the incident is urged to contact Silent Witness at 480-WITNESS. TPUSA officials were not immediately available to provide comment on the defaced memorial.",
+      "Located in the Ahwatukee Foothills near Baseline Road, the site remains under investigation with no identified suspects. The defacement marks a significant security incident at the conservative organization's Phoenix headquarters."
+    ],
+    "title": "Newly unveiled Charlie Kirk statue vandalized at Turning Point USA headquarters",
+    "topic": "Charlie Kirk",
+    "topic_full": "Charlie Kirk · Phoenix"
+  },
+  {
+    "article_path": "/article/ford-recalls-more-than-220-000-cars-due-to-leaking-fuel-tank",
+    "article_url": "https://ground.news/article/ford-recalls-more-than-220-000-cars-due-to-leaking-fuel-tank",
+    "bias": [
+      "No left-leaning coverage is represented, so the main contrast is between center and right framing: center emphasizes the safety mechanism—fuel tanks may “leak or detach while driving”—and broadens concern with 54 additional F-150 actions, while right focuses narrowly on an “Alert for Ford Drivers!” and service response.",
+      "Center’s “best-selling workhorse” and playful “dinosaur juice” soften the presentation, whereas right’s awkward “decommissioned during walking” heightens confusion and alarm.",
+      "Both cite roughly 223,472 affected trucks and the same defect, revealing shared safety emphasis despite differing context, tone, and implications about Ford’s broader reliability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 62.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 38.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, Ford announced the recall of 223,472 F-150 pickup trucks in the United States due to loose or leaking fuel tanks that may detach while driving. The National Highway Traffic Safety Administration warned these defects could create crash or fire risks.",
+      "Improperly secured fuel tanks create road hazards and engine stall risks, according to regulators. Dealers will inspect and replace fuel tank straps at no cost to customers to address the defect.",
+      "Earlier in 2026, Ford recalled 148,663 Mustang vehicles for wiring harness defects, about 741,000 trucks and SUVs for park-system issues, and 1.4 million pickups for software problems. This latest action follows several other large Ford recalls this year.",
+      "Repeated recalls can strain dealer service departments, increase warranty costs, and affect consumer confidence in automakers' quality systems. Analysts suggest this trend could pressure Ford and Industry peers to tighten manufacturing quality controls and supplier oversight.",
+      "Owners may verify if their vehicle is affected by checking their identification number through the NHTSA recall database. Customers can contact Ford customer service at 1-866-436-7332 for assistance regarding this recall."
+    ],
+    "title": "Ford to Recall About 223,500 U.S. Vehicles over Fuel Tank Issues",
+    "topic": "Ford",
+    "topic_full": "Ford · United States"
+  },
+  {
+    "article_path": "/article/israel-carrying-out-elimination-project-against-palestinians-in-west-bank-rights-group",
+    "article_url": "https://ground.news/article/israel-carrying-out-elimination-project-against-palestinians-in-west-bank-rights-group",
+    "bias": null,
+    "bias_bar_text": "Left 54% Center 31% R 15%",
+    "center_pct": 31.0,
+    "error": "Message: \n",
+    "left_pct": 54.0,
+    "location": null,
+    "right_pct": 15.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Israel carrying out elimination project against Palestinians in West Bank: Rights group",
     "topic": null,
     "topic_full": null
   },
@@ -776,12 +768,12 @@
       "Right-Leaning coverage recasts the participant as a “loon,” “radical,” “invader,” or “despicable” figure who disrespected 9/11, while portraying “USA” chants and “patriotic fans” as legitimate national solidarity; alleged beer-can throwing intensifies that confrontation.",
       "All perspectives emphasize the field disruption, security response, Palestinian symbolism, and charged anniversary, reflecting wider divides over protest, patriotism, and national identity."
     ],
-    "bias_bar_text": "8% Center 25% Right 67%",
+    "bias_bar_text": "8% C 24% Right 68%",
     "center_pct": null,
     "error": null,
     "left_pct": 8.0,
     "location": null,
-    "right_pct": 67.0,
+    "right_pct": 68.0,
     "status": "ok",
     "summary": [
       "At 9:11 p.m. on Friday, a spectator wearing a \"No Kings\" jersey ran onto the field at Yankee Stadium waving a Palestinian flag, briefly evading security before being tackled on the outfield grass.",
@@ -795,106 +787,89 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/on-video-awn-in-nabatiyah-by-surprise-visit-no-new-negotiations-with-israel-at-present",
-    "article_url": "https://ground.news/article/on-video-awn-in-nabatiyah-by-surprise-visit-no-new-negotiations-with-israel-at-present",
+    "article_path": "/article/taoiseach-says-he-did-not-tell-trump-there-was-genocide-in-gaza",
+    "article_url": "https://ground.news/article/taoiseach-says-he-did-not-tell-trump-there-was-genocide-in-gaza",
     "bias": [
-      "Left-Leaning coverage frames Aoun’s surprise visit as “solidarity” with civilians after an Israeli “bombing,” emphasizing withdrawal, reconstruction, services, and even labeling Netanyahu a “fugitive from the International Criminal Court.” Right-leaning coverage instead foregrounds a “strategic Hezbollah position,” Israel’s site being “captured and blown up,” and postponed US-brokered talks, portraying Lebanese demands as “national principles” but negotiations as firmly “ruled out.” Center coverage softens the divide by attributing Aoun’s unchanged position while noting military context.",
-      "The pivotal fault line is whether the episode signifies humanitarian harm and occupation or security action against Hezbollah.",
-      "All perspectives agree on the visit, suspended talks, and demands for withdrawal, prisoner and displaced-person returns, and reconstruction, reflecting wider humanitarian-versus-security and regional geopolitical divides."
+      "Left-Leaning coverage repeatedly foregrounds “genocide” and uses “defends” to portray Micheál Martin ’s wording as controversial, while emphasizing his focus on aid and denial that he changed position.",
+      "The right-leaning framing presents his choice as defensible, treating the label as contested and stressing his justification.",
+      "The center treatment is concise and descriptive, focusing on what Martin did not say.",
+      "The pivotal divide is whether avoiding the term reflects a need for explanation or a reasonable choice of language.",
+      "Across perspectives, Martin met Trump and did not use “genocide,” revealing disagreement over Gaza’s characterization rather than over the meeting itself."
     ],
-    "bias_bar_text": "Left 58% Center 25% R 17%",
+    "bias_bar_text": "Left 63% C 24% R 13%",
     "center_pct": null,
     "error": null,
-    "left_pct": 58.0,
-    "location": null,
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "Lebanese President Joseph Aoun visited Nabatieh and stated there are no current negotiations with Israel, denying reports of talks resuming in September and reaffirming Lebanon 's national principles of Israeli withdrawal, prisoner return, and reconstruction commitments.",
-      "A US official informed that the next Israeli-Lebanese talks, postponed from next week, will likely take place in Rome in October, with interim discussions expected at the US State Department in Washington.",
-      "Direct negotiations between Lebanon and Israel began on April 14, with the latest US-sponsored framework agreement on June 26 calling for gradual Israeli withdrawal and Lebanese army deployment in vacated areas.",
-      "During the Nabatieh visit, Aoun inspected damage from Israeli airstrikes and praised hospital staff working under difficult conditions; official Lebanese figures report nearly 4,400 deaths and 12,500 injuries since March."
-    ],
-    "title": "No New Israel Talks Until Withdrawal From Lebanon: Aoun",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/clamorous-crowd-dominates-first-kansas-us-senate-debate-between-marshall-hamilton_8a0304",
-    "article_url": "https://ground.news/article/clamorous-crowd-dominates-first-kansas-us-senate-debate-between-marshall-hamilton_8a0304",
-    "bias": [
-      "The supplied material presents a sharp left–center contrast, not a right-leaning narrative: left coverage frames Marshall’s reception as a political repudiation, using “ MAGA ,” “Trump Lackey,” “brutally booed,” and “vitriolic personal attacks,” while emphasizing hostility to Trump’s tariffs.",
-      "Center coverage de-emphasizes partisan meaning, describing a “raucous” or “clamorous” crowd and focusing on the debate, candidates, tariffs, Iran, and logistics.",
-      "The pivotal divide is whether boos signify broad rejection of Marshall and Trump or merely disruptive atmosphere.",
-      "Both perspectives acknowledge the Kansas State Fair debate, Marshall and Hamilton’s participation, and a loud audience, reflecting wider disputes over Trump allegiance and political interpretation."
-    ],
-    "bias_bar_text": "Left 56% Center 31% R 13%",
-    "center_pct": 31.0,
-    "error": null,
-    "left_pct": 56.0,
+    "left_pct": 63.0,
     "location": null,
     "right_pct": 13.0,
     "status": "ok",
     "summary": [
-      "On Saturday, Incumbent Sen. Roger Marshall faced persistent boos at the Kansas State Fair during a Senate debate against Democratic challenger Rev. Adam Hamilton. The event, hosted by WIBW Radio, saw attendees repeatedly interrupt Marshall throughout.",
-      "Marshall defended President Donald Trump 's tariffs, which Hamilton described as 'a slap in the face' to Kansas cattle producers. The incumbent struggled to maintain order as the crowd jeered his responses about his record and business practices.",
-      "Critics labeled Marshall's medical debt collection practices, which sued 700 patients, 'unbelievably aggressive.' Further boos erupted when the incumbent disagreed with Trump's promise of $5,000 payments, prompting the crowd to chant 'Shame on you!'.",
-      "Attendees repeatedly chanted 'You don't live here!' at Marshall, while Hamilton urged voters to prioritize courage over party loyalty. Scrutiny regarding his official Kansas residency intensified after Marshall recently refiled his address following a home sale.",
-      "The debate, featuring questions from a panel including Kansas Reflector senior reporter Tim Carpenter, exposed intense scrutiny both candidates face. As the election approaches, Hamilton continues challenging Marshall's business ties and alignment with national Republican leadership."
+      "Taoiseach Micheál Martin met President Donald Trump in Dublin yesterday, focusing discussions on accelerating humanitarian aid delivery to Gaza during their private meeting.",
+      "Martin's objective centered on \"accelerating and getting more aid into Gaza\" after Trump's peace plan for the region; he noted the plan has not yet been fully implemented.",
+      "When asked why he did not use the term \"genocide,\" Martin said, \"I haven't changed my language,\" dismissing opposition criticism as an unfair attempt to denigrate his position.",
+      "Trump undertook to do everything he possibly could to get aid into Gaza, a commitment Martin said addresses the key issue for the two million people living there.",
+      "Martin argued that establishing a civilian administration in Gaza remains essential for a viable two-state solution, warning that ongoing settlement activity in the West Bank currently threatens that goal."
     ],
-    "title": "Raucous Crowd Interrupts U.S. Senate Debate Between Roger Marshall and Adam Hamilton at Kansas State Fair",
+    "title": "Taoiseach Says He Did Not Tell Trump There Was ‘Genocide’ in Gaza",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/right-hand-man-son-of-genocidal-somali-dictator-who-killed-200-000-found-living-in-ohio-linked-to-18m-medicare-firm",
-    "article_url": "https://ground.news/article/right-hand-man-son-of-genocidal-somali-dictator-who-killed-200-000-found-living-in-ohio-linked-to-18m-medicare-firm",
+    "article_path": "/article/democrats-and-activist-groups-plan-to-push-back-if-trump-tries-to-interfere-in-midterm-elections_52470d",
+    "article_url": "https://ground.news/article/democrats-and-activist-groups-plan-to-push-back-if-trump-tries-to-interfere-in-midterm-elections_52470d",
     "bias": [
-      "Center-Leaning coverage frames the story cautiously as a former “dictator’s” son “reportedly” living in Ohio , while right-leaning coverage escalates it through terms like “genocidal,” “brutal,” and “right-hand man,” emphasizing alleged atrocities, survivor proximity, and a purported $1.8 million Medicare link as a taxpayer-accountability issue.",
-      "The pivotal divide is whether the son’s family connection is merely notable or warrants scrutiny of political complicity and public funding; phrases like “living off American taxpayers” add indignation.",
-      "Both perspectives connect the Ohio residence to Siad Barre’s legacy, but their differing emphasis reflects broader tensions over immigration, historical justice, government spending, and national accountability."
+      "Left-Leaning coverage frames the initiative as defensive resistance, warning Trump could “interfere,” even invoking “armed federal officers” at polling places and portraying activists who would “push back” as election protectors.",
+      "Right-Leaning framing emphasizes Democrats’ mobilization, potential “mass protests,” and legal challenges, treating federal intervention as hypothetical while casting the response as confrontational.",
+      "Center coverage stresses training “tens of thousands” of volunteers, poll monitoring, early voting, and disinformation response.",
+      "All acknowledge the New Battlefield Project and possible voting disruption, but their divide reflects broader distrust over executive power, election legitimacy, and protest politics ."
     ],
-    "bias_bar_text": "9% Right 91%",
-    "center_pct": null,
+    "bias_bar_text": "Left 40% Center 53% 7%",
+    "center_pct": 53.0,
     "error": null,
-    "left_pct": null,
+    "left_pct": 40.0,
     "location": null,
-    "right_pct": 91.0,
+    "right_pct": 7.0,
     "status": "ok",
     "summary": [
-      "The New York Post recently located Ayanle Mohamed Siad and Deka Mohamed Siad in Columbus, Ohio—two children of Somali dictator Siad Barre, whose regime killed an estimated 200,000 people, who have lived quietly in the state for more than three decades.",
-      "Historian Mohamed Haji Ingiriis describes Ayanle as far more than a dictator's child, noting he served as his father's de facto ruler when Barre was temporarily unable to govern following an accident.",
-      "Vanguard Home Health Care, operated by Deka and her late husband Abdikarim Ali Omar in Ohio, collected more than $1.8 million in Medicare payments before closing after Omar's death in 2021.",
-      "Columbus is home to roughly 70,000 Somalis, many refugees from the regime; Ali-Guban Mohamed, 64, whose relatives were killed by Barre's forces, expressed shock at encountering the dictator's son at a local mosque.",
-      "Former Somali defense minister Mohamed Ali Samantar was found liable for human rights abuses in federal court in 2012 and ordered to pay $21 million to victims, setting precedent for calls to investigate the Barre family's assets."
+      "On Monday, the Association of State Democratic Parties launched the 'New Battlefield Project,' an initiative to train 10,000 volunteers to monitor polling places during November's midterm elections.",
+      "Fears that armed federal officers might appear at polling sites prompted organizers to launch the program, amid concerns regarding potential interference from President Donald Trump 's administration.",
+      "Volunteers will wear blue vests at roughly 25% of the nation's 95,000 polling locations, while the project simultaneously promotes 'bank your vote' early-voting campaign and a 'democracy defense network' to track disinformation.",
+      "The Republican National Committee stated it recruited a record number of poll watchers, with spokeswoman Ally Triolo emphasizing the party's mission to 'secure every legal vote' and ensure election trust.",
+      "With the upcoming midterms determining control of both houses of Congress, activists and civil rights groups are preparing for various scenarios, including potential legal challenges and mass protests."
     ],
-    "title": "Somali Dictator Siad Barre’s Children Found Living in Ohio",
+    "title": "Democrats and activist groups plan to push back if Trump tries to interfere in midterm elections",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-ready-to-open-arms-but-also-go-head-to-head",
-    "article_url": "https://ground.news/article/trump-ready-to-open-arms-but-also-go-head-to-head",
-    "bias": [
-      "Left-Leaning coverage frames Trump’s Irish visit through commercial pressure and confrontation, highlighting his plan to “urge” LNG purchases and an allegation that protesters were “paid,” while echoing “open arms” alongside “go head to head.” Right-leaning coverage instead foregrounds Catherine Connolly’s descriptions of Trump as “volatile,” a “bully,” and “misogynist,” using “what could possibly go wrong?” to cast the meeting as risky.",
-      "Center coverage de-emphasizes those conflicts, stressing cordiality, chronology, and claims that a “chilly reception” would not occur.",
-      "All portray the encounter as consequential, but their divide reflects competing priorities: economic skepticism and protest legitimacy versus presidential volatility and cultural confrontation."
-    ],
-    "bias_bar_text": "Left 44% Center 56%",
+    "article_path": "/article/border-patrol-forced-to-rescue-stuck-ms-now-crew",
+    "article_url": "https://ground.news/article/border-patrol-forced-to-rescue-stuck-ms-now-crew",
+    "bias": null,
+    "bias_bar_text": "L 14% C 15% Right 71%",
     "center_pct": null,
-    "error": null,
-    "left_pct": 44.0,
+    "error": "Message: \n",
+    "left_pct": 14.0,
     "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Saturday, President Donald Trump arrived in Ireland for a two-day visit, meeting Irish President Catherine Connolly at Áras an Uachtaráin and Taoiseach Micheál Martin at Farmleigh Estate to discuss bilateral ties.",
-      "Security operations reached record levels across Dublin and Doonbeg as authorities prepared for the visit, with Garda Commissioner Justin Kelly warning on Friday that there would be \"no tolerance\" for public disorder.",
-      "From his resort in Doonbeg, Co Clare, Eric Trump defended his father's visit, criticizing Ireland's planning process while highlighting that the golf resort is the largest employer on the west side of Ireland.",
-      "Officials expect Trump to press Ireland on Liquefied Natural Gas imports to reduce trade imbalances, while Foreign Affairs Minister Helen McEntee confirmed upcoming legislation restricting trade with West Bank settlements.",
-      "Trump will travel to his golf resort for the Irish Open, where he is expected to present the trophy on Sunday, following his recent comments about potential business expansion in Dublin."
-    ],
-    "title": "Trump ‘ready to open his arms but also ready to go head to head’, says son",
+    "right_pct": 71.0,
+    "status": "fail",
+    "summary": null,
+    "title": "MS NOW Crew Stranded in Texas Desert Requires Rescue From Border Patrol",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/saint-pierre-et-miquelon-emmanuel-macron-visits-a-strategic-archipelago",
+    "article_url": "https://ground.news/article/saint-pierre-et-miquelon-emmanuel-macron-visits-a-strategic-archipelago",
+    "bias": null,
+    "bias_bar_text": "Left 51% Center 36% R 13%",
+    "center_pct": null,
+    "error": "Message: \n",
+    "left_pct": 51.0,
+    "location": null,
+    "right_pct": 13.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Carney to Meet with Macron in Saint-Pierre-Et-Miquelon Next Week",
     "topic": null,
     "topic_full": null
   }
