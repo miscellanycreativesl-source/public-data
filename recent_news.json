@@ -1,5 +1,81 @@
 [
   {
+    "article_path": "/article/ms-now-cnn-and-politico-say-their-journalists-were-denied-access-to-white-house-after-trump-ban_bfc951",
+    "article_url": "https://ground.news/article/ms-now-cnn-and-politico-say-their-journalists-were-denied-access-to-white-house-after-trump-ban_bfc951",
+    "bias": [
+      "Left-Leaning coverage frames the restriction as an “authoritarian” “media ban” and “illegal assault,” emphasizing retaliation, First Amendment risks, and a broader escalation against critical journalism .",
+      "Right-Leaning coverage foregrounds Trump’s “fake news” rationale, alleged liberal bias, and enforcement details such as badges being “revoked,” while mocking reactions as “melting down”; press-freedom concerns are de-emphasized or treated as competing claims.",
+      "The pivotal divide is whether unfavorable coverage justifies presidential control of access or makes the action unconstitutional retaliation.",
+      "Center coverage mainly attributes claims and maps the legal dispute.",
+      "All perspectives acknowledge targeted outlets, disabled credentials, Trump’s announcement, and ensuing press-freedom controversy, reflecting wider distrust over media power and executive authority."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Saturday morning, MS NOW journalists were denied access to the White House grounds, a day after President Donald Trump announced a ban on the network, CNN, and Politico citing \"fake news.\"",
+      "The White House began enforcing the \"ban\" Trump declared \"effective immediately\" on Friday, though journalists from the affected outlets remained on the complex through that evening.",
+      "MS NOW White House correspondent Akayla Gardner said an officer disabled her badge upon arrival, forcing her to report live from outside the perimeter after being denied entry.",
+      "Protesting the exclusion, the network released a statement Saturday asserting the White House belongs to the American people and intending to defend its First Amendment rights.",
+      "This latest action marks a significant escalation in Trump's long-running efforts to restrict news coverage by journalists he finds objectionable, serving as the latest test of First Amendment protections in the U.S."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/trump-says-he-will-create-ai-force-name-ai-czar_acfef2",
+    "article_url": "https://ground.news/article/trump-says-he-will-create-ai-force-name-ai-czar_acfef2",
+    "bias": [
+      "Left-Leaning coverage frames the “AI Force” as militarized oversight announced amid “concerns,” stressing that Trump “downplayed” risks and would not “stifle” industry despite calls for guardrails.",
+      "Right-Leaning coverage portrays it as a growth and national-strength initiative, emphasizing protection of an “incredible industry,” American jobs, competition with China, and dismissing warnings as a “hoax” or “doomsday chorus,” sometimes blaming the “radical left.” Center coverage foregrounds coordination and stakeholder calls for safeguards.",
+      "The sharpest divide concerns whether existing law suffices or new regulation is needed; all agree AI is consequential, but interpret caution versus acceleration through broader regulatory and geopolitical lenses."
+    ],
+    "bias_bar_text": "L 18% Center 48% Right 34%",
+    "center_pct": 48.0,
+    "error": null,
+    "left_pct": 18.0,
+    "location": null,
+    "right_pct": 34.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, President Donald Trump announced plans to appoint an \"AI czar\" and create an \"AI force,\" arguing that existing legal systems sufficiently manage industry risks without new regulations.",
+      "Venture capitalist David Sacks previously held the AI czar position before stepping down in the spring, transitioning to an external advisory role while echoing Trump's skepticism toward new regulations.",
+      "Earlier this month, former Anthropic researcher Jacob Coxon warned that \"people building AI earnestly believe that it could kill us all by the end of the decade,\" reflecting safety concerns lawmakers share.",
+      "Treasury Secretary Scott Bessent will meet Chinese Vice Premier He Lifeng on Sunday at JPMorgan Chase headquarters in New York to discuss AI security, trade, and economic issues.",
+      "Washington and Beijing are competing for AI leadership as vital to their economic and military strength, a central issue for Trump's scheduled meeting with Chinese President Xi Jinping on Thursday."
+    ],
+    "title": "Trump says he will create 'AI Force,' name AI czar",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/us-denmark-reach-deal-giving-us-permanent-security-control-over-greenland_4bc0d8",
+    "article_url": "https://ground.news/article/us-denmark-reach-deal-giving-us-permanent-security-control-over-greenland_4bc0d8",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 30.0,
+    "location": "United States",
+    "right_pct": 29.0,
+    "status": "no_change",
+    "summary": [
+      "On Friday, President Donald Trump announced a security agreement with Denmark and Greenland granting Washington expanded military access while preserving Danish sovereignty over the Arctic territory.",
+      "Months of tense negotiations followed Trump's earlier tariff threats as Washington sought to address security concerns regarding Russia and China in the Arctic region.",
+      "Under the deal, the U.S. gains permanent overflight and basing rights, while explicitly banning non-NATO nations from establishing military installations or making sensitive investments in Greenland.",
+      "Danish Prime Minister Mette Frederiksen and Greenland Prime Minister Jens-Frederik Nielsen confirmed the deal, which awaits formal signing at the United Nations General Assembly next week pending parliamentary approval.",
+      "The framework strengthens common Arctic security for NATO allies while de-escalating tensions that previously strained relations, reaffirming Greenland's right to self-determination within the Danish Kingdom."
+    ],
+    "title": "US, Denmark reach deal giving US ‘permanent security control’ over Greenland",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
     "article_path": "/article/trump-says-hes-banning-ms-now-cnn-and-politico-from-white-house_1ebb2a",
     "article_url": "https://ground.news/article/trump-says-hes-banning-ms-now-cnn-and-politico-from-white-house_1ebb2a",
     "bias": [
@@ -10,11 +86,11 @@
       "All acknowledge the announcement, Truth Social claims, threatened expansion, and constitutional stakes, reflecting broader tensions over media legitimacy and presidential power."
     ],
     "bias_bar_text": null,
-    "center_pct": null,
+    "center_pct": 44.0,
     "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
+    "left_pct": 30.0,
+    "location": "Washington",
+    "right_pct": 26.0,
     "status": "ok",
     "summary": [
       "On Friday, President Donald Trump announced an immediate ban of CNN, MS-NOW, and Politico from the White House, accusing the organizations of reporting \"fake news\" on Truth Social.",
@@ -22,9 +98,9 @@
       "Trump warned that \"Other fake news media outlets to follow\" in his social media post, with the ban affecting MS-NOW, formerly MSNBC, and Politico, effective immediately.",
       "Trump did not identify a specific triggering story or explain how the ban would be enforced, leaving the practical implementation of the exclusion unclear."
     ],
-    "title": "Source Icon",
-    "topic": null,
-    "topic_full": null
+    "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · Washington"
   },
   {
     "article_path": "/article/us-troop-deaths-in-iran-war-exceed-pentagon-count-by-at-least-four-washington-post-reports_6e63d4",
@@ -38,9 +114,9 @@
     "bias_bar_text": null,
     "center_pct": 27.0,
     "error": null,
-    "left_pct": 46.0,
-    "location": null,
-    "right_pct": 27.0,
+    "left_pct": 47.0,
+    "location": "United States",
+    "right_pct": 26.0,
     "status": "ok",
     "summary": [
       "On Friday, the Washington Post reported that at least 22 U.S. service members have died during the war with Iran, exceeding the Pentagon's public database by four fatalities. A sixth official said the toll may reach 23.",
@@ -50,8 +126,8 @@
       "Beyond military personnel, three American contractors based in the region have died since combat operations began. The Pentagon also accounts for service members who died in the Middle East while assigned to missions unrelated to the Iran conflict."
     ],
     "title": "US troop deaths in Iran war exceed Pentagon count by at least four, Washington Post reports",
-    "topic": null,
-    "topic_full": null
+    "topic": "Iran War",
+    "topic_full": "Iran War · United States"
   },
   {
     "article_path": "/article/warren-buffett-steps-down-as-berkshire-hathaway-chairman_087724",
@@ -62,10 +138,10 @@
       "All perspectives agree on the immediate transition, Buffett’s chairman-emeritus status, and Berkshire’s enduring influence, reflecting broader tensions over personality, inheritance, and corporate power."
     ],
     "bias_bar_text": null,
-    "center_pct": 51.0,
+    "center_pct": 52.0,
     "error": null,
-    "left_pct": 26.0,
-    "location": null,
+    "left_pct": 25.0,
+    "location": "United States",
     "right_pct": 23.0,
     "status": "ok",
     "summary": [
@@ -76,87 +152,341 @@
       "Buffett, 96, emphasized confidence in the company's future, writing \"The company is in excellent hands, and I look forward to remaining a shareholder alongside you,\" while continuing to work at the office five days a week."
     ],
     "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
-    "topic": null,
-    "topic_full": null
+    "topic": "Warren Buffett",
+    "topic_full": "Warren Buffett · United States"
   },
   {
-    "article_path": "/article/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice_1f44f9",
-    "article_url": "https://ground.news/article/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice_1f44f9",
+    "article_path": "/article/newsom-signs-laws-aimed-at-preventing-election-interference",
+    "article_url": "https://ground.news/article/newsom-signs-laws-aimed-at-preventing-election-interference",
     "bias": [
-      "Left-Leaning coverage frames Schroyer’s withdrawal as a “controversial” pick collapsing amid “backlash,” limited immigration -policy experience, and concerns within Homeland Security—potentially a “setback” for Trump’s “mass deportation campaign.” Right-leaning coverage instead portrays Rand Paul as having “stonewalled” or “blocked” the nomination, stressing Senate obstruction and Schroyer’s law-enforcement background while de-emphasizing qualifications concerns; references to a “‘good friend’” introduce patronage implications.",
-      "Center coverage links the stalled process to ICE’s longer lack of confirmed leadership.",
-      "All emphasize the unexplained withdrawal, Senate delay, and ICE’s unfilled top post, reflecting broader divides over immigration enforcement, institutional scrutiny, and party loyalty."
+      "Left-Leaning coverage frames Newsom’s 13 bills as protective barriers against Trump’s “meddling,” a “major blow” to alleged “dictatorial control,” while right-leaning coverage portrays them as political “war” that could obstruct investigations into “fraud” and “suspicious ballots.” The pivotal divide is whether restricting pre-certification ballot seizures safeguards elections or shields wrongdoing: the left emphasizes defense, transparency, and federal overreach; the right stresses “crooked state officials,” DOJ authority, and Newsom’s “preens, pontificates” performance.",
+      "Center coverage more neutrally details felony provisions, cybersecurity, and notification rules.",
+      "All acknowledge the 13-bill package and its pre-midterm timing, but their framing reflects broader disputes over federalism, election legitimacy, and Trump-era political power."
     ],
     "bias_bar_text": null,
-    "center_pct": 46.0,
+    "center_pct": 21.0,
     "error": null,
-    "left_pct": 36.0,
-    "location": null,
+    "left_pct": 43.0,
+    "location": "California",
+    "right_pct": 36.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, Democratic California Gov. Gavin Newsom signed 13 new laws creating felony penalties for seizing ballots and restricting police arrests near polling sites to safeguard the midterm electoral process.",
+      "Newsom described the legislation as a \"wall\" to protect California's democracy, citing President Donald Trump's efforts to restrict mail-in voting and federal monitors at polls as evidence of ongoing interference threats.",
+      "The package makes it a felony to seize ballots or election records, bans arrests within 200 feet of polling sites, and restricts AI-generated political attack ads designed to deceive voters.",
+      "Bill Essayli, Assistant U.S. Attorney for the Central District of California, countered that state laws cannot prevent the Justice Department from conducting lawful investigations into voter fraud.",
+      "With the November midterms approaching, state officials aim to solidify voting protections; experts like Justin Levitt, a law professor at Loyola Marymount University, say these measures provide meaningful safeguards against outside involvement."
+    ],
+    "title": "Newsom signs laws aimed at preventing election interference",
+    "topic": "California Politics",
+    "topic_full": "California Politics · California"
+  },
+  {
+    "article_path": "/article/politico-trump-seeks-to-gain-control-of-much-of-the-nations-health-research-funding",
+    "article_url": "https://ground.news/article/politico-trump-seeks-to-gain-control-of-much-of-the-nations-health-research-funding",
+    "bias": [
+      "The left-leaning framing portrays Trump’s proposal as a power grab, using phrases like “seeks” and “under his control,” while emphasizing the NIH director’s refusal to cut Harvard grants as a possible trigger.",
+      "Center coverage uses a cooler administrative lens, stressing that a “major part” of research funding could shift to “political appointees,” though it de-emphasizes the Harvard dispute.",
+      "No right-leaning narrative is provided for comparison.",
+      "Both perspectives highlight Trump’s direction to Russ Vought and the proposed redistribution of congressionally appropriated funds, revealing shared concern about presidential influence but differing emphasis on motive, scale, and institutional power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 55.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
     "right_pct": 18.0,
     "status": "ok",
     "summary": [
-      "On Thursday, the White House withdrew President Donald Trump 's nomination of Lance Schroyer to lead ICE, ensuring the agency remains without a Senate-confirmed leader since 2017.",
-      "Republican Sen. Rand Paul stalled Schroyer's advancement in the Senate Homeland Security committee, demanding details regarding investigations into agent-involved shootings in Minnesota and blocking the nomination.",
-      "Nominated in June, Schroyer is a former Oklahoma state trooper and ally of DHS Secretary Markwayne Mullin; critics expressed surprise at his lack of experience in immigration enforcement or agency leadership.",
-      "David Venturella remains the agency's acting chief, having returned to the role after Todd Lyons resigned in April, and continues to perform the duties of ICE director.",
-      "The withdrawal leaves ICE without permanent leadership since 2017; the agency faces \"mounting scrutiny nationwide\" regarding its operations, complicating the administration's efforts to fill key immigration enforcement positions."
+      "On Saturday, Politico reported that President Donald Trump is drafting an executive order to create a board overseeing National Institutes of Health grant awards, centralizing funding control under political appointees.",
+      "Russ Vought has argued that political appointees should have greater authority to terminate grants, claiming career bureaucrats at the NIH have facilitated research conflicting with the president's priorities.",
+      "Currently, funding decisions rest with the directors of NIH's 27 institutes, but the proposed board would include Vought and NIH Director Jay Bhattacharya, requiring unanimous decisions on all grant awards.",
+      "Lawmakers from both parties have criticized the proposal, warning it could inject politics into scientific research, following similar funding cuts undertaken last year that affected numerous institutions.",
+      "An HHS spokesperson said the department was \"committed to the core mission of the NIH\" and that \"NIH grant monies will be disbursed,\" though the agency did not provide further comment."
     ],
-    "title": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
-    "topic": null,
-    "topic_full": null
+    "title": "Trump seeks to bring health-research funding under his control, Politico reports",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/carney-welcomes-a-proposal-for-canada-to-become-the-european-unions-first-associate-member",
-    "article_url": "https://ground.news/article/carney-welcomes-a-proposal-for-canada-to-become-the-european-unions-first-associate-member",
+    "article_path": "/article/fighter-jet-dramatically-intercepts-aircraft-flying-over-camp-davids-restricted-airspace-causing-concern-with-trump-in-town_d93e52",
+    "article_url": "https://ground.news/article/fighter-jet-dramatically-intercepts-aircraft-flying-over-camp-davids-restricted-airspace-causing-concern-with-trump-in-town_d93e52",
     "bias": [
-      "Left-Leaning coverage frames Carney’s European outreach as strategic solidarity, stressing that Canada and Europe are “stronger together,” rejecting “fair-weather allies,” and portraying deeper ties as a hedge against “great powers encroaching” on smaller nations’ sovereignty.",
-      "Right-Leaning coverage adopts the upbeat “stronger together” formulation but de-emphasizes geopolitical rationale and the unresolved meaning of associate membership, presenting Carney’s remarks mainly as acceptance of the EU invitation.",
-      "Center coverage is narrower and more qualified, emphasizing the “ambition” to deepen the alliance while noting undefined terms.",
-      "The dividing line is whether the proposal signals collective security or warrants institutional caution; all perspectives agree Carney welcomed closer Canada-EU cooperation."
+      "Left-Leaning coverage frames the event as a confirmed airspace “violation,” foregrounding Trump’s reported early return and “cutting off his stay,” while right-leaning coverage amplifies presidential-security stakes through “dramatically,” “causing stir,” and “drama briefly flared,” adding details such as escorting and possible flares.",
+      "Their pivotal divide is whether the interception signals disrupted presidential protection or merely enforced a no-fly zone: center coverage emphasizes a “routine response,” no injuries, and no indication Trump faced a “threat.” All perspectives agree that a NORAD F-16 intercepted a civilian aircraft near Camp David while Trump was present, but their framing reflects broader divides over executive security, danger, and political drama."
     ],
     "bias_bar_text": null,
-    "center_pct": 30.0,
+    "center_pct": 19.0,
     "error": null,
-    "left_pct": 39.0,
-    "location": null,
+    "left_pct": 10.0,
+    "location": "Maryland",
+    "right_pct": 71.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, a NORAD F-16 fighter jet intercepted a general aviation aircraft that violated restricted airspace over Camp David while President Donald Trump was visiting the Maryland retreat.",
+      "Temporary Flight Restrictions were in effect over the Thurmont area during Trump's weekend stay; NORAD officials emphasized that pilots must check notices before takeoff to avoid unauthorized incursions.",
+      "To gain the pilot's attention, the NORAD pilot deployed flares, which pose no danger to the ground. Intercepted pilots must tune to 121.5 or 243.0 and reverse course immediately.",
+      "According to the Defense Visual Information Distribution Service, the fighter safely escorted the unauthorized aircraft out of the area. The White House declined to comment on whether the interception disrupted the trip.",
+      "The First Air Force confirmed the encounter was managed to ensure regional security, underscoring the importance of adherence to flight protocols for ongoing presidential retreat protection."
+    ],
+    "title": "US F-16 intercepts aircraft over restricted airspace near Camp David",
+    "topic": "F-16",
+    "topic_full": "F-16 · Maryland"
+  },
+  {
+    "article_path": "/article/michigan-city-defends-itself-against-accusations-of-favoring-muslim-holidays-over-other-faiths",
+    "article_url": "https://ground.news/article/michigan-city-defends-itself-against-accusations-of-favoring-muslim-holidays-over-other-faiths",
+    "bias": [
+      "Left-Leaning coverage frames the lawsuit as “attacks” on Dearborn’s diversity and “welcoming nature,” while highlighting the allegation that the city is “favoring Muslim holidays”; center-leaning reporting uses similarly charged phrases such as “ignoring religious holidays” but tempers them with “accusations,” “defends itself,” and attribution to a city spokesperson.",
+      "The pivotal divide is whether Muslim holiday recognition represents inclusion or preferential treatment, though the specific practices, plaintiffs’ arguments, and lawsuit’s legal merits are de-emphasized.",
+      "No substantive right-leaning narrative is available, making comparison impossible.",
+      "Across perspectives, the shared focus is a religious-equality dispute reflecting broader tensions over pluralism, minority inclusion, and perceived cultural favoritism."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 47.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": "Dearborn",
+    "right_pct": 29.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, journalist Margot Cleveland filed a federal lawsuit accusing Dearborn and Mayor Abdullah Hammoud of favoring Muslim holidays over Christian and Jewish observances in the majority Arab American city.",
+      "The complaint alleges Dearborn spent $1,500 on Ramadan banners and $5,000 on a Peace Park crescent-moon display last year while failing to mark Easter or Passover similarly.",
+      "Tensions stem from a 2025 clash where Hammoud criticized pastor Ted Barham for opposing a street named after Osama Siblani, which Barham called \"quite inappropriate.\"",
+      "In a statement Saturday, Dearborn rejected the allegations, asserting it \"has a longstanding commitment to serving all residents fairly and equitably, regardless of faith or background.\"",
+      "The lawsuit seeks unspecified damages and court orders to ensure compliance with the First and Fourteenth Amendments, while Hammoud maintains residents of all faiths remain welcome."
+    ],
+    "title": "Michigan city defends itself against accusations of favoring Muslim holidays over other faiths",
+    "topic": "Michigan Politics",
+    "topic_full": "Michigan Politics · Dearborn"
+  },
+  {
+    "article_path": "/article/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown",
+    "article_url": "https://ground.news/article/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown",
+    "bias": [
+      "Left-Leaning coverage foregrounds the plaintiffs’ consumer-harm theory, repeatedly calling the alleged conduct an “illegal agreement” that reduced subscription value, while de-emphasizing the companies’ stated safety rationale.",
+      "Right-Leaning coverage intensifies the competitive and political stakes, using terms like “collusion,” “conspiracy,” and “rip off customers,” and linking the case to calls to “pace the frontier,” portraying safety coordination as possible market control.",
+      "Center coverage supplies procedural context—four subscribers, specific products, and the proposed class action—while distinguishing allegations from findings.",
+      "The pivotal divide is whether cooperation to manage AI risk represents responsible safety coordination or unlawful restraint of innovation; all perspectives emphasize the lawsuit, antitrust claims, and alleged slowdown, reflecting wider tensions over regulation, corporate power, and technological acceleration."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 42.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
     "right_pct": 31.0,
     "status": "ok",
     "summary": [
-      "On Thursday, Canadian Prime Minister Mark Carney addressed the European Parliament in Strasbourg, calling for an 'alliance of the future' between Canada and the 27 European Union countries and declaring that Canada and Europe are 'stronger together.'",
-      "European Commission President Ursula invited Canada to become the bloc's first 'associate member' on Wednesday, stating the two must 'urgently reimagine' their partnership beyond a free trade agreement.",
-      "Carney proposed cooperation in a 'full range of strategic capabilities,' while Canada became the first non-European member of Security Action, providing €150 billion in loans for defence spending.",
-      "Calling the potential associate status a 'hostile act,' President Donald Trump threatened heavy tariffs on Europe and labeled Canada a 'terrible trade partner,' directing federal agencies to remove Canadian products.",
-      "While the 'associate member' designation currently lacks a basis in the European Union treaty, Jonathan Wilkinson, Canada's ambassador to the EU, noted Ottawa is prioritizing sectors like artificial intelligence and defence procurement."
+      "On Friday, a civil lawsuit was filed in the Northern District Court of California alleging that Anthropic, OpenAI, SpaceXAI, and Google engaged in illegal collusion to coordinate a slowdown in AI development.",
+      "Anthropic Chief Executive Officer Dario Amodei issued a plea for \"industry-wide coordination\" to \"pace the frontier,\" drawing prompt agreement from Elon Musk, Sam Altman, and Demis Hassabis.",
+      "The complaint alleges a violation of the Sherman Act, with plaintiffs including Cheyenne Hunt arguing the pact restricts competition to help corporations dodge public pressure.",
+      "Hunt stated, \"If these companies actually believe their products could risk human extinction,\" arguing that four CEOs should not make such decisions behind closed doors.",
+      "Lawyer Nick Rowley said, \"Humanity deserves iron clad safeguards,\" asserting the suit aims to prevent private arrangements from sidelining regulatory oversight on extinction threats."
     ],
-    "title": "Canada welcomes EU ambition for it to become 'associate member', Carney tells European Parliament",
+    "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+    "topic": "Artificial Intelligence",
+    "topic_full": "Artificial Intelligence · United States"
+  },
+  {
+    "article_path": "/article/chinas-oil-stockpile-helps-curb-price-spike-during-iran-war",
+    "article_url": "https://ground.news/article/chinas-oil-stockpile-helps-curb-price-spike-during-iran-war",
+    "bias": [
+      "Left-Leaning coverage frames elevated oil prices through Trump’s Iran conflict, using phrases like “war against Iran,” “doomsday oil-price spike,” and the sarcastic “has Xi to thank” to diminish his credit while stressing what might have gone wrong.",
+      "Right-Leaning coverage emphasizes China ’s reserves and reduced imports as “quietly softening the blow,” even calling the outcome “vindication” of Xi’s strategy, while highlighting Trump’s diplomatic stature and China’s “record high” youth unemployment.",
+      "Center coverage more mechanistically explains reserves, electric vehicles, and alternative fuels.",
+      "All acknowledge volatility, prolonged conflict, and a less-than-feared price surge, but diverge over whether the story signals Trump’s failure, Xi’s success, or broader geopolitical interdependence."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 35.0,
+    "location": "United States",
+    "right_pct": 24.0,
+    "status": "ok",
+    "summary": [
+      "China's strategic oil reserve of about 1.4 billion barrels has tempered global price spikes as the Iran war enters its sixth month, with Beijing cutting crude imports 32% in the second quarter.",
+      "President Xi Jinping made energy self-reliance a cornerstone of China's latest five-year plan to shield against foreign supply disruptions, which former senior CIA analyst Jonathan Czin called \"a vindication of Xi's last five-year plan and his focus on self-reliance.\"",
+      "Energy analysts credit Beijing's slashing imports to 8.1 million barrels per day with moderating global prices, as Michael Lynch, president of Strategic Energy and Economic Research, noted China \"didn't panic and by turning to their inventories they kept the price down for everybody.\"",
+      "Chinese President Xi Jinping arrives in Washington next week amid diplomatic tensions, as President Trump prepares to meet Gulf Cooperation Council leaders Tuesday in New York; the Trump administration has urged Beijing to press Iran to reopen the Strait of Hormuz, though Chinese officials oppose the U.S. war.",
+      "Bank of America analysts forecast oil at $83 a barrel for the second half of the year but warn prices could spike to $150 if violence escalates, as Iran-backed militias attacked this month, Saudi Arabia shut a Red Sea pipeline, and Yemen-based Houthis seized strategic islands to disrupt shipping."
+    ],
+    "title": "China’s Oil Stockpile Helps Curb Price Spike During Iran War",
+    "topic": "Asia",
+    "topic_full": "Asia · United States"
+  },
+  {
+    "article_path": "/article/bill-maher-takes-aim-at-macklemore-amid-gaza-remarks-old-jew-costume-controversy",
+    "article_url": "https://ground.news/article/bill-maher-takes-aim-at-macklemore-amid-gaza-remarks-old-jew-costume-controversy",
+    "bias": null,
+    "bias_bar_text": "C 23% Right 77%",
+    "center_pct": 23.0,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": null,
+    "right_pct": 77.0,
+    "status": "fail",
+    "summary": null,
+    "title": "Bill Maher Targets Macklemore Over Gaza Remarks and Revives 2014 Costume Controversy",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/cb15ba60-ac6d-4820-87f8-16e116971833",
-    "article_url": "https://ground.news/article/cb15ba60-ac6d-4820-87f8-16e116971833",
+    "article_path": "/article/legendary-conservative-pop-singer-pat-boone-offers-startling-advice-to-donald-trump-for-a-little-while-try-being-quiet",
+    "article_url": "https://ground.news/article/legendary-conservative-pop-singer-pat-boone-offers-startling-advice-to-donald-trump-for-a-little-while-try-being-quiet",
     "bias": [
-      "Left-Leaning coverage frames Greenland’s deal as coercive expansion, using phrases like “take,” “permanent control,” “threatening to take the island by force,” and “coveted,” while stressing protests, sovereignty, mineral interests, and uncertainty over formal approval.",
-      "Right-Leaning coverage portrays the same arrangement as Trump’s “historic” “victory,” a “dream come true” that secures lasting military rights and blocks Chinese or Russian “adversaries.” Center coverage presents a cautious compromise, emphasizing incomplete terms, parliamentary procedures, and the distinction between security authority and sovereignty.",
-      "All perspectives highlight expanded U.S. military access and NATO implications, but their divide reflects competing concerns over imperial power, executive strength, and Arctic geopolitics."
+      "Left-Leaning coverage casts conservative supporter Pat Boone’s advice as a startling rebuke, using “very tired,” “begs,” and “shut up” to portray Trump as exhausting, embarrassing, and in need of restraint.",
+      "Center coverage softens this into friendly counsel to “sound like a president,” while right-leaning framing calls it “blunt advice,” stresses that quieter speech would showcase Trump’s “accomplishments,” and pairs criticism of his “name-calling” with the partisan dismissal “ fake news .” The pivotal divide is whether Boone’s intervention signals conservative disillusionment or supportive image management.",
+      "All perspectives emphasize speaking less and emulating Reagan, reflecting broader disputes over presidential decorum, media trust, and partisan identity."
     ],
-    "bias_bar_text": "Left 30% Center 40% Right 30%",
-    "center_pct": 40.0,
+    "bias_bar_text": "Left 57% Center 29% R 14%",
+    "center_pct": 29.0,
     "error": null,
-    "left_pct": 30.0,
+    "left_pct": 57.0,
     "location": null,
-    "right_pct": 30.0,
+    "right_pct": 14.0,
     "status": "ok",
     "summary": [
-      "On Friday, President Donald Trump announced the United States entered an agreement with Denmark and Greenland establishing US \"permanent control over security, and all other needs, in Greenland.\"",
-      "Vice President Vance and Secretary of State Marco Rubio met with Danish Foreign Minister Lars Rasmussen and Greenland Prime Minister Jens-Frederik Nielsen in January following months of tension over potential US acquisition.",
-      "Trump stated the arrangement grants the United States \"the complete ability to do what is necessary in Greenland\" at \"NO COST,\" while barring adversaries from establishing bases without express written approval.",
-      "As of publication, neither Denmark nor Greenland has issued a statement or released the agreement's text, contradicting Nielsen's prior assertion that the island's sovereignty remains non-negotiable.",
-      "An 85% majority of Greenlanders opposed joining the United States in a January poll, while Trump argued Presidents have recognized Greenland's strategic importance \"for over 100 years."
+      "On Friday, legendary singer Pat Boone urged his friend President Donald Trump to tone down his rhetoric, suggesting he 'try for just a little while to be quiet.'",
+      "Long a supporter of Trump, Boone voted for him in 2016 and 2020 and cited former President Ronald Reagan's 'humor, courtesy, respect, and a presidential manner' as the model Trump should follow.",
+      "Journalists from CNN, MS NOW, and Politico were blocked from entry on Saturday, following Trump's Friday announcement that the three organizations would be barred from the White House.",
+      "Boone previously criticized Trump for behaving like a 'schoolyard bully' and being 'his own worst enemy' due to his manner and speech, urging him to stop using insulting nicknames.",
+      "Emphasizing the 'spirit of friendship and concern,' Boone expressed hope the president will listen, though he did not specifically address Trump's media ban in his message."
     ],
-    "title": "US, Denmark reach deal giving US ‘permanent security control’ over Greenland",
+    "title": "Pat Boone Urges Trump to Speak Less and Follow Reagan’s Example",
     "topic": null,
     "topic_full": null
+  },
+  {
+    "article_path": "/article/search-underway-for-suspected-gunman-outside-notre-dame-football-game-vs-michigan-state_bdf92b",
+    "article_url": "https://ground.news/article/search-underway-for-suspected-gunman-outside-notre-dame-football-game-vs-michigan-state_bdf92b",
+    "bias": [
+      "Coverage converges on gunfire near Notre Dame Stadium, an injured officer, another hospitalized person, and a shelter-in-place response, but its emphasis diverges: left-leaning reports foreground casualties and the officer’s possible “ricochet” or “shrapnel” injury; center coverage depicts “chaos,” “terrifying scenes,” and a “festive game day” disrupted, while adding the possible fight and single-shot context; right-leaning reports repeatedly spotlight the “suspected gunman,” “lockdown,” last-known location, and fans ordered to remain inside.",
+      "The pivotal divide is whether the event is framed chiefly as human harm, crowd trauma, or an active law-and-order threat—reflecting broader differences over security and social danger."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 71.0,
+    "error": null,
+    "left_pct": 11.0,
+    "location": "Notre Dame",
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, Sept. 19, a suspected gunman opened fire near Notre Dame's campus at Eddy Street Commons during the football game against Michigan State, prompting a shelter-in-place order.",
+      "A fight broke out near Eddy Street and Angela Boulevard, leading to gunfire that injured two people, including a police officer struck by shrapnel or a ricochet during the altercation.",
+      "Police are actively searching for the suspect, described as a heavy-set Black male wearing blue shorts, a black shirt, and one white shoe, who investigators believe fled in a westerly direction.",
+      "Both victims were taken to a hospital and are expected to be OK, though the intersection of Eddy Street and Angela Boulevard remains an active crime scene the public should avoid.",
+      "Notre Dame officials confirmed there is no continued threat to campus, though law enforcement continues collecting evidence from the scene and it remains unclear when the area will fully reopen."
+    ],
+    "title": "Search underway for suspected gunman outside Notre Dame football game vs Michigan State",
+    "topic": "Police",
+    "topic_full": "Police · Notre Dame"
+  },
+  {
+    "article_path": "/article/us-says-it-killed-four-in-strike-on-vessel-in-the-caribbean_014c08",
+    "article_url": "https://ground.news/article/us-says-it-killed-four-in-strike-on-vessel-in-the-caribbean_014c08",
+    "bias": [
+      "Left-Leaning coverage foregrounds “killed,” “alleged,” and “without providing any evidence,” portraying the strike as an unverified, potentially unlawful use of force and emphasizing humanitarian consequences.",
+      "Right-Leaning coverage frames the same event as Trump’s anti-cartel campaign, using terms like “narco-terrorists,” “drug boat,” “blew up,” and “deadly kinetic strike” to stress threat and military resolve, while de-emphasizing evidentiary doubts.",
+      "Center coverage mainly attributes claims to U.S. authorities and supplies broader context, including at least 231 deaths across 69 strikes.",
+      "All perspectives acknowledge the strike and four deaths, but their divide reflects larger tensions over national security, executive power, accountability, and civilian risk."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 36.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "United States",
+    "right_pct": 36.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, the U.S. military killed four people in a strike on a vessel in the Caribbean Sea, alleging the boat was involved in drug trafficking.",
+      "This strike continues a year-long campaign targeting those President Donald Trump calls \"narcoterrorists,\" with the administration claiming the U.S. is in \"armed conflict\" with cartels in Latin America.",
+      "U.S. Southern Command posted on Twitter that \"Confirmed intelligence revealed the vessel's active involvement in narco-trafficking,\" though the military provided no evidence the vessel was carrying drugs.",
+      "Labeled \"extrajudicial killings\" by rights groups, the latest incident brings the total death toll from 69 boat strikes to at least 231 since the campaign began.",
+      "Defense Secretary Pete Hegseth recently announced deals for joint military operations in Latin American countries, though Guatemala has denied reaching any such agreement with the United States."
+    ],
+    "title": "US says it killed four in strike on vessel in the Caribbean",
+    "topic": "US Foreign Policy",
+    "topic_full": "US Foreign Policy · United States"
+  },
+  {
+    "article_path": "/article/ed-sheeran-says-situation-in-gaza-is-catastrophic-and-unjustifiable-as-he-opens-solo-concert_0a73a8",
+    "article_url": "https://ground.news/article/ed-sheeran-says-situation-in-gaza-is-catastrophic-and-unjustifiable-as-he-opens-solo-concert_0a73a8",
+    "bias": [
+      "Left-Leaning coverage foregrounds accountability, portraying Sheeran as a “besieged musician” who “admits” “mistakes,” says “so, so sorry,” and condemns Gaza as “catastrophic and unjustifiable.” Right-leaning coverage de-emphasizes apology and instead frames the episode as a “controversy” over “censorship” and performers’ speech rights, with an emphatic “READ IT” tone.",
+      "Center coverage bridges the narratives, adding Macklemore’s removal, demonstrations, ticket-price reactions, Sheeran’s “heartbroken” response, and his effort to stress unity over politics.",
+      "All acknowledge Sheeran’s Gaza remarks, but their priorities expose a wider divide between humanitarian condemnation and free-expression concerns."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 50.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": "Philadelphia",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, singer Ed Sheeran opened his concert at Lincoln Financial Field by apologizing for \"mistakes\" while addressing the controversy surrounding rapper Macklemore's removal from his tour.",
+      "Macklemore was dropped after stadium owners issued an \"ultimatum\" regarding his \"Free Palestine\" remarks at MetLife Stadium. New England Patriots owner Robert Kraft barred him from Gillette Stadium performances.",
+      "Supporting acts Lukas Graham, Aaron Rowe, and Irish folk band Beoga withdrew in solidarity with Macklemore, while about 50 pro-Palestinian demonstrators gathered outside the Philadelphia venue before the show.",
+      "Kraft cited a \"broader history of antisemitic rhetoric\" from Macklemore's 2014 performance as justification. Sheeran insisted he was not responsible, emphasizing his shows focus on unity, not division.",
+      "Stating his \"heart has been broken\" by civilian deaths, Sheeran described the Gaza situation as \"catastrophic and unjustifiable,\" adding he never wanted to be an activist musician but cannot hide his humanitarian concerns."
+    ],
+    "title": "Ed Sheeran calls situation in Gaza ‘unjustifiable’ in first concert since Macklemore controversy",
+    "topic": "Music",
+    "topic_full": "Music · Philadelphia"
+  },
+  {
+    "article_path": "/article/pro-palestinian-protesters-target-ed-sheerans-philadelphia-concert-after-macklemore-removed-from-tour_4f03ec",
+    "article_url": "https://ground.news/article/pro-palestinian-protesters-target-ed-sheerans-philadelphia-concert-after-macklemore-removed-from-tour_4f03ec",
+    "bias": [
+      "Left-Leaning coverage frames the dispute as Palestinian solidarity and possible suppression, emphasizing Gaza as “catastrophic and unjustifiable,” artists’ “beautiful” support, and calls to boycott Sheeran’s tour.",
+      "Right-Leaning coverage portrays Macklemore’s remarks as “tirades,” protesters as “fired up” or “targeting” Sheeran, and the fallout as “weak ticket demand,” while defending Sheeran as caught in the controversy.",
+      "Center coverage de-emphasizes ideology, stressing the schedule shift from 5:30 to 8 p.m., logistics, and resale prices falling 45–50%.",
+      "The pivotal divide is whether activism represents principled solidarity or disruptive coercion; all perspectives acknowledge Macklemore’s removal, protests, and Sheeran’s humanitarian appeal."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 36.0,
+    "error": null,
+    "left_pct": 41.0,
+    "location": "Philadelphia",
+    "right_pct": 23.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, September 19, 2026, Ed Sheeran performed solo at Philadelphia's Lincoln Financial Field after all four support acts withdrew from his Loop Tour. The concert proceeded as scheduled despite the lineup shakeup and planned pro-Palestinian demonstrations outside the venue.",
+      "Macklemore was removed from the Loop Tour after his September 4 'Free Palestine' remarks at New Jersey's MetLife Stadium. Macklemore alleged New England Patriots owner Robert Kraft orchestrated his removal by issuing an ultimatum to tour organizers.",
+      "Following Macklemore's exit, support acts Finneas, Lukas Graham, Aaron Rowe, and the band Beoga withdrew from remaining dates in solidarity. TicketData reported 7,500 tickets remained available before the concert, with resale prices dropping significantly amid the controversy.",
+      "During his performance, Sheeran stated he was 'not complicit' in Macklemore's removal and blamed tour promoters for the decision. Outside the stadium, demonstrators gathered, with protester Donna Greenberg describing the event as 'a cultural watershed moment' for Palestinian advocacy.",
+      "With 16 shows remaining through December across North and South America, tour organizers face ongoing challenges maintaining venue stability. Protesters have extended calls for boycotting Sheeran's entire world tour, including upcoming Latin American dates, as industry tensions persist."
+    ],
+    "title": "Pro-Palestinian protesters target Ed Sheeran’s Philadelphia concert after Macklemore removed from tour",
+    "topic": "Ed Sheeran",
+    "topic_full": "Ed Sheeran · Philadelphia"
+  },
+  {
+    "article_path": "/article/naacp-sues-to-keep-federal-agents-away-from-voting-locations",
+    "article_url": "https://ground.news/article/naacp-sues-to-keep-federal-agents-away-from-voting-locations",
+    "bias": [
+      "Left-Leaning coverage frames the lawsuit as a defense against “armed agents,” a “climate” of fear for voters of color, federal “control” of elections, and President Trump’s “unfounded” fraud claims; its language evokes coercion and democratic danger.",
+      "Center coverage uses a more procedural register, emphasizing alleged “voter intimidation,” Voting Rights Act claims, and named officials including Kash Patel and Markwayne Mullin.",
+      "No right-leaning analysis is provided, so a conservative counter-narrative cannot be assessed.",
+      "Across perspectives, the NAACP , civil-rights groups, and labor unions challenge potential deployments near polls; plaintiffs name administration officials, while the record does not establish agents were actually deployed."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 28.0,
+    "error": null,
+    "left_pct": 72.0,
+    "location": "United States",
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Friday, the NAACP and other civil rights groups sued the Trump administration, seeking to block potential deployment of federal agents at polling places during November's midterm elections, alleging voter intimidation violations.",
+      "The lawsuit follows the Trump administration's recently expanded efforts to identify noncitizens registered to vote, despite no evidence of widespread voter fraud. President Donald Trump and senior officials have not ruled out deploying federal agents to polling places.",
+      "Plaintiffs argue these actions violate Section 11 of the Voting Rights Act, which prohibits voter intimidation. The lawsuit states voters, particularly Black, Latino, and Asian voters, are afraid to participate in civic life, constituting unlawful intimidation.",
+      "Mullin claimed ICE would only be at polling places if responding to threats or serving warrants, though the administration has not ruled out broader deployments. FBI Director Kash Patel refused to confirm or deny polling-site plans earlier this week.",
+      "This marks at least the second lawsuit challenging potential polling-site deployments, following a similar action filed last week by the City of Denver and civil rights groups. Federal law bars armed officers from polling locations, and Section 11 remains legally intact despite earlier Supreme Court weakening of the broader Voting Rights Act."
+    ],
+    "title": "NAACP sues to block Trump administration from sending armed agents to polls",
+    "topic": "NAACP",
+    "topic_full": "NAACP · United States"
   },
   {
     "article_path": "/article/jeff-bezos-elon-musk-and-sam-altman-invited-to-white-house-state-dinner-for-xi-jinping",
@@ -166,12 +496,12 @@
       "Center coverage de-emphasizes those disputes, instead portraying “AI giants” and “most influential technology and business leaders” such as Musk, Altman, and Bezos as the event’s defining feature, while noting “growing concerns” about rapid AI development.",
       "The dividing line is whether the dinner signals substantive geopolitical negotiation or elite technological prominence; both perspectives agree AI and major U.S. executives are central to the summit’s broader U.S.–China competition."
     ],
-    "bias_bar_text": "Left 43% Center 43% R 14%",
-    "center_pct": 43.0,
+    "bias_bar_text": null,
+    "center_pct": 29.0,
     "error": null,
-    "left_pct": 43.0,
-    "location": null,
-    "right_pct": 14.0,
+    "left_pct": 21.0,
+    "location": "Washington",
+    "right_pct": 50.0,
     "status": "ok",
     "summary": [
       "On September 24, President Donald Trump will host a state dinner for Chinese leader Xi Jinping, with tech executives including Elon Musk, Sam Altman, Tim Cook, Jensen Huang, Sundar Pichai, and Jeff Bezos expected to attend.",
@@ -181,31 +511,25 @@
       "Trump has rejected calls for domestic AI regulation, arguing the United States must maintain supremacy over China in the technology race. Altman will brief the United Nations Security Council next week regarding international coordination."
     ],
     "title": "Elon Musk, Sam Altman Among AI Giants Invited to Trump-Xi State Dinner",
-    "topic": null,
-    "topic_full": null
+    "topic": "US Politics",
+    "topic_full": "US Politics · Washington"
   },
   {
-    "article_path": "/article/un-chief-deeply-regrets-us-visa-refusal-to-abbas-for-annual-meeting",
-    "article_url": "https://ground.news/article/un-chief-deeply-regrets-us-visa-refusal-to-abbas-for-annual-meeting",
-    "bias": [
-      "Left-Leaning coverage foregrounds UN criticism, using phrases like “deeply regrets” and “refusal” to portray Washington as unjustifiably restricting Palestinian participation, while right-leaning accounts stress that the visa decision “blocked” Abbas and invoke U.S. “obligations” as the UN host under the Headquarters Agreement.",
-      "The pivotal divide is whether the episode signifies exclusion or a contested legal duty; neither side explains the State Department’s rationale.",
-      "Center coverage adds procedural context, noting Abbas’s video address and its 152–3–4 vote, softening the all-or-nothing framing.",
-      "Across perspectives, the shared emphasis is the denial, its second-year recurrence, Guterres’s concern, and the wider U.S.–Palestinian diplomatic conflict."
-    ],
+    "article_path": "/article/un-allows-palestinian-president-to-again-speak-via-video-after-us-denies-visa",
+    "article_url": "https://ground.news/article/un-allows-palestinian-president-to-again-speak-via-video-after-us-denies-visa",
+    "bias": null,
     "bias_bar_text": null,
-    "center_pct": 25.0,
+    "center_pct": 18.0,
     "error": null,
-    "left_pct": 33.0,
+    "left_pct": 44.0,
     "location": "New York",
-    "right_pct": 42.0,
-    "status": "ok",
+    "right_pct": 38.0,
+    "status": "no_change",
     "summary": [
-      "On Thursday, The United States denied visas to Palestinian President Mahmoud Abbas and other officials for next week's The General Assembly, preventing his in-person participation.",
-      "The State Department cited a lack of reforms by the Palestinian Authority and opposed 'actions to internationalize' the Israeli-Palestinian conflict, including bypassing negotiations via the International Court.",
-      "Following the denial, The General Assembly voted 152-3 on Thursday to allow Abbas to appear virtually, mirroring last year's procedure when The Trump also denied visas.",
-      "United Nations Secretary-General Antonio Guterres 'deeply regrets' the decision, spokesman Stephane Dujarric said, urging The United States 'to ensure that visas are issued to all delegations in accordance with its obligations.'",
-      "Washington remains at odds with 142 United Nations member states that recognized a Palestinian state, complicating global efforts to integrate Palestine fully into the work of the United Nations."
+      "On Thursday, the U.S. State Department denied visas to Palestinian President Mahmoud Abbas and his delegation, blocking their attendance at the UN General Assembly. The General Assembly voted 152-3 on Thursday to permit Abbas to address the body virtually.",
+      "Washington cited a lack of reforms by the Palestinian Authority and opposed Palestinian \"actions to internationalize the Israeli-Palestinian conflict including through the International Criminal Court and International Court of Justice, seeking to bypass negotiations through seeking unilateral recognition.\"",
+      "United Nations Secretary-General Antonio Guterres \"deeply regrets\" the decision, expressing concern about Palestine's participation in the UN. The European Union urged the United States to reconsider, noting this marks the second consecutive year of visa denials.",
+      "Only members of the Palestinian mission to the UN will attend the session beginning Tuesday. The Ministry of Foreign Affairs and Expatriates welcomed the resolution, saying it \"represents a breaking of the attempt to prevent Palestine's participation."
     ],
     "title": "UN allows Palestinian president to again speak via video after US denies visa",
     "topic": "Antonio Guterres",
@@ -221,11 +545,11 @@
       "The pivotal divide is whether the episode signifies resignation or temporary leave; all perspectives nonetheless emphasize the confrontation, PETA’s involvement, and professional consequences, reflecting broader debates over protest tactics and accountability."
     ],
     "bias_bar_text": null,
-    "center_pct": 55.0,
+    "center_pct": 44.0,
     "error": null,
-    "left_pct": 35.0,
+    "left_pct": 36.0,
     "location": "New York",
-    "right_pct": 10.0,
+    "right_pct": 20.0,
     "status": "ok",
     "summary": [
       "Steven Kolb resigned as CEO and president of the Council of Fashion Designers of America on Friday night, ending his 20-year tenure following a leave of absence earlier this week.",
@@ -242,396 +566,199 @@
     "article_path": "/article/fbi-temporarily-halted-cooperation-with-canada",
     "article_url": "https://ground.news/article/fbi-temporarily-halted-cooperation-with-canada",
     "bias": [
-      "Left-Leaning coverage frames the FBI ’s temporary cooperation halt with Canada as Patel’s emotional and petty overreaction, using terms like “unfit,” “tantrum,” “pissed,” and “petty move,” while stressing damage to counterterrorism coordination.",
-      "Right-Leaning framing foregrounds the FBI’s “stopped cooperation” over Canada’s 9/11 language dispute, with “commotion” subtly minimizing or recasting the controversy and emphasizing institutional security concerns.",
-      "The pivotal divide is whether CBC’s attribution policy—avoiding “terrorism” without expert sourcing—reflects responsible editorial caution or an unacceptable recharacterization of 9/11.",
-      "Both perspectives highlight the temporary rupture and its link to the policy, reflecting wider tensions over media authority, national security, and political leadership."
+      "Left-Leaning coverage frames the temporary FBI -Canada cooperation pause as Patel’s “petty move,” “tantrum,” or anger-driven overreaction, even calling him “unfit,” while right-leaning accounts emphasize CBC’s “refusal” to use “terrorism” without attribution and label its guidance a “controversial directive,” portraying Patel’s response as a consequential institutional “freeze.” The pivotal divide is whether the dispute reflects reckless retaliation or justified resistance to politically cautious language about 9/11; left coverage stresses that cooperation continued in some areas, whereas the right foregrounds “frozen” ties.",
+      "Center coverage largely uses “paused” and narrates the sequence without evaluative language.",
+      "All perspectives agree the action was temporary, involved Kash Patel and the RCMP, and arose from CBC’s 9/11 policy, reflecting wider clashes over media norms, national security, and institutional authority."
     ],
     "bias_bar_text": null,
-    "center_pct": 18.0,
+    "center_pct": 17.0,
     "error": null,
-    "left_pct": 41.0,
+    "left_pct": 44.0,
     "location": "Canada",
-    "right_pct": 41.0,
+    "right_pct": 39.0,
     "status": "ok",
     "summary": [
-      "FBI Director Kash Patel temporarily halted some cooperation with the Royal Canadian Mounted Police this month after objecting to Canadian Broadcasting Corporation guidelines on referring to the September 11 attacks.",
-      "The dispute began after CBC reminded journalists of a longstanding policy requiring experts to attribute the term \"terrorism\" to 9/11, prompting Patel to call the policy a \"bastardization of history\" in late August posts.",
-      "CBC News updated its guidance on Aug. 28, allowing journalists to use \"terrorism\" without attribution; Canadian Culture Minister Marc Miller called the original policy a \"welcome change to what was a piece of pedantic and foolish guidance.\"",
-      "While the FBI canceled meetings with Canadian counterparts, other U.S. agencies continued working with Canada normally. The RCMP stated, \"We value our relationship with our U.S. counterparts, as we work closely to respond to threats to national security.\"",
-      "New York University law professor Ryan Goodman labeled Patel \"unfit\" for jeopardizing the FBI's relationship with Canada's national police, while the pause reportedly ended around the 25th anniversary of the attacks."
+      "FBI Director Kash Patel temporarily halted some cooperation with the Royal Canadian Mounted Police earlier this month after objecting to a Canadian Broadcasting Corporation memo discouraging journalists from labeling the September 11 attacks as \"terrorism\" without attribution.",
+      "Ahead of the 9/11 anniversary, an internal CBC memo reminded journalists to attribute the term \"terrorism\" to experts, prompting international criticism before the network reversed its editorial guidance on August 28.",
+      "Patel escalated tensions on X, threatening that Canadian agencies refusing to reject the guidance would \"no longer have friend in this FBI,\" while characterizing the policy as a \"bastardization of history.\"",
+      "The Royal Canadian Mounted Police stated it maintains \"strong relationships\" with allies, and the FBI's disruption of meetings appears to have been short-lived, ending around the 25th anniversary of the attacks."
     ],
     "title": "FBI Temporarily Halted Cooperation with Canada",
     "topic": "FBI",
     "topic_full": "FBI · Canada"
   },
   {
-    "article_path": "/article/openai-expects-to-burn-through-almost-280-billion-by-2030-ft-reports_de88b5",
-    "article_url": "https://ground.news/article/openai-expects-to-burn-through-almost-280-billion-by-2030-ft-reports_de88b5",
+    "article_path": "/article/us-military-says-over-1b-barrels-of-oil-shipped-through-strait-of-hormuz-under-us-blockade_f55080",
+    "article_url": "https://ground.news/article/us-military-says-over-1b-barrels-of-oil-shipped-through-strait-of-hormuz-under-us-blockade_f55080",
     "bias": [
-      "Left-Leaning coverage emphasizes scale and recalibration: computing needs rise from $600 billion to $856 billion, while the $278 billion projected loss is framed as an “improvement” from $305 billion.",
-      "Right-Leaning coverage spotlights excess, using “burning through,” “cash drain,” and spending that “far outpaces income,” linking the figure to a $1.2 trillion valuation, possible IPO, and AI-safety tensions.",
-      "Center coverage stresses the jump from $180 billion and notes the report could not be independently verified.",
-      "All perspectives emphasize enormous infrastructure costs and roughly $278 billion in projected negative cash flow, reflecting broader disputes over innovation, corporate accountability, and market risk."
+      "Left-Leaning coverage frames the reported passage of over 1 billion barrels and 18 million barrels in one day as evidence that U.S. protection is “paying off” and “momentum is building,” while casting the operation as a coercive “blockade” and warning of “annihilation.” Right-leaning coverage turns the same figures into an “ironclad blockade,” “success,” and Iran ’s “zero” exports, portraying U.S. control and Iranian defeat; one outlet even attacks the commander as a “terrorist.” Center coverage stays comparatively restrained, calling it a “significant milestone.” All repeat CENTCOM’s claims, but diverge over intervention, credibility, and geopolitical victory."
     ],
     "bias_bar_text": null,
-    "center_pct": 56.0,
+    "center_pct": 18.0,
     "error": null,
-    "left_pct": 11.0,
+    "left_pct": 17.0,
     "location": "United States",
-    "right_pct": 33.0,
+    "right_pct": 65.0,
     "status": "ok",
     "summary": [
-      "On Friday, the Financial Times reported that OpenAI projects it will burn through $278 billion in cash between 2026 and 2030, driven by aggressive investment in computing capacity for its AI models.",
-      "Though OpenAI expects revenue to increase tenfold to $350 billion by 2030, the company plans to spend about $856 billion on computing power and infrastructure, with expenses vastly outpacing gains.",
-      "OpenAI raised $122 billion in March at an $852 billion valuation but is on track to exhaust that cash by 2028; the ChatGPT-maker is seeking fresh investment valuing the company at about $1.2 trillion.",
-      "CEO Sam Altman said on Saturday the company \"would not go public in 2026 because of concerns about AI safety\", though OpenAI filed confidentially for an IPO in June and may delay the timeline.",
-      "Another funding round would provide flexibility for OpenAI as it navigates high infrastructure costs; Bloomberg reported earlier this week that fresh investment could support mergers and acquisitions, potentially delaying the listing by one or two quarters."
+      "Oil and liquefied natural gas shipments through the Strait of Hormuz reached a six-month high in the past two weeks, with Admiral Brad Cooper crediting U.S. naval protection and mine clearance efforts as \"paying off.\"",
+      "Energy Secretary Chris Wright noted on September 13 that markets rely on roughly 10 million barrels daily transiting the Strait, a critical dependency the President Donald Trump administration has emphasized amid soaring fuel prices in an election year.",
+      "Persian Gulf allies shipped more than one billion barrels of crude through the waterway in the last couple of months, while Cooper stated \"Clearly, momentum is building\" regarding collaborative efforts with insurers and shipping companies.",
+      "Saudi authorities issued two early-morning air raid alerts for Riyadh on September 19, the first since March and April, following a September 17 Houthi strike in Taif that caused casualties and disrupted alternative routes.",
+      "Regional negotiations on shipping routes have faltered, while Iran claims it \"has exported zero barrels\" under the U.S.-enforced blockade, underscoring persistent geopolitical tensions affecting long-term maritime stability."
     ],
-    "title": "OpenAI forecasts cash burn near $280 billion by 2030, FT reports",
-    "topic": "OpenAI",
-    "topic_full": "OpenAI · United States"
+    "title": "US military says over 1B barrels of oil shipped through Strait of Hormuz under US blockade",
+    "topic": "Oil and Gas Sector",
+    "topic_full": "Oil and Gas Sector · United States"
   },
   {
-    "article_path": "/article/foreign-hackers-breach-two-more-us-water-utilities-threaten-safety-of-colorado-residents_7af898",
-    "article_url": "https://ground.news/article/foreign-hackers-breach-two-more-us-water-utilities-threaten-safety-of-colorado-residents_7af898",
+    "article_path": "/article/a-judge-wont-lift-the-order-tiktok-priced-at-100m_f8ec5e",
+    "article_url": "https://ground.news/article/a-judge-wont-lift-the-order-tiktok-priced-at-100m_f8ec5e",
     "bias": [
-      "Left-Leaning coverage frames the intrusions as part of a broader campaign by “foreign actors,” highlighting “suspected links to Iran” while de-emphasizing operational and public-health details.",
-      "Right-Leaning coverage instead uses alarm-oriented language such as “breach,” “foreign hackers,” and “threaten safety,” portraying manipulated pumps and disabled alarms as evidence of serious vulnerability and danger to residents.",
-      "Center coverage, where present, tempers both narratives by stressing that only two small utilities serving fewer than 200 people were affected, water quality remained intact, and attribution was unconfirmed.",
-      "The dividing line is whether the event signals geopolitical escalation or limited infrastructure exposure; all emphasize unauthorized access and official concern, reflecting wider disputes over threat perception and national security."
+      "Coverage diverges mainly by emphasis, not overt partisanship: the left foregrounds Judge George H.",
+      "Wu’s “won’t lift” stance, continued oversight under Musical.ly’s 2019 consent decree, and the conditional $100 million beyond the immediate $300 million payment.",
+      "Center coverage stresses children’s privacy, a settlement “hurdle,” and “uncertainty” for TikTok ’s U.S. operations, while the right largely repeats the restrained “signals rejection” formulation, de-emphasizing background and implications.",
+      "All perspectives place the proposed $400 million agreement and partial judicial rejection at the center, revealing selective framing rather than genuine ideological polarization."
     ],
     "bias_bar_text": null,
-    "center_pct": 55.0,
+    "center_pct": 62.0,
     "error": null,
-    "left_pct": 18.0,
-    "location": "Colorado",
-    "right_pct": 27.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, Ally Sullivan, spokesperson for Colorado Governor Jared Polis, confirmed that foreign hackers breached two privately owned water utilities in late August, each serving fewer than 200 people.",
-      "Colorado joins at least a dozen states confronting cyberattacks on water system technology, following a wave of disruptions that targeted 100 water entities nationwide, according to an August 21 advisory from the Cybersecurity and Infrastructure Security Agency .",
-      "Hackers changed equipment settings, disabled remote access and alarms, and altered pumping cycles, Sullivan said. She reported \"treatment processes and water quality were not impacted at either provider.\"",
-      "State officials have not identified the actors, and the FBI declined to comment on the investigation. Sullivan noted the state is aware of \"ongoing efforts across the nation by an Iranian-backed group\" to access water systems.",
-      "Federal agencies have warned of active cyber threats against critical infrastructure, including water systems, from Iranian-affiliated actors seeking to \"cause disruptive effects within the United States.\" State officials are distributing new security guidance to providers."
-    ],
-    "title": "Foreign Hackers Targeted Colorado Water Systems in August, Governor’s Office Says",
-    "topic": "Hacking",
-    "topic_full": "Hacking · Colorado"
-  },
-  {
-    "article_path": "/article/defence-firm-anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business_5dd2ca",
-    "article_url": "https://ground.news/article/defence-firm-anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business_5dd2ca",
-    "bias": [
-      "Center-Leaning coverage frames the Taiwan arms-sale delay as a reported, uncertain compromise, emphasizing Anduril’s business impact and domestic actors such as “China hawks” and “Taipei’s lobbyists,” while “stalling” casts Washington’s hesitation negatively.",
-      "Right-Leaning coverage shifts outward, portraying Beijing as one that “pressures” Washington and the proposed $14 billion package as a “major” strategic commitment whose postponement heightens “tension” before a Trump-Xi meeting.",
-      "The pivotal divide is whether delay reflects internal bargaining and summit diplomacy or weakness under Chinese pressure; both highlight Anduril founder Palmer Luckey’s claim that the delay affects business and his discussion with Trump, while treating the timeline as unsettled."
-    ],
-    "bias_bar_text": "8% Center 34% Right 58%",
-    "center_pct": 34.0,
-    "error": null,
-    "left_pct": 8.0,
-    "location": null,
-    "right_pct": 58.0,
-    "status": "ok",
-    "summary": [
-      "On Saturday, Anduril founder Palmer Luckey said President Donald Trump 's delay in approving Taiwan arms sales is affecting his business and that he discussed the $14 billion package with Trump, Vice President JD Vance and Secretary of State Marco Rubio.",
-      "Trump has held the $14 billion package in abeyance since a May summit with Chinese President Xi Jinping, describing it as a \"very good negotiating chip\" as Xi prepares for a Washington state visit next week.",
-      "The stalled package creates cascading effects, with Luckey stating \"it's that as long as that's stuck, you don't have continued forward progress in other areas.\" The administration also weighs potential Chinese retaliation through rare earth leverage affecting American consumers.",
-      "Trump faces competing pressures from multiple sides, with the White House considering various postponement options reflecting compromises among China hawks and Taiwan's lobbyists while weighing potential consumer impact from Chinese retaliation.",
-      "The delay could extend through year-end as Trump prepares for bilateral meetings at November's Asia-Pacific Economic Cooperation summit in Shenzhen and December's Group of 20 summit, though he privately considered postponing until late 2028 before facing strong opposition from hawks."
-    ],
-    "title": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/nato-defence-chiefs-to-decide-whether-to-tap-gen-carignan-for-senior-nato-post",
-    "article_url": "https://ground.news/article/nato-defence-chiefs-to-decide-whether-to-tap-gen-carignan-for-senior-nato-post",
-    "bias": null,
-    "bias_bar_text": "Left 68% Center 32%",
-    "center_pct": 32.0,
-    "error": null,
-    "left_pct": 68.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "NATO chiefs of defence are meeting today in Copenhagen, Denmark, to select the next chair of the alliance's military committee, with Canada's Chief of the Defence Staff Gen. Jennie Carignan competing against German Gen. Carsten Breuer.",
-      "Italy's Admiral Giuseppe Cavo Dragone, the current military committee chair, will leave his post next year, creating a vacancy in a role held by only three Canadians, with the last serving during the Afghanistan war.",
-      "On Parliament Hill, Defence Minister David McGuinty told reporters Friday that Carignan has \"enormous credibility\" and confirmed writing letters to international counterparts, saying \"She's running a very, I think, a very good campaign.\"",
-      "If Carignan wins, she would become the first woman to lead the military committee and would be required to step down as leader of Canada's military, a role she has held since 2024.",
-      "Although the military committee chair position carries prestige, it lacks the broader influence of the alliance's most senior role, the Supreme Allied Commander, a command position traditionally reserved for an American officer."
-    ],
-    "title": "NATO defence chiefs to decide whether to tap Gen. Carignan for senior NATO post",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/us-treasury-secretary-to-discuss-ai-rare-earths-with-chinese-vice-premier-this-weekend",
-    "article_url": "https://ground.news/article/us-treasury-secretary-to-discuss-ai-rare-earths-with-chinese-vice-premier-this-weekend",
-    "bias": [
-      "Coverage is largely neutral, but its emphases diverge: the left highlights Chinese open-weight AI models gaining U.S. popularity because they are “cheaper,” framing the talks through affordability and competitive pressure; the right stresses Bessent’s statement that both “open-weight” and “closed-weight” systems will be discussed, presenting a more technical, balanced agenda.",
-      "Center coverage calls the meeting “significant” and depicts the U.S. and China as “major forces,” while adding New York logistics, trade , and broader economic issues.",
-      "The pivotal divide is whether AI is portrayed as a cost-driven challenge or a strategic diplomatic arena; all perspectives nevertheless emphasize Bessent, He, AI, rare earths, and consequential U.S.-China economic relations."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 24.0,
-    "error": null,
-    "left_pct": 38.0,
+    "left_pct": 19.0,
     "location": "United States",
-    "right_pct": 38.0,
+    "right_pct": 19.0,
     "status": "ok",
     "summary": [
-      "Treasury Secretary Scott Bessent plans to discuss artificial intelligence, trade, and rare earths with Chinese Vice Premier He Lifeng in New York City this weekend, ahead of a September 24 summit between President Donald Trump and Chinese President Xi Jinping.",
-      "Negotiators will address potential extension of a tariff truce expiring November 10, which currently caps duties at about 20 per cent, while seeking to improve flows of Chinese-produced rare-earth magnets curtailed in 2025.",
-      "Bessent stated he expects discussions to cover \"both open- and closed-weight models,\" reinforcing his recent call for the United States and China to agree on \"guardrails\" to prevent misuse by non-state actors.",
-      "Reuters reported Thursday that a U.S. government website employed a Chinese AI model, despite FBI accusations that developer Alibaba engaged in \"malicious\" copying of Anthropic's technology, complicating security discussions.",
-      "These New York meetings explore possible areas of agreement ahead of the September 24 summit between Trump and Jinping in Washington, as both nations remain primary forces driving advanced AI development."
+      "On Friday, District Judge George H. Wu tentatively rejected a request to lift the 2019 consent decree on TikTok , maintaining federal oversight of the app's privacy practices.",
+      "The Federal Trade Commission originally imposed this decree in 2019 after settling a $5.7m children's privacy case with Musical.ly, the predecessor to TikTok, requiring record-keeping obligations through 2029.",
+      "Under the $400 million settlement announced in August, ByteDance agreed to pay $300 million immediately, with an additional $100m contingent on the court terminating the decree.",
+      "Judge George wrote that the court \"cannot determine that it constitutes a durable remedy\", tentatively denying the request because termination was not suitably tailored to the asserted change in circumstance.",
+      "In contrast to the US process, The European Commission is increasing supervision under the Digital Services Act, accusing TikTok of addictive design rather than removing oversight."
     ],
-    "title": "US Treasury's Bessent to discuss AI, rare earths with China's He, source says",
-    "topic": "Scott Bessent",
-    "topic_full": "Scott Bessent · United States"
+    "title": "US judge signals rejection of part of TikTok privacy settlement",
+    "topic": "TikTok",
+    "topic_full": "TikTok · United States"
   },
   {
-    "article_path": "/article/trump-extends-push-for-us100-000-h-1b-visas-by-another-year_368c30",
-    "article_url": "https://ground.news/article/trump-extends-push-for-us100-000-h-1b-visas-by-another-year_368c30",
+    "article_path": "/article/heiresses-sue-the-auschwitz-museum-to-recover-watercolors-that-a-mother-was-forced-to-paint-during-nazism",
+    "article_url": "https://ground.news/article/heiresses-sue-the-auschwitz-museum-to-recover-watercolors-that-a-mother-was-forced-to-paint-during-nazism",
     "bias": [
-      "Left-Leaning coverage frames the $100,000 H-1B extension as a “push” that “hits Indian tech professionals hardest,” warning of overseas hiring, while right-leaning coverage stresses a “tougher line” to protect American jobs, spotlighting alleged “abuse,” layoffs , employer scrutiny, and a “shock” to U.S. aspirants.",
-      "The left and right both highlight a judge’s ruling that the fee was illegal and the administration’s appeal, though the right foregrounds enforcement; exceptions for national-interest cases, students, and renewals receive more limited attention.",
-      "Center coverage treats the matter mainly as a legal-policy development, distinct from the broader “aggressive immigration crackdown” framing.",
-      "Across perspectives, the extension, $100,000 payment, and claimed 92% registration decline expose competing worker-protection and global-labor priorities."
+      "Left-Leaning coverage frames the lawsuits as “a fresh legal fight,” stressing intergenerational trauma, ethical accountability, and the moral force of “Nazi-looted” art , including Lucas Cranach the Elder’s *Adam and Eve* at the Norton Simon Museum.",
+      "Right-Leaning coverage foregrounds restitution, unresolved ownership, and Dina Gottliebova Babbitt’s coerced Auschwitz watercolors, invoking “persecution, coercion and genocide” and Mengele’s “Angel of Death” epithet.",
+      "Center coverage de-emphasizes personal histories, emphasizing California and federal legal changes and the first claims filed under them.",
+      "Across perspectives, Jewish heirs or Holocaust-victim representatives challenge holdings at Norton Simon and Auschwitz museums over Nazi-era seizures."
     ],
     "bias_bar_text": null,
-    "center_pct": 31.0,
+    "center_pct": 65.0,
     "error": null,
-    "left_pct": 23.0,
-    "location": "United States",
-    "right_pct": 46.0,
+    "left_pct": 24.0,
+    "location": "Los Angeles",
+    "right_pct": 11.0,
     "status": "ok",
     "summary": [
-      "On Friday, President Donald Trump signed a proclamation extending H-1B visa restrictions for another 12 months, maintaining a $100,000 payment requirement for certain workers entering the United States until September 21, 2027.",
-      "Trump initially imposed the fee last September to curb what he described as visa program abuse reducing job opportunities for Americans, replacing baseline fees of $2,000 and $5,000.",
-      "A Boston-based appeals court is reviewing a June ruling that declared the fee illegal, while another court is considering a challenge from the Chamber of Commerce, the largest US business lobbying group.",
-      "Processing changes have forced companies to adjust hiring plans, with major users like Alphabet increasing operations in India; business groups argue the visas are essential for recruiting skilled professionals.",
-      "Established by Congress in 1990, the program remains critical for tech companies recruiting from China and India, as the White House stated the conditions necessitating these restrictions persist."
+      "On Monday, two lawsuits were filed in Los Angeles seeking return of Nazi-looted art . The Jewish Federation of Greater Los Angeles sued Norton Simon Museum for Lucas Cranach paintings, while Dinah Gottliebova Babbitt's daughters sued the Auschwitz-Birkenau Memorial and Museum for watercolors.",
+      "California and Congress recently enacted legislation, including the Holocaust Expropriated Art Recovery Act of 2025, to remove procedural barriers that have prevented families from recovering art stolen by the Nazi regime. These laws ensure restitution claims are decided on their merits.",
+      "The Jewish Federation seeks Lucas Cranach's 'Adam and Eve,' which Norton Simon Museum claims it purchased legally in the 1960s. Babbitt's daughters demand return of seven watercolors she was forced to paint for Nazi physician Josef Mengele while imprisoned at Auschwitz.",
+      "Museums maintain they hold legal titles to the works. The Auschwitz-Birkenau Memorial argues the watercolors are essential historical documents of Mengele's crimes, while Norton Simon Foundation claims prior judicial rulings established the museum's rightful ownership of the Cranach paintings.",
+      "These cases test whether new statutes can overcome decades of possession and legal barriers. With over 600,000 works stolen by the Nazis remaining unrestituted, the lawsuits represent a pivotal moment for Holocaust-era restitution policy."
     ],
-    "title": "Trump extends push for US$100,000 H-1B visas by another year",
-    "topic": "US Immigration",
-    "topic_full": "US Immigration · United States"
+    "title": "Los Angeles Lawsuits Seek Return of Auschwitz Watercolors and Cranach Paintings",
+    "topic": "Court",
+    "topic_full": "Court · Los Angeles"
   },
   {
-    "article_path": "/article/major-us-airlines-oppose-air-china-bid-to-schedule-additional-us-flights",
-    "article_url": "https://ground.news/article/major-us-airlines-oppose-air-china-bid-to-schedule-additional-us-flights",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 75.0,
-    "error": "Message: \n",
-    "left_pct": 25.0,
-    "location": "United States",
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Major US airlines oppose Air China bid to schedule additional US flights",
-    "topic": "Airlines",
-    "topic_full": "Airlines · United States"
-  },
-  {
-    "article_path": "/article/anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program-report",
-    "article_url": "https://ground.news/article/anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program-report",
+    "article_path": "/article/fitzpatrick-distances-himself-from-trump-in-competitive-pennsylvania-race",
+    "article_url": "https://ground.news/article/fitzpatrick-distances-himself-from-trump-in-competitive-pennsylvania-race",
     "bias": [
-      "Left-Leaning coverage frames Anthropic ’s lab as a “quiet” or “secretly” built expansion amid “apocalyptic” AI fears, stressing potential bioweapons, corporate accountability, and the tension between warnings and experimentation.",
-      "Right-Leaning coverage likewise spotlights a “striking tension,” but mixes skepticism with innovation language such as “pioneer,” emphasizing AI’s leap into tangible biology and possible drug discovery.",
-      "The pivotal divide is whether Claude-linked robotics signal dangerous autonomy or promising research, alongside the right’s de-emphasis of Anthropic’s claim that the lab is not specifically for drug discovery.",
-      "Center coverage foregrounds human oversight and preclinical limits.",
-      "All agree on the Bay Area wet lab, rare-disease ambitions, and broader AI-biological convergence."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 25.0,
-    "error": null,
-    "left_pct": 26.0,
-    "location": "United States",
-    "right_pct": 49.0,
-    "status": "ok",
-    "summary": [
-      "Anthropic has established a wet lab in the San Francisco Bay Area to conduct physical biological experiments, expanding its artificial intelligence efforts into drug science, Eric Kauderer-Abrams confirmed on September 15.",
-      "Seeking to treat rare conditions previously deemed \"undruggable,\" Anthropic aims to accelerate life science progress, driven by Anthropic CEO Dario Amodei's personal mission after his father's death preceded a cure.",
-      "Leveraging physical automation, Anthropic is using software like Claude Science to assist pharmaceutical firms including Roche and Novartis, while acquiring Coefficient Bio for approximately $400 million to bolster capabilities.",
-      "While pushing into biology, Anthropic faces trust challenges as customers worry the company may access their competing drug data, despite data protection measures in place.",
-      "The company prepares for a potentially $2 trillion IPO to fund AI development while navigating public skepticism over safety risks and potential biological weapons applications."
-    ],
-    "title": "Anthropic quietly sets up biology lab as it ramps AI drug program: Report",
-    "topic": "Anthropic",
-    "topic_full": "Anthropic · United States"
-  },
-  {
-    "article_path": "/article/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic",
-    "article_url": "https://ground.news/article/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic",
-    "bias": [
-      "Left-Leaning coverage frames Anthropic ’s partnership as a response to “catastrophic harm,” rising scrutiny, and pressure for stronger AI regulation, presenting the $1 billion pledge as accountability.",
-      "Right-Leaning coverage instead treats external evaluation as evidence Anthropic “does not trust its own AI,” emphasizing “full access,” consumer vulnerability, and possible institutional overreach, while portraying the combined $2 billion as a consequential security effort.",
-      "The pivotal divide is whether embedded auditing signals responsible oversight or internal distrust; the center perspective de-emphasizes both alarm and suspicion, detailing red-teaming, Faculty’s role, and the five-year structure.",
-      "All agree that advanced AI safety warrants substantial investment and independent scrutiny, reflecting wider debates over regulation, corporate power, and technological risk."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 36.0,
-    "error": null,
-    "left_pct": 18.0,
-    "location": "United States",
-    "right_pct": 46.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, AI lab Anthropic announced a partnership with Accenture for independent evaluation of its frontier models, with each company committing at least $1 billion over five years to build evaluation capacity.",
-      "The collaboration addresses growing pressure from regulators and researchers to ensure advanced models remain safe, supporting what Anthropic calls \"embedded evaluation\" for independent evaluators to access systems with employee-level privileges.",
-      "Accenture's specialist AI business, Faculty, will lead the partnership by conducting red-teaming and alignment assessments. \"Embedded evaluators can assess how a company operates,\" Anthropic said, helping identify potential safety blind spots.",
-      "Rival OpenAI announced on Wednesday it would begin publishing regular reports on unexpected model behavior, releasing six reports detailing such incidents to provide transparency regarding system risks.",
-      "Anthropic CEO Dario Amodei called on AI companies Saturday to slow frontier model development and grant independent evaluators greater access to their systems to better monitor and control behavior."
-    ],
-    "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
-    "topic": "Anthropic",
-    "topic_full": "Anthropic · United States"
-  },
-  {
-    "article_path": "/article/shapiro-admin-rules-for-pennsylvania-medicaid-recipients-spark-lawsuit-from-people-with-disabilities",
-    "article_url": "https://ground.news/article/shapiro-admin-rules-for-pennsylvania-medicaid-recipients-spark-lawsuit-from-people-with-disabilities",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 73.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "Pennsylvania",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Wednesday, four Pennsylvanians with intellectual and developmental disabilities filed a class-action lawsuit challenging new Medicaid travel and caregiver rules, which attorneys argue the Pennsylvania Department of Human Services imposed without following required regulatory processes.",
-      "Democratic Gov. Josh Shapiro's administration reimposed these limits after Commonwealth Court struck them down earlier this year, arguing the court's ruling addressed process rather than the underlying policies themselves.",
-      "The revised workhour rule, known as the \"40/60 Rule,\" caps caregiver pay at 40 hours weekly for one worker or 60 hours for multiple relatives. Travel services must now occur within Pennsylvania, a stricter limit than previously enforced.",
-      "Plaintiffs including 29-year-old MichaelAnn Byrne, a Cumberland County resident with a degenerative brain disorder, claim the restrictions prevent meaningful travel; critics warn the rules could force some individuals into institutional care due to staffing shortages.",
-      "Officials claim the measures protect Medicaid's financial stability amid federal scrutiny of relative caregiving, while the Department has begun updating regulations through a formal process that will include public comment opportunities."
-    ],
-    "title": "Shapiro admin rules for Pennsylvania Medicaid recipients spark lawsuit from people with disabilities",
-    "topic": "Pennsylvania Politics",
-    "topic_full": "Pennsylvania Politics · Pennsylvania"
-  },
-  {
-    "article_path": "/article/carney-says-canada-is-strong-as-us-borrowing-costs-rise-and-europe-ties-deepen",
-    "article_url": "https://ground.news/article/carney-says-canada-is-strong-as-us-borrowing-costs-rise-and-europe-ties-deepen",
-    "bias": [
-      "Left-Leaning coverage calls an EU agreement the “better option,” endorsing Carney while qualifying that Europe may be slow and risky; it contrasts Canada ’s “strong” position with rising U.S. borrowing costs and rejects “historic reliance” on Washington.",
-      "Center framing emphasizes economic redirection amid a diplomatic “spat,” including criticism of a “weird zero-sum notion.” Right-leaning accounts more forcefully call for a European “alliance,” portray Washington as “threatens” levies, and foreground sovereignty, democracy, rule of law, and resilience without seeking to “dominate.” All agree Canada-Europe ties are deepening amid Trump-era tensions, reflecting wider debates over dependence, nationalism, and multilateralism."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 36.0,
-    "error": null,
-    "left_pct": 40.0,
-    "location": "Canada",
-    "right_pct": 24.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, Canadian Prime Minister Mark Carney addressed the European Parliament in Strasbourg, France, calling for deeper transatlantic ties with the European Union amid an ongoing trade spat with President Donald Trump's administration.",
-      "European Commission President Ursula von der Leyen proposed on Wednesday that Canada become the bloc's first \"associate member,\" urging partners to \"urgently reimagine our partnerships\" during her speech in Strasbourg.",
-      "Carney called for \"strategic autonomy\" in critical minerals, defense-industrial capacity, and energy, while proposing \"seamless, digital trade in non-agricultural goods and a wide range of services\" to build strengths deliberately and systematically.",
-      "Rejecting the idea of a new power bloc, Carney stated, \"I'm not proposing a third bloc in order to become a great power rival—only with better manners.\" He emphasized Canada seeks resilience to protect open markets and sovereignty.",
-      "Carney also called for deeper \"people-to-people ties,\" proposing that young citizens be allowed to \"work, study and live where they want on either side of the Atlantic\" to foster long-term cooperation between Canada and Europe."
-    ],
-    "title": "Carney says Canada is ‘strong’ as US borrowing costs rise and Europe ties deepen",
-    "topic": "Canadian Politics",
-    "topic_full": "Canadian Politics · Canada"
-  },
-  {
-    "article_path": "/article/iran-wars-cost-grows-to-436-billion-in-new-us-military-estimate",
-    "article_url": "https://ground.news/article/iran-wars-cost-grows-to-436-billion-in-new-us-military-estimate",
-    "bias": [
-      "Left-Leaning coverage frames the Iran conflict as an expanding “financial burden,” stressing that “if you don’t count everything,” the $43.6 billion estimate understates future, inflationary, and facility-repair costs, while linking the “rising bill” to public opposition and elections.",
-      "Right-Leaning coverage emphasizes taxpayer exposure and “widening strain,” connecting the same figure to munitions, casualties, interceptor shortages, oil prices, and military readiness.",
-      "Center coverage clarifies that $45.1 billion includes $1.5 billion in fuel.",
-      "All perspectives highlight Pentagon /CENTCOM estimates, ammunition costs, and escalation, revealing a broader divide over war spending, accountability, and strategic sustainability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 49.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "United States",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Pentagon informed Congress that the U.S. war with Iran has cost $43.6 billion since it began in February, representing the highest official estimate for the ongoing conflict.",
-      "According to United States Central Command, expenditures include $28.1 billion for spent munitions, $11.2 billion for operations, and $4.3 billion for lost weapons, with another $1.5 billion covering fuel.",
-      "Military officials noted that this estimate omits potential billions in damages to U.S. facilities across eight Middle East countries, alongside long-term costs like veterans' healthcare and disability compensation.",
-      "Diminished stockpiles of defensive missile interceptors have caused alarm among U.S. and NATO officials as Army Patriot and THAAD systems face high demand throughout the conflict.",
-      "The Congressional Budget Office projects the war will continue to cost $2 billion to $3 billion monthly, sparking economic inflation concerns as the November midterm elections draw near."
-    ],
-    "title": "Iran war’s cost grows to $43.6 billion in new US military estimate",
-    "topic": "Iran War",
-    "topic_full": "Iran War · United States"
-  },
-  {
-    "article_path": "/article/florida-confirms-a-death-from-dengue-as-the-state-struggles-with-one-of-its-worst-recent-outbreaks",
-    "article_url": "https://ground.news/article/florida-confirms-a-death-from-dengue-as-the-state-struggles-with-one-of-its-worst-recent-outbreaks",
-    "bias": [
-      "Left-Leaning coverage foregrounds systemic public- health strain, calling the surge “one of its worst recent outbreaks,” emphasizing warnings, more than 130 locally acquired cases, and mosquito-control responses.",
-      "Right-Leaning framing personalizes the tragedy, spotlighting an 80-year-old victim, her birthday, and the vivid phrase “met the wrong mosquito,” while “battles outbreak” adds combative urgency and de-emphasizes local interventions.",
-      "Center coverage bridges both, stressing the roughly 134 cases, historical rarity, “wildly unusual” conditions, and expanded testing.",
-      "The key divide is collective risk versus individual loss, though all perspectives emphasize the confirmed 2026 death and unusually large outbreak, reflecting broader tensions over institutional versus human-interest storytelling."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 57.0,
-    "error": null,
-    "left_pct": 29.0,
-    "location": "Florida",
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Florida Department of Health confirmed the state's first dengue fever death of 2026, involving 80-year-old Gay Small, who died of \"dengue infection,\" \"septic shock,\" and \"multi-organ failure\" at Tampa General Hospital in Hillsborough County.",
-      "Hillsborough County has become the epicenter of an unprecedented dengue surge, recording 134 of the 152 locally acquired infections reported in Florida this summer, a dramatic shift from the county's typical handful of annual cases.",
-      "Doctors at Tampa General Hospital have treated more than 100 dengue patients, with chief hospital epidemiology officer Dr. Kartik Cherabuddi noting the intense body aches known as \"break-bone fever\" frequently drive patients to emergency rooms.",
-      "Hillsborough County Mosquito Management Services is deploying trucks and helicopters to eliminate disease vectors, while senior environmental scientist Paolo Pecora urged residents to drain standing water on their properties to disrupt breeding cycles.",
-      "Climate change and warmer temperatures are expanding mosquito ranges, with University of Florida associate professor Michael von Fricken suggesting these outbreaks could become the \"new normal\" for the state's recurring dengue threat."
-    ],
-    "title": "Florida confirms a death from dengue as the state struggles with one of its worst recent outbreaks",
-    "topic": "Dengue Fever",
-    "topic_full": "Dengue Fever · Florida"
-  },
-  {
-    "article_path": "/article/mail-trouble-canceled-some-alaska-primary-votes-in-western-alaska",
-    "article_url": "https://ground.news/article/mail-trouble-canceled-some-alaska-primary-votes-in-western-alaska",
-    "bias": [
-      "Left-Leaning coverage frames the 75 late rural Alaska ballots as an access and accountability problem, using charged terms such as “canceled,” “mail trouble,” and “blames,” while widening the lens to a 3.4% absentee-ballot rejection rate—nearly twice the 2024 general-election level.",
-      "Right-Leaning coverage emphasizes a localized mail-delivery failure, “not counting,” and the state’s explanation, de-emphasizing broader procedural implications or historical comparisons.",
-      "Center coverage adds caution and specificity, noting seven communities, 62 of 75 ballots concentrated in three, and officials’ limited detail about the delay.",
-      "All perspectives acknowledge the late ballots and rural impact, but diverge over systemic vulnerability versus isolated administration—reflecting wider disputes about voting access, election management, and institutional trust."
+      "Left-Leaning framing casts Brian Fitzpatrick’s repeated “distancing” from Trump as an urgent, possibly futile defense against a liability, emphasizing Trump’s “low approval ratings,” rising gas prices, and electoral vulnerability.",
+      "Right-Leaning framing likewise stresses that separation “may not save him,” but foregrounds voter discontent with Trump’s “crass style” and “chaotic approach to governing,” without the left’s economic-Democratic strategy.",
+      "Center coverage adds Mary Ryan’s reconsideration and Fitzpatrick’s Iran war-powers vote.",
+      "Yet the three versions largely reproduce the same account, agreeing on Fitzpatrick’s independence, convention absence, and uncertain reelection prospects—differences reflecting emphasis more than fundamentally distinct narratives."
     ],
     "bias_bar_text": null,
     "center_pct": 47.0,
     "error": null,
-    "left_pct": 42.0,
-    "location": "Alaska",
-    "right_pct": 11.0,
+    "left_pct": 43.0,
+    "location": "Pennsylvania",
+    "right_pct": 10.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, the Alaska Division of Elections announced it will reroute absentee in-person ballots from rural western Alaska directly to the Region II Office in Anchorage, bypassing the Nome office to prevent mail delivery delays.",
-      "Officials reported that 75 in-person absentee ballots from rural communities arrived too late to be counted in last month's primary, with the Alaska Division blaming a 'mail delivery delay' affecting seven communities.",
-      "Naknek resident Sallyann Hughes discovered her ballot was rejected after casting it 13 days before the primary. She is seeking a 'documented accounting' of what happened to her vote after it entered election personnel custody.",
-      "Calling the rejection a 'slap in the face,' Michelle Sparck, director of Get Out the Native Vote, supports the rerouting plan. She warned that such failures 'deepen voter apathy and reinforce the systemic perception that our votes do not matter.'",
-      "While turnout in tribally affiliated precincts rose 48.8% over the 2024 primary, the state's 3.4% overall rejection rate for absentee ballots remains a concern. The Alaska Federation of Natives convention in late October will include an early voting push."
+      "In the competitive 1st Congressional District, five-term Republican Rep. Brian Fitzpatrick is working to distance himself from President Donald Trump while facing a challenge from Democratic commissioner Bob Harvie.",
+      "Voters like Mary Ryan plan to support Harvie this November, citing frustration with Trump's influence over Congress and a belief that Fitzpatrick remains too aligned with his party's leadership.",
+      "Fitzpatrick has disbursed nearly $5 million in campaign funds, utilizing negative attack ads against Harvie, while arguing on a podcast with Rep. Tom Suozzi that citizens are \"sick and tired of the noise.\"",
+      "Harvie denies claims that he is under FBI investigation, filing a federal defamation lawsuit against a super PAC running attack ads while emphasizing his deep local roots as a candidate advantage.",
+      "Political science professor Robert Speel notes that while Democrats label Fitzpatrick as vulnerable every two years, he consistently wins, though voter defections could threaten the Republican Party's narrow U.S. House majority."
     ],
-    "title": "State blames mail delivery issues for dozens of ballots from rural Alaska not counting in primary",
-    "topic": "Alaska Politics",
-    "topic_full": "Alaska Politics · Alaska"
+    "title": "Fitzpatrick Distances Himself From Trump in Competitive Pennsylvania Race",
+    "topic": "Pennsylvania Politics",
+    "topic_full": "Pennsylvania Politics · Pennsylvania"
   },
   {
-    "article_path": "/article/doha-denies-hamas-funding-and-affirms-continued-support-for-gaza-and-the-pacification-media_eec1ed",
-    "article_url": "https://ground.news/article/doha-denies-hamas-funding-and-affirms-continued-support-for-gaza-and-the-pacification-media_eec1ed",
+    "article_path": "/article/voting-groups-sound-alarm-on-funding-shortfalls-that-they-say-could-affect-midterm-turnout",
+    "article_url": "https://ground.news/article/voting-groups-sound-alarm-on-funding-shortfalls-that-they-say-could-affect-midterm-turnout",
+    "bias": [
+      "Left-Leaning coverage frames funding shortfalls as an urgent voting-access threat, using phrases like “sound alarm,” “racial justice,” and “depress turnout,” while de-emphasizing the broader power struggle.",
+      "Right-Leaning coverage portrays “liberal voter groups” that “scramble” after donors “pull back,” stressing organizational weakness, “robust voter protection,” and risks to communities of color and civil-rights groups.",
+      "Center coverage adds that control of Congress—and the remainder of Trump’s term—is at stake, while qualifying claims with “could” and attribution.",
+      "The pivotal divide is whether the shortfall signals an equity-driven participation crisis or donor-driven partisan fragility; all emphasize staffing cuts, midterm timing, and possible turnout effects."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 35.0,
+    "error": null,
+    "left_pct": 45.0,
+    "location": "United States",
+    "right_pct": 20.0,
+    "status": "ok",
+    "summary": [
+      "As midterm voting begins, major progressive voter engagement and racial justice organizations face steep funding shortfalls and staffing cutbacks, threatening voter mobilization efforts critical to controlling Congress under President Donald.",
+      "Following the 2024 election, wealthy donors have tightened purse strings, with some fearing retribution from the administration; Tameka Ramsey-Brown of the Michigan Coalition reported donors asked to remove \"Black\" from its name to avoid attention.",
+      "America Votes executive director Daria Dawson says the hub has fallen \"well below\" 2022 funding levels, while Vamos a Votar requires $5.4 million to fund turnout across 10 states and 17 House districts, with fundraising trailing 2018 cycles by nearly 40%.",
+      "To counter shortfalls, groups are increasing reliance on artificial intelligence and ride-sharing partnerships to boost turnout; The Democratic National Committee spokesperson Angelo Fern said the party is making \"historic investments\" in its own infrastructure.",
+      "The Supreme Court gutted the 1965 Voting Rights Act this year, complicating mobilization efforts; Esosa Osa of Onyx Impact described the donor retreat as \"handcuffing\" ability to persuade voters, saying \"We are watching surrender, not strategy."
+    ],
+    "title": "Progressive Voter Groups Face Funding Shortfalls as Midterm Voting Begins",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/sen-hawley-invites-flock-ceo-to-testify-amid-surveillance-controversy_bf2d23",
+    "article_url": "https://ground.news/article/sen-hawley-invites-flock-ceo-to-testify-amid-surveillance-controversy_bf2d23",
+    "bias": [
+      "Left-Leaning coverage frames the dispute through everyday “ privacy rights,” using the dismissive “haul... ass” to cast Hawley’s intervention as theatrical; center coverage emphasizes alleged “abuse,” “unauthorized tracking,” and Wyden and Schiff’s concerns about reproductive-health and immigration searches.",
+      "Right-Leaning coverage broadens the threat into “mass surveillance,” a “sprawling network,” and possible false accusations, while portraying Hawley as a “leading critic” and the Senate as ready to “grill” CEOs.",
+      "The pivotal divide is whether scrutiny centers on partisan performance, sensitive misuse, or nationwide technological overreach.",
+      "All perspectives, however, stress congressional testimony and privacy risks, reflecting wider arguments over civil liberties, policing, and government power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 8.0,
+    "location": "United States",
+    "right_pct": 46.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, Senator Josh Hawley invited CEOs from Flock Safety, Axon Enterprise, Motorola Solutions, and Verkada to testify on Wednesday, September 23, 2026, regarding mass surveillance systems.",
+      "The investigation follows widespread reports of police misusing surveillance technology to stalk women and conduct unauthorized tracking. Senator Ron Wyden demanded answers regarding privacy protections.",
+      "Hawley noted that AI-powered cameras capture 20 billion snapshots of cars monthly across a network of more than 120,000 devices. At least 50 law enforcement officers have been charged for illegal use.",
+      "Verkada CEO Filip Kaliszan will not attend, though his company is providing information to the subcommittee. It remains unclear if other invited CEOs, including Flock CEO Garrett Langley, will appear.",
+      "Congress must draft legislation to protect Americans' privacy, Hawley emphasized, arguing that safeguards should not depend on corporate policies but rather on rules enduring beyond current executive tenures."
+    ],
+    "title": "Hawley Calls Flock, Axon, Motorola CEOs to Senate Hearing on Surveillance",
+    "topic": "Josh Hawley",
+    "topic_full": "Josh Hawley · United States"
+  },
+  {
+    "article_path": "/article/hamas-netanyahu-s-breaking-into-the-wall-of-the-lightning-is-a-blatant-attack-on-the-identity-and-status-of-the-al-aqsa-mosque-the-gate-o",
+    "article_url": "https://ground.news/article/hamas-netanyahu-s-breaking-into-the-wall-of-the-lightning-is-a-blatant-attack-on-the-identity-and-status-of-the-al-aqsa-mosque-the-gate-o",
     "bias": null,
-    "bias_bar_text": "Left 100%",
+    "bias_bar_text": "Left 50% Right 50%",
     "center_pct": null,
     "error": "Message: \n",
-    "left_pct": 100.0,
+    "left_pct": 50.0,
     "location": null,
-    "right_pct": null,
+    "right_pct": 50.0,
     "status": "fail",
     "summary": null,
-    "title": "Qatar International Media Office Issues Statement in Response to False Claims and Fabricated Reports in Israeli Media",
+    "title": "Hamas's Reaction to Netanyahu's Attack on Al-Aqsa Mosque",
     "topic": null,
     "topic_full": null
   },
@@ -684,28 +811,60 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-lists-25-top-achievements-what-matters-most-to-americans_01f077",
-    "article_url": "https://ground.news/article/trump-lists-25-top-achievements-what-matters-most-to-americans_01f077",
+    "article_path": "/article/trump-blasts-supreme-court-over-tariff-and-birthright-citizenship-rulings_374cec",
+    "article_url": "https://ground.news/article/trump-blasts-supreme-court-over-tariff-and-birthright-citizenship-rulings_374cec",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s attack as an emotional outburst, using “wails” and quotation marks around “trillions” to signal skepticism, while right-leaning coverage presents a forceful challenge to an obstructive Court, using “unloaded,” “no courage,” “wrecked,” and “they blinked,” and emphasizing legal defeats for trade and immigration.",
+      "The pivotal divides are the Court’s limits on tariffs and birthright- citizenship policy, plus whether losses amounted to “billions” or “trillions.” Center coverage uses “blasts” and attributes the contested figure without endorsing it.",
+      "Across perspectives, the dispute remains a clash over presidential power, judicial authority, economic stakes, and immigration."
+    ],
+    "bias_bar_text": "11% Center 33% Right 56%",
+    "center_pct": 33.0,
+    "error": null,
+    "left_pct": 11.0,
+    "location": null,
+    "right_pct": 56.0,
+    "status": "ok",
+    "summary": [
+      "On Saturday, President Donald Trump criticized the Supreme Court for issuing \"faulty, political, and ridiculous decisions\" on tariffs and Birthright Citizenship, claiming these rulings cost the United States \"trillions of dollars.\"",
+      "The criticism stems from two major defeats: the February ruling blocking broad tariffs under the International Emergency Economic Powers Act and the June decision upholding Birthright Citizenship protections under the Fourteenth Amendment.",
+      "Writing on Truth Social, Trump argued the court \"lacked the Courage to MAKE AMERICA GREAT AGAIN,\" despite the conservative majority including his appointees Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett.",
+      "Earlier this month, District Judge Deborah Boardman blocked a new administration order attempting to restrict Birthright Citizenship, finding the government cannot deny citizenship to children the Supreme Court deemed citizens at birth.",
+      "Allies continue discussing ways to keep the debate alive through future litigation, legislation, and judicial nominations, though The White House has not indicated whether Trump is pursuing additional legal or legislative remedies."
+    ],
+    "title": "President Trump Attacks Supreme Court Over Tariff and Birthright Citizenship Rulings",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/virginia-democrats-push-constitutional-right-to-abortion-as-catholic-leaders-mobilize-against-measure",
+    "article_url": "https://ground.news/article/virginia-democrats-push-constitutional-right-to-abortion-as-catholic-leaders-mobilize-against-measure",
     "bias": null,
-    "bias_bar_text": "Center 25% Right 75%",
-    "center_pct": 25.0,
-    "error": "Message: \n",
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
     "left_pct": null,
     "location": null,
-    "right_pct": 75.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Trump lists 25 top achievements: What matters most To Americans",
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "Virginia Democratic lawmakers advanced a constitutional amendment protecting abortion -related decisions for the November ballot.",
+      "Abortion is currently legal in Virginia through 26 weeks and six days, but the state constitution does not explicitly protect abortion rights.",
+      "Gov. Abigail Spanberger and Attorney General Jay Jones support the measure, while Catholic leaders urge voters to reject it.",
+      "Bishop Michael Burbidge said the amendment could threaten women’s health, unborn life, and parental rights."
+    ],
+    "title": "Virginia Democrats Push Constitutional Right to Abortion as Catholic Leaders Mobilize Against Measure",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/us-china-discuss-cutting-tariffs-on-us-lng-ahead-of-xi-visit",
-    "article_url": "https://ground.news/article/us-china-discuss-cutting-tariffs-on-us-lng-ahead-of-xi-visit",
+    "article_path": "/article/trump-faces-complaint-over-super-pac-control",
+    "article_url": "https://ground.news/article/trump-faces-complaint-over-super-pac-control",
     "bias": [
-      "No meaningful left-right narrative split appears: both perspectives use restrained language such as “discuss,” “cutting tariffs ,” and “broader package,” presenting possible US-China LNG tariff reductions alongside energy and agriculture agreements ahead of Xi Jinping’s potential Washington visit.",
-      "The center presentation slightly foregrounds attribution to “two people briefed,” while the right largely reproduces the same account, but neither uses partisan cues like “crisis,” “concession,” or “China threat.” The key dividing line is therefore not ideological framing but uncertainty: proposed versus finalized policy, unconfirmed travel, unnamed sources, and unclear tariff rates or economic impact.",
-      "Both emphasize diplomacy and trade, reflecting shared interest in US-China geopolitical and commercial negotiations."
+      "The left-leaning framing foregrounds accountability, using phrases such as “hit with,” “claims,” “spurs,” and “watchdog complaint” to cast Trump’s “my money” assertion as potentially conflicting with restrictions on officeholders directing super PAC funds.",
+      "Center-Leaning coverage softens that edge, presenting the same claim as “raising questions” and connecting the dispute to the 2026 midterms.",
+      "Both highlight MAGA Inc.’s roughly $400 million, the FEC complaint, and the legal limits, while treating alleged illegality as an allegation—not proof of wrongdoing.",
+      "With no right-leaning headlines provided, and largely shared underlying reporting, the ideological divide appears limited; the main tension is scrutiny versus political context."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -715,169 +874,14 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "The US and China are discussing cutting China's 15% tariff on American LNG as part of a broader $30 billion package that could be announced during Chinese President Xi Jinping's visit to Washington next week, according to sources briefed on the discussions.",
-      "Beijing imposed a 15% tariff on American LNG in February 2025 in retaliation for President Donald Trump's duties on Chinese goods, effectively halting trade ; shipments fell from 64 vessels in 2024 to zero in 2025.",
-      "American LNG producers face mounting pressure with roughly 100 million metric tons of capacity under construction, of which 24.5 million metric tons remain uncontracted. Exports averaged 17.4 bcf/d in the first half of 2026, up 23% from a year earlier.",
-      "Negotiations remain tentative and not final, with neither the White House nor the Chinese embassy in Washington responding to requests for comment on the framework or timeline for any potential agreement.",
-      "The American LNG industry's export capacity is set to grow by roughly 10 billion cubic feet per day through 2027, even as geopolitical upheaval in Ukraine and the Middle East between the US and Iran reshapes global energy flows and competition for Asian markets."
+      "The Campaign Legal Center filed a formal complaint this week with the Federal Election Commission, alleging President Donald Trump's control over the $400 million super PAC MAGA Inc. violates federal law.",
+      "Federal law prohibits officeholders from directing spending for groups without contribution limits, yet Trump has repeatedly stated he maintains control over MAGA Inc. and its financial decisions.",
+      "Saurav Ghosh, director of federal campaign finance reform at the Campaign Legal Center, called the arrangement a \"clear violation\" of the law, citing Trump's remark: \"Let's do this, let's do that.\"",
+      "MAGA Inc. spokesperson Alex Pfeiffer dismissed the complaint as \"frivolous,\" while the Federal Election Commission remains unable to act because its board lacks enough confirmed members to meet.",
+      "As of Thursday, MAGA Inc. and allied super PACs reserved nearly $140 million nationwide, including $10 million already spent on the Texas Senate race."
     ],
-    "title": "US, China discuss cutting tariffs on US LNG ahead of Xi visit",
+    "title": "Trump Calling MAGA Inc. Funds ‘My Money’ Spurs FEC Complaint",
     "topic": null,
     "topic_full": null
-  },
-  {
-    "article_path": "/article/republican-arminio-removed-from-forum-after-misgendering-rep-sarah-mcbride-twice",
-    "article_url": "https://ground.news/article/republican-arminio-removed-from-forum-after-misgendering-rep-sarah-mcbride-twice",
-    "bias": [
-      "Left-Leaning coverage frames Joseph Arminio’s removal as a consequence of “transphobic comments,” calling him “booted,” highlighting audience boos, pressure to withdraw, and Republican “revolt.” Center coverage narrows the episode to a forum “disrupted” by repeated incorrect pronouns.",
-      "Right-Leaning coverage stresses Arminio’s “refusing” to use female terms and places “misgendering” in scare quotes, emphasizing disputed terminology and removal while de-emphasizing party conflict, audience reaction, and McBride’s historic status as the first openly transgender member of Congress.",
-      "Across perspectives, the shared core is Arminio’s removal after repeatedly referring to McBride with incorrect or non-female terms; the divide reflects broader cultural disputes over gender recognition, speech, and institutional boundaries."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On Thursday, Republican House candidate Joseph Arminio was ejected from a forum at the Siegel Jewish Community Center in Talleyville after repeatedly misgendering Democratic Rep. Sarah McBride, the first openly transgender member of the United States House of Representatives.",
-      "Moderator Ken Grant issued a warning after Arminio initially misgendered the Congresswoman, but 12 minutes later, Arminio repeated the behavior, prompting the crowd of about 100 people to boo and forcing his removal from the stage.",
-      "Despite the insults, Rep. Sarah McBride attempted to intervene so Arminio could continue speaking; however, fellow Republican U.S. Senate candidate Michael Katz interrupted, stating, \"No, get him out of here,\" leading to Arminio's removal.",
-      "Following the incident, Michael Katz formally called for Joseph Arminio to withdraw from the United States House race, arguing those seeking to represent Delaware must demonstrate \"integrity, judgment, decency, and respect\" toward others.",
-      "Co-Sponsored by the Jewish Federation of Delaware and the Wilmington Chapter of Hadassah, the event highlights ongoing debates regarding decorum in political discourse, with McBride having faced similar misgendering incidents by other officials in 2025."
-    ],
-    "title": "Republican misgenders McBride at candidate forum before removal",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/doj-declares-federal-ban-on-handgun-sales-to-young-adults-unconstitutional",
-    "article_url": "https://ground.news/article/doj-declares-federal-ban-on-handgun-sales-to-young-adults-unconstitutional",
-    "bias": [
-      "The supplied material de-emphasizes left-leaning coverage, while center and right perspectives diverge mainly in emphasis: center reporting presents the DOJ’s legal conclusion that the under-21 handgun “ban” is “unconstitutional,” adds Gun Control Act of 1968 context, and uses restrained attribution such as “says” and “declares.” Right-leaning coverage intensifies the rights-based frame, repeating “unconstitutional,” invoking “Second Amendment,” “law-abiding,” and “self-defense,” and portraying the decision as “ENDS” a restriction, sometimes with “Trump” and urgent “JUST IN.” Both emphasize the DOJ opinion and its effect on 18-to-20-year-olds, reflecting broader tensions over gun rights , federal authority, and public safety."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 32.0,
-    "error": null,
-    "left_pct": 28.0,
-    "location": "United States",
-    "right_pct": 40.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, September 18, 2026, the Justice Department released an opinion concluding that federal statutes prohibiting licensed dealers from selling handguns to adults aged 18 to 20 are unconstitutional and cannot be criminally enforced.",
-      "The Office of Legal Counsel evaluated the Gun Control Act using the Second Amendment framework established by the Supreme Court in District of Columbia v. Heller, New York State Rifle & Pistol Ass'n v. Bruen, and Wolford v. Lopez.",
-      "Assistant Attorney General T. Elliot Gaiser wrote that 18-year-olds are fully part of \"the people\" covered by constitutional protections, citing early American laws requiring military service and weapon possession starting at age 18.",
-      "Licensed gun dealers cannot face federal criminal prosecution for selling handguns and ammunition to law-abiding adults between the ages of 18 and 20, as the Justice Department determined these statutes violate the Second Amendment.",
-      "The Justice Department clarified that these findings do not affect federal laws prohibiting handgun possession by minors under 18 or other federal background check provisions, maintaining existing regulations for younger individuals."
-    ],
-    "title": "Ban on selling handguns to young adults under 21 is unconstitutional, Justice Department says",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/humpback-whale-spotted-in-sacramento-river-near-rio-vista",
-    "article_url": "https://ground.news/article/humpback-whale-spotted-in-sacramento-river-near-rio-vista",
-    "bias": [
-      "Left-Leaning coverage frames the sighting through local memory and intimacy, stressing that the whale came “close to shore” and was “similar to Humphrey,” while right-leaning coverage heightens spectacle with “Massive” and “rare appearance,” plus fishermen’s circumstances and the date.",
-      "Center coverage is more explanatory, calling the animal an “unexpected visitor” and emphasizing breaching, expert identification, and its route from San Francisco Bay.",
-      "The pivotal divide is whether the encounter signifies community history, dramatic rarity, or ecological context.",
-      "All perspectives agree a humpback appeared near the Rio Vista Bridge, revealing more tonal and cultural framing than substantive disagreement."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 79.0,
-    "error": null,
-    "left_pct": 14.0,
-    "location": "California",
-    "right_pct": 7.0,
-    "status": "ok",
-    "summary": [
-      "An adult humpback whale identified as CRC-11620 was spotted breaching near the Rio Vista Bridge on the Sacramento River on Wednesday, with anglers first reporting the unusual visitor around noon.",
-      "The humpback entered the San Francisco Bay earlier this week, then navigated north past the Richmond-San Rafael Bridge, through the Carquinez Strait near Benicia, and into the Sacramento-San Joaquin Delta by Wednesday morning.",
-      "Records from the Cascadia Research Collective indicate CRC-11620 is a well-known individual, documented more than a dozen times over the past 24 years while swimming off the coasts of California and Mexico.",
-      "Kathi George, Director of Cetacean Conservation Biology at The Marine Mammal Center, urged the public to maintain distance, stating, \"We're asking people who encounter it to give the animal plenty of space.\"",
-      "Though unusual, this excursion follows historical precedent: Humphrey the whale spent several weeks in Rio Vista in 1985, while a mother-and-calf pair, Delta and Dawn, spent about 20 days in the Sacramento River Delta in 2007."
-    ],
-    "title": "Humpback Whale Seen Swimming in a California River",
-    "topic": "Whales",
-    "topic_full": "Whales · California"
-  },
-  {
-    "article_path": "/article/c4312b89-0c28-456e-b44b-3c534da1622f",
-    "article_url": "https://ground.news/article/c4312b89-0c28-456e-b44b-3c534da1622f",
-    "bias": [
-      "The center framing emphasizes cautious negotiation—“could,” “sources say,” and an “exclusive” account—portraying settlement as a possible solution to a “significant hurdle” facing Paramount ’s expansion, while right-leaning coverage foregrounds government scrutiny through “CNN monitoring,” the involvement of 12 states, and the deal’s potential to create a “major competitor” in streaming and film.",
-      "Both treat the roughly $110 billion acquisition and possible weekend settlement as consequential, but the dividing line is emphasis: procedural legal resolution versus regulatory intervention, media accountability, competition, and private-sector scale.",
-      "Their shared focus on monitoring and theatrical-release commitments reflects broader tensions over corporate power, antitrust, and perceived media influence."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 64.0,
-    "error": null,
-    "left_pct": null,
-    "location": "United States",
-    "right_pct": 36.0,
-    "status": "ok",
-    "summary": [
-      "Paramount and California, along with 11 states, could settle a lawsuit as soon as this weekend to resolve the $110 billion Warner Bros . acquisition block, sources told Reuters on Friday.",
-      "A $7 million daily \"ticking fee\" payable to Warner Bros. shareholders starting after September 30 creates mounting financial pressure driving Paramount's urgent need to finalize the merger quickly.",
-      "Settlement terms under discussion reportedly include independent content monitoring of CNN and commitments regarding theatrical releases, sources said, addressing state competition concerns.",
-      "Investors responded positively to settlement prospects, with Paramount shares rising nearly 7% and WBD shares gaining 8.4% in after-market trading following the news.",
-      "Even with a state settlement, The Writers Guild continues a separate lawsuit to stop the transaction, while California Attorney General Rob Bonta maintains that structural divestitures better protect competition."
-    ],
-    "title": "Paramount could settle with states over Warner Bros. as soon as this weekend, sources say",
-    "topic": "Business",
-    "topic_full": "Business · United States"
-  },
-  {
-    "article_path": "/article/jehovahs-witnesses-allow-blood-derived-products-but-keep-ban-on-whole-blood-transfusions",
-    "article_url": "https://ground.news/article/jehovahs-witnesses-allow-blood-derived-products-but-keep-ban-on-whole-blood-transfusions",
-    "bias": [
-      "Left-Leaning coverage mildly foregrounds the contrast between “allow” and “ban,” making the partial concession and continuing restriction more salient; right-leaning coverage similarly emphasizes limited accommodation while stressing that whole-blood transfusions remain prohibited.",
-      "Neither uses strongly partisan language, and the shared phrase “partly eased” frames the change as incremental, not a reversal.",
-      "Center coverage adds that plasma, platelets, and red and white blood cells may qualify, members may decide whether to donate for medical products, and this was the year’s second revision; it also calls the rule “controversial” and “distinctive.” Across perspectives, the Friday announcement and core prohibition remain common ground."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 56.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": "United States",
-    "right_pct": 12.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, the Jehovah's Witnesses announced a policy update allowing members to receive medical treatments involving blood derivatives, including plasma, platelets, and red and white blood cells, while maintaining a prohibition against whole blood transfusions.",
-      "The organization's longstanding opposition to transfusions stems from Bible passages requiring believers to \"abstain\" from blood, marking the second revision this year to one of the group's most distinctive religious teachings.",
-      "Governing Body member Geoffrey W. Jackson stated \"each Christian must make his own personal decision\" regarding these components, and the update permits members to decide whether to donate blood for others' medical treatments.",
-      "Critics, including former members, have long argued that the teaching led to preventable deaths; the organization reported a U.S. membership of 1.3 million in 2025, with a worldwide membership of 9.2 million.",
-      "International spokesperson Paul Gillies emphasized that members should not make decisions on using blood products lightly, advising them to pray and study to reach a decision they feel \"happy about with your God."
-    ],
-    "title": "Jehovah’s Witnesses Allow Blood-Derived Products but Keep Ban on Whole-Blood Transfusions",
-    "topic": "Jehovah’s Witnesses",
-    "topic_full": "Jehovah’s Witnesses · United States"
-  },
-  {
-    "article_path": "/article/trump-signs-russia-sanctions-bill-championed-by-lindsey-graham",
-    "article_url": "https://ground.news/article/trump-signs-russia-sanctions-bill-championed-by-lindsey-graham",
-    "bias": [
-      "Left-Leaning coverage frames Trump’s law as a “sweeping” effort to “choke off funds” for Moscow, using “ sanctions from hell” and emphasizing Ukraine, war financing, and Lindsey Graham’s “final legacy item.” Right-leaning coverage instead spotlights the “massive tariff authority” granted to Trump, possible costs for India, China, energy security, and peace negotiations, while portraying implementation as discretionary and potentially wielding a “tariff hammer”; it also highlights Ukrainian support.",
-      "Center coverage is more restrained, stressing legislative history and possible limited influence.",
-      "All perspectives agree the law targets Russia, energy buyers, and Iran, revealing a shared focus on geopolitical pressure but divergent priorities: punishment versus executive power, consequences, and skepticism."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 48.0,
-    "error": null,
-    "left_pct": 32.0,
-    "location": "United States",
-    "right_pct": 20.0,
-    "status": "ok",
-    "summary": [
-      "President Donald Trump signed the Lindsey Graham Sanctioning Russia and Iran Act of 2026 on Sept. 18, imposing new sanctions on Russia and extending measures against Iran.",
-      "Originally introduced by late Sen. Lindsey Graham in April 2025, the bill remained stalled until Graham's July 11 death prompted a revised version granting Trump waiver authority for national security.",
-      "The House passed the bill 262-159 on Sept. 17, with the legislation targeting Russia's military and energy sectors while authorizing tariffs of up to 500 percent on Russian imports.",
-      "House Democrats divided over the bill, with Rep. Don Beyer expressing concern that expanded tariff authorities could embed lasting damage in United States law.",
-      "Ukrainian President Volodymyr Zelenskyy called the bill an \"extremely powerful tool\" to force peace, while Kremlin spokesman Dmitry Peskov warned the sanctions would complicate war-ending efforts."
-    ],
-    "title": "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
   }
 ]
