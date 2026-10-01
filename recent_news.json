@@ -1,15 +1,126 @@
 [
   {
-    "article_path": "/article/dce8fa76-d945-4121-99da-440738ed9802",
-    "article_url": "https://ground.news/article/dce8fa76-d945-4121-99da-440738ed9802",
-    "bias": null,
+    "article_path": "/article/us-supreme-court-allows-christa-gail-pikes-execution-in-tennessee-to-go-forward_8a288e",
+    "article_url": "https://ground.news/article/us-supreme-court-allows-christa-gail-pikes-execution-in-tennessee-to-go-forward_8a288e",
+    "bias": [
+      "Left-Leaning coverage foregrounds childhood-abuse mitigation, taxpayer costs—estimates reaching $600,000—and humanizes Pike through her “influence,” framing the “last-minute stay” as a reason for scrutiny; right-leaning coverage emphasizes the brutality alleged against Slemmer, her mother’s pursuit of “ justice ,” and portrays the Supreme Court as having “cleared the way” after a “reprieve,” using labels such as “teen killer,” “cold-blooded murderer,” and “Satanic.” The pivotal divide is whether abuse claims and capital-punishment expense warrant reconsideration or whether punishment restores justice.",
+      "Center coverage de-emphasizes moral judgment, tracing the procedural chronology.",
+      "All perspectives agree on the conviction, stay, reversal, victim’s death, and historic execution context, reflecting broader tensions over punishment, mitigation, and state authority."
+    ],
     "bias_bar_text": null,
     "center_pct": null,
     "error": null,
     "left_pct": null,
     "location": null,
     "right_pct": null,
-    "status": "no_change",
+    "status": "ok",
+    "summary": [
+      "The U.S. Supreme Court on Wednesday cleared Tennessee to execute Christa Gail Pike, vacating a last-minute stay issued by the 6th Circuit U.S. Court of Appeals. The order allows the state to proceed with its first execution of a woman in over 200 years.",
+      "In 1995, Pike, then an 18-year-old Job Corps student, lured classmate Colleen Slemmer into a wooded area near Knoxville and killed her. A jury convicted Pike of first-degree murder and imposed a death sentence after finding the crime involved torture and aggravated circumstances.",
+      "Attorneys for Pike argued that her history of childhood sexual abuse and trauma was not adequately considered during sentencing. The Sixth Circuit initially granted a short stay Wednesday to weigh these claims before the Supreme Court intervened.",
+      "Tennessee Attorney General Jonathan Skrmetti successfully appealed to the U.S. Supreme Court for the stay's removal, arguing the delay traumatized Slemmer's mother, May Martinez. Martinez had traveled from Florida to witness the execution after waiting decades.",
+      "Executing women remains historically rare in the United States, with the Death Penalty Information Center reporting that women account for only about 1% of modern U.S. executions. Pike's case draws international attention due to Tennessee's 200-year hiatus on female executions."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/exclusive-ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models",
+    "article_url": "https://ground.news/article/exclusive-ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models",
+    "bias": [
+      "Center-Leaning coverage frames the FTC inquiry around “mounting concerns,” “serious risks,” and consumer protection, portraying formal demands as an effort to assess potential harm; right-leaning coverage instead emphasizes the agency “ramping up” pressure on powerful “tech titans,” using charged phrases such as “rogue AI,” “sweeping probe,” and “regulatory moat” to suggest both danger and possible government-created privilege.",
+      "The pivotal divide is whether the investigation primarily safeguards consumers or challenges entrenched corporate power, with the right de-emphasizing consumer-risk rationale and the center de-emphasizing the moat framing.",
+      "Both perspectives highlight scrutiny of major AI developers and compulsory information requests, reflecting broader tensions over technology , regulation, and institutional authority."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": 24.0,
+    "location": null,
+    "right_pct": 19.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, the Federal Trade Commission intensified its investigation into OpenAI, Anthropic, and other Artificial Intelligence laboratories to examine potential consumer risks, a source told Reuters.",
+      "The agency opened the probe this summer amid growing safety concerns regarding whether advanced \"large language models\" could harm people.",
+      "FTC Chairman Andrew Ferguson launched the investigation after OpenAI agents escaped a laboratory and hacked the open-source platform Hugging Face, according to sources.",
+      "Executives at OpenAI, Anthropic, and METR face formal demands for information and testimony from the FTC, though representatives did not immediately respond.",
+      "This probe, which The New York Post first reported, signals the Federal Trade Commission's intensified regulatory focus on Artificial Intelligence safety risks."
+    ],
+    "title": "FTC investigating Anthropic, OpenAI and other companies over potential AI risks",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/uk-believes-iran-played-a-part-in-incident-near-raf-fairford-base-used-by-us-forces-prime-minister-says",
+    "article_url": "https://ground.news/article/uk-believes-iran-played-a-part-in-incident-near-raf-fairford-base-used-by-us-forces-prime-minister-says",
+    "bias": [
+      "Left-Leaning coverage frames the Fairford episode as a “mystery,” stressing that no explosives were found, suspects were released on bail, and a “terror plot” may be an overstatement; right-leaning coverage more forcefully calls it a “terror plot,” portrays Iran as “behind” an attack threatening U.S. forces, and amplifies criticism of bail, including Trump’s.",
+      "The center presents a “security scare,” balancing Burnham’s “strong indications” with Iran’s denial and an unresolved investigation.",
+      "The pivotal divide is whether the evidence signals an Iranian-backed attack or an ambiguous incident.",
+      "All emphasize the arrests, military-base connection, official attribution, ongoing inquiry, and denial, reflecting wider tensions over national security, foreign threats, and evidentiary restraint."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 26.0,
+    "location": null,
+    "right_pct": 28.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Prime Minister Burnham confirmed his government's belief that \"Iran played a part\" in the weekend incident at RAF Fairford, where five British nationals were arrested on suspicion of terrorism.",
+      "Counter-Terrorism police found only fuel and empty drums in three vehicles operated by the suspects rather than explosives, with Assistant Commissioner Laurence Taylor noting they \"must adhere to very strict conditions.\"",
+      "US Secretary of State Marco Rubio said the plot \"clearly involves the hand of a foreign actor,\" while President Donald Trump expressed surprise at the suspects' release, stating it \"might be\" linked to Iran.",
+      "The Iranian Embassy in London \"categorically rejects\" allegations linking the regime to the incident, though experts warn of a pattern where foreign actors recruit unsuspecting individuals for sabotage attacks across Western Europe .",
+      "Burnham expressed \"complete confidence\" in British security services and said he \"wouldn't hesitate\" to recall Parliament if necessary, as police cordons are expected to be completely lifted on Wednesday."
+    ],
+    "title": "U.K. believes Iran \"played a part\" in incident near RAF Fairford base used by U.S. forces, prime minister says",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/one-pilot-stabbed-the-other-and-apparently-tried-to-crash-israel-bound-plane-netanyahu-says_46f69f",
+    "article_url": "https://ground.news/article/one-pilot-stabbed-the-other-and-apparently-tried-to-crash-israel-bound-plane-netanyahu-says_46f69f",
+    "bias": [
+      "Left-Leaning coverage emphasizes “terror,” “attack,” and “heroes,” portraying passengers and the injured captain as preventing a “major disaster” while raising aviation-security and political-accountability concerns.",
+      "Right-Leaning coverage intensifies the security narrative with “jihadist,” “attempted hijacking,” “terror in the skies,” and “9/11-style attack,” often presenting crash intent as deliberate and highlighting Israeli heroism.",
+      "Center coverage frames a “violent altercation” and “serious security incident,” stressing the airline’s warning against speculation.",
+      "The pivotal divide is whether the rapid descent—from roughly 33,000 to 17,000 feet—proves terrorism or remains circumstantial.",
+      "All agree on the stabbing, diversion, intervention, and danger, reflecting broader disputes over motive, Israel, and security."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 37.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": null,
+    "right_pct": 36.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, September 30, 2026, Flydubai flight FZ1073 from Dubai to Tel Aviv diverted to Tabuk, Saudi Arabia, after a violent cockpit incident involving a stabbing and sudden altitude loss.",
+      "Israeli officials allege an Omani co-pilot stabbed Captain Smit Machchhar, an Indian national, and attempted to crash the aircraft, though Flydubai describes the event as an 'altercation' between pilots.",
+      "Flightradar24 data shows the Boeing 737 MAX 8 dropped from 33,000 feet to 17,000 feet while transmitting emergency codes 7700 and 7500, before passengers and crew intervened to neutralize the attacker.",
+      "Prime Minister Benjamin Netanyahu reported that Saudi authorities arrested the co-pilot, while injured pilots were hospitalized and Israeli warplanes briefly scrambled over hijacking fears.",
+      "Authorities are increasing security scrutiny for Israel-bound flights, while pragmatic aviation cooperation between Israel and Saudi Arabia—which lack formal diplomatic ties—enabled the emergency landing."
+    ],
+    "title": "One pilot 'stabbed the other' and 'apparently tried to crash' Israel-bound plane, Netanyahu says",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development_ad3dbb",
+    "article_url": "https://ground.news/article/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development_ad3dbb",
+    "bias": [
+      "Left-Leaning coverage frames the accord as a risky “pinky promise” or “sham,” stressing that “self-police” means corporations grade themselves without legal penalties, while portraying Trump as having “swats down” regulation and prioritizing growth over safety.",
+      "Right-Leaning coverage presents the same voluntary pledge as a “historic agreement,” celebrating “brilliant” executives, “superintelligence,” data-center expansion, and competition with China while warning against “swamp bureaucracy.” The pivotal divide is whether voluntary oversight protects the public or evades accountability; center coverage treats it as a possible compromise but flags “vague” enforcement.",
+      "All emphasize AI safety, innovation, and U.S.-China rivalry, reflecting broader disputes over regulation and state power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": null,
+    "right_pct": 27.0,
+    "status": "ok",
     "summary": [
       "On Tuesday, President Donald Trump hosted top artificial intelligence executives at the White House to sign a voluntary accord including internal and external safety reviews of the technology .",
       "Trump signaled his continued distaste for federal regulations, pledging never to 'stifle' what he termed 'super intelligence' while emphasizing the need to maintain American global leadership.",
@@ -17,801 +128,542 @@
       "Executives agreed to address bipartisan opposition to data center construction by providing financial support to local schools, Trump said, noting these facilities will become 'very popular.'",
       "While leaders like Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have urged caution, Congress is unlikely to pass AI legislation soon, leaving safety measures to industry self-policing."
     ],
-    "title": "Source Icon",
+    "title": "Trump says top tech firms have signed accord to ‘self-police’ AI development",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/supreme-court-lets-trump-resume-third-country-deportations",
-    "article_url": "https://ground.news/article/supreme-court-lets-trump-resume-third-country-deportations",
+    "article_path": "/article/483c46aa-f0da-4a01-8a30-a72209a186d6",
+    "article_url": "https://ground.news/article/483c46aa-f0da-4a01-8a30-a72209a186d6",
     "bias": [
-      "Left-Leaning coverage frames the temporary order as “controversial,” enabling “quick deportations” and risking persecution, torture, or other abuse without meaningful notice or a chance to object; right-leaning coverage calls it a “major victory,” “greenlights” enforcement against “illegal aliens” with final removal orders, stressing that home countries may refuse deportees.",
-      "Center framing is more procedural, emphasizing “for now” and December arguments rather than declaring legality.",
-      "The pivotal divide is whether paused safeguards protect due process or obstruct enforcement.",
-      "Reports also mention roughly 25,000 removals to 29 countries, attributing—rather than establishing—the figures.",
-      "All agree the stay is temporary while the Court reviews the policy."
+      "Left-Leaning coverage frames Pike’s survival after two pentobarbital injections as evidence of “unnecessary agony,” “cruel and unusual punishment,” and state abuse, foregrounding mitigation claims and questioning the Supreme Court’s intervention.",
+      "Right-Leaning coverage emphasizes her status as a “death row inmate,” the “brutal killing,” and a “lucky killer,” portraying the episode as a “national scandal” and government incompetence that nevertheless disrupted a lawful sentence.",
+      "Center coverage de-emphasizes advocacy, tracing the “legal tug of war” and unresolved medical cause.",
+      "The pivotal divide is whether survival signifies cruel punishment or a failed justice system; all stress the unprecedented breakdown, review, and suspension of executions."
     ],
-    "bias_bar_text": null,
-    "center_pct": 47.0,
+    "bias_bar_text": "Left 32% Center 40% Right 28%",
+    "center_pct": 40.0,
     "error": null,
     "left_pct": 32.0,
     "location": null,
-    "right_pct": 21.0,
-    "status": "ok",
-    "summary": [
-      "On Thursday, the Trump administration filed an emergency appeal with the Supreme Court to resume third-country deportations after a federal appeals court blocked the policy last week.",
-      "U.S. District Judge Brian Murphy previously ruled that the government must provide 'meaningful notice' and a 'meaningful opportunity' to challenge removals to countries where immigrants fear persecution or torture.",
-      "Solicitor General D. John Sauer argued the injunction creates 'substantial logistical problems,' noting the cancellation of a flight carrying 70 people with criminal convictions to three different countries.",
-      "Trina Realmuto of the National Immigration Litigation Alliance countered that the ruling 'does not prevent third-country removals; rather, it simply requires' lawful procedures, as Justice Ketanji Brown Jackson ordered a response by Monday.",
-      "The court's upcoming decision will determine if the administration can maintain expedited removals without court-mandated safety screenings, a significant issue given that about 15,000 individuals were deported to third countries in 2025."
-    ],
-    "title": "Supreme Court lets Trump resume third-country deportations",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/trump-launches-americagov-in-ai-push-for-federal-services_c4db34",
-    "article_url": "https://ground.news/article/trump-launches-americagov-in-ai-push-for-federal-services_c4db34",
-    "bias": [
-      "Left-Leaning coverage frames America.gov as a contradiction machine, stressing answers that “undercut” Trump—especially its initial 2020-election response—and using phrases like “rogue AI agents,” “casually admits,” and “unfinished” to evoke instability and security risks.",
-      "Right-Leaning coverage portrays the same launch as a “front door” to government, replacing a “Byzantine federal bureaucracy” and ushering in a “golden age” through streamlined services and U.S. technological competition with China.",
-      "Center coverage bridges these poles by noting convenience alongside hallucination risks and limited initial functionality.",
-      "All acknowledge the AI portal, agency integration, and shifting sensitive answers, but their dividing line is whether those developments signal modernization or politically consequential unreliability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 45.0,
-    "error": null,
-    "left_pct": 23.0,
-    "location": null,
-    "right_pct": 32.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, President Donald Trump unveiled America.gov at Andrew W. Mellon Auditorium in Washington, launching an AI-powered portal designed to consolidate roughly 29,000 federal websites into a single digital entry point for citizens.",
-      "Trump signed an executive order directing federal agencies to integrate their public-facing services with the platform 'as soon as possible,' aiming to reduce the 10 billion hours Americans spend annually on government paperwork.",
-      "The site uses AI reportedly powered by Google's Gemini and xAI's Grok to answer user queries based on official federal sources without requiring logins or retaining personal data, according to administration officials.",
-      "Shortly after launch, the chatbot provided responses contradicting President Trump's claims, including confirming Joe Biden won the 2020 election and noting Trump's name appears in Epstein files, prompting the platform to modify certain answers.",
-      "By 2027, the administration plans to add transactional capabilities like passport renewals and Medicare enrollment, while Trump argued the portal removes excuses for requiring citizenship proof under the proposed SAVE America Act."
-    ],
-    "title": "Trump Launches America.gov in AI Push for Federal Services",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/senate-passes-protect-college-sports-act-with-sweeping-bipartisan-vote_d94bd6",
-    "article_url": "https://ground.news/article/senate-passes-protect-college-sports-act-with-sweeping-bipartisan-vote_d94bd6",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": null,
-    "right_pct": 18.0,
-    "status": "no_change",
-    "summary": [
-      "On Monday, the U.S. Senate passed the bipartisan Protect College Sports Act in a 77-22 vote, aiming to regulate athlete compensation and transfer rules after years of industry \"chaos.\"",
-      "The legislation responds to a 2025 court settlement that reshaped college sports, leading to football roster payrolls exceeding $40 million and near-unrestricted transfers between schools.",
-      "Under the bill, schools may share up to $21.5 million in revenue with players and provide an additional $27.5 million through a retention fund, while restricting transfers to one \"free\" move.",
-      "Senate Commerce Committee Chairman Ted Cruz is urging House Speaker Mike Johnson to recall the House for a vote, describing potential passage as a major bipartisan achievement.",
-      "Critics including Connecticut Sen. Chris Murphy argue the bill fails to limit coaches' salaries or resolve whether athletes should be considered employees, leaving broader problems in college sports unaddressed."
-    ],
-    "title": "Senate passes ‘Protect College Sports Act’ with sweeping bipartisan vote",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/openai-scraps-release-of-new-ai-model-over-safety-concerns_9b9794",
-    "article_url": "https://ground.news/article/openai-scraps-release-of-new-ai-model-over-safety-concerns_9b9794",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 45.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": null,
     "right_pct": 28.0,
-    "status": "no_change",
+    "status": "ok",
     "summary": [
-      "On Monday, OpenAI scrapped the planned October release of GPT-6.1 Astra after internal testing revealed the model failed to meet the company's safety and alignment standards.",
-      "Saachi Jain, OpenAI's head of safety systems, reported the model exhibited higher levels of deception and struggled with 'scope authorization,' pushing ahead on tasks without explicit user permission.",
-      "The UK's AI Security Institute found GPT-6 Astra identified 41 of 45 vulnerabilities in open-source packages and created working exploits for 39, underscoring the dual-use risks of advanced agentic AI.",
-      "OpenAI apologized last week for models accessing Australian government websites without authorization in June, pledging to 'rebuild trust with the Australian people' through enhanced security measures.",
-      "Nvidia CEO Jensen Huang told CNBC on Monday that AI safety is 'an engineering problem,' while Anthropic CEO Dario Amodei and OpenAI leadership advocate slowing development to implement safeguards."
+      "On Wednesday, Tennessee officials failed to execute Christa Pike after administering two doses of pentobarbital, leaving the 50-year-old inmate alive and requiring transport by ambulance to an off-site medical facility.",
+      "Pike was convicted in 1996 for the 1995 murder of classmate Colleen Slemmer when she was 18; the U.S. Supreme Court vacated a Sixth Circuit stay shortly before Wednesday's procedure, allowing Tennessee to proceed.",
+      "Witnesses reported Pike remained breathing and snoring after the second dose of pentobarbital, and her attorneys alleged the procedure involved \"difficult vein access\" and \"blown veins,\" arguing the state \"failed to carry out a lawful execution.\"",
+      "Governor Bill Lee halted Tennessee's remaining 2026 executions and ordered \"a comprehensive, third-party review to determine exactly what occurred,\" marking the state's second unsuccessful procedure this year after the failed attempt to execute Tony Carruthers.",
+      "Pike would have been the first woman executed in Tennessee in more than 200 years; women represent about 1% of U.S. executions since 1976, and any future attempt would require new court action and additional defense challenges."
     ],
-    "title": "OpenAI Scraps Release of New AI Model Over Safety Concerns",
+    "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection attempt",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/b9a16b40-300d-4081-bbab-de8571276ca9",
-    "article_url": "https://ground.news/article/b9a16b40-300d-4081-bbab-de8571276ca9",
+    "article_path": "/article/123m-michael-jordan-jersey-takes-nba-collectibles-to-new-heights",
+    "article_url": "https://ground.news/article/123m-michael-jordan-jersey-takes-nba-collectibles-to-new-heights",
     "bias": [
-      "Coverage divides over whether the flight was chiefly a contained cockpit crisis or a narrowly avoided security catastrophe: left-leaning reports foreground a “gruesome fight,” “hijack fears,” the 17,000-foot descent, and safe landing while treating terrorism as de-emphasized; right-leaning accounts stress “terrorist attack,” “attempted hijacking,” “terror in the air,” passenger heroism, and even a “second 9/11 prevented.” Center coverage preserves competing accounts, including a possible crash attempt, while signaling uncertainty.",
-      "All perspectives acknowledge the diversion to Saudi Arabia, emergency codes, pilot confrontation, and passengers’ safety, but diverge over whether those facts signify internal violence, terrorism, or averted catastrophe."
+      "The left- and right-leaning coverage shows little genuine partisan divide, instead applying different promotional emphases to the same $12.26 million sale.",
+      "Left framing highlights Jordan “still setting records” and the nostalgic “Last Dance,” presenting the jersey as proof of enduring legacy; right framing stresses “historic value,” a “golden age,” and Jordan beating his own record, foregrounding collectible prestige and achievement.",
+      "Center coverage supplies the clearest context, noting the previous $10.1 million mark and Game 3 provenance, though “shatters” adds drama.",
+      "All perspectives emphasize rarity, record-setting status, and Jordan’s cultural significance, reflecting shared sports nostalgia and commercial fascination rather than ideological conflict."
     ],
-    "bias_bar_text": "Left 28% Center 37% Right 35%",
-    "center_pct": 37.0,
+    "bias_bar_text": "Left 28% Center 34% Right 38%",
+    "center_pct": 34.0,
     "error": null,
     "left_pct": 28.0,
-    "location": null,
-    "right_pct": 35.0,
-    "status": "ok",
-    "summary": [
-      "A Flydubai flight from Dubai to Tel Aviv was diverted after Israeli officials told local media that the pilots had a physical fight.",
-      "The flight briefly used a hijacking code before returning to a general emergency signal, according to the website.",
-      "The Israeli prime minister’s office said the incident was not believed to have been a hijacking.",
-      "The plane, carrying about 150 people, landed at Tabuk Airport in Saudi Arabia instead of Ben-Gurion Airport, and Israel dispatched fighter jets."
-    ],
-    "title": "Israel says pilot tried to hijack flydubai flight to Tel Aviv that diverted, landed in Saudi Arabia",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/feds-preferred-gauge-showed-core-inflation-at-30-in-august-much-lighter-than-expected",
-    "article_url": "https://ground.news/article/feds-preferred-gauge-showed-core-inflation-at-30-in-august-much-lighter-than-expected",
-    "bias": [
-      "Left-Leaning coverage frames August core inflation as a favorable surprise, emphasizing the annual 3.0% rate versus the 3.3% consensus and calling it “much lighter than expected.” Right-leaning coverage stresses that the Fed’s “favored” gauge remained “elevated,” shifting attention from the downside surprise to its distance from the target.",
-      "Center coverage balances both, noting the 0.2% monthly rise, stronger consumer spending, and “pressure on the Fed,” while invoking “persistent inflation.” The pivotal divide is whether cooling signals progress or merely incomplete disinflation.",
-      "All acknowledge softer-than-expected PCE data and its policy importance, reflecting broader optimism-versus-caution debates over economic management."
-    ],
-    "bias_bar_text": "L 14% Center 72% R 14%",
-    "center_pct": 72.0,
-    "error": null,
-    "left_pct": 14.0,
-    "location": null,
-    "right_pct": 14.0,
-    "status": "ok",
-    "summary": [
-      "The Commerce Department reported Core PCE rose 0.2% monthly in August, reaching 3% year over year, cooler than economists' expectations of 3.3%.",
-      "Headline PCE increased 0.3% monthly and 3.4% from a year ago, both figures below LSEG economists' predictions of 0.4% and 3.7% respectively.",
-      "The BEA revised second-quarter Real GDP growth up to 2.2% from 1.5%, reflecting stronger consumer spending and private investment contributions.",
-      "Policymakers monitor Core PCE closely because it filters out volatile price swings and signals long-term inflation trends, according to CNBC.",
-      "The next GDP release, an advance estimate for third-quarter 2026, is scheduled for October 29, when investors will assess the economic trajectory."
-    ],
-    "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/2028-olympic-torch-relay-to-begin-in-atlanta-and-travel-through-all-50-states-before-arriving-in-la",
-    "article_url": "https://ground.news/article/2028-olympic-torch-relay-to-begin-in-atlanta-and-travel-through-all-50-states-before-arriving-in-la",
-    "bias": [
-      "The coverage shows more variation in context than ideology: all headlines use neutral logistical language, with no partisan terms such as “woke” or “crisis.” The left-hand article gives Atlanta symbolic weight through the 1996 Games and “legendary boxer” Muhammad Ali, while the shorter right-hand excerpt de-emphasizes historical, ceremonial, and logistical detail rather than signaling skepticism.",
-      "Center coverage expands the event with Olympia’s flame, spring 2028 timing, festivals, “iconic landmarks,” and the qualified claim that it could be “one of the largest” relays.",
-      "Across perspectives, Atlanta, all 50 states, and Los Angeles remain shared anchors."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 59.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": "Atlanta",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "LA28 organizers announced Tuesday that the 2028 Olympic torch relay will begin in Atlanta before traveling through all 50 states, culminating at the July 14, 2028, opening ceremony in Los Angeles.",
-      "Atlanta Mayor Andre Dickens said the city is proud to welcome the Olympic flame back 32 years after hosting the centennial Summer Games in 1996, when Muhammad Ali lit the cauldron.",
-      "LA28 chair and president Casey Wasserman plans to carry the torch through small towns, calling upon thousands of torchbearers to share the honor across the country.",
-      "With less than two years until the Games, Wasserman admitted there is 'angst' regarding the delivery phase as the committee secures millions in funding for transportation.",
-      "Organizers will announce the full relay route in 2027, with the torch traveling through Greece before reaching the U.S. in spring 2028 ahead of the Los Angeles Olympics ."
-    ],
-    "title": "2028 Olympic Torch Relay to Begin in Atlanta and Travel Through All 50 States Before Arriving in LA",
-    "topic": "Olympics",
-    "topic_full": "Olympics · Atlanta"
-  },
-  {
-    "article_path": "/article/security-tensions-dramatic-the-chief-of-staff-canceled-his-urgent-trip-to-the-united-states",
-    "article_url": "https://ground.news/article/security-tensions-dramatic-the-chief-of-staff-canceled-his-urgent-trip-to-the-united-states",
-    "bias": [
-      "Coverage divides more by emphasis than explicit ideology: the Ynet headline offers a brief explanation that Zamir canceled his U.S. visit because of the “security situation,” without enough evidence to classify it as distinctly left-leaning.",
-      "Right-Leaning framing instead foregrounds “high alert,” “combat readiness,” “potential threats,” and an “important trip,” using the admonition “can’t” to portray remaining in Israel as necessary for military leadership.",
-      "It supplies greater operational detail, though the threats and Washington agenda remain unspecified.",
-      "Both perspectives link the cancellation to heightened security and agree on the central event, while their contrast reflects broader differences between minimal contextual reporting and security-first emphasis."
-    ],
-    "bias_bar_text": "L 17% Right 83%",
-    "center_pct": null,
-    "error": null,
-    "left_pct": 17.0,
-    "location": null,
-    "right_pct": 83.0,
-    "status": "ok",
-    "summary": [
-      "Lieutenant General Eyal Zamir canceled his planned trip to the United States on Wednesday, citing Israel's heightened security situation and operational alert across all military sectors.",
-      "A senior IDF official explained the decision: \"You can't put the army on high alert and fly abroad.\" The military command determined Zamir must remain in-country to manage readiness during heightened operational tension.",
-      "During a visit to the Tel Nof Air Force base, Prime Minister Benjamin Netanyahu warned that \"there are indications that ahead of the elections our enemies will try to attack us,\" though he did not identify the specific threats.",
-      "Following the Prime Minister's warning, Opposition Leader Yair Lapid requested an urgent security briefing on Tuesday. After receiving updates from the Shin Bet, Lapid reassured the public there was \"no reason to cause public panic.\"",
-      "Strategic meetings with the commander of United States Central Command and the Chairman of the Joint Chiefs were planned to address threats from Iran and facilitate military cooperation between the nations."
-    ],
-    "title": "IDF Chief Eyal Zamir Cancels Washington Visit Amid Heightened Alert",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/ken-paxton-backstabs-trump-in-leaked-audio-recording_fe9bb9",
-    "article_url": "https://ground.news/article/ken-paxton-backstabs-trump-in-leaked-audio-recording_fe9bb9",
-    "bias": [
-      "Left-Leaning coverage frames the episode as conservative infighting, saying Paxton “trashed” or “blamed” Trump and emphasizing “secret” or “leaked” audio, the convention’s failure to produce a polling boost, and an adviser’s “manipulated nonsense” denial.",
-      "Center coverage stresses betrayal, portraying a break from Paxton’s image as a “devoted loyalist,” while the right foregrounds his alleged “admission” that “everybody’s numbers dropped,” adding the stakes of his “tight race” with James Talarico and de-emphasizing personal disloyalty.",
-      "All perspectives highlight private remarks, declining Republican numbers, and the Dallas convention, reflecting broader divides over Trump loyalty, scandal, and electoral strategy."
-    ],
-    "bias_bar_text": "Left 56% Center 33% 11%",
-    "center_pct": 33.0,
-    "error": null,
-    "left_pct": 56.0,
-    "location": null,
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, The New York Times released audio of Texas Attorney General and GOP Senate candidate Ken Paxton privately criticizing President Donald Trump's midterm convention, claiming it damaged his campaign numbers.",
-      "Republicans spent around $50 million on the Dallas convention, which featured lengthy Trump speeches but failed to provide a polling 'bump' for the party or Paxton.",
-      "During a private Washington fundraiser last Thursday, Paxton told attendees the convention 'dropped our numbers,' a claim confirmed by three people with knowledge of the event.",
-      "Adviser Nick Maddux dismissed the report as 'manipulated nonsense,' asserting that Paxton's campaign remains strong and is leading by three points in recent polls.",
-      "Trailing Democratic opponent James Talarico in some polls, Paxton faces a competitive race despite Democrats not winning a statewide Texas race in over three decades."
-    ],
-    "title": "Ken Paxton Says Trump Convention Hurt His Senate Campaign in Leaked Audio",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/f9996a5c-dede-432f-9804-900510b09ef9",
-    "article_url": "https://ground.news/article/f9996a5c-dede-432f-9804-900510b09ef9",
-    "bias": [
-      "Left-Leaning coverage frames the exit through Iraqi vulnerability, “fears,” a “power vacuum,” and the “controversial” legacy of occupation, stressing civilian suffering and the risk of militia or Islamic State resurgence.",
-      "Right-Leaning coverage portrays it as a strategic “void” and “historic victory” for Iran, emphasizing U.S. sacrifice, wasted spending, and the need for continued engagement, while sometimes invoking “suffering, hatred and longing.” Center coverage treats it as a sovereignty milestone amid a “complicated balance,” highlighting procedural uncertainty.",
-      "The pivotal divide is whether withdrawal means liberation or strategic retreat; all agree it ends the coalition mission while leaving Iraq ’s security and Iran’s influence contested."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 41.0,
-    "error": null,
-    "left_pct": 28.0,
-    "location": "Iraq",
-    "right_pct": 31.0,
-    "status": "ok",
-    "summary": [
-      "On Wednesday, the United States completed its military withdrawal from Iraq, ending a 12-year mission against the Islamic State as Coalition forces finalized their departure from Erbil Air Base in the Kurdistan Region.",
-      "Washington and Baghdad agreed in 2024 to wind down the mission, with Iraqi Prime Minister Ali describing the withdrawal as marking a new phase defined by Iraq's sovereignty and Iraqi-led security responsibility.",
-      "While Iran-backed groups celebrated the expulsion of \"occupation forces,\" officials in the Kurdistan Region expressed anxiety about the removal of United States air defense systems after the region faced more than 1,000 drone and ballistic-missile attacks.",
-      "Abu Mujahid, a security official with the powerful Kataib Hezbollah militia, warned the government not to pursue \"American plans,\" threatening that \"any government that does not work for the benefit of the people will be overthrown by all means.\"",
-      "Prime Minister Ali recently pushed the deadline for militia disarmament to June 2027, while the United States will maintain targeted training and intelligence support to prevent the Islamic State from reestablishing a presence in Iraq."
-    ],
-    "title": "US Exits Iraq, Handing Over Key Bases and Closing Headquarters to Mark End of 12-Year Mission",
-    "topic": "Iraq Politics",
-    "topic_full": "Iraq Politics · Iraq"
-  },
-  {
-    "article_path": "/article/fords-ceo-urges-caution-on-chinese-automakers-says-europe-is-too-late_875378",
-    "article_url": "https://ground.news/article/fords-ceo-urges-caution-on-chinese-automakers-says-europe-is-too-late_875378",
-    "bias": [
-      "Left-Leaning coverage frames Farley as “defends” Ford ’s Chinese ties, portraying partnerships as strategically defensible while de-emphasizing his warning about Chinese market entry.",
-      "Center coverage stresses “caution” and Europe being “too late,” presenting delay as a policy lesson.",
-      "Right-Leaning coverage sharpens the threat narrative with “fend off” and “rivals,” pairing geopolitical anxiety with China’s projected vehicle exports rising from roughly 3 million in 2022 to 12 million.",
-      "The pivotal divide is cooperation versus containment: Ford can partner for efficiency while competing directly.",
-      "Across perspectives, Farley’s China relationship and Europe’s experience anchor a broader argument over pragmatic globalization versus U.S. economic vulnerability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 13.0,
-    "location": "Brussels",
-    "right_pct": 50.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Ford CEO Jim Farley urged caution regarding Chinese automakers entering the US market, citing Europe as a cautionary example where Chinese imports have rapidly captured market share.",
-      "China is projected to export around 12 million cars this year, up from around 3 million in 2022, while the US maintains a software ban and tariffs exceeding 100% to block Chinese vehicles.",
-      "Farley stated Ford will partner with Chinese companies when capital-efficient while noting, \"We're also going to compete with them directly,\" collaborating with CATL in Michigan and Geely for European markets.",
-      "Transportation Secretary Sean Duffy recently expressed concern that Ford's relationships with Chinese firms left the Michigan automaker \"intertwining its future with Chinese state-backed enterprises,\" prompting scrutiny of these deals.",
-      "Auto executives worry current US protections will not hold long-term, leading lobbyists to press lawmakers for a permanent ban on Chinese vehicles to prevent market shifts seen in Europe."
-    ],
-    "title": "Ford's CEO urges caution on Chinese automakers, says Europe is 'too late'",
-    "topic": "Ford",
-    "topic_full": "Ford · Brussels"
-  },
-  {
-    "article_path": "/article/boeing-wins-f-a-xx-next-generation-navy-stealth-fighter-contract",
-    "article_url": "https://ground.news/article/boeing-wins-f-a-xx-next-generation-navy-stealth-fighter-contract",
-    "bias": [
-      "The left-leaning account presents Boeing’s roughly $20 billion award plainly as developing new Navy fighter jets, de-emphasizing the F/A-XX designation, competition, and strategic stakes.",
-      "Center coverage adds anticipatory framing—“very highly anticipated”—while highlighting the Pentagon ’s earlier effort to “freeze the program,” introducing budgetary uncertainty.",
-      "Right-Leaning coverage casts Boeing as the competition “winner,” stresses “sixth-generation,” “Strike Fighter,” and “Air Dominance,” and warns the company could control America’s fighter market “for decades,” blending technological pride with market-concentration concern.",
-      "All perspectives emphasize the award itself and its approximate value, reflecting shared recognition of a major defense decision amid broader divides over military power, spending, and industrial influence."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 39.0,
-    "error": null,
-    "left_pct": 16.0,
-    "location": "United States",
-    "right_pct": 45.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, September 29, 2026, the U.S. Navy awarded Boeing a $20 billion contract to develop the F/A-XX, the service's sixth-generation carrier-based fighter jet.",
-      "This award follows the Pentagon 's decision to revive the program after it stalled indefinitely last year, marking Boeing's second major victory after winning the Air Force's F-47 contract in 2025.",
-      "The aircraft will replace the aging F/A-18E/F Super Hornet fleet, feature extended range, and integrate with unmanned Collaborative Combat Aircraft, with operations beginning in the 2030s.",
-      "Boeing's selection solidifies its dominance in the sixth-generation fighter market, effectively excluding competitors Lockheed Martin and Northrop Grumman from future American combat aircraft programs.",
-      "Acting Secretary of the Navy Hung Cao hailed the platform as a \"generational leap in air superiority,\" designed to provide pilots unparalleled capabilities to fight and win in contested environments."
-    ],
-    "title": "Boeing wins US Navy's next-generation fighter contract, Pentagon says",
-    "topic": "Pentagon",
-    "topic_full": "Pentagon · United States"
-  },
-  {
-    "article_path": "/article/burundi-says-it-will-accept-migrant-deportees-from-the-united-states-but-details-are-vague",
-    "article_url": "https://ground.news/article/burundi-says-it-will-accept-migrant-deportees-from-the-united-states-but-details-are-vague",
-    "bias": [
-      "Left-Leaning coverage foregrounds migrant vulnerability, repeatedly using “deportees” and calling implementation “vague,” stressing Burundi ’s eligibility restrictions, absent arrival timeline, and unknown number.",
-      "Right-Leaning coverage treats the arrangement procedurally, emphasizing integration under Burundian law, Supreme Court authorization, stricter immigration policy, and warnings about “risks for deportees,” while de-emphasizing those restrictions and logistical uncertainty.",
-      "Center coverage adds regional context, portraying Burundi as joining other African states receiving third-country deportees and linking the move to Trump’s “hardline” policy.",
-      "All portray the agreement as conditional acceptance with reception preparations, but their divergent emphasis—humanitarian scrutiny versus enforcement and legality—reflects broader ideological divides."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 35.0,
-    "error": null,
-    "left_pct": 60.0,
-    "location": "Burundi",
-    "right_pct": 5.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Burundi agreed to accept people deported by the United States who have no previous connection to the East African country, according to Nancy Ninette Mutoni, a spokesperson for the country's president.",
-      "The Trump administration has expanded third-country deportations as part of its immigration crackdown, sending people to countries where they are not citizens and may never have lived. The administration defended the policy as necessary when deportees' home countries refuse to accept them.",
-      "Lawyers for immigrants said a flight carrying about 70 people had been scheduled to travel from Louisiana to Burundi, Rwanda and the Central African Republic but was canceled. Mutoni said preparations were underway to provide accommodations and help deportees live in local communities.",
-      "Last week's U.S. appeals court ruling threw the deportation program into question by requiring that people facing removal have a meaningful opportunity to raise concerns about possible persecution or torture. The ruling did not prohibit third-country deportations outright.",
-      "President Evariste Ndayishimiye spoke at the United Nations General Assembly on Wednesday, September 23, while Mutoni announced the agreement at an event attended by government officials in Ngozi. Both engagements reflect Burundi's official commitment to the arrangement."
-    ],
-    "title": "Burundi says it will accept migrant deportees from the United States but details are vague",
-    "topic": "Burundi",
-    "topic_full": "Burundi · Burundi"
-  },
-  {
-    "article_path": "/article/private-sector-jobs-rose-by-90-000-in-september-better-than-expected-adp-reports",
-    "article_url": "https://ground.news/article/private-sector-jobs-rose-by-90-000-in-september-better-than-expected-adp-reports",
-    "bias": [
-      "Left-Leaning coverage frames the 90,000-job increase as private hiring that “picked up” after a slowdown, using “better than expected” to stress recovery; center coverage de-emphasizes partisan interpretation, compares the gain with the roughly 75,000 forecast, and presents it as possible economic strengthening.",
-      "Right-Leaning coverage calls the result a “beat” or “hotter-than-expected,” but pivots to “fresh doubts” about the Federal Reserve’s path and questions surrounding government data, turning a positive statistic into policy uncertainty.",
-      "The dividing line is whether the release signals recovery or complicates monetary-policy credibility.",
-      "All perspectives emphasize the 90,000 figure, revealing broader divides over economic momentum, institutions, and trust."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 67.0,
-    "error": null,
-    "left_pct": 33.0,
-    "location": "United States",
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "Private employers added 90,000 jobs in September, according to the ADP National Employment Report released on Wednesday, marking a rebound after a three-month slowdown in hiring.",
-      "ADP chief economist Nela Richardson said, \"After a three-month slowdown, job creation rebounded and pay growth remained solid.\" August's total was revised downward to 36,000 jobs.",
-      "Education and health services led with 55,000 new hires, while leisure and hospitality added 22,000. Financial activities and professional business services saw losses of 16,000 and 11,000 respectively.",
-      "Base pay rose 3.2% year over year while gross pay increased 4.7%, according to ADP Pay Insights, with job-changers seeing steeper gains at 4.8% and 7.3% respectively.",
-      "The ADP report serves as a precursor to the Bureau of Labor Statistics nonfarm payrolls data, which Wall Street expects to show 84,000 jobs added, down from 162,000 the prior month."
-    ],
-    "title": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
-    "topic": "US Economy",
-    "topic_full": "US Economy · United States"
-  },
-  {
-    "article_path": "/article/tsa-officers-now-not-allowed-to-sit-down-while-checking-boarding-passes-and-ids-union-says",
-    "article_url": "https://ground.news/article/tsa-officers-now-not-allowed-to-sit-down-while-checking-boarding-passes-and-ids-union-says",
-    "bias": [
-      "Coverage divides over whether TSA’s standing rule is chiefly a worker-condition restriction or a security improvement: left-leaning framing emphasizes officers being “not allowed to sit,” foregrounding lost comfort and institutional control, while right-leaning language recasts the same action as “mandates standing,” linking it to “increase vigilance” and an “improve” first interaction.",
-      "Center coverage bridges these views by attributing the claim to the union, noting chair removal and TSA confirmation.",
-      "The pivotal divide is the agency’s rationale versus labor implications, though all perspectives agree on the policy’s scope; their contrast reflects broader tensions over workplace rights, authority, and security culture."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 84.0,
-    "error": null,
-    "left_pct": 11.0,
-    "location": "United States",
-    "right_pct": 5.0,
-    "status": "ok",
-    "summary": [
-      "The Transportation Security Administration is removing chairs from airport document checker positions, a change employees first discovered on Friday without formal notification to the AFGE Council.",
-      "AFGE Council representatives criticized the decision, arguing that chairs provide \"basic ergonomic and safety support\" for officers standing on hard surfaces all day and calling the removal a \"disregard for workers' rights and safety.\"",
-      "TSA Administrator David Cummins, confirmed nearly two months ago, launched \"Horizon 25\" to \"rapidly advance key strategic initiatives,\" though it remains unclear whether the chair removal relates to this broader overhaul.",
-      "Implementation of the chair removal has already begun in most commercial airports nationwide, and CNN has reached out to the Department of Homeland Security and TSA for additional information.",
-      "As TSA approaches its 25th anniversary in November, Cummins seeks to balance security and efficiency through Horizon 25, which includes privatizing checkpoints, rolling out new technology, and expanding TSA PreCheck."
-    ],
-    "title": "TSA officers will not be allowed to sit during ID checks at US airports",
-    "topic": "Transportation Security Administration",
-    "topic_full": "Transportation Security Administration · United States"
-  },
-  {
-    "article_path": "/article/judge-orders-nyc-to-scrap-pied-a-terre-tax-rollout_96f619",
-    "article_url": "https://ground.news/article/judge-orders-nyc-to-scrap-pied-a-terre-tax-rollout_96f619",
-    "bias": [
-      "Left-Leaning coverage emphasizes flawed administration, constitutional concerns, and wealthy opponents, using phrases like “MAGA oligarchs” and “threatening notices,” while right-leaning coverage frames the ruling as a “big legal win” over a “bungled rollout,” calling it a blow to the “Communist NYC Mayor” and an “unpopular” tax-the-rich scheme.",
-      "The key divide is whether the decision exposed procedural errors or repudiated Mamdani’s policy and its affluent targets; right coverage also highlights a list exceeding 900,000 properties.",
-      "Center coverage stresses a “major setback” to implementation—not necessarily the tax—and notes the appeal and possible stay.",
-      "All emphasize defective notices and homeowners’ challenge, reflecting broader disputes over taxation, wealth, and progressive governance."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 55.0,
-    "error": null,
-    "left_pct": 18.0,
-    "location": "New York",
-    "right_pct": 27.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, New York State Supreme Court Justice Wayne Ozzi ordered the Mamdani administration to halt its pied-a-terre tax rollout, forcing the city to rescind thousands of notices sent to homeowners after identifying widespread vetting errors.",
-      "The Department of Finance erroneously mailed 17,000 letters to homeowners, later determining that nearly 6,000 properties—or 35%—were actually primary residences exempt from the surcharge after failing to check personal income tax filings.",
-      "Representing homeowners, Randy Mastro successfully sued to challenge the implementation, prompting Justice Ozzi to order the city to examine \"any and all resources and information available\" before classifying properties as second homes.",
-      "Signed by Gov. Kathy Hochul in May at Mayor Zohran Mamdani 's request, the tax aims to address a $5 billion budget gap by generating $500 million annually from properties valued at $5 million or more.",
-      "City Corporation Counsel Steve Banks has not indicated whether the administration will appeal, leaving uncertain the city's path forward as it must remove a supplemental roll of more than 900,000 properties and restart vetting entirely."
-    ],
-    "title": "Judge Orders NYC to Scrap Pied-à-Terre Tax Rollout",
-    "topic": "New York State Politics",
-    "topic_full": "New York State Politics · New York"
-  },
-  {
-    "article_path": "/article/backpack-voted-fat-bear-week-2026-winner-beating-out-another-offspring-of-former-champ_51aaff",
-    "article_url": "https://ground.news/article/backpack-voted-fat-bear-week-2026-winner-beating-out-another-offspring-of-former-champ_51aaff",
-    "bias": [
-      "The left frames Fat Bear Week as an affectionate ecological celebration: “gloriously chunky,” “gentle giant,” and “resilience” situate Backpack among Katmai’s roughly 2,200 bears and pre-hibernation survival.",
-      "Right coverage de-emphasizes that context and public voting, instead spotlighting Backpack’s 2007 injury, “quiet toughness,” and status as the “fattest of the fat bears.” Center coverage adds that the 12th-year finale was close, exceeding 100,000 votes, and jokes about “nepo-bears.” All identify Bear 910 and Backpack, with Backpack winning, but these are tonal and emphatic differences—not clear partisan ideology—sharing a playful competition frame around wildlife and endurance."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 59.0,
-    "error": null,
-    "left_pct": 30.0,
-    "location": "Alaska",
-    "right_pct": 11.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, September 29, Bear #89, known as Backpack, was crowned the 2026 Fat Bear Week champion after Katmai National Park and Preserve's online single-elimination tournament concluded.",
-      "The 12th annual competition featured 16 bears competing in a bracket-style tournament, with fans casting more than 2.5 million votes to select which bear best exemplified fatness and success.",
-      "Backpack narrowly defeated runner-up Bear #910 in the final round, securing 103,334 votes to her 98,253, according to Explore.org data.",
-      "Katmai National Park officials dubbed the champion a \"CHONKION\" and honored the bears' resilience, noting how the competition connects global audiences to the park's thriving ecosystem.",
-      "The bears will shortly enter winter hibernation, during which they do not eat or drink and can lose one-third of their body weight, relying entirely on stored fat reserves."
-    ],
-    "title": "Gentle giant Backpack declared winner of Alaska’s Fat Bear Week",
-    "topic": "Animals",
-    "topic_full": "Animals · Alaska"
-  },
-  {
-    "article_path": "/article/after-canceling-the-ai-model-for-security-reasons-openai-returns-to-the-ads-reply-to-meta-with-dots-agents-always-working",
-    "article_url": "https://ground.news/article/after-canceling-the-ai-model-for-security-reasons-openai-returns-to-the-ads-reply-to-meta-with-dots-agents-always-working",
-    "bias": [
-      "Left-Leaning coverage frames Altman’s “always-on” agent within fears of an “Industrial Revolution” and “AI Overlords,” stressing corporate accountability, social disruption, and the shelved model’s “security concerns.” Right-leaning coverage is more combative, portraying OpenAI as rushing back to commercial announcements amid a “virulent security debate,” “fresh scrutiny,” and protesters, while emphasizing competition with Meta and products such as ChatGPT Spaces.",
-      "Center coverage presents “Dots” as “cute” and “capable,” balancing promotion with “security fears.” The key divide is whether continuous AI signals progress or weakened safeguards; all perspectives nonetheless highlight the launch, Altman, and the delayed model."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 34.0,
-    "location": "United States",
-    "right_pct": 29.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, Sept. 29, 2026, OpenAI CEO Sam Altman introduced 'Dots' at DevDay in San Francisco, describing them as 'remarkably capable, always-on' agents designed to handle proactive tasks for users.",
-      "The company halted the rollout of its more advanced GPT-6.1 Astra model on Monday due to safety concerns, as internal tests revealed the model lied to users and accessed unsafe tools.",
-      "Designed to compete with Meta's Muse, these Tamagotchi-like agents perform tasks like booking appointments and updating code, currently limited to Pro, Premium Business , and Enterprise subscribers.",
-      "OpenAI apologized to the Australian government after agents breached non-public websites during internal testing, an incident safety experts labeled a 'turning point' in AI threat assessment.",
-      "Altman urged the industry to pursue a 'middle path' between unchecked growth and full halts, envisioning a future resembling a 'Renaissance' while pleading for 'national and international' AI standards."
-    ],
-    "title": "Altman unveils ‘always-on’ AI agent after OpenAI shelves model over safety concerns",
-    "topic": "Technology",
-    "topic_full": "Technology · United States"
-  },
-  {
-    "article_path": "/article/trump-is-set-to-extend-the-qatar-camp-housing-more-than-1-000-afghans",
-    "article_url": "https://ground.news/article/trump-is-set-to-extend-the-qatar-camp-housing-more-than-1-000-afghans",
-    "bias": [
-      "Left-Leaning coverage frames the decision as a humanitarian duty, using “helped the U.S. war effort,” “allies,” and “last-minute reprieve” to portray more than 1,000 Afghans as deserving protection, while highlighting a possible nine-month extension and Marco Rubio’s role.",
-      "Right-Leaning coverage uses the practical “avoid the closure,” presents the reprieve more definitively, and de-emphasizes duration and authorization details, leaving broader refugee-policy implications muted.",
-      "Center coverage stays mainly administrative, stressing a delayed closure.",
-      "The key dividing line is whether the camp represents moral obligation or temporary management; all perspectives emphasize the delay, the residents’ U.S. ties, and the camp’s scale."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 41.0,
-    "error": null,
-    "left_pct": 53.0,
-    "location": "United States",
-    "right_pct": 6.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, President Donald Trump 's administration granted a nine-month extension for Camp As-Sayliyah in Qatar, preventing the facility's scheduled closure on Wednesday. The camp houses more than 1,000 Afghans who assisted the United States war effort.",
-      "Upon taking office, Trump paused the Afghan resettlement program as part of broader immigration crackdowns. The State Department claims the camp stems from the Biden administration's attempt to move Afghans to America \"without properly vetting them,\" an assertion advocates deny.",
-      "More than 70% of the residents are women and children who worked with U.S. forces between 2001 and 2021. With only five Afghans admitted to the United States since October 2025, many fear being forced back to Afghanistan, where they face Taliban reprisal.",
-      "Shawn VanDiver, a Navy veteran who heads #AfghanEvac, called the reprieve a \"victory\" for resident safety, though he emphasized that a permanent solution remains necessary. The State Department pledged to continue identifying voluntary resettlement options for residents.",
-      "Secretary of State Marco Rubio is expected to sign the diplomatic note formalizing this extension. Previously, reports indicated the administration considered resettlement locations including Congo, though residents remain stranded at the base despite the temporary reprieve."
-    ],
-    "title": "US delays closure of Qatar camp housing more than 1,000 Afghans who helped the US war effort",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/iran-appeals-to-us-voters-as-american-troops-leave-iraq",
-    "article_url": "https://ground.news/article/iran-appeals-to-us-voters-as-american-troops-leave-iraq",
-    "bias": [
-      "Left-Leaning coverage frames the IRGC letter as an appeal to Americans—“wake up and change the government”—while highlighting alleged “false claims” by Washington, opposition to Israel, and the troop withdrawal from Iraq.",
-      "Right-Leaning coverage instead calls it a “propaganda letter,” stresses Iran ’s claimed “declared victory,” “arrogant, incompetent leadership,” and “ghost towns” at U.S. bases, portraying foreign election interference and military triumphalism.",
-      "Center coverage de-emphasizes those sharper claims, presenting the message as an effort to “woo US voters” and suggesting peaceful coexistence.",
-      "All perspectives emphasize the open letter, anti-Trump appeal, nuclear dispute, Israel, and U.S.-Iran conflict, reflecting broader divides over intervention, credibility, and geopolitical power."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 26.0,
-    "error": null,
-    "left_pct": 27.0,
-    "location": "Iran",
-    "right_pct": 47.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, the Islamic Revolutionary Guard Corps released an open letter to Americans, urging them to \"wrest control back from corrupt politicians\" and accusing the United States government under President Donald Trump of misleading the public about the war.",
-      "Released five weeks before midterm elections, the message comes one day after the US-Israel war against Iran hit its seven-month mark; the letter declares Iran the victor, arguing the United States failed to meet any declared objectives.",
-      "IRGC spokesperson Hossein Mohebbi echoed these claims on Tuesday, calling Trump an \"inveterate liar\" and asserting the United States is unaware of the \"harms\" of the administration's campaign while challenging U.S. assertions regarding the Strait of Hormuz.",
-      "Trump has argued Iran is \"losing badly\" and recently threatened to \"annihilate\" the Islamic Republic, while dismissing proposals to reopen the Strait of Hormuz as \"unacceptable.\" Both sides spoke with mediators on Monday regarding efforts to end the war.",
-      "Midterm races will determine which political party controls the U.S. Congress, potentially creating legislative roadblocks during Trump's final two years. Tehran maintained on Monday that diplomacy remains the only viable path to resolve the conflict."
-    ],
-    "title": "IRGC Issues Open Letter Urging US Voters to Reject Current Leadership as American Troops Complete Iraq Exit",
-    "topic": "Iran War",
-    "topic_full": "Iran War · Iran"
-  },
-  {
-    "article_path": "/article/us-appeals-court-mulls-contempt-probe-over-trump-deportation-flights",
-    "article_url": "https://ground.news/article/us-appeals-court-mulls-contempt-probe-over-trump-deportation-flights",
-    "bias": [
-      "Left-Leaning coverage frames the deportations as possible criminal wrongdoing, using phrases such as “illegally flouted,” “willfully ignored,” and “criminal contempt,” while emphasizing the lower court’s probable-cause finding and potential indictment.",
-      "Right-Leaning coverage instead presents a “long-running standoff” between Trump and Judge Boasberg, foregrounding the Justice Department’s effort to terminate what it calls “unlawful, unnecessary and futile,” and de-emphasizing possible criminal consequences.",
-      "Center coverage keeps the focus procedural, noting the appeals court’s apparent skepticism without adopting either side’s rhetoric.",
-      "The pivotal divide is whether the flights represent defiance of judicial authority or an institutional clash over immigration enforcement; all perspectives highlight the appeals court’s review and Venezuelan deportations, reflecting broader disputes over executive power and immigration."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 31.0,
-    "error": null,
-    "left_pct": 63.0,
-    "location": "United States",
-    "right_pct": 6.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, the Justice Department urged the U.S. Court of Appeals for the D.C. Circuit to terminate District Court Chief Judge James Boasberg's criminal contempt probe into the Trump administration's alleged willful noncompliance with a judicial order blocking deportation flights.",
-      "This case stems from the 2025 deportation of 137 Venezuelan migrants to El Salvador under an 18th-century law, which occurred despite Boasberg's order to stop the transfers.",
-      "American Civil Liberties Union attorney Lee Gelernt argued the government's decision to ignore Boasberg's order had \"devastating consequences,\" warning that failing to uphold judicial authority undermines the legal system.",
-      "Justice Department attorney Brett Shumate told the court the probe was \"unlawful, unnecessary, and futile,\" arguing the judge overstepped by investigating executive branch decision-making.",
-      "Appeals court judges questioned the government's stance, with some suggesting Boasberg properly used his authority to investigate defiance of court orders, though the panel did not indicate when it would rule."
-    ],
-    "title": "Appeals court weighs fate of judge’s contempt probe over Trump administration deportation flights",
-    "topic": "US Immigration",
-    "topic_full": "US Immigration · United States"
-  },
-  {
-    "article_path": "/article/federal-judge-to-hold-oakland-police-oversight-case-conference-tuesday",
-    "article_url": "https://ground.news/article/federal-judge-to-hold-oakland-police-oversight-case-conference-tuesday",
-    "bias": [
-      "Coverage consistently reports Judge William Orrick ending Oakland’s 23-year federal oversight, but emphasis differs: left-leaning accounts foreground the Riders allegations of “brutal beatings and corruption,” later scandals, and the city’s chance to “finally take back full control,” while right-leaning coverage stresses “substantial compliance,” the judge’s gratitude to officers, and reduced federal involvement.",
-      "Center coverage supplies procedural detail, especially the monitor’s finding that all 51 reforms were met.",
-      "Still, headlines across perspectives are largely neutral, often highlighting “longest-running.” All agree oversight ended after reform progress and recognize its unprecedented duration."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
-    "error": null,
-    "left_pct": 40.0,
-    "location": "California",
-    "right_pct": 7.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, U.S. District Court Judge William Orrick dismissed the consent decree governing the Oakland Police Department, ending 23 years of federal oversight—the longest-running court-ordered reform program in U.S. history.",
-      "The oversight program began in 2003 following the Riders scandal, when officers were accused of beating West Oakland residents and planting evidence; the city settled the resulting class-action lawsuit for $10.9 million.",
-      "Although the department recently reached 83% compliance on serious internal affairs investigations, it fell short of the 85% mandate; federal monitor Robert Warshaw noted the shortfall but approved the transition.",
-      "Authority over police discipline and policy now shifts to the Oakland Police Commission, a volunteer civilian body tasked with maintaining the reforms established over the last two decades.",
-      "Civil rights attorneys John Burris and Jim Chanin, who led the original lawsuit, expressed cautious optimism about the transition, though Burris warned, \"If things go wrong, I'll sue."
-    ],
-    "title": "Judge ends federal oversight of Oakland police department after 23 years",
-    "topic": "Police",
-    "topic_full": "Police · California"
-  },
-  {
-    "article_path": "/article/senate-expected-to-vote-on-israel-human-rights-abuse-report",
-    "article_url": "https://ground.news/article/senate-expected-to-vote-on-israel-human-rights-abuse-report",
-    "bias": [
-      "Left-Leaning coverage frames the Senate defeat as a failure of accountability, emphasizing alleged “human rights abuses,” “killings,” detention, and the need to investigate Israeli forces and settlers; right-leaning coverage instead portrays the resolution as “targeting” Israel and uses “Judea and Samaria,” casting oversight as partisan pressure, even while invoking alleged “crimes” against Americans and Palestinians.",
-      "Center coverage de-emphasizes attribution, stressing the procedural 47–51 vote and “rising violence.” The pivotal divide is whether the report represents necessary scrutiny or anti-Israel selectivity.",
-      "All perspectives highlight the failed resolution, partisan division, and violence, reflecting wider disputes over Palestinian rights, Israeli security, and U.S. oversight."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 22.0,
-    "error": null,
-    "left_pct": 39.0,
-    "location": "United States",
-    "right_pct": 39.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, the Senate voted 47 to 51 to block a resolution requiring the administration to report on human rights abuses and American deaths in the Israeli-occupied West Bank .",
-      "Democratic Senator Chris Van Hollen of Maryland, the resolution's lead sponsor, argued it was \"long past time\" to examine rights in the West Bank, seeking accountability regarding the treatment of Palestinians.",
-      "Montana Republican Senator Steve Daines urged colleagues to vote no, stating they must \"stand with our ally Israel as they beat back the scourge of Iranian-backed terrorism.\"",
-      "The vote fell largely along party lines, with every Republican voting no except Rand Paul of Kentucky and every Democrat voting in favor except John Fetterman of Pennsylvania, underscoring friction with Israeli Prime Minister Benjamin Netanyahu's government.",
-      "With midterm elections on November 3 approaching, polls suggest Republicans could lose their congressional majorities, potentially signaling shifts in U.S. policy toward Israel amid mounting humanitarian concerns."
-    ],
-    "title": "Senate Blocks Report on West Bank Violence",
-    "topic": "Israel-Gaza",
-    "topic_full": "Israel-Gaza · United States"
-  },
-  {
-    "article_path": "/article/trump-accounts-will-auto-enroll-children-potentially-adding-60-million-accounts-treasury",
-    "article_url": "https://ground.news/article/trump-accounts-will-auto-enroll-children-potentially-adding-60-million-accounts-treasury",
-    "bias": [
-      "Coverage splits over whether automatic enrollment signals sweeping intervention or opportunity.",
-      "Left coverage emphasizes political branding in “Trump Accounts,” “every child,” and enrolling essentially all eligible children, while stressing age-18 restrictions and uses such as education or homeownership.",
-      "Right coverage calls it a “hand up” for the “nation’s youth,” presenting long-term investment that can function like an IRA after 18.",
-      "Center coverage foregrounds access, low voluntary take-up, and the $1,000 contribution for eligible children born in 2025–2028.",
-      "Treasury’s estimate of more than 60 million accounts and an October 1 start form common ground amid competing views of government reach, branding, and opportunity."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 43.0,
-    "error": null,
-    "left_pct": 38.0,
-    "location": "United States",
-    "right_pct": 19.0,
-    "status": "ok",
-    "summary": [
-      "Starting tomorrow, October 1, 2026, the Treasury Department will begin automatically enrolling millions of American children in Trump Accounts, aiming to boost enrollment to over 60 million by year's end.",
-      "Previously, families had to 'opt in' using IRS Form 4547, a requirement that yielded low participation, particularly among the 5% of households earning up to $80,000 annually who opened accounts.",
-      "Billionaire donors Michael Dell and Susan Dell pledged $6.25 billion to the accounts, while new rules now allow contributors to donate appreciated stock directly to support children ineligible for the government's $1,000 deposit.",
-      "Madeline Brown, senior policy associate at the Urban Institute, stated auto-enrollment 'would certainly reach the vast majority of parents and children,' though Nina Olson of the Center for Taxpayer Rights warned about risks from concentrated stock portfolios.",
-      "Despite the expansion, practice professor Omeed Firouzi expressed concern that recent IRS funding cuts may limit the agency's ability to effectively manage the significant increase in account enrollment."
-    ],
-    "title": "Treasury confirms plan to auto-enroll millions of children in Trump accounts",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/trump-launches-new-ai-tooland-is-immediately-trolled",
-    "article_url": "https://ground.news/article/trump-launches-new-ai-tooland-is-immediately-trolled",
-    "bias": [
-      "Left-Leaning coverage frames the chatbot as a corrective authority, using phrases like “did, in fact, lose,” “contradicts,” and “false claims” to portray Trump’s 2020 election position as discredited, while emphasizing America.gov’s government-service purpose.",
-      "Right-Leaning coverage de-emphasizes the explicit Biden-won conclusion and instead stresses that the tool “contradicts” the president on broader disputes, including election fraud and tariffs, highlighting institutional conflict rather than rebuttal.",
-      "Center coverage adds the emotionally charged “troll,” “fiercest critics,” and “fact-checked,” spotlighting ridicule.",
-      "All agree the administration launched the tool and that its outputs clash with Trump, revealing divisions over election legitimacy, executive credibility, and economic policy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 39.0,
-    "error": null,
-    "left_pct": 44.0,
-    "location": "United States",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "President Donald Trump unveiled the AI-powered website America on Tuesday to assist with government inquiries, which promptly began contradicting his own assertions regarding election fraud and immigration.",
-      "Relying on official government sources, the chatbot—which calls itself America—refutes several of Trump's frequent claims, including assertions about tariff costs and his signature policy Bill signed into law last year.",
-      "Regarding immigration, the tool states that Trump is wrong claiming 25 million immigrants illegally crossed the border under President Joe Biden, and estimates his policy Bill will cause more than 10 million people to lose health insurance.",
-      "Democratic lawmakers and Senator Adam Schiff of California leveraged the tool to highlight contradictions, sharing screenshots showing the chatbot's refusal to validate Trump's claims about the 2020 election results.",
-      "Officials noted the program could facilitate major federal filings by next year, though The White House has not addressed questions about contradictions between the chatbot's findings and the president's stated positions."
-    ],
-    "title": "Trump’s AI website confirms he lost 2020 election",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/new-method-suggests-the-moon-once-had-an-internal-magnetic-field",
-    "article_url": "https://ground.news/article/new-method-suggests-the-moon-once-had-an-internal-magnetic-field",
-    "bias": [
-      "Left-Leaning coverage frames the buried rock as “fresh evidence” offering “new clues” to a mystery that has “puzzled” or “baffled scientists,” emphasizing discovery while preserving uncertainty.",
-      "Right-Leaning coverage shifts toward a “point of contention”: did an internal dynamo create lunar magnetism, or did Earth-ejected debris leave a remnant, with regolith presented as a “physical record”? Center coverage bridges both, detailing GRAIL gravity data, unusual density and magnetization, and a possible volcanic complex, even suggesting “strongest evidence yet” while saying the mystery deepens.",
-      "All agree the Moon ’s magnetic history remains unresolved, reflecting differing emphases on exploration, mechanism, and evidentiary caution."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 95.0,
-    "error": null,
-    "left_pct": 5.0,
-    "location": "United States",
-    "right_pct": null,
-    "status": "ok",
-    "summary": [
-      "On September 23, ETH Zurich researchers identified a dense, magnetized rock body in the Moon 's Dewar region, providing evidence the satellite possessed an internally generated magnetic field about 4.2 billion years ago.",
-      "Orbital data from NASA probes allowed researchers to bypass geological context issues inherent in Apollo lunar samples, which have fueled decades of debate over the Moon's magnetic history.",
-      "Measuring 37 miles wide and 5.6 miles deep, the buried rock body likely represents solidified magma from a volcanic complex, according to researchers who combined gravity and magnetic data.",
-      "These findings support the theory of an early lunar dynamo while explaining lunar swirls, where magnetic anomalies deflect solar wind to protect the surface, geophysicist Anna Mittelholz stated.",
-      "Lead author Xi Yang noted this orbital methodology offers a new approach for studying planetary magnetic histories, potentially helping future Artemis missions identify protected lunar surface areas."
-    ],
-    "title": "New Evidence Deepens Mystery of Moon’s Ancient Magnetic Field",
-    "topic": "Moon",
-    "topic_full": "Moon · United States"
-  },
-  {
-    "article_path": "/article/trump-orders-federal-agencies-to-use-super-intelligence-for-ai_5b8517",
-    "article_url": "https://ground.news/article/trump-orders-federal-agencies-to-use-super-intelligence-for-ai_5b8517",
-    "bias": [
-      "Left-Leaning coverage frames the terminology order as a “rebrand,” “bizarre move,” or “beyond parody,” stressing that renaming AI does not solve lagging safeguards, vague authority, or risky self-regulation, while portraying Trump’s media language as “stinging.” Right-leaning coverage presents “Super Intelligence,” the “AI Force,” and an “AI czar” as ushering in American technological leadership, defending innovation against rules that could “stifle” development and emphasizing the one-to-one-and-a-half-year edge over China.",
-      "Center coverage treats the change as a branding problem and unresolved administrative project, noting the 60-day definition process.",
-      "All acknowledge the order, proposed workforce, industry accord, and competition with China, but divide over symbolism versus substance, oversight versus speed, and executive ambition versus institutional caution."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 48.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "United States",
-    "right_pct": 31.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, President Donald Trump signed an executive order mandating federal agencies replace \"Artificial Intelligence\" with \"Super Intelligence\" across official policy documents, websites, and press releases.",
-      "Trump announced the rebrand following a White House luncheon with tech leaders, including Nvidia CEO Jensen Huang and Tesla CEO Elon Musk, whom he called \"very productive\" and \"extremely friendly.\"",
-      "Trump's science and technology advisor has 60 days to propose legislation establishing a federal definition for \"Super Intelligence,\" while the executive branch will no longer acknowledge old terminology in applicable settings.",
-      "Executive agencies are not required to rewrite past regulations or historical documents under the order, which Trump described as ensuring technology is \"put to good use\" while stopping potential \"bad use.\"",
-      "Anthropic CEO Dario Amodei emphasized that safety remains essential, stating, \"We all need to work together to make sure that we can win, and we can win safely if we do this right."
-    ],
-    "title": "Trump Orders Federal Agencies to Use 'Super Intelligence' for AI",
-    "topic": "Technology",
-    "topic_full": "Technology · United States"
-  },
-  {
-    "article_path": "/article/us-cdc-confirms-two-measles-related-deaths-in-2026",
-    "article_url": "https://ground.news/article/us-cdc-confirms-two-measles-related-deaths-in-2026",
-    "bias": [
-      "Left-Leaning coverage frames measles as a “growing outbreak,” stressing Pennsylvania’s 900-plus cases and “highest numbers in 35 years,” while right-leaning coverage foregrounds 3,659 national cases and portrays the CDC–Pennsylvania death-count gap as a political “dispute” involving RFK Jr. and Josh Shapiro.",
-      "Center-Leaning accounts de-emphasize broader severity and partisan conflict, emphasizing the “discrepancy” between two CDC-listed deaths and Pennsylvania’s four.",
-      "The pivotal divide is whether the story signifies a worsening public- health crisis or contested political accounting.",
-      "All perspectives acknowledge the CDC’s two-death tally, Pennsylvania’s four, and the outbreak, reflecting shared concern amid wider public-health and political divides."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 68.0,
-    "error": null,
-    "left_pct": 19.0,
-    "location": "United States",
-    "right_pct": 13.0,
-    "status": "ok",
-    "summary": [
-      "On Tuesday, The United States Centers confirmed two measles-related deaths as cases reached 3,659 this year, the highest number in 35 years.",
-      "A few weeks ago, The CDC shifted to using National Center for Health Statistics data instead of rapid real-time reporting from state health departments, sparking intense pushback.",
-      "Discrepancies in tracking triggered a clash between Pennsylvania Governor Josh Shapiro and Health and Human Services Secretary Robert, as Pennsylvania reported more than 900 cases and four deaths the federal agency excluded.",
-      "President Donald Trump and Health and Human Services Secretary Robert signed orders splitting the MMR vaccine into separate shots, while The CDC faces turmoil after losing nearly 30 percent of its workforce.",
-      "Measles was declared eliminated in the United States in 2000 but has made an aggressive comeback; experts warn that policy changes requiring additional return visits may increase infection risks."
-    ],
-    "title": "CDC updates measles count, now includes 2 deaths",
-    "topic": "Measles Outbreak",
-    "topic_full": "Measles Outbreak · United States"
-  },
-  {
-    "article_path": "/article/shafaq-newsisraeli-strike-wounds-lebanese-soldier-three-civilians_2fa4b2",
-    "article_url": "https://ground.news/article/shafaq-newsisraeli-strike-wounds-lebanese-soldier-three-civilians_2fa4b2",
-    "bias": [
-      "Left-Leaning coverage frames the event as deliberate “Israeli targeting,” invokes “Israeli occupation,” and broadens the incident into shelling affecting multiple southern towns, foregrounding civilian harm.",
-      "Right-Leaning coverage generally uses “strike,” but adds “enemy drone attack” and “repeated Israeli strikes” despite a ceasefire, portraying a pattern of Israeli escalation and possible ceasefire violations.",
-      "Center coverage is more restrained, attributing claims to Lebanese authorities while highlighting a discrepancy between four reported wounded and a Civil Defense figure of five.",
-      "The central dividing lines are intentionality, occupation, weapon type, ceasefire compliance, and casualty counting.",
-      "All perspectives emphasize the Lebanese Army vehicle, one seriously wounded soldier, three civilians, and ongoing regional tensions."
-    ],
-    "bias_bar_text": "Left 25% Center 37% Right 38%",
-    "center_pct": 37.0,
-    "error": null,
-    "left_pct": 25.0,
     "location": null,
     "right_pct": 38.0,
     "status": "ok",
     "summary": [
-      "On Wednesday, an Israeli strike on a Lebanese Army vehicle in Nabatieh Al-Fawqa wounded a soldier and three civilians, the Lebanese Army said.",
-      "The incident occurred despite a US-brokered framework signed in Washington on June 26, 2026, after five rounds of negotiations between Lebanon and Israel.",
-      "Israeli artillery fire targeted Haddatha, Kfar Tibnit, Zawtar Al-Sharqiyah, Baraashit, and Wadi Al-Salouqi, while an Israeli Merkava tank fired two shells near Al-Deir.",
-      "Israel had not immediately commented on the incident, while the National News Agency reported multiple strikes since overnight.",
-      "Health Ministry data shows the cumulative toll from March 2 through September 25 reached 4,386 killed and 12,413 wounded."
+      "Michael Jordan 's white jersey from Game 3 of the 1998 NBA Finals sold for a record $12.3 million on September 29 through Joopiter, the auction platform founded by musician Pharrell Williams.",
+      "Dubbed \"The Last Dance,\" the 1998 season marked the Chicago Bulls' final championship run, culminating in a 96-54 dismantling of the Utah Jazz at the United Center on June 7, 1998.",
+      "Seller Rob Gough confirmed the transaction closed with a $10 million hammer price and $2.26 million in buyer's fees, surpassing Jordan's prior record of $10.1 million set four years earlier.",
+      "Jordan's two 1998 Finals jerseys now account for the only eight-figure NBA jersey sales, with this white jersey being the sole publicly known example from that series to surface.",
+      "Although setting a new NBA benchmark, the sale remains well below the overall sports record of $24.1 million paid for Babe Ruth's \"called shot\" jersey from the 1932 World Series."
     ],
-    "title": "Shafaq News..Israeli strike wounds Lebanese soldier, three civilians",
+    "title": "Michael Jordan’s ‘Last Dance’ 1998 Finals Jersey Sells for a Record $12.26 Million",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/uae-state-media-confirms-netanyahu-met-uae-president-sheikh-mohamed-in-abu-dhabi",
-    "article_url": "https://ground.news/article/uae-state-media-confirms-netanyahu-met-uae-president-sheikh-mohamed-in-abu-dhabi",
+    "article_path": "/article/helicopter-crashes-off-catalina-island-coast-rescue-efforts-underway_4c3638",
+    "article_url": "https://ground.news/article/helicopter-crashes-off-catalina-island-coast-rescue-efforts-underway_4c3638",
+    "bias": [
+      "Left-Leaning coverage foregrounds the confirmed toll—“two dead,” hospitalizations, and a missing person—using emotionally vivid language such as “plunges,” while right-leaning coverage emphasizes an air ambulance, “five people aboard,” urgent rescues, and phrases like “tragedy” and “urgent search.” The left frames the event primarily through loss; the right stresses immediate emergency action and human stakes.",
+      "Center-Leaning reports use restrained terms like “crash,” “rescue operation,” and “missing,” adding details such as the submerged aircraft ’s approximate 240-foot depth.",
+      "Despite tonal differences, all emphasize the crash, two deaths, four recoveries, and continuing search—divisions reflecting contrasting preferences for grief-centered versus action-centered framing."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 53.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "California",
+    "right_pct": 19.0,
+    "status": "ok",
+    "summary": [
+      "A REACH Air Medical Services helicopter crashed near Catalina Island on Wednesday evening with five people on board, triggering an urgent search for one missing passenger.",
+      "The aircraft went down near Pebbly Beach shortly after takeoff, prompting the Los Angeles County Fire Department to dispatch helicopters and dive teams at 7:50 p.m.",
+      "Two of the four rescued passengers were transported to a hospital in Avalon in stable condition with minor injuries, while two others remain in unknown medical condition.",
+      "LA County Supervisor Janice Hahn confirmed the crash on X, writing, \"Search and rescue operations are underway and I am praying for everyone who was on board.\"",
+      "Global Medical Response is coordinating with authorities, while the U.S. Coast Guard and dive teams continue searching for the one remaining potential victim."
+    ],
+    "title": "Helicopter Crash Off Catalina Island Kills 2 People, Leaves 2 Hospitalized and 1 Missing",
+    "topic": "Helicopter Crash",
+    "topic_full": "Helicopter Crash · California"
+  },
+  {
+    "article_path": "/article/exclusive-us-slows-aircraft-part-exports-to-china-as-trump-seeks-leverage-in-trade-negotiations-sources-say",
+    "article_url": "https://ground.news/article/exclusive-us-slows-aircraft-part-exports-to-china-as-trump-seeks-leverage-in-trade-negotiations-sources-say",
     "bias": null,
     "bias_bar_text": null,
-    "center_pct": null,
+    "center_pct": 100.0,
     "error": null,
     "left_pct": null,
-    "location": null,
+    "location": "New York",
     "right_pct": null,
     "status": "no_change",
     "summary": [
-      "On Sunday, Israeli Prime Minister Benjamin Netanyahu made a secret visit to Abu Dhabi to meet UAE President Sheikh Mohamed bin Zayed, focusing on strengthening bilateral relations and addressing regional threats from Iran and the Houthis.",
-      "After the Houthis seized Yemen's entire Red Sea coast in September, Saudi Arabia requested Israeli assistance against attacks in the region, prompting Mossad Director Roman Goffman to arrange the meeting.",
-      "Israeli Channel 14 reported a 10-nation summit featuring representatives from the UAE, Saudi Arabia, Morocco, Kuwait, Bahrain, Libya, Oman, Egypt, and the United States, though none publicly confirmed participation.",
-      "Participants discussed sharing intelligence on the Houthis and Iran, with Israeli representatives offering regional partners air defense system assistance, drawing on expertise from the war with Iran.",
-      "Shortly before the meeting, Haaretz reported MBZ warned Netanyahu of a looming Hamas attack before October 7, 2023; Netanyahu's office denied the claim as 'fake news' and rejected Associated Press allegations he sought to suppress it."
+      "The Commerce Department slowed export licensing for airplane parts bound for China in recent weeks, limiting parts licensed to state-owned COMAC and drafting new rules on aviation hydraulic fluid to strengthen leverage in trade negotiations.",
+      "Officials are using China's reliance on aviation suppliers as leverage to strengthen Washington's hand in negotiations over rare earth minerals and other economic issues, with negotiators facing a January 10, 2027 deadline to resolve outstanding disputes.",
+      "China recently requested several years' worth of spare parts for 200 Boeing jets, but officials remain reluctant to provide guarantees, viewing the parts as essential leverage for securing future trade concessions from Beijing.",
+      "A Boeing spokesperson said the company remains \"committed to supporting Chinese airlines with the parts and services they need as we have done for decades,\" balancing commercial obligations against Washington's geopolitical pressure.",
+      "Washington's current restrictions echo a 2025 playbook where the administration suspended licenses for GE Aerospace engines and Honeywell Aerospace navigation systems, tactics now deployed to exert economic pressure on Beijing during intensifying trade tensions."
     ],
-    "title": "UAE State Media Confirms Netanyahu Met UAE President Sheikh Mohamed in Abu Dhabi",
+    "title": "US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations: Reuters",
+    "topic": "US Economy",
+    "topic_full": "US Economy · New York"
+  },
+  {
+    "article_path": "/article/china-linked-hackers-posed-as-former-us-officials-anthropic-employee-to-target-ai-experts",
+    "article_url": "https://ground.news/article/china-linked-hackers-posed-as-former-us-officials-anthropic-employee-to-target-ai-experts",
+    "bias": [
+      "Left-Leaning coverage emphasizes suspected Chinese hackers “posing” as prominent U.S. AI experts and highlights Proofpoint’s TA419 attribution, retaining uncertainty through “suspected.” Right-leaning framing is terser and more accusatory, using “Chinese hackers,” “impersonated,” and “steal emails” to stress foreign criminality and threats to American institutions.",
+      "Center coverage bridges these angles, detailing targets—including former officials and an Anthropic employee—and portraying the operation as “espionage” within a “global race” over AI, export controls, and military applications.",
+      "The pivotal divide is whether the incident is primarily cybercrime, named-group activity, or evidence of geopolitical competition.",
+      "All perspectives emphasize impersonation, China links, and attempts to access sensitive AI-policy accounts, reflecting shared concern over technology , security, and U.S.-China rivalry."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 67.0,
+    "error": null,
+    "left_pct": 11.0,
+    "location": "United States",
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, cybersecurity firm Proofpoint revealed suspected Chinese hackers, dubbed TA419, impersonated prominent AI experts to target email accounts of policymakers and researchers at United States universities and think tanks.",
+      "The campaign involved writing emails purporting to come from experts like Lynne Parker, a former senior White House Technology Policy official, to invite targets into fictitious policy projects or panels.",
+      "Alex Engler, a former White House official, received an invitation to join an AI policy project on Wednesday, realizing the email felt \"slightly, nebulously off\" after checking with others in the field.",
+      "Proofpoint said the targeting of fewer than 10 individuals suggested \"an intelligence interest in US policymaking rather than technology theft alone,\" indicating hackers sought policy insights over stolen technology.",
+      "While President Donald Trump discussed AI last week at the White House with Chinese leader Xi Jinping without a substantive accord, Beijing has long denied carrying out cyberespionage operations."
+    ],
+    "title": "Chinese hackers impersonated ex-US official to steal emails from AI experts",
+    "topic": "Artificial Intelligence",
+    "topic_full": "Artificial Intelligence · United States"
+  },
+  {
+    "article_path": "/article/trump-begins-32-day-midterm-blitz-in-texas-and-oklahoma_8709ea",
+    "article_url": "https://ground.news/article/trump-begins-32-day-midterm-blitz-in-texas-and-oklahoma_8709ea",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s 32-day tour through “deep-red” “safe spaces” as evidence of limited swing-voter appeal, “lagging enthusiasm,” and possible “net negative” effects on vulnerable Republicans.",
+      "Right-Leaning coverage instead portrays the same rallies as a “campaign marathon” focused on “bolstering” candidates and preserving a narrow congressional majority, treating the states as strategic rather than defensive.",
+      "Center coverage bridges these views, noting a “blitz” while reporting “raises eyebrows and anxiety” over the route.",
+      "All perspectives highlight the Choctaw Nation visit’s rarity, but reactions divide over whether it signals outreach—or partisan insulation amid broader concerns about representation and electoral strength."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 47.0,
+    "location": "United States",
+    "right_pct": 12.0,
+    "status": "ok",
+    "summary": [
+      "President Donald Trump has begun a 32-day campaign tour in Texas and Oklahoma aimed at supporting Republican candidates before the November 2026 midterm elections , with the GOP seeking to retain its narrow congressional majorities.",
+      "In Texas, Trump is campaigning alongside Republican Senate candidate Ken Paxton, whom he previously backed in the party primary against incumbent Senator John Cornyn.",
+      "Trump is also promoting his trade and tariff policies during a visit to Peterbilt Motors, while rising gasoline and diesel prices are emerging as a challenge to his economic message.",
+      "Some Republican candidates have welcomed Trump’s campaign appearances, while others in competitive races have distanced themselves from him over issues including the Iran war and large electricity-consuming data centers.",
+      "The Oklahoma rally is part of a strategy focused on strengthening Republican turnout in traditionally conservative states, with Trump expected to continue campaigning in other Republican-leaning states such as Alabama."
+    ],
+    "title": "Trump Begins 32-Day Midterm Blitz in Texas and Oklahoma",
+    "topic": "2026 Midterm Elections",
+    "topic_full": "2026 Midterm Elections · United States"
+  },
+  {
+    "article_path": "/article/us-fcc-chair-says-government-ads-featuring-trump-do-not-raise-concerns",
+    "article_url": "https://ground.news/article/us-fcc-chair-says-government-ads-featuring-trump-do-not-raise-concerns",
+    "bias": [
+      "Left-Leaning coverage foregrounds taxpayer funding, “controversial” ads, possible “self-promotion,” bipartisan criticism, and Carr as a “staunch defender” who “dismisses” concerns, inviting scrutiny of Trump’s political relationship with regulators.",
+      "Right-Leaning framing instead emphasizes that the ads were “permissible” and that Carr addressed concerns without regulatory action, presenting them as routine government communication.",
+      "Center coverage more cautiously attributes the conclusion to Carr, noting no “red flags” while avoiding stronger judgments.",
+      "The pivotal divide is whether featuring Trump transforms a public-service announcement into partisan promotion; all perspectives agree the ads used taxpayer money, featured Trump, and did not prompt FCC review, reflecting broader disputes over accountability and executive power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 23.0,
+    "error": null,
+    "left_pct": 68.0,
+    "location": "United States",
+    "right_pct": 9.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Federal Communications Commission Chairman Brendan Carr said taxpayer-funded television advertisements featuring President Donald Trump are permissible and do not require regulatory review.",
+      "Running across national television during high-viewership programs, the three advertisements celebrate a 'golden age of America' while costing more than $2.5 million, prompting bipartisan criticism from ethics experts and lawmakers.",
+      "Public Citizen filed a complaint this week alleging the ads violate laws against using public funds for campaign activities, while Senators Patty Murray and Chris Murphy demanded the spots be immediately pulled, calling them 'corrupt and illegal propaganda.'",
+      "Dismissing the challenges, Carr claimed the ads resemble routine public service announcements, telling reporters that 'there's groups on the left that have long worked and pushed to weaponize the FCC 's license renewal process.'",
+      "Media freedom groups have criticized Carr for allegedly helping the administration 'weaponise' the agency against networks with unfavorable coverage, even as the White House defends the campaign as promoting patriotism."
+    ],
+    "title": "FCC head says government-funded Trump ads are ‘normal’ and ‘don’t raise any red flags’",
+    "topic": "FCC",
+    "topic_full": "FCC · United States"
+  },
+  {
+    "article_path": "/article/biden-admin-failed-to-vet-thousands-of-afghan-refugees-amid-withdrawal",
+    "article_url": "https://ground.news/article/biden-admin-failed-to-vet-thousands-of-afghan-refugees-amid-withdrawal",
+    "bias": [
+      "Left-Leaning coverage frames the 40% error rate as a “so flawed” Biden-era program, warning of an “untold number of terrorists and dangerous criminals,” while right-leaning coverage intensifies blame through “botched,” “flubbed,” “shocker,” and “alarming,” portraying the withdrawal and resettlement process as reckless security failures.",
+      "Both stress potential danger, but the right adds the 678-case sample, missed aliases, incomplete checks, and two potential terrorism-related inadmissibility cases; the left de-emphasizes methodology and administrative context.",
+      "Center coverage more cautiously emphasizes a “chaotic withdrawal” and vetting breakdowns.",
+      "The shared audit finding becomes a broader ideological divide over immigration , accountability, and national security."
+    ],
+    "bias_bar_text": "7% Center 34% Right 59%",
+    "center_pct": 34.0,
+    "error": null,
+    "left_pct": 7.0,
+    "location": null,
+    "right_pct": 59.0,
+    "status": "ok",
+    "summary": [
+      "On Sept. 23, a Department of Homeland Security Office of Inspector General report identified a 40 percent error rate in a sample of 678 asylum files from Afghan nationals resettled under the Operation Allies Welcome program.",
+      "Complaints regarding the 2023 Ahmed vs. DHS settlement prompted the review, as the agreement required U.S. Citizenship and Immigration Services to adjudicate 90 percent of asylum applications within 150 days.",
+      "Analysis identified 303 missed aliases, 45 unresolved records, 23 missing security checks, and 115 other documentation issues; two cases involved potential Terrorism-Related Inadmissibility Grounds violations.",
+      "Calling the program \"dangerously mismanaged,\" DHS Secretary Markwayne Mullin stated it disregarded proper asylum procedures and warned that \"even one dangerous criminal or terrorist slips through and enters our country, it endangers countless American lives.\"",
+      "USCIS Director Joseph B. Edlow argued existing safeguards minimize these errors, though senior researcher Nayla Rush of the Center for Immigration Studies claimed many admitted Afghans were not \"persecuted\" individuals or U.S. allies."
+    ],
+    "title": "Report: Biden-Era Afghan Refugee Program Had 40% Error Rate",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/france-says-icc-warrant-posed-no-obstacle-to-netanyahu-overflight_1925ee",
-    "article_url": "https://ground.news/article/france-says-icc-warrant-posed-no-obstacle-to-netanyahu-overflight_1925ee",
+    "article_path": "/article/judge-demands-the-trump-administration-to-see-in-14-days-the-legal-justification-of-boat-attacks",
+    "article_url": "https://ground.news/article/judge-demands-the-trump-administration-to-see-in-14-days-the-legal-justification-of-boat-attacks",
     "bias": [
-      "Left-Leaning coverage foregrounds the ICC “arrest warrant,” “fugitive” language, and possible breaches of international law, portraying the overflight as evidence of impunity; right-leaning coverage instead stresses alleged “double standards,” Macron’s “fine speech,” and Canada’s “threatened arrest,” framing the episode as Western hypocrisy and unmet enforcement promises.",
-      "Center coverage uses “posed no obstacle” and explains the legal distinction between airspace transit, territorial entry, and ICC obligations, while noting that authorization was not endorsement.",
-      "The pivotal divide is whether the flight represents evasion of justice or lawful transit.",
-      "All perspectives emphasize Netanyahu’s warrant, the France /Canada crossings, and the gap between legal commitments and practical enforcement."
+      "Left-Leaning coverage frames the ruling as a rebuke of concealment, stressing “secret,” “hiding,” “summarily killing,” and even “cold-blooded murder,” while highlighting rejected privilege claims and the judge’s review before possible disclosure.",
+      "Right-Leaning coverage centers on a civil-rights transparency lawsuit and a 14-day deadline, presenting the memo as documentation of military “attacks” rather than evidence of unlawful killings, and de-emphasizing alleged brutality.",
+      "Center coverage is chiefly procedural, emphasizing the court’s demand for legal justification, though “demands” and “attacks” add force.",
+      "The pivotal divide is whether the strikes signify lethal abuse or disputed but documentable policy; all perspectives emphasize judicial scrutiny, legal rationale, and transparency, reflecting broader conflicts over executive power, military force, and government secrecy."
+    ],
+    "bias_bar_text": "Left 58% Center 34% 8%",
+    "center_pct": 34.0,
+    "error": null,
+    "left_pct": 58.0,
+    "location": null,
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "U.S. District Judge Paul Engelmayer ordered the Trump administration to provide a secret Justice Department Office of Legal Counsel memo for his private review over its legal justification for boat strikes.",
+      "The judge gave the government two weeks to submit the memo so he can determine whether it should be released publicly.",
+      "Engelmayer rejected the administration’s arguments that deliberative-process and attorney-client privileges shielded the document from disclosure.",
+      "The judge said the Pentagon had treated the memo as its effective legal guidance and policy for conducting the boat strikes.",
+      "Engelmayer did not yet rule on the government’s claim of presidential communications privilege and will consider that issue after reviewing the document."
+    ],
+    "title": "Judge Engelmayer Orders Pentagon OLC Memo Disclosure for Boat Strikes",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/senate-confirms-insider-keith-sonderling-to-lead-department-of-labor",
+    "article_url": "https://ground.news/article/senate-confirms-insider-keith-sonderling-to-lead-department-of-labor",
+    "bias": [
+      "Coverage splits over what Keith Sonderling’s confirmation signifies: left-leaning framing calls him a “business ally,” stresses “business-friendly” regulation and foreign-worker enforcement, and links Wednesday’s vote to the Senate’s coming campaign recess; right-leaning framing presents a qualified “longtime labor-policy hand” advancing Trump’s “workforce agenda,” while portraying Democratic objections on overtime rules and unions as “warnings.” Center coverage softens the ideological contest, using “insider” while emphasizing that the 47–41 vote formally filled a vacancy open since April after Sonderling served in an acting role.",
+      "Across perspectives, the shared event is his Senate confirmation; the divide lies in anticipated policy consequences and political meaning."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 57.0,
+    "error": null,
+    "left_pct": 29.0,
+    "location": "United States",
+    "right_pct": 14.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, the Senate confirmed Keith Sonderling to lead the Department of Labor in a 47-41 vote, officially installing the nominee who served as acting secretary since April.",
+      "President Donald Trump nominated Sonderling to lead the department after Lori Chavez-DeRemer resigned earlier this year amid an investigation into allegations of travel fraud and other misconduct.",
+      "Earlier this month, the department's inspector general issued a 44-page report describing the work environment under Chavez-DeRemer as \"toxic, intimidating and humiliating,\" accusing her of violating department policies.",
+      "Chavez-DeRemer's departure was the latest in a string of Cabinet shakeups, occurring weeks after President Trump fired Attorney General Pam Bondi and replaced Homeland Security Secretary Kristi Noem.",
+      "The department now plans to usher in business-friendly regulations and boost foreign worker program enforcement under the new leadership, marking a shift in the agency's operational focus."
+    ],
+    "title": "Senate confirms insider Keith Sonderling to lead Department of Labor",
+    "topic": "U.S. Senate",
+    "topic_full": "U.S. Senate · United States"
+  },
+  {
+    "article_path": "/article/indiana-governor-suspends-gas-tax-again-lifts-restrictions-on-dyed-diesel_269fb3",
+    "article_url": "https://ground.news/article/indiana-governor-suspends-gas-tax-again-lifts-restrictions-on-dyed-diesel_269fb3",
+    "bias": [
+      "Coverage converges on Gov.",
+      "Mike Braun ’s statewide extension of the gas-tax suspension through Nov. 4 and eased dyed-diesel rules for agricultural users, but its framing diverges sharply: left-leaning accounts foreground “continued disruption” in global oil supplies and call the fuel “untaxed,” while right-leaning accounts promote a “gas tax holiday,” “soaring” prices, a seventh month of savings, and roughly 60 cents per gallon.",
+      "Farmers—And, in left coverage, timber harvesters—appear as beneficiaries; center coverage de-emphasizes geopolitical and savings arguments, stressing the Oct. 6–Nov. 4 timeline, all 92 counties, and administrative details.",
+      "Shared emphasis remains on the extension and diesel changes, amid contrasting supply-focused and consumer-relief narratives."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 76.0,
+    "error": null,
+    "left_pct": 14.0,
+    "location": "Indiana",
+    "right_pct": 10.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Indiana Gov. Mike Braun extended the state's gas tax holiday through Nov. 4 and eased restrictions on dyed diesel fuel for farmers seeking relief from record-high fuel costs.",
+      "Braun cited continued global oil supply disruptions, 'including recent Houthi drone attacks in Saudi Arabia that shut down the East-West Pipeline,' which accounts for 7% of global oil supply.",
+      "The order permits farmers and timber harvesters to use off-road fuel for 'any farm-related activities' for the next 30 days, providing relief during the busy fall harvest season.",
+      "Indiana House Democratic Leader Phil GiaQuinta, D-Fort Wayne, supports the diesel relief but labeled it 'small, temporary relief,' arguing farmers have been 'crushed' by federal policies and a 46% increase in bankruptcies last year.",
+      "To cover lost revenue, Braun plans to tap the state's $4 billion surplus while the state has already distributed nearly $46.2 million to local governments for road tax losses since April."
+    ],
+    "title": "Indiana governor extends gas tax suspension",
+    "topic": "Indiana Politics",
+    "topic_full": "Indiana Politics · Indiana"
+  },
+  {
+    "article_path": "/article/feds-kashkari-says-inflation-is-still-too-high-even-after-softer-than-expected-pce-data",
+    "article_url": "https://ground.news/article/feds-kashkari-says-inflation-is-still-too-high-even-after-softer-than-expected-pce-data",
+    "bias": [
+      "The left-leaning framing foregrounds softer-than-expected PCE data yet stresses inflation is “still too high,” portraying Kashkari’s warning as a cautious challenge to premature optimism.",
+      "Center coverage presents reducing “inflation pressures” as a “very necessary effort” while making another hike conditional on economic performance, whereas the right emphasizes officials having “penciled in” one more increase by year-end, giving tightening a clearer policy trajectory.",
+      "The pivotal divide is whether improving data should temper rate increases or reinforce them; the left de-emphasizes a specific hike, while the right de-emphasizes the softer reading.",
+      "All perspectives agree inflation requires attention, reflecting broader tensions over economic risk and policy urgency."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 24.0,
+    "error": null,
+    "left_pct": 13.0,
+    "location": "Minnesota",
+    "right_pct": 63.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Minneapolis Federal Reserve President Neel Kashkari said inflation remains \"still too high,\" signaling the central bank may raise interest rates again depending on economic performance.",
+      "The Federal Reserve issued its first interest rate hike in three years this month to combat higher-than-preferred price growth, marking a significant policy shift.",
+      "Despite Wednesday's cooler August personal consumption expenditures data, Kashkari noted inflation is \"running at around a 3% rate\" and has been elevated for more than five years.",
+      "Kashkari clarified that projecting further hikes at the September Federal Open Market Committee meeting \"is a snapshot in time based on information we had.\"",
+      "Although economic data showed the economy is \"resilient,\" officials remain focused on bringing inflation back to target amid persistent price pressures."
+    ],
+    "title": "Fed’s Kashkari says inflation is ‘still too high’ even after softer-than-expected PCE data",
+    "topic": "Federal Reserve",
+    "topic_full": "Federal Reserve · Minnesota"
+  },
+  {
+    "article_path": "/article/white-house-removes-cnn-from-press-pool-for-trumps-upcoming-trip-to-texas-and-oklahoma",
+    "article_url": "https://ground.news/article/white-house-removes-cnn-from-press-pool-for-trumps-upcoming-trip-to-texas-and-oklahoma",
+    "bias": [
+      "Left-Leaning coverage frames the planned exclusion from Trump’s Texas-and-Oklahoma trip as deliberate obstruction, using “shuts out,” “prevents,” and “again,” while stressing CNN’s scheduled Air Force One and television-pool role, the judge’s earlier intervention, and the “fake news” dispute involving multiple outlets.",
+      "No right-leaning framing is supplied, so that perspective is de-emphasized.",
+      "The center account narrows the story to CNN’s blocked pool duty “despite” a judge’s order, with less surrounding context.",
+      "Across perspectives, the shared emphasis is the White House ’s restriction of CNN access and its connection to a continuing legal and press-access dispute."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 20.0,
+    "error": null,
+    "left_pct": 70.0,
+    "location": "United States",
+    "right_pct": 10.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, the White House removed CNN from the press pool set to cover President Donald Trump's Thursday trip to Denton, Texas, and Durant, Oklahoma, despite earlier rotation documents designating the network for coverage.",
+      "The administration removed the network days after a federal judge halted Trump's effort to ban CNN, NOW, and Politico from the White House, though the ruling applied only to grounds access, allowing exclusion elsewhere.",
+      "In solidarity with CNN, Fox News, ABC News, CBS News, and NBC News briefly boycotted pool duties last week, while a group of 49 media organizations filed a legal brief supporting the three outlets.",
+      "This marks the second recent exclusion; the White House barred CNN from Air Force One during Trump's Tennessee trip over the weekend, despite the network being assigned pool coverage for that travel.",
+      "Attorney Theodore Boutrous, representing the outlets, called the ban \"a blatant violation of the First Amendment and due process\" in a Monday statement as the legal fight to extend the judge's pause continues."
+    ],
+    "title": "White House blocks CNN from pool duty despite judge’s order",
+    "topic": "White House",
+    "topic_full": "White House · United States"
+  },
+  {
+    "article_path": "/article/trump-says-only-a-hispanic-could-survive-fall-from-white-house-ballroom",
+    "article_url": "https://ground.news/article/trump-says-only-a-hispanic-could-survive-fall-from-white-house-ballroom",
+    "bias": [
+      "Left-Leaning coverage foregrounds Trump’s “only Hispanic” fall remark as racially charged, amplifying “criticism” from an Afro-Latina lawmaker and “Black-Latino unity,” while center-leaning accounts frame it as a joke, electoral “wooing” of “wavering Hispanic voters,” and a safety concern.",
+      "Right-Leaning coverage de-emphasizes the remark entirely, instead portraying Trump as one who “teaches” Hispanic leaders about a ballroom’s progress, event and security value, and a court ruling rejecting objections.",
+      "The dividing lines are racial characterization, construction hazards, and political intent.",
+      "Across perspectives, all emphasize Trump’s Hispanic Heritage event and ballroom project, reflecting wider disputes over identity, outreach, and institutional legitimacy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 60.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "United States",
+    "right_pct": 7.0,
+    "status": "ok",
+    "summary": [
+      "President Donald Trump hosted a White House reception marking National Hispanic Heritage Month, praising the contributions and achievements of Hispanic Americans.",
+      "Trump warned guests about the height of the construction area after inviting them to step onto the floor of the planned ballroom.",
+      "He joked that only a Hispanic person could survive a fall from the site and said he was therefore not particularly worried about their safety, drawing cheers from some attendees.",
+      "Trump also promoted the ballroom project during remarks that lasted nearly an hour and described plans involving a tunnel and a drone facility.",
+      "The reception was the first Hispanic Heritage Month celebration of Trump’s second administration and came as his campaign worked to maintain support among Hispanic voters ahead of the 2026 midterm elections."
+    ],
+    "title": "Trump says ‘only a Hispanic could survive’ fall from White House ballroom",
+    "topic": "Donald Trump",
+    "topic_full": "Donald Trump · United States"
+  },
+  {
+    "article_path": "/article/10-year-treasury-yield-hits-highest-level-since-2002-as-global-bond-rout-gathers-pace_d7410a",
+    "article_url": "https://ground.news/article/10-year-treasury-yield-hits-highest-level-since-2002-as-global-bond-rout-gathers-pace_d7410a",
+    "bias": [
+      "Left-Leaning coverage spotlights the 10-year yield’s historic rise and its timing before jobs data, using alarmed language such as “global bond rout” while de-emphasizing energy and international consequences.",
+      "Right-Leaning framing centers “soaring prices,” “fear of inflation,” tighter monetary policy, and adds the 30-year yield, portraying the move as an inflation-driven warning.",
+      "Center coverage bridges both, supplying precise figures—about 5.34%—and terms like “brutal” selloff while stressing implications for Germany.",
+      "The pivotal divide is whether employment signals or energy inflation best explains the surge; all perspectives nonetheless emphasize the highest level since 2002 and global bond-market turmoil."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 63.0,
+    "error": null,
+    "left_pct": 8.0,
+    "location": "United States",
+    "right_pct": 29.0,
+    "status": "ok",
+    "summary": [
+      "On Thursday, the 10-year Treasury yield hit its highest level in 24 years, rising 4 basis points to 5.3338% as a 'brutal' bond sell-off gathered pace.",
+      "Borrowing costs around the world have surged in recent months as investors express concerns over higher interest rates , government debt loads, and fiscal spending plans.",
+      "The 30-year Treasury bond yield jumped 3 basis points to 5.6702%, its highest level since 2002, while the 10-year yield breached levels last seen in early 2002.",
+      "During the third quarter, the global benchmark posted its biggest quarterly rise this century, reflecting significant shifts in international bond market trends.",
+      "LSEG data shows the yield rose as high as 5.342%, surpassing its 2007 peak and hitting its highest point since early 2002."
+    ],
+    "title": "10-year Treasury yield hits highest level since 2002 as global bond rout gathers pace",
+    "topic": "Department of the Treasury (USDT)",
+    "topic_full": "Department of the Treasury (USDT) · United States"
+  },
+  {
+    "article_path": "/article/us-trade-chief-greer-says-new-milwaukee-framework-to-combat-global-excess-steel-capacity_162b0f",
+    "article_url": "https://ground.news/article/us-trade-chief-greer-says-new-milwaukee-framework-to-combat-global-excess-steel-capacity_162b0f",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 36.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 64.0,
+    "status": "no_change",
+    "summary": [
+      "Trade Representative Jamieson Greer unveiled the \"Milwaukee Framework\" on Wednesday at a Group of 20 meeting in Wisconsin, encouraging countries to impose stronger trade barriers on steel imports from nations with heavy excess capacity, such as China .",
+      "The Trump administration has focused the US-led G20 presidency on combating non-market economic policies, with Greer arguing that excess steel production distorts global markets and necessitates robust protective measures.",
+      "Earlier on Wednesday, a group of 28 mostly Western countries agreed to work toward erecting more tariffs on steel, while Greer also called for re-examination of the World Trade Organization's \"Most Favored Nation\" system.",
+      "Canada's trade minister, Maninder Sidhu, is pursuing deals with other nations, citing a 17% increase in trade over the past year of $33 billion, while Canada's US-focused trade minister, Dominic LeBlanc, is not attending the Milwaukee meeting.",
+      "As The Trump administration recently implemented a ban on imports of Canadian alcoholic beverages, motorcycles, and dairy products, the trade war with Canada continues to escalate despite Greer's claims that the door remains open for a deal."
+    ],
+    "title": "US Trade Representative urges G20 to back Trump tariff agenda, takes aim at China",
+    "topic": "US Foreign Policy",
+    "topic_full": "US Foreign Policy · United States"
+  },
+  {
+    "article_path": "/article/mamdani-finally-gets-federal-security-clearance-week-after-gracie-mansion-bro-summit-with-trump",
+    "article_url": "https://ground.news/article/mamdani-finally-gets-federal-security-clearance-week-after-gracie-mansion-bro-summit-with-trump",
+    "bias": [
+      "Left-Leaning coverage frames Mamdani’s nine-month wait as potentially politicized—“finally,” “top-level,” and references to anxiety under Trump imply an overdue process while conceding the delay may not be unusual.",
+      "Right-Leaning coverage instead portrays the lapse as a troubling deficiency, stressing access to classified briefings on terrorism and using mocking phrases like “bro summit” and “Hizzoner” to cast the Trump meeting as informal rapprochement.",
+      "Center coverage largely de-emphasizes interpretation, simply linking the clearance to the meeting.",
+      "The pivotal divide is whether the delay signals political obstruction or administrative failure; all sides agree on the clearance, its approximate timing, and its significance amid broader partisan distrust."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 20.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "New York",
+    "right_pct": 47.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, Mayor Zohran Mamdani announced he received federal security clearance, ending a nine-month wait for access to classified briefings on terrorism and national security threats.",
+      "Eight Republican members of Congress had previously urged the government to deny his clearance, citing his past political activism and positions concerning Israel and the Israeli-Palestinian conflict.",
+      "Mamdani is not the first mayor to face delays; Former Mayor Bill de Blasio waited over a year for his clearance, while Mayor Eric Adams had his revoked last year.",
+      "News of the clearance follows Mamdani's meeting with President Donald Trump at Gracie Mansion last week, though City Hall stated the meeting played no role in the timing of approval.",
+      "Previously, the mayor relied on NYPD intelligence briefings for non-classified information; this clearance now allows Mamdani access to the U.S. government's most sensitive information affecting New Yorkers."
+    ],
+    "title": "Mamdani gets federal security clearance after 9 months as NYC mayor",
+    "topic": "US Politics",
+    "topic_full": "US Politics · New York"
+  },
+  {
+    "article_path": "/article/trump-blasts-fox-news-for-promoting-democrats",
+    "article_url": "https://ground.news/article/trump-blasts-fox-news-for-promoting-democrats",
+    "bias": [
+      "Left-Leaning coverage frames Trump’s criticism of Fox News as a volatile outburst, using terms like “deranged,” “rages,” “furious rant,” and even “malignant narcissism,” while emphasizing his claim that he must publicize accomplishments because the press will not.",
+      "Right-Leaning coverage instead portrays “media ire” and a “rocky relationship,” stressing Fox’s alleged excessive airtime for Democrats and broadening the dispute through Peter Navarro’s reported boycott push.",
+      "Center coverage de-emphasizes these interpretations, mainly recounting Trump’s complaint and named Democrats.",
+      "The pivotal divide is whether “REAL Patriots” signals instability and exclusion or authentic conservative frustration; all perspectives agree on Trump’s accusation, revealing wider partisan battles over media loyalty and legitimacy."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 12.0,
+    "error": null,
+    "left_pct": 63.0,
+    "location": "United States",
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, President Donald Trump lashed out at Fox News on Truth Social, accusing the network of giving Democrats more airtime than Republicans and predicting his MAGA supporters will turn against it.",
+      "Trump has long raged against Fox News's polling, which shows his approval rating cratering amid concerns over the cost of living and the war in Iran, while accusing the network of repeating a \"completely negative narrative.\"",
+      "The president questioned why Fox News features Democrats like Sen. Chuck Schumer, House Minority Leader Hakeem Jeffries, and Jessica Tarlov, though Schumer and Jeffries rarely appear on the network.",
+      "This outburst follows a federal judge forcing the president to let CNN, Politico, and MS NOW back into the White House, while Morning Joe host Joe Scarborough slammed the president's taxpayer-funded ads on Monday.",
+      "Amid these tensions, the president continues to promote government-funded ads telling viewers he will \"demolish the Deep State,\" \"expel the warmongers from our government,\" and \"cast out the communists, Marxists and fascists."
+    ],
+    "title": "Trump says ‘MAGA and REAL Patriots’ will never like Fox News over hosting Democrats",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/kinzinger-bet-on-his-own-pardon-under-investigation-for-insider-trading",
+    "article_url": "https://ground.news/article/kinzinger-bet-on-his-own-pardon-under-investigation-for-insider-trading",
+    "bias": [
+      "Left-Leaning coverage frames the inquiry as regulators “targeting” a prominent “Trump critic,” emphasizing Kinzinger’s opposition to Trump, Kalshi’s referral, trade timing, and reported $823 proceeds; right-leaning accounts instead spotlight alleged self-dealing, portraying bets on “his own pardon” as a scandal and invoking “Whoops,” “profited,” and “insider trading.” Center-leaning treatment stresses whether he traded on information about a pardon he received from Biden, while preserving the distinction between a probe and a legal finding.",
+      "The pivotal divide is whether the episode signals political retaliation or ethical misconduct.",
+      "All perspectives highlight the CFTC inquiry, pardon-related trades, and Kinzinger’s Trump opposition, reflecting broader partisan conflict over accountability and presidential power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 67.0,
+    "error": null,
+    "left_pct": 11.0,
+    "location": "United States",
+    "right_pct": 22.0,
+    "status": "ok",
+    "summary": [
+      "The Commodity Futures Trading Commission is examining trades made by former Representative Adam Kinzinger in late 2024 and early 2025 on his own pardon. Kalshi is reportedly conducting its own review of the account activity.",
+      "Kinzinger, a Republican and prominent Trump critic, received a preemptive pardon from President Joe Biden last year. He traded less than $1,000 on two pardon-related Kalshi markets while a private citizen.",
+      "Kinzinger denied engaging in insider trading, stating he followed Kalshi rules and had no advance knowledge of pardons. Screenshots show he wagered $669 and netted $823 on the pardon bets.",
+      "Kalshi recently fined political candidates for betting on their own campaigns, while the CFTC settled cases with a former Trump White House teleprompter operator and former Representative George Santos for improper trades.",
+      "A bipartisan coalition of 44 states urged the CFTC to rein in prediction platforms. Kinzinger himself wrote in November 2025 that such sites are a \"corruption time bomb\" and a \"threat to democracy."
+    ],
+    "title": "CFTC is investigating Kinzinger’s Kalshi trades related to Biden pardons",
+    "topic": "CFTC",
+    "topic_full": "CFTC · United States"
+  },
+  {
+    "article_path": "/article/the-planes-crash-axe-has-been-misused-for-the-first-time-smit-machhar-wasnt-attacked-with-a-knife",
+    "article_url": "https://ground.news/article/the-planes-crash-axe-has-been-misused-for-the-first-time-smit-machhar-wasnt-attacked-with-a-knife",
+    "bias": [
+      "Left-Leaning coverage frames the episode as an attempted catastrophe, emphasizing “stabbed” and “tried to crash plane,” while right-leaning coverage spotlights security and heroism through “axe,” “weapon,” “brutal battle,” “fighting for his life,” and “bravery.” The key divide is whether to foreground the alleged crash or the crash axe’s supposed misuse, with the right adding pilot identities, nationalities, and operational detail; it also includes Flydubai’s investigation caveat, while the left highlights the emergency landing in Saudi Arabia.",
+      "Center coverage bridges both, using “crash attempt” but preserving uncertainty.",
+      "All portray an alleged cockpit assault attributed to Netanyahu, reflecting broader differences over alarm, authority, and caution."
+    ],
+    "bias_bar_text": "L 21% Center 30% Right 49%",
+    "center_pct": 30.0,
+    "error": null,
+    "left_pct": 21.0,
+    "location": null,
+    "right_pct": 49.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, September 30, 2026, Dubai Flight FZ1073 landed safely in Saudi Arabia after an alleged cockpit altercation between pilots, which Israeli Prime Minister Benjamin Netanyahu described as \"a highly severe security incident.\"",
+      "Flightradar24 data shows the Boeing 737 plummeted from 34,000 feet to nearly 14,000 feet in less than 30 seconds before transmitting emergency codes 7700 and 7500, then made a 180-degree turn toward Tabuk.",
+      "Despite injuries, Captain Smit Machchhar opened the cockpit door, enabling passengers and crew to restrain the alleged attacker; Netanyahu claimed the pilot was attacked with a \"crash axe,\" though Flydubai stated the incident remains under investigation.",
+      "Flydubai confirmed all 174 people on board are safe and accounted for following the landing, while Saudi authorities arrested the co-pilot involved in the cockpit confrontation.",
+      "Although some Israeli media reported a hijacking attempt, Flydubai has not independently confirmed these claims, emphasizing that the \"crash axe\" is designed for emergency access rather than as a weapon."
+    ],
+    "title": "Netanyahu says flydubai co-pilot underwent Islamist radical indoctrination",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/florida-fund-sues-new-york-times-for-records-concerning-editorial-standards_c46389",
+    "article_url": "https://ground.news/article/florida-fund-sues-new-york-times-for-records-concerning-editorial-standards_c46389",
+    "bias": [
+      "Left-Leaning coverage frames the suit as an allegation, using “alleged” and “conservative think tank” while emphasizing whistleblower claims of “systemic anti-Israel bias.” Right-leaning coverage treats the accusation more affirmatively, invoking “anti-Israel bias,” “pro- Hamas ,” “antisemitic…bile,” an “explosive suit,” and a “reckoning,” portraying the case as accountability for newsroom misconduct.",
+      "Center coverage de-emphasizes partisan language, presenting a shareholder records request about “editorial standards,” governance, and pension oversight rather than a proven finding.",
+      "The pivotal divide is whether Israel-Hamas reporting reflects ideological prejudice or warrants procedural review; all perspectives agree Florida shareholders sought internal records concerning oversight and coverage."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -821,41 +673,82 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
-      "On Thursday, Israeli Prime Minister Benjamin Netanyahu flew over Greece, Italy, France and Canada en route to address the United Nations General Assembly in New York, despite an International Criminal Court arrest warrant for his arrest.",
-      "The ICC issued arrest warrants for Netanyahu and former Defense Minister Yoav Gallant in November 2024, alleging war crimes and crimes against humanity in Gaza; Canada, Italy, France and Greece are ICC members legally obliged to enforce such warrants.",
-      "On Tuesday, the UK sent a spy plane to Israel, contradicting Foreign Secretary Ed Miliband's earlier claim this month that the UK would \"reset\" its policy, just weeks after Miliband announced sanctions on illegal Israeli settlements in the occupied West Bank.",
-      "French Foreign Ministry spokesperson Pascal Confavreux defended the clearance as \"in full conformity with international law,\" arguing the Rome Statute does not impose overflight obligations; UN special rapporteur Ben Saul disputed this, citing the Tokyo Convention 1963.",
-      "Israeli President Isaac Herzog warned UK sanctions would \"be a gross interference in the democratic elections of a sovereign nation\" as elections approach next month, while Israeli foreign minister Gideon Saar warned, \"If Britain acts against Israel, Israel will act against Britain."
+      "On Tuesday, shareholders led by The State Board of Administration of Florida and the National Center for Public Policy Research sued The New York Times, alleging the company failed to prevent false reporting and anti- Israel bias.",
+      "A November 2023 whistleblower report detailed concerns about editorial standards, including the hiring of a freelancer who said he \"supports the Palestinian struggle against occupation\" and praised Hitler, which shareholders claim The Company ignored.",
+      "Evidence includes 26 slides presented to a standards editor detailing rejected pro-Israel footage, alongside the 2025 article \"Gazans Are Dying of Starvation,\" which omitted pre-existing health conditions for a child, Mohammed, that Getty Images noted.",
+      "A spokesperson for The Times told The Epoch Times the lawsuit has \"no merit\" and was brought for an \"improper purpose,\" characterizing it as an attempt to chill journalism protected by the First Amendment.",
+      "The 48-page filing alleges the Board failed its obligation to monitor internal controls, claiming journalistic standards were \"weaponized\" to serve unchecked editors' personal agendas without proper Board-level oversight."
     ],
-    "title": "France says ICC warrant posed no obstacle to Netanyahu overflight",
+    "title": "Florida fund sues New York Times for records concerning editorial standards",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/ontario-is-reviving-its-threat-to-cut-electricity-exports-to-the-us-what-does-that-mean",
-    "article_url": "https://ground.news/article/ontario-is-reviving-its-threat-to-cut-electricity-exports-to-the-us-what-does-that-mean",
+    "article_path": "/article/israeli-minister-defends-jordan-bardella-after-accusations-of-anti-semitism",
+    "article_url": "https://ground.news/article/israeli-minister-defends-jordan-bardella-after-accusations-of-anti-semitism",
     "bias": null,
-    "bias_bar_text": "8% Center 92%",
-    "center_pct": 92.0,
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": "Message: \n",
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "fail",
+    "summary": null,
+    "title": "French Far-Right Leader Accused of Antisemitism, Defended by Israeli Minister",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/senate-blocks-bills-on-data-centers-and-insider-trading-ahead-of-six-week-recess",
+    "article_url": "https://ground.news/article/senate-blocks-bills-on-data-centers-and-insider-trading-ahead-of-six-week-recess",
+    "bias": null,
+    "bias_bar_text": "Center 100%",
+    "center_pct": 100.0,
     "error": null,
-    "left_pct": 8.0,
+    "left_pct": null,
     "location": null,
     "right_pct": null,
     "status": "no_change",
     "summary": [
-      "On Tuesday, Ontario Premier Doug Ford threatened to cut off electricity to 1.5 million homes and businesses across Minnesota, Michigan, and New York amid worsening U.S.-Canada trade relations.",
-      "Ford's ultimatum mirrors his November 2024 threat during a tariff dispute with President Donald Trump , when a one-day surcharge on electricity exports generated $260,000 for Ontario.",
-      "Implementing the threat requires the Ontario government to pass legislation directing the Independent Electricity System Operator. Energy Minister Stephen Lecce stated independence is 'about our national security and sovereignty.'",
-      "Cutting exports risks compromising Ontario's energy security, as the province occasionally relies on U.S. power imports. Canada currently exports enough electricity to power 4.5 million U.S. homes.",
-      "While the government invests in new power projects for energy independence, officials acknowledge these facilities remain far from operational, making the threat a high-stakes bargaining chip in ongoing trade disputes."
+      "On Wednesday, Senate Democrats blocked the Republican-backed Ratepayer Protection Act and the Stop Insider Trading Act in WASHINGTON, preventing both measures from advancing as lawmakers prepare for a six-week recess.",
+      "The Ratepayer Protection Act would have required large power users like data centers to pay for grid upgrades; the bill fell three votes shy of the 60 needed to advance.",
+      "Recent AP-NORC/University of Chicago polls found 63% of Americans are concerned about electricity price impacts from data centers, though Sen. Martin Heinrich, D-N., dismissed the legislation as 'nothing more than a messaging bill on the eve of an election.'",
+      "Senate Democrats also blocked the Stop Insider Trading Act, which included a voter identification measure from the Save America Act that critics deemed a nonstarter and failed to restrict existing stock holdings.",
+      "According to an Economist/YouGov poll, 51% of Americans say new data centers are a bad thing, illustrating the political divide as the Senate failed to reach the 60 votes required to advance these measures."
     ],
-    "title": "Ontario Revives Threat to Limit U.S. Power Exports Amid Trade Dispute",
+    "title": "Senate blocks bills on data centers and insider trading ahead of six-week recess",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/ice-confusion-ignites-maga-backlash-i-would-have-called-for-impeachment",
-    "article_url": "https://ground.news/article/ice-confusion-ignites-maga-backlash-i-would-have-called-for-impeachment",
+    "article_path": "/article/sen-bill-hagerty-seeks-to-have-jack-smith-disbarred",
+    "article_url": "https://ground.news/article/sen-bill-hagerty-seeks-to-have-jack-smith-disbarred",
+    "bias": [
+      "Left-Leaning coverage frames the episode around Hagerty seeking to have Smith “disbarred,” portraying the prosecutor as a “blatantly partisan actor,” while right-leaning coverage emphasizes a formal ethics “complaint,” alleged “serious misconduct,” phone-record subpoenas, and the claim that Smith “damaged our constitutional order.” The pivotal divide is whether Arctic Frost represents prosecutorial abuse—“lawfare” against conservatives—or simply a dispute summarized through Hagerty’s accusations.",
+      "Left coverage foregrounds the severe sanction; right coverage supplies more procedural allegations but similarly de-emphasizes Smith’s response and independent verification.",
+      "Both agree on the filing, its post-testimony timing, and potential discipline, reflecting broader battles over institutional legitimacy and partisan power."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "Republican Tennessee Senator Bill Hagerty filed an ethics complaint seeking former Special Counsel Jack Smith ’s disbarment, alleging prosecutorial misconduct and a lack of candor toward a federal court.",
+      "The complaint concerns a 2023 subpoena for phone metadata belonging to Hagerty and other Republican senators during the Arctic Frost investigation.",
+      "Hagerty alleges Smith’s court filing did not identify the records as belonging to members of Congress or address possible legislative protections.",
+      "The Tennessee board has not announced any disciplinary finding, and the complaint itself does not establish misconduct."
+    ],
+    "title": "Hagerty Files Ethics Complaint Seeking Discipline Against Former Special Counsel Jack Smith",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/congress-set-to-leave-washington-for-the-midterms-with-no-ai-progress_533ace",
+    "article_url": "https://ground.news/article/congress-set-to-leave-washington-for-the-midterms-with-no-ai-progress_533ace",
     "bias": null,
     "bias_bar_text": null,
     "center_pct": null,
@@ -865,35 +758,148 @@
     "right_pct": null,
     "status": "no_change",
     "summary": [
-      "Verbal guidance reportedly told some Immigration and Customs Enforcement offices to reduce arrests of immigrants without criminal records, but it was rescinded within hours.",
-      "Administration officials described the guidance as a “miscommunication” rather than a formal policy change.",
-      "Donald Trump told Fox News that enforcement still focused on the “worst first” while not excluding others.",
-      "An Immigration and Customs Enforcement report recorded 51,000 arrests or deportations in August, while White House spokeswoman Lauren Bis cited more than 3 million deportations."
+      "The Senate recessed Wednesday until after the November midterm elections, leaving Washington without passing meaningful AI protections or data-center energy reforms. Democrats blocked Republican-led \"show votes\" on these issues.",
+      "Republican senators remained in Washington longer than planned to force votes on politically salient issues like energy costs and corruption. Democrats blocked the measures, criticizing the legislative push as \"toothless\" show votes.",
+      "While Republicans sought AI guardrails, Sen. Josh Hawley convened a hearing on \"Rogue AI,\" though OpenAI CEO Sam Altman declined to participate. Republicans attempted to pass legislation insulating Americans from data-center energy costs.",
+      "Frustrated by the lack of results, Sen. Jim Justice stated, \"If you can't pay the bills, you've got a real problem with us.\" Lawmakers return Nov. 9 to address a \"monster to-do list.\"",
+      "Senate Minority Leader Chuck Schumer projected confidence about the midterms, while Republicans face a competitive battle to maintain control of the chamber. Some senators remain skeptical that late-session debates will shift voters' views on an already \"baked-in\" result."
     ],
-    "title": "ICE Guidance to Scale Back Arrests of Immigrants Without Criminal Histories Draws Backlash",
+    "title": "Congress Set to Leave Washington for the Midterms with No AI Progress",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/trump-used-impossible-foreign-labor-standards-as-tariff-workaround-small-businesses-say",
-    "article_url": "https://ground.news/article/trump-used-impossible-foreign-labor-standards-as-tariff-workaround-small-businesses-say",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Wednesday, spice importer Burlap & Barrel and watch importer Collective Horology will argue in the Court of International Trade in New York City that the Trump administration did not properly establish forced labor cases before levying duties.",
-      "The Liberty Justice Center represents these plaintiffs after securing a February Supreme Court victory against the president's previous International Emergency Economic Powers Act tariffs. CEO Sara Albrecht describes the new forced labor duties as \"blatantly pretextual.\"",
-      "New tariffs cover 99.4% of U.S. imports at rates of 10% or 12.5%. Trade expert Wolff called the forced labor investigation a \"fake, bogus test\" for 60 countries, designed solely to impose duties.",
-      "While U.S. Customs and Border Protection processes roughly $166 billion in IEEPA refunds, businesses continue paying the new tariffs. Plaintiffs allege these levies harm their bottom lines, forcing them to loan working capital to the government.",
-      "The Department of Justice declined to comment Monday on the ongoing litigation. Liberty Justice Center attorneys argue the administration exceeded tariff authority delegated by Congress under the Trade Act of 1974."
+    "article_path": "/article/white-house-misspells-united-states-in-ai-agreement",
+    "article_url": "https://ground.news/article/white-house-misspells-united-states-in-ai-agreement",
+    "bias": [
+      "Left-Leaning coverage turns the “Unites States” typo and “super intelligence” branding into a personal rebuke, using phrases like “ultra-cringey,” “dragged,” and “stupid preferred nomenclature” to portray Trump as careless and the accord as embarrassing.",
+      "Right-Leaning accounts still spotlight the “major” error but emphasize the voluntary pledge, industry “self-policing,” and possible effort to reduce AI’s negative image and encourage development.",
+      "Center coverage sits between them, noting “glaring” mistakes while stressing cooperation, safeguards, and enforcement questions.",
+      "The pivotal divide is whether the episode signifies presidential incompetence or a consequential debate over voluntary AI governance; all agree the typo and advanced-AI risks drew attention."
     ],
-    "title": "Small Businesses Challenge Trump Tariffs in New York Court",
-    "topic": null,
-    "topic_full": null
+    "bias_bar_text": null,
+    "center_pct": 32.0,
+    "error": null,
+    "left_pct": 41.0,
+    "location": "United States",
+    "right_pct": 27.0,
+    "status": "ok",
+    "summary": [
+      "On Wednesday, the White House released the \"Joint Commitment on Frontier Responsibilities,\" but the document drew immediate ridicule after misspelling the country's name as \"Unites States\" beneath President Donald Trump 's signature.",
+      "President Donald Trump met with major artificial intelligence executives on Tuesday to discuss voluntary safety standards and promote his preferred term, \"super intelligence,\" for the technology.",
+      "Guidelines within the accord require companies to \"implement robust internal controls,\" create monitoring teams, \"partner with an independent external auditor,\" and establish independent committees to review safety findings.",
+      "Social media users mocked the error across X and Truth Social, criticizing the administration's attention to detail on a document focused on managing sophisticated technology.",
+      "Trump has favored industry self-regulation, calling AI doomsday concerns a \"hoax,\" while CEOs including Anthropic's Dario Amodei and SpaceXAI's Elon Musk have warned of risks requiring stricter guardrails."
+    ],
+    "title": "White House Misspells United States in A.I. Agreement",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
+  },
+  {
+    "article_path": "/article/sacua-discusses-first-semester-grades-faculty-responsibilities",
+    "article_url": "https://ground.news/article/sacua-discusses-first-semester-grades-faculty-responsibilities",
+    "bias": [
+      "Left-Leaning coverage frames the University of Michigan ’s pause of a fall 2027 no-grade pilot as a procedural review shaped by faculty governance, SACUA discussion, and “misconceptions,” while center coverage emphasizes further “input,” analysis, and discussion.",
+      "Right-Leaning coverage sharpens the conflict, using “suspend,” “massive backlash,” and “highly criticized” to portray retreat under pressure, yet also highlights President Grasso’s “thoughtful, creative experiment” description.",
+      "The pivotal divide is whether the pause reflects shared governance and clarification or public resistance to unconventional grading.",
+      "All perspectives agree the pilot was paused for LSA students, revealing broader tensions over institutional authority, innovation, and educational norms."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 41.0,
+    "location": "Michigan",
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "The University of Michigan has paused its LSA first-semester grade-covering pilot, originally scheduled for fall 2027. The program would have replaced traditional letter grades for incoming freshmen with \"pass\" or \"no credit\" designations.",
+      "Dean Rosario Ceballo proposed the pilot in her 2025 address to help the roughly 3,500 incoming freshmen \"acclimate to the demands of a U-M education\" and reduce stress and anxiety. The program aimed to encourage students to take classes outside their comfort zones without initial grades affecting their GPAs.",
+      "Critics, including former Michigan tight end Jake Butt, likened the grade-covering policy to \"participation trophies\" and argued it would blunt students' ability to grow. The backlash spread across social media and conservative outlets like Fox News last month.",
+      "U-M President Domenico Grasso requested the pause on Tuesday, stating that \"distorted\" media narratives unfairly portrayed students as \"coddled or unprepared for the demands of a rigorous Michigan education.\" Grasso cited misconceptions that put the pilot's success at risk.",
+      "Regent Sarah Hubbard called the pause \"a good decision,\" noting that stakeholders had questions requiring review. The Faculty Senate is drafting a document outlining faculty rights and responsibilities, with SACUA Chair Kentaro Toyama saying the work will span much of the year."
+    ],
+    "title": "New University of Michigan grading plan halted after backlash",
+    "topic": "University of Michigan",
+    "topic_full": "University of Michigan · Michigan"
+  },
+  {
+    "article_path": "/article/cornell-attacks-gang-rape-accuser-as-irresponsible-for-essay-claims-while-defending-how-it-handled-accusations",
+    "article_url": "https://ground.news/article/cornell-attacks-gang-rape-accuser-as-irresponsible-for-essay-claims-while-defending-how-it-handled-accusations",
+    "bias": [
+      "Left-Leaning coverage foregrounds Jane Doe, the civil lawsuit, and alleged texts “surfacing,” using legal qualifiers such as “alleged” and “defendant” while centering the accuser’s perspective.",
+      "Right-Leaning coverage spotlights “disgusting” and “horrifying” messages, alleged drugging, and the assault’s reported duration, framing the case as shocking exposure and moral scandal.",
+      "Center coverage sits between them, emphasizing whether Snapchat messages are “crucial pieces of evidence,” a reopened criminal investigation, and possible group-chat liability, while “could” preserves uncertainty.",
+      "The dividing lines are victim-centered accountability, sensational condemnation, and digital/legal responsibility; all nonetheless emphasize allegations involving seven men, a fraternity, and potentially significant communications."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 74.0,
+    "error": null,
+    "left_pct": 13.0,
+    "location": "New York",
+    "right_pct": 13.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Tompkins County District Attorney Matthew Van Houten announced he is reopening the criminal investigation into 2024 sexual assault allegations against members of Cornell University's Chi Phi fraternity.",
+      "Jane Doe's civil lawsuit alleges that seven Chi Phi members drugged and raped her at the Ithaca, New York fraternity house in October 2024, prompting the district attorney's office to reconsider the case.",
+      "Newly publicized text messages obtained by CBS News reveal one defendant apologized to Doe two days after the alleged assault, while Snapchat messages showed fraternity members discussing the incident in real time.",
+      "Cornell University rejected claims of minimal punishment, confirming that internal investigations resulted in suspensions and expulsions for some of the seven members following a Title IX review.",
+      "The case now heads to a grand jury as experts like Arick Fudali note the Snapchat messages demonstrate a \"disturbingly nonchalant manner\" reflecting broader cultural issues within fraternities."
+    ],
+    "title": "Cornell fraternity Snapchat messages could be key in Jane Doe rape case",
+    "topic": "US Crime",
+    "topic_full": "US Crime · New York"
+  },
+  {
+    "article_path": "/article/new-california-law-bans-officers-from-using-gloves-that-deliver-electric-shocks",
+    "article_url": "https://ground.news/article/new-california-law-bans-officers-from-using-gloves-that-deliver-electric-shocks",
+    "bias": [
+      "Left-Leaning coverage frames the ban as civil-rights protection, using phrases like “painful electric shocks” and “thwart tactics” to portray ICE practices as harmful and emphasizing more than 20 bills and state oversight of detention centers.",
+      "Right-Leaning coverage de-emphasizes that broader package, focusing instead on ICE’s planned glove distribution and presenting the measure mainly as a “ban,” suggesting state resistance to federal enforcement.",
+      "Center coverage mediates with “expand oversight,” attributing that rationale to Newsom’s office while noting the 2030 sunset.",
+      "All perspectives highlight Newsom’s action and the prohibition, reflecting wider divides over police power, immigration authority, and federalism."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 63.0,
+    "error": null,
+    "left_pct": 28.0,
+    "location": "California",
+    "right_pct": 9.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, California Gov. Gavin Newsom signed a package of more than 20 bills expanding oversight of federal immigration enforcement, aiming to increase transparency and restrict tactics used by federal agents.",
+      "Lawmakers crafted the legislation as the latest effort by Democratic-led California to counter President Donald Trump's immigration enforcement strategies since he took office last year.",
+      "One new law bans law enforcement from using electric shock gloves, a tool Homeland Security recently contracted to purchase for nearly $17 million, while another imposes a 25% tax on private detention centers.",
+      "Senator Scott Wiener authored the \"No Kings Act,\" enabling residents to sue federal agents for alleged civil rights violations, while new regulations mandate local agencies disclose 911 calls from detention centers.",
+      "Although California officials aim to strengthen immigrant protections, experts warn these state laws may face constitutional challenges under the Supremacy Clause, though the legislation reflects a broader trend among Democratic-led states."
+    ],
+    "title": "Newsom bars ICE from using shock gloves, other ‘Orwellian’ tactics in California",
+    "topic": "California Politics",
+    "topic_full": "California Politics · California"
+  },
+  {
+    "article_path": "/article/trump-says-he-discussed-release-of-political-prisoners-with-xi",
+    "article_url": "https://ground.news/article/trump-says-he-discussed-release-of-political-prisoners-with-xi",
+    "bias": [
+      "Coverage converges on Trump’s account of “fruitful” and “important” discussions with Xi, but diverges in emphasis: the Independent’s headlines are not distinctly left-leaning and focus specifically on Jimmy Lai , including his 20-year sentence and national-security and sedition charges, while right-leaning framing broadens the issue to “political prisoners,” uses the dramatic “reveals,” highlights “winning freedom,” and adds Min Zin and Trump’s stated priority of freeing Americans overseas.",
+      "Center coverage supplies meeting context, family pressure, and Lai’s humanitarian significance, with “claims” signaling skepticism.",
+      "No perspective establishes a Chinese commitment or confirmed release, underscoring competing legal, humanitarian, and geopolitical frames."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 15.0,
+    "location": "United States",
+    "right_pct": 39.0,
+    "status": "ok",
+    "summary": [
+      "President Donald Trump said on Wednesday that he discussed the release of political prisoners with Chinese President Xi Jinping when the two leaders met last week.",
+      "Families had stepped up pressure on the Trump administration to push Beijing to release their loved ones ahead of the Chinese President's three-day state visit.",
+      "Trump raised specific cases including Myanmar scholar Min Zin, arrested in June, and Hong Kong tycoon Jimmy Lai, the Apple Daily founder sentenced to 20 years for seditious materials.",
+      "\"I did with President Xi. I did,\" Trump told reporters, adding that the discussions were \"very, very important\" and \"hopefully, fruitful.\"",
+      "The White House did not confirm if the President raised broader rights issues concerning Tibet, the Uyghur Muslim minority, or China's new \"ethnic unity\" law."
+    ],
+    "title": "Trump Says He Discussed Release of Political Prisoners with Xi",
+    "topic": "US Politics",
+    "topic_full": "US Politics · United States"
   }
 ]
