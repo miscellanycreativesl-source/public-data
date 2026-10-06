@@ -1,12 +1,12 @@
 [
   {
-    "article_path": "/article/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack",
-    "article_url": "https://ground.news/article/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack",
+    "article_path": "/article/trump-says-hell-pay-for-tv-ads-that-praised-him-and-which-government-funded",
+    "article_url": "https://ground.news/article/trump-says-hell-pay-for-tv-ads-that-praised-him-and-which-government-funded",
     "bias": [
-      "Left-Leaning coverage frames the withdrawal of roughly 12 B-1 bombers as a response to uncertain danger, pairing “suspected terror attack” with questions about intelligence, Iran’s denial, and possible wider war aims; “panic at the Pentagon ” adds a skeptical edge.",
-      "Right-Leaning coverage emphasizes a “credible,” “Iran-backed plot,” portraying the move as a “hasty” protective evacuation and warning of escalating Tehran tensions.",
-      "Center coverage de-emphasizes speculation, stressing Pentagon confirmation and an “alleged terror plot” without assigning blame.",
-      "All agree the bombers returned to U.S. bases after arrests near RAF Fairford, but diverge over threat certainty and geopolitical meaning."
+      "Left-Leaning coverage foregrounds ethics and self-promotion, describing “government-funded” ads that “praised him” and promoted a “golden age of America,” while center framing calls them “controversial” and stresses “intense pushback,” funding mechanics, and election timing.",
+      "Right-Leaning coverage de-emphasizes the messaging and broader ethical dispute, instead portraying Trump’s decision to pay personally or through a MAGA committee as a response to taxpayer-spending criticism, though “taxpayer funding” and “close to election” retain a skeptical edge.",
+      "The pivotal divide is whether the story centers on improper promotional use of public money or corrective fiscal responsibility and campaign timing.",
+      "All perspectives emphasize the funding shift, pro-Trump content, and bipartisan criticism, reflecting wider arguments over ethics, public resources, and political accountability."
     ],
     "bias_bar_text": null,
     "center_pct": null,
@@ -16,13 +16,67 @@
     "right_pct": null,
     "status": "ok",
     "summary": [
+      "On Monday, President Donald Trump announced he will personally fund the Patriotic Ads using money raised by his MAGA PAC after intense backlash over taxpayer-funded television spots.",
+      "Ethics experts and Lawmakers from both parties criticized the three nationally broadcast ads for celebrating a 'golden age of America' using public funds shortly before November congressional elections.",
+      "One ad features Trump declaring 'America will never be a communist country' while a chorus repeats 'love me.' Another combines Mount Rushmore imagery with praise for a 'golden age of America.'",
+      "Lawmakers question whether the spots violated longstanding restrictions on government propaganda and political activity, focusing on whether public funds were improperly used for political promotion.",
+      "Trump defended the ads on Truth Social as 'a positive promotion for our Great U.S.A.,' insisting the funding shift addresses the recent backlash over taxpayer support."
+    ],
+    "title": "Source Icon",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/nobel-prize-in-medicine-awarded-to-three-scientists-for-their-work-concerning-light-gated-ion-channels-and-optogenetics_d85b7d",
+    "article_url": "https://ground.news/article/nobel-prize-in-medicine-awarded-to-three-scientists-for-their-work-concerning-light-gated-ion-channels-and-optogenetics_d85b7d",
+    "bias": [
+      "Left-Leaning coverage celebrates optogenetics as “revolutionary,” opening a “new era” and illuminating “mysteries of the brain,” while stressing memories, emotions, behavior, and possible treatments for Parkinson’s or depression.",
+      "Right-Leaning framing favors “groundbreaking” discoveries that “unlock” brain secrets, emphasizing the practical ability to switch neurons on and off and potential vision restoration.",
+      "Center coverage is more technical, highlighting “unprecedented precision,” affiliations, and the shared 12-million-kronor prize.",
+      "The key divide is promise versus practical control, though all perspectives agree on the three laureates, light-gated channels, and optogenetics’ importance—reflecting broader preferences for therapeutic progress, technological utility, or institutional explanation."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 41.0,
+    "error": null,
+    "left_pct": 34.0,
+    "location": null,
+    "right_pct": 25.0,
+    "status": "ok",
+    "summary": [
+      "The Karolinska Institute in Stockholm awarded the Nobel Prize in medicine on Monday to Karl Deisseroth, Peter Hegemann, and Georg Nagel for their research into light-gated ion channels and optogenetics.",
+      "Optogenetics research enables scientists to switch on or off individual nerve cells in a living brain, the committee wrote, making it possible to reveal the brain's mysteries in laboratories worldwide.",
+      "Award winners receive 12 million Swedish kronor, or about $1.2 million, as part of the prize money this year, whether for individuals, small groups, or organizations.",
+      "Following the medicine prize, the Nobel Memorial Prize in Economic Sciences will be announced on Oct. 12, after the peace prize, with physics, chemistry, and literature awards announced this week.",
+      "Last year, the Nobel Prize in medicine went to three scientists for discoveries about how the immune system identifies germs, findings Experts called critical to understanding autoimmune diseases."
+    ],
+    "title": "Nobel Prize in medicine awarded to three scientists for their work ‘concerning light-gated ion channels and optogenetics’",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack_b10454",
+    "article_url": "https://ground.news/article/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack_b10454",
+    "bias": [
+      "Left-Leaning coverage frames the B-1 redeployment as a security-driven warning while stressing uncertainty, using phrases such as “suspected terror attack,” “panic in the Pentagon ,” and references to conflicting counts of roughly ten, twelve, or all bombers.",
+      "Right-Leaning coverage presents an urgent, Iran-linked threat, emphasizing “Iran-backed plot,” “urgent evacuation,” “all,” and “key,” while de-emphasizing routine force rotation, released suspects, and the lack of explosives.",
+      "Center coverage more cautiously highlights an “unspecified new threat” and a “mysterious security incident,” preserving ambiguity.",
+      "The pivotal divide is whether the arrests indicate an imminent Iranian attack or an unconfirmed security concern; all agree the roughly dozen bombers returned home, reflecting wider disputes over Iran, alliance security, and U.S. force posture."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": null,
+    "right_pct": 30.0,
+    "status": "ok",
+    "summary": [
       "On Sunday, at least 10 USAF B-1B Lancer bombers departed Royal Air Force Fairford in the United Kingdom, returning to bases in the United States. The Pentagon confirmed the redeployment.",
       "Twelve B-1B Lancer bombers had been stationed at Fairford since March, serving as a key launch point for strikes against Iran. The withdrawal follows an investigation into an alleged plot targeting the base.",
       "Police arrested five British nationals and one dual Iranian citizen regarding the alleged scheme. US officials claimed an individual linked to the Islamic Revolutionary Guard Corps recruited the suspects, though British authorities have not confirmed this finding.",
       "The Defense Department stressed it remains on alert to employ \"global strike capability\" from US territory, noting the return does not eliminate long-range strike options. It remains unclear whether replacement aircraft will be sent to Fairford.",
       "Following the base's use in Iran operations, Islamic Revolutionary Guard Corps officials previously warned that facilities supporting US strikes could be considered legitimate targets. British investigations into the alleged plot and potential foreign state involvement are continuing."
     ],
-    "title": "Source Icon",
+    "title": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
     "topic": null,
     "topic_full": null
   },
@@ -38,9 +92,9 @@
     "bias_bar_text": null,
     "center_pct": 61.0,
     "error": null,
-    "left_pct": 25.0,
+    "left_pct": 24.0,
     "location": null,
-    "right_pct": 14.0,
+    "right_pct": 15.0,
     "status": "ok",
     "summary": [
       "On Sunday, Okinawa Prefectural Police arrested Marine Devin Jacob Ballard, assigned to Marine Corps Air Station Futenma, on suspicion of robbing and murdering Anna Yagi, 39, at the Naminoue Crystal Hotel in Naha early Saturday.",
@@ -57,10 +111,10 @@
     "article_path": "/article/tennessees-prisons-chief-is-resigning-after-failed-execution-of-christa-pike-governor-says",
     "article_url": "https://ground.news/article/tennessees-prisons-chief-is-resigning-after-failed-execution-of-christa-pike-governor-says",
     "bias": [
-      "Left-Leaning coverage frames Pike’s survival—she was unconscious and on a ventilator—as evidence of “systemic death penalty failures,” emphasizing human harm and institutional accountability.",
-      "Right-Leaning coverage stresses law-and-order consequences, calling the episode an “execution disaster” or “disastrous bureaucratic failure,” highlighting Strada’s responsibility, prior problems, and suspended executions; some even label Pike “murderer.” Center coverage more explicitly weighs competing claims: officials say “protocol” was followed, while attorneys raise IV-placement concerns, pending investigation.",
-      "The pivotal divide is whether the event signifies capital punishment’s broader breakdown or chiefly managerial incompetence.",
-      "All agree on the failed attempt, resignation, and independent review, reflecting wider disputes over state power, punishment, and accountability."
+      "Left-Leaning coverage frames Pike’s survival after two doses of lethal-injection drug and placement on a ventilator as evidence of “systemic failures,” linking the “failed” or “botched” execution to death-penalty concerns and institutional accountability.",
+      "Right-Leaning accounts stress a “colossal bureaucratic failure,” administrative incompetence, the governor’s response, and independent review, sometimes emphasizing Pike “survives lethal injection” while de-emphasizing medical-access details; some also highlight suspended executions.",
+      "Center coverage focuses on “mounting scrutiny,” procedural questions, and Strada’s prior record.",
+      "All perspectives emphasize Strada’s departure, Pike’s critical condition, and investigation, reflecting wider divides over capital punishment versus governmental competence."
     ],
     "bias_bar_text": null,
     "center_pct": 52.0,
@@ -81,561 +135,508 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/christa-pike-unconscious-on-ventilator-at-nashville-hospital-her-lawyers-say",
-    "article_url": "https://ground.news/article/christa-pike-unconscious-on-ventilator-at-nashville-hospital-her-lawyers-say",
+    "article_path": "/article/francis-halzen-receives-the-nobel-prize-in-physics",
+    "article_url": "https://ground.news/article/francis-halzen-receives-the-nobel-prize-in-physics",
     "bias": [
-      "Left-Leaning coverage foregrounds human suffering, calling the attempt an “extraordinary medical and procedural crisis” and potentially “torturous,” while emphasizing unconsciousness, ventilator support, and the absence of an official explanation.",
-      "Right-Leaning coverage foregrounds Pike as a “condemned murderer,” graphic needle details, and institutional incompetence, using “botched,” “cruel,” and even “REALLY” to suggest both procedural failure and distrust of official accounts.",
-      "Center coverage more cautiously stresses legal uncertainty and context, including her accomplice’s life sentence.",
-      "The dividing line is whether the episode primarily indicts capital punishment or Tennessee’s execution administration; all perspectives agree it failed, endangered Pike, and warrants investigation."
+      "Left-Leaning coverage makes the science accessible, pairing Halzen’s Belgian identity with the evocative phrase “ghostly messengers from space” and broad “discoveries about neutrinos.” Right-leaning coverage uses formal, celebratory award language—“decisive contributions,” “discovery,” and “astrophysical origin”—to stress scientific distinction, while de-emphasizing biographical color.",
+      "Center coverage adds institutional texture through the Nobel Committee’s recommendation process and technical “high-energy” terminology.",
+      "These are differences in emphasis and rhetorical register, not clear partisan conflict: all identify Halzen’s 2026 Nobel Prize and IceCube, though only center and right explicitly specify high-energy, astrophysical neutrinos."
     ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
+    "bias_bar_text": "Left 40% Center 29% Right 31%",
+    "center_pct": 29.0,
     "error": null,
-    "left_pct": 28.0,
+    "left_pct": 40.0,
     "location": null,
-    "right_pct": 18.0,
+    "right_pct": 31.0,
     "status": "ok",
     "summary": [
-      "On Friday, attorneys for Christa Pike reported she remains unconscious and on a ventilator in a Tennessee hospital following a failed execution attempt on Wednesday night. Pike is being treated for the effects of pentobarbital administered during the procedure.",
-      "The execution process lasted over two hours, with Pike's lawyers claiming IV lines were incorrectly placed, causing pentobarbital to enter her tissue instead of her bloodstream. The team then administered a backup set of syringes after the initial failure.",
-      "Defense lawyer Randall Spivey, who witnessed the procedure, recalled Pike saying her arm felt like it would \"explode.\" The execution team worked for an hour to administer drugs, leaving at least seven needles in her left arm.",
-      "Gov. Bill Lee demanded a review of Tennessee's execution procedures and indefinitely postponed Pike's execution and another slated for this year. State officials have not offered an explanation for what occurred during the attempt.",
-      "Other Republican leaders in Tennessee are questioning whether to abandon single-drug lethal injections in favor of alternative methods. Pike's legal team filed emergency motions asking the state to preserve all evidence from the failed execution attempt."
+      "On Tuesday, Oct 6, 2026, the Royal Swedish Academy of Sciences awarded the Nobel Prize in Physics to Belgian-American particle physicist Francis Halzen for \"decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin.\"",
+      "Halzen's research at the IceCube, which the committee described as \"ghostly messages from space,\" has fundamentally reshaped humanity's understanding of the universe and the nature of high-energy astrophysical phenomena.",
+      "The prize money this year is 12 million Swedish kronor, or about $1.2 million, which is shared among winners if there are several; the award was established under the will of Alfred Nobel to honor scientific achievement.",
+      "Nobel medals will be presented by Sweden's King Carl XVI Gustaf at a ceremony in Stockholm on December 10, the anniversary of Alfred Nobel's death, followed by an elaborate banquet at Stockholm City Hall.",
+      "This announcement follows Monday's medicine prize, with the chemistry award scheduled for Wednesday as part of the annual Nobel Prizes recognition cycle honoring global scientific and literary achievements."
     ],
-    "title": "Christa Pike unconscious, on ventilator at Nashville hospital, her lawyers say",
+    "title": "Nobel Prize in Physics Awarded to Francis Halzen for Astronomy Breakthroughs",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/g7-leaders-agree-to-release-up-to-100-million-barrels-of-diesel-and-crude-oil_8ed97f",
-    "article_url": "https://ground.news/article/g7-leaders-agree-to-release-up-to-100-million-barrels-of-diesel-and-crude-oil_8ed97f",
+    "article_path": "/article/utah-launches-health-care-ai-push-with-new-clinical-pilots-outside-evaluators_c68fdc",
+    "article_url": "https://ground.news/article/utah-launches-health-care-ai-push-with-new-clinical-pilots-outside-evaluators_c68fdc",
     "bias": [
-      "Left-Leaning coverage frames the G7’s release of up to 100 million barrels as Europe “bow” to Trump under “blackmail,” stressing the threatened export ban, damaged trust, and election-year political benefit.",
-      "Right-Leaning coverage portrays Trump as having “secured” cooperation through a successful “squeeze,” promising “relief at the pump” and linking the crisis to war-related disruptions.",
-      "Center coverage emphasizes a “coordinated release” through the IEA while noting uncertain price effects and reserve risks.",
-      "The pivotal divide is coercion versus effective negotiation; all agree on the four-month plan, diesel shortages, and intended price relief, reflecting wider disputes over leadership and diplomacy."
+      "Left-Leaning coverage frames Utah ’s acne pilot as AI that “replaces a prescribing doctor,” spotlighting an “AI-only” pathway and warning it could inaugurate a broader transformation of routine care; right-leaning coverage instead celebrates a regulatory “green light,” portraying AI as entering a role “reserved for doctors” and amplifying the company’s “AI doctor” claim.",
+      "The pivotal divide is scope: left and center stress acne’s limits, while the right broadens approval into a landmark for drug prescribing.",
+      "Center coverage, more cautiously, emphasizes “plows ahead,” outside evaluators, and preserving human judgment.",
+      "All agree AI scans faces and can issue initial prescriptions, but interpret the development through competing concerns over innovation, regulation, labor, and professional authority."
+    ],
+    "bias_bar_text": "Left 25% Center 42% Right 33%",
+    "center_pct": 42.0,
+    "error": null,
+    "left_pct": 25.0,
+    "location": null,
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Utah regulators authorized New York-based startup Nolla Health to allow its AI to evaluate patients and issue initial acne prescriptions without prior human review, marking a significant test of autonomous medical decision-making in the U.S.",
+      "The program operates through the Nolla Derm app, where patients complete a 10- to 15-minute questionnaire and facial scan; it is part of a closely watched \"AI sandbox\" program that allows Utah's Office of Artificial Intelligence Policy to waive regulations.",
+      "Nolla Health will use a phased approach, starting with two physicians approving every prescription for the first 100 patients, then loosening oversight to retrospective weekly reviews. The system must hand cases to a doctor if it cannot \"confidently select a treatment.\"",
+      "Chief Executive Luis Wenus aims to make dermatological care more affordable; the app costs $4.99 per month, significantly cheaper than typical visits running between $150 and $300. This could free providers to address more complex inflammatory diseases.",
+      "While Nolla Health claims clinicians agree with its recommendations in more than 96 percent of cases, American Medical Association CEO John Whyte argues these tools shouldn't autonomously practice medicine. The startup plans to eventually expand beyond acne medication."
+    ],
+    "title": "Utah Clears World's First Autonomous Prescriptions without Doctors",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/f544a30b-35cd-43c0-bba0-d92dc72bbb6b",
+    "article_url": "https://ground.news/article/f544a30b-35cd-43c0-bba0-d92dc72bbb6b",
+    "bias": [
+      "Left-Leaning coverage frames the deal as a “Hollywood giant” and “hard-fought takeover,” stressing its historic scale, chronology, and possible effects on workers, while de-emphasizing debt, prices, and political influence.",
+      "Right-Leaning coverage instead calls it a “media behemoth,” spotlighting threats to CNN’s “independence” and broader news-media power, with a more cautionary tone.",
+      "Center coverage bridges both, pairing “entertainment powerhouse” language with warnings about roughly $80 billion in debt, streaming price increases, competition, and valuations ranging from $81 billion to $110 billion.",
+      "All perspectives emphasize Skydance’s creation, Ellison’s control, and regulatory scrutiny, reflecting wider divides over consolidation, consumers, labor, and media influence."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 52.0,
+    "error": null,
+    "left_pct": 40.0,
+    "location": "United States",
+    "right_pct": 8.0,
+    "status": "ok",
+    "summary": [
+      "On Tuesday, October 6, 2026, Skydance, led by Chairman and CEO David Ellison, completed its acquisition of Warner Bros. Discovery, Inc. , creating a combined media conglomerate that Ellison called a \"historic day.\"",
+      "Following months of regulatory review, the $111 billion merger unites Paramount Pictures and Warner Bros. Pictures, both with over a century of history spanning the U.S. and Europe.",
+      "Investors provided $47 billion in new equity led by the Ellison Family and RedBird Capital Partners, who remain sole holders of Paramount Class A Common Stock including all voting shares.",
+      "Ynon Kreiz, the incoming Co-CEO, joins Ellison to lead the combined company, targeting at least $6 billion in run-rate synergies over the next three years.",
+      "Skydance Class B shares began trading today on the New York Stock Exchange under ticker symbol \"SKYD,\" while WBD common stock ceased trading on the Nasdaq Exchange effective immediately."
+    ],
+    "title": "Paramount completes $110B Warner Bros. merger to form Skydance",
+    "topic": "Paramount",
+    "topic_full": "Paramount · United States"
+  },
+  {
+    "article_path": "/article/alito-says-supreme-court-cant-stem-emergency-appeals-and-voices-concern-over-trumps-rhetoric",
+    "article_url": "https://ground.news/article/alito-says-supreme-court-cant-stem-emergency-appeals-and-voices-concern-over-trumps-rhetoric",
+    "bias": [
+      "Coverage converges on Justice Alito’s view that rising emergency appeals are undesirable and difficult for the Court to control, but diverges in emphasis and tone.",
+      "Left-Leaning framing foregrounds his “concern” about Trump’s “rhetoric” and calls the increase “escalating,” while center coverage de-emphasizes rhetoric and explains the docket’s mechanics, using “skyrocketed” to stress scale.",
+      "Right-Leaning coverage portrays a lasting “surge,” says it is “here to stay,” and uses “slams” to connect sharper rhetoric with “eroding public trust.” Thus, the shared institutional concern splits over whether the pivotal issue is political language, procedural overload, or the trend’s durability."
     ],
     "bias_bar_text": null,
     "center_pct": 44.0,
     "error": null,
-    "left_pct": 29.0,
-    "location": null,
-    "right_pct": 27.0,
-    "status": "ok",
-    "summary": [
-      "On Friday, October 2, 2026, Group of Seven leaders agreed to release 100 million barrels of oil through the International Energy Agency over four months, with a frontloaded substantial diesel release within the first 20 days.",
-      "President Donald Trump pressured European nations to tap emergency stocks, threatening a U.S. diesel export ban if they refused. European officials described the demands as U.S. 'threats' before agreeing to the coordinated action.",
-      "U.S. diesel prices averaged $6.37 a gallon on Friday, after reaching a record $6.52 on September 22, 2026. The Iran war drove these elevated costs, spurring urgency for the reserve release.",
-      "Diesel futures fell more than 4% as markets responded to the announcement, while G7 members pledged to refrain from export restrictions and coordinate refinery maintenance schedules to prevent simultaneous capacity shutdowns.",
-      "Experts warn that strategic releases are a necessary, if not sufficient, condition to prevent long-term shortages during the Iran war. Actual fuel supply depends on refinery capacity and logistics, not crude volumes alone."
-    ],
-    "title": "G7 leaders agree to release up to 100 million barrels of diesel and crude oil",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/nobel-prize-in-medicine-awarded-to-three-scientists-for-their-work-concerning-light-gated-ion-channels-and-optogenetics_d85b7d",
-    "article_url": "https://ground.news/article/nobel-prize-in-medicine-awarded-to-three-scientists-for-their-work-concerning-light-gated-ion-channels-and-optogenetics_d85b7d",
-    "bias": [
-      "Left-Leaning coverage celebrates optogenetics as “revolutionary,” opening a “new era” and illuminating “mysteries of the brain,” while stressing memories, emotions, behavior, and possible treatments for Parkinson’s or depression.",
-      "Right-Leaning framing favors “groundbreaking” discoveries that “unlock” brain secrets, emphasizing the practical ability to switch neurons on and off and potential vision restoration.",
-      "Center coverage is more technical, highlighting “unprecedented precision,” affiliations, and the shared 12-million-kronor prize.",
-      "The key divide is promise versus practical control, though all perspectives agree on the three laureates, light-gated channels, and optogenetics’ importance—reflecting broader preferences for therapeutic progress, technological utility, or institutional explanation."
-    ],
-    "bias_bar_text": "Left 38% Center 31% Right 31%",
-    "center_pct": 31.0,
-    "error": null,
-    "left_pct": 38.0,
-    "location": null,
-    "right_pct": 31.0,
-    "status": "ok",
-    "summary": [
-      "The Karolinska Institute in Stockholm awarded the Nobel Prize in medicine on Monday to Karl Deisseroth, Peter Hegemann, and Georg Nagel for their research into light-gated ion channels and optogenetics.",
-      "Optogenetics research enables scientists to switch on or off individual nerve cells in a living brain, the committee wrote, making it possible to reveal the brain's mysteries in laboratories worldwide.",
-      "Award winners receive 12 million Swedish kronor, or about $1.2 million, as part of the prize money this year, whether for individuals, small groups, or organizations.",
-      "Following the medicine prize, the Nobel Memorial Prize in Economic Sciences will be announced on Oct. 12, after the peace prize, with physics, chemistry, and literature awards announced this week.",
-      "Last year, the Nobel Prize in medicine went to three scientists for discoveries about how the immune system identifies germs, findings Experts called critical to understanding autoimmune diseases."
-    ],
-    "title": "Nobel Prize in medicine awarded to three scientists for their work ‘concerning light-gated ion channels and optogenetics’",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/former-american-idol-singer-caleb-flynn-awaits-sentencing-for-wifes-murder",
-    "article_url": "https://ground.news/article/former-american-idol-singer-caleb-flynn-awaits-sentencing-for-wifes-murder",
-    "bias": null,
-    "bias_bar_text": "L 22% Center 78%",
-    "center_pct": 78.0,
-    "error": null,
-    "left_pct": 22.0,
-    "location": null,
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "On Monday, former music pastor and one-time American Idol contestant Caleb Flynn faces sentencing in the Miami County Court of Common Pleas for murdering his wife, Ashley Flynn.",
-      "Prosecutors claimed Flynn staged a home invasion in February after shooting his wife, alleging he wanted out of his marriage while having an affair with a church intern.",
-      "During the trial, Alleigha Botner testified Flynn expressed hatred for his wife, while prosecutors presented AI-generated love songs and DNA evidence placing him at the scene.",
-      "He sent a text to his lover the night before the shooting, saying, \"I choose you. Actions will come tomorrow,\" and was found guilty last week of murder and tampering with evidence.",
-      "While Flynn faces up to life in prison without parole, his attorney maintains investigators found no evidence he fired a gun, arguing a burglar killed his wife in Tipp City."
-    ],
-    "title": "Former ‘American Idol’ singer Caleb Flynn awaits sentencing for wife’s murder",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/us-supreme-court-rejects-nexstar-bid-to-avoid-directv-lawsuit-over-fees",
-    "article_url": "https://ground.news/article/us-supreme-court-rejects-nexstar-bid-to-avoid-directv-lawsuit-over-fees",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 83.0,
-    "error": null,
-    "left_pct": null,
-    "location": "United States",
+    "left_pct": 39.0,
+    "location": "Washington",
     "right_pct": 17.0,
-    "status": "no_change",
+    "status": "ok",
     "summary": [
-      "On Monday, the US Supreme Court declined to hear Nexstar Media Group's appeal, allowing DirecTV's antitrust lawsuit challenging allegedly inflated content-distribution fees to proceed in federal court.",
-      "DirecTV's 2023 lawsuit accused Nexstar and two station owners of secretly working together to demand artificially high fees, violating antitrust law by depriving the provider of a competitive process.",
-      "The New York-based 2nd US Circuit Court of Appeals previously ruled in December that DirecTV could pursue claims based on lost profits from channels it could not distribute.",
-      "Nexstar argued the 2nd Circuit ruling \"has exposed sellers to sweeping liability\" and creates \"coercive settlement pressure divorced from any concrete market injury.\"",
-      "Irving, Texas-headquartered Nexstar and its partners operate 265 stations across 132 markets in 44 US states, underscoring the scale of the company in this dispute."
+      "On Tuesday, Supreme Court Justice Samuel Alito released a book noting that emergency appeals have skyrocketed during President Donald Trump's second administration, now rivaling cases the Supreme Court considers with full briefing and oral arguments.",
+      "Presidents increasingly enact policies through executive orders rather than Congress, fueling lawsuits and robust lower-court rulings that force rapid Supreme Court intervention, Alito explained.",
+      "Alito rejected claims his rulings align with the \"Make America Great Again\" camp, stating \"I honestly try to decide every single case on the merits, every single application on the merit.\"",
+      "Trump has praised Alito as \"one of the Greatest of All Time\" while simultaneously maligning other justices he appointed as \"unpatriotic,\" reflecting broader political pressure on the Court.",
+      "The Court remains at the center of debated issues including the president's ballroom construction and mail ballot restrictions, with Alito warning the surge in emergency decisions is \"going to continue."
     ],
-    "title": "US Supreme Court rejects Nexstar bid to avoid DirecTV lawsuit over fees",
+    "title": "Alito says Supreme Court can’t stem emergency appeals and voices concern over Trump’s rhetoric",
     "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "topic_full": "US Politics · Washington"
   },
   {
-    "article_path": "/article/us-supreme-court-wont-hear-zillows-bid-to-escape-investor-class-action",
-    "article_url": "https://ground.news/article/us-supreme-court-wont-hear-zillows-bid-to-escape-investor-class-action",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 100.0,
-    "error": null,
-    "left_pct": null,
-    "location": "United States",
-    "right_pct": null,
-    "status": "no_change",
-    "summary": [
-      "The Supreme Court declined to hear Zillow's appeal on Monday, the first day of the court's new term, leaving intact a lower-court ruling that allows a 2021 investor class action to proceed.",
-      "Investors filed the lawsuit after Zillow announced in November 2021 it would permanently close its Zillow Offers division, disclosing a $300 million write-down and layoffs of 25% of its workforce.",
-      "Last year, the 9th Circuit Court upheld the class action, finding that Zillow's disclosures 'revealed new information about how Zillow's home-pricing struggles threatened the business and suggested that its earlier statements may have obscured how Zillow's pricing model misfired.'",
-      "Zillow must now face the lawsuit in federal court, with company lawyers maintaining that it 'made a business decision to enter a new line of business, disclosing all of the risk in doing so, that in the end simply did not work out as the company had hoped.'",
-      "Pro-Business groups, including the Chamber of Commerce, criticized the 9th Circuit decision, arguing the ruling deviates from Supreme Court precedent and 'would expose American businesses to costly securities class-action lawsuits."
-    ],
-    "title": "US Supreme Court won't hear Zillow's bid to escape investor class action",
-    "topic": "US Economy",
-    "topic_full": "US Economy · United States"
-  },
-  {
-    "article_path": "/article/karoline-leavitt-joining-fox-news-as-contributor-ny-times",
-    "article_url": "https://ground.news/article/karoline-leavitt-joining-fox-news-as-contributor-ny-times",
+    "article_path": "/article/kilmar-abrego-garcia-is-set-to-be-back-in-court-as-he-battles-deportation-to-liberia",
+    "article_url": "https://ground.news/article/kilmar-abrego-garcia-is-set-to-be-back-in-court-as-he-battles-deportation-to-liberia",
     "bias": [
-      "Left-Leaning coverage emphasizes Leavitt’s “exit” from the administration and transition from Trump spokesperson to media contributor, with “machine gun” portraying her advocacy as aggressive; right-leaning coverage frames the move as a career success—she “lands” a “gig”—and celebrates her as a recognizable defender gaining a “new platform” for Trump.",
-      "A key dividing line is interpretation of the departure: the right adds maternity leave and childbirth as personal context, while the left foregrounds political-media alignment.",
-      "Both agree she will become an on-air contributor on November 1, though “permanent expert” creates ambiguity about the role’s scope and duration."
+      "Left-Leaning coverage frames Ábrego Garcia as “battling” or “fighting” deportation, foregrounding his arrest, his autistic and disabled son, and the “mistakenly sent” transfer to El Salvador, thereby stressing personal consequences.",
+      "Right-Leaning coverage de-emphasizes family details, portrays the government as “keeps trying to deport him,” and highlights attorneys’ effort to make the preliminary injunction permanent.",
+      "Center coverage is more procedural, emphasizing the government’s motion to vacate the injunction, Judge Paula Xinis, and the “18-month saga.” All perspectives emphasize federal court proceedings and the proposed deportation to Liberia, while differing over enforcement, legal protection, and humanitarian context."
     ],
     "bias_bar_text": null,
-    "center_pct": 5.0,
+    "center_pct": 43.0,
     "error": null,
     "left_pct": 50.0,
-    "location": "United States",
-    "right_pct": 45.0,
+    "location": "Washington",
+    "right_pct": 7.0,
     "status": "ok",
     "summary": [
-      "On Monday, Fox News announced that former White House Press Secretary Karoline Leavitt will join the network as an on-air contributor beginning November 1. She is expected to provide commentary across various opinion and news programs.",
-      "After leaving the Trump White House in August to prioritize time with her two young children, the 29-year-old former press secretary pursued new opportunities. She previously served as the administration's youngest press secretary, known for her staunch advocacy for President Donald Trump.",
-      "Joining Kayleigh McEnany and Dana Perino, Leavitt becomes part of a roster of former White House Press Secretaries at the network. Fox News Media CEO Suzanne Scott praised her \"unique perspective and candor\" as valuable additions to the team.",
-      "Despite President Trump's complaints about Fox News, the network has moved forward with the hiring. Trump recently declared on social media that Fox News airs \"a completely negative narrative\" and suggested \"MAGA, and REAL Patriots, will never like Fox!\".",
-      "Beyond her contributor role, Leavitt has vowed to remain a \"vocal advocate for MAGA and the Republican Party.\" Reports also indicate the former press secretary is shopping a book about her tenure to publishers."
+      "On Tuesday, federal officials return to court seeking to lift an injunction that prevents U.S. Immigration and Customs Enforcement from deporting Kilmar Abrego Garcia to Liberia.",
+      "Garcia was mistakenly deported to El Salvador in 2025, where he was held in a CECOT mega-prison before the Trump administration returned him to face human smuggling charges in Tennessee that a judge later dismissed.",
+      "His legal team is seeking to make the preliminary injunction permanent, contending that any deportation should be to Costa Rica, which previously agreed to receive him.",
+      "Former acting ICE director Todd Lyons argued in a March 2026 memo that sending Garcia to Costa Rica would be \"prejudicial to the United States\" because the U.S. expended resources negotiating with Liberia.",
+      "Jossie Flor Sapunar, national communications director for We Are CASA, stated the government \"continues to punish him for pursuing his constitutional rights,\" as the family seeks privacy in Maryland."
     ],
-    "title": "Former White House Press Secretary Karoline Leavitt Joins Fox News",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "title": "Kilmar Ábrego Garcia Is Set to Be Back in Court as He Battles Deportation to Liberia",
+    "topic": "Kilmar Abrego Garcia",
+    "topic_full": "Kilmar Abrego Garcia · Washington"
   },
   {
-    "article_path": "/article/former-house-speaker-dennis-hastert-dies",
-    "article_url": "https://ground.news/article/former-house-speaker-dennis-hastert-dies",
+    "article_path": "/article/republicans-return-to-tough-on-crime-message-ahead-of-difficult-midterm-elections",
+    "article_url": "https://ground.news/article/republicans-return-to-tough-on-crime-message-ahead-of-difficult-midterm-elections",
     "bias": [
-      "The left-leaning framing foregrounds Hastert’s political downfall, calling him “disgraced,” stressing his status as the highest-ranking elected official imprisoned and describing a “cover up.” Center-leaning coverage more explicitly details the “hush money” case, his admission to abusing boys, the 15-month sentence, and $250,000 fine, while sometimes echoing “disgraced” or a judge’s “serial” characterization.",
-      "Right-Leaning coverage is not represented, so no right-left contrast can be established.",
-      "Both perspectives note his Illinois home, natural-cause death, speakership, Republican identity, and imprisonment, revealing shared emphasis on the collision between public prominence, accountability, and scandal."
+      "Left-Leaning coverage frames Republicans’ “tough-on- crime ” return as strategic and defensive before “difficult” midterms, linking it to frustration over the cost of living and Iran; phrases like “Democratic plots” to “defund the police” also signal skepticism toward Republican messaging.",
+      "Right-Leaning coverage presents crime, public disorder, and illegal immigration as central law-and-order concerns, treating “tough-on-crime” more favorably while de-emphasizing those vulnerabilities.",
+      "Center coverage remains comparatively descriptive.",
+      "A key dividing line is whether the campaign reflects electoral calculation or legitimate security priorities, especially alongside unsupported claims of record-low violent crime; all perspectives agree Republicans foreground policing and disorder amid broader ideological conflict."
     ],
     "bias_bar_text": null,
-    "center_pct": 62.0,
+    "center_pct": 45.0,
     "error": null,
-    "left_pct": 26.0,
-    "location": "United States",
-    "right_pct": 12.0,
+    "left_pct": 44.0,
+    "location": "Washington",
+    "right_pct": 11.0,
     "status": "ok",
     "summary": [
-      "Former House Speaker Dennis Hastert died at age 84 at his home over the weekend, Kendall County Coroner Jacquie Purcell confirmed Monday due to natural causes.",
-      "Elected to represent Illinois' 14th district in 1986, Hastert rose to become the longest-serving Republican House Speaker, presiding over the 106th through 109th Congresses before resigning in 2007.",
-      "Hastert's political career ended after investigators uncovered he paid $3.5 million to conceal sexual abuse of students during his tenure as a wrestling coach at Yorkville High School, where he abused at least four students.",
-      "U.S. District Judge Thomas M. Durkin sentenced Hastert to 15 months in prison and a $250,000 fine for violating banking laws, calling him a \"serial child molester\" during the 2016 sentencing hearing.",
-      "As the highest-ranking elected U.S. official to serve prison time, Hastert's legacy remains defined by his fall from grace; he is survived by his wife, Jean, and their two sons, Joshua and Ethan."
+      "Republicans are prioritizing crime and border security in midterm campaigns to reenergize their base and appeal to moderate voters concerned about affordability and economic issues.",
+      "President Donald Trump amplified this message on Monday night in Nebraska, claiming \"We had a border with people pouring in, crime like nobody's ever seen.\" An AP-NORC poll found 48% of U.S. adults approved of his border security performance.",
+      "In congressional races, Republican Michael Bouchard and Rep. Gabe Evans tout law enforcement backgrounds against Democratic opponents, frequently attacking rivals as \"soft on crime\" or warning they could \"defund the police.\"",
+      "National Democrats contend these attacks are undercut by the administration's enforcement actions, while House Speaker Mike Johnson recently noted America has \"the lowest violent crime rate in 126 years.\"",
+      "Gubernatorial races in Texas and Georgia employ similar tactics, yet some Republicans question whether crime messaging resonates given recent safety improvements and voter focus on other issues."
     ],
-    "title": "Dennis Hastert, Former House Speaker, Dies at 84",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
+    "title": "Republicans return to tough-on-crime message ahead of difficult midterm elections",
+    "topic": "Republican Party",
+    "topic_full": "Republican Party · Washington"
   },
   {
-    "article_path": "/article/soldiers-seriously-wounded-in-iranian-drone-strike-tell-ap-the-militarys-medical-system-failed-them",
-    "article_url": "https://ground.news/article/soldiers-seriously-wounded-in-iranian-drone-strike-tell-ap-the-militarys-medical-system-failed-them",
+    "article_path": "/article/us-and-china-discussing-reciprocal-nuclear-site-visits-amid-concerns-about-a-new-arms-race",
+    "article_url": "https://ground.news/article/us-and-china-discussing-reciprocal-nuclear-site-visits-amid-concerns-about-a-new-arms-race",
     "bias": [
-      "Left-Leaning coverage frames the March 1 Iranian drone strike—six dead and dozens wounded—as evidence of systemic failure, using “failed them,” “deadliest,” and “not right by any means” while linking inadequate care to regional drawdown and disinvestment.",
-      "Right-Leaning coverage stresses Iranian danger, “lack of preparedness,” commanders’ allegedly underestimated air threats, and families who “demand responses,” sometimes invoking graphic “shattered glass” injuries.",
-      "Center coverage is more chronological, foregrounding Robert Marzan and labeling claims as unresolved.",
-      "The pivotal divide is whether shortcomings reflect broader policy retrenchment or immediate operational negligence; all emphasize casualties, survivor concerns, and the unreleased investigation, mirroring wider debates over institutional accountability and national security."
+      "Left-Leaning framing stresses “concerns” about a “new arms race,” casting US-China nuclear competition in an anxious, militarization-focused tone, while right-leaning coverage presents the same proposal as an “arms control push,” emphasizing management, reciprocity, China’s initial initiative, and possible laboratory visits.",
+      "Center coverage tempers both by underscoring “mounting US concerns” and the talks’ informal, preliminary status.",
+      "The pivotal divide is whether the discussions signal escalating strategic rivalry or practical risk reduction—and whether Washington or Beijing receives narrative initiative.",
+      "All perspectives agree that reciprocal visits were discussed and remain under consideration, reflecting broader tensions over deterrence, transparency, and competing interpretations of US-China power politics ."
     ],
     "bias_bar_text": null,
-    "center_pct": 42.0,
+    "center_pct": 65.0,
     "error": null,
-    "left_pct": 45.0,
+    "left_pct": 6.0,
     "location": "United States",
-    "right_pct": 13.0,
+    "right_pct": 29.0,
     "status": "ok",
     "summary": [
-      "On March 1, 2026, an Iranian drone struck a U.S. tactical operations center at Kuwait's Port Shuaiba, killing six soldiers and wounding dozens in the deadliest attack on American troops since Operation Epic Fury began.",
-      "Intelligence officers warned Major Gen. John Hinson and Gen. Clint Barnes that Port Shuaiba lacked air protection against drones; the command team rejected proposals to relocate the logistics headquarters to safer sites.",
-      "Survivors including Arturo Lincón and Stephen Ramsbottom report systemic failures: administrative \"coding errors\" prevented combat-wounded documentation, delaying essential treatment, while the Pentagon maintained all medical care was appropriate.",
-      "The Army completed its investigation in June but has not released the report; on July 20, a watchdog letter concluded there was insufficient evidence to find misconduct by Barnes, though families demand accountability.",
-      "Years of U.S. military disinvestment and closure of regional medical facilities complicated the response; troops wounded in the strike faced significant bureaucratic hurdles, reflecting the long-term cost of drawdown policies."
+      "On Tuesday, the Trump administration reportedly discussed starting reciprocal visits to nuclear sites with China and plans to push the proposal during upcoming in-person meetings in the coming months.",
+      "Mounting US concerns about China's rapidly growing nuclear program prompted the preliminary discussions, which follow China's rejection of previous trilateral arms control efforts involving Russia.",
+      "Paul Dean, former US arms control official, called reciprocal visits \"an extremely valuable confidence-building measure,\" though expert Gerald Brown said he is \"not particularly optimistic\" about immediate progress.",
+      "Discussions have primarily occurred on the sidelines of United Nations Security Council gatherings, with US officials developing proposals to verify that low-yield nuclear testing is not occurring at Chinese sites.",
+      "President Donald Trump and Chinese President Xi Jinping are expected to meet twice later this year, and lower-level discussions will likely continue before the leaders convene."
     ],
-    "title": "Soldiers Seriously Wounded in Iranian Drone Strike Tell AP the Military’s Medical System Failed Them",
+    "title": "US and China discuss reciprocal visits to nuclear sites, CNN reports",
     "topic": "US Politics",
     "topic_full": "US Politics · United States"
   },
   {
-    "article_path": "/article/replenishing-crude-and-fuel-stocks-could-take-two-years-saudi-aramco-ceo-says_321b8d",
-    "article_url": "https://ground.news/article/replenishing-crude-and-fuel-stocks-could-take-two-years-saudi-aramco-ceo-says_321b8d",
+    "article_path": "/article/burnham-plans-to-delay-review-of-uk-defence-spending-by-six-months",
+    "article_url": "https://ground.news/article/burnham-plans-to-delay-review-of-uk-defence-spending-by-six-months",
     "bias": [
-      "Left-Leaning coverage emphasizes the US-Iran conflict and the possibility that rebuilding stocks could take two years, using alarmed phrases such as “disturbingly low” and “scarily thin.” Right-leaning coverage likewise stresses scarcity but frames it as a geopolitical and logistical crisis, invoking “frighteningly low,” “early to rejoice,” nearly 3 billion disrupted barrels, and the need to reopen the Strait of Hormuz.",
-      "Center coverage is more measured, foregrounding G7 reserve releases and the gap between headline reserves and immediately available supplies, while still calling the buffer “dangerously low.” All perspectives agree that stocks are depleted and markets vulnerable, reflecting broader divides over conflict, energy security, and supply risk."
+      "Left-Leaning coverage frames the possible roadmap postponement as a “key milestone” delayed amid a “heightened security threat” and NATO pressure, emphasizing accountability without declaring failure; center coverage largely treats it as a scheduling issue, though “not for another YEAR” adds urgency.",
+      "Right-Leaning coverage portrays the same uncertainty as a security breach, using “Britain’s security underfunded,” “rips into,” and “major decision” to assign blame and amplify Conservative criticism, while stressing a possible autumn delay.",
+      "All perspectives recognize the 3% pathway and 3.5% by 2035 target, but their divide reflects competing priorities: institutional explanation versus urgency, fiscal timing, and national-security credibility."
     ],
-    "bias_bar_text": "L 13% Center 29% Right 58%",
-    "center_pct": 29.0,
+    "bias_bar_text": "9% Center 36% Right 55%",
+    "center_pct": 36.0,
     "error": null,
-    "left_pct": 13.0,
+    "left_pct": 9.0,
     "location": null,
-    "right_pct": 58.0,
+    "right_pct": 55.0,
     "status": "ok",
     "summary": [
-      "Saudi Aramco CEO Amin Nasser warned at the Energy Intelligence conference in London on Monday that global oil inventories may take two years to rebuild amid severe supply strain.",
-      "Nearly 3 billion barrels of oil supply have been lost since military strikes in Iran began in February, disrupting shipping through the Strait of Hormuz, which handles around 20% of global supplies.",
-      "Most of the 1 billion barrels released from stocks came from commercial inventories, Nasser said, while the remaining 6 billion in storage are \"not practically available\" to ease pressure.",
-      "Following pressure from President Donald Trump, governments including France, Canada, Germany, Italy, Japan, and the United Kingdom agreed on Friday to release 100 million barrels of diesel and crude from emergency reserves.",
-      "Oil prices traded marginally lower on Monday as Middle East exports rose, though pressure at both ends of the barrel will intensify until the Strait of Hormuz fully reopens."
+      "On Tuesday, British Prime Minister Andy Burnham considered delaying an announcement on raising defence spending to 3% of GDP, pushing back a key milestone toward NATO's 3.5% target by 2035.",
+      "Following the US removal of bombers from England on Sunday after a suspected Iranian plot, Britain faces increased pressure to detail its NATO commitments amid heightened security threats.",
+      "Funding requirements include an additional $22.9 billion to reach the 3% interim goal, while Finance Minister John Healey must bridge a £4.7 billion gap in the existing Defence Investment Plan.",
+      "A Finance spokesperson dismissed the report as \"pure rumour and speculation,\" stating it was \"wrong talk of a delay\" regarding the upcoming Spending Review.",
+      "The Spending Review was expected in spring 2027, though reports suggest a \"working assumption\" of October 2027, while Healey prepares to deliver his first budget on October 28."
     ],
-    "title": "Replenishing crude and fuel stocks could take two years, Saudi Aramco CEO says",
+    "title": "UK PM weighs delay to roadmap for higher defence spending, Times reports",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/slovenian-glacier-could-disappear-in-days-researchers-say",
-    "article_url": "https://ground.news/article/slovenian-glacier-could-disappear-in-days-researchers-say",
+    "article_path": "/article/zambia-ready-to-sign-15-billion-us-health-deal-after-revising-requirements_e4fb9a",
+    "article_url": "https://ground.news/article/zambia-ready-to-sign-15-billion-us-health-deal-after-revising-requirements_e4fb9a",
     "bias": null,
-    "bias_bar_text": "Left 33% Center 67%",
-    "center_pct": 67.0,
+    "bias_bar_text": null,
+    "center_pct": null,
     "error": "Message: \n",
-    "left_pct": 33.0,
+    "left_pct": null,
     "location": null,
     "right_pct": null,
     "status": "fail",
     "summary": null,
-    "title": "Slovenian glacier could disappear in days, researchers say",
+    "title": "Zambia, US Reach Deal – Zambia Daily Mail News Website",
     "topic": null,
     "topic_full": null
   },
   {
-    "article_path": "/article/jeffries-says-house-democrats-reaching-to-flip-trump-districts-in-attempt-to-repeat-their-2018-sweep",
-    "article_url": "https://ground.news/article/jeffries-says-house-democrats-reaching-to-flip-trump-districts-in-attempt-to-repeat-their-2018-sweep",
+    "article_path": "/article/trump-suggests-allowing-iran-to-take-out-la-and-san-diego-during-campaign-rally",
+    "article_url": "https://ground.news/article/trump-suggests-allowing-iran-to-take-out-la-and-san-diego-during-campaign-rally",
     "bias": [
-      "Left-Leaning coverage frames Jeffries’s strategy as Democratic momentum, using “flip,” “sweep,” and “deep into conservative areas” to evoke a 2018-style breakthrough despite a “fundraising disadvantage.” Right-leaning coverage is terser and more skeptical in tone, foregrounding the obstacle while portraying Democrats as attempting to penetrate “Trump districts,” with “sweep” de-emphasized.",
-      "Center coverage adds electoral-map detail—swing districts and Republican terrain—while retaining cautious attribution such as “poised” and “on track,” though it offers no independent polling or fundraising evidence.",
-      "The pivotal divide is whether Jeffries’s confidence signals an expansive coalition or merely a partisan projection; all perspectives agree Democrats seek House control by contesting Trump-won districts."
+      "Left-Leaning coverage portrays Trump’s remarks as a “grim scenario,” emphasizing that he appeared willing to sacrifice Democratic-run Los Angeles or San Diego and that supporters cheered, while terms like “deranged,” “dangerous,” “rambling,” and “unprovoked war” intensify moral condemnation.",
+      "Right-Leaning coverage foregrounds Iran , deterrence, fuel costs, and the claim that the war was nearly over, framing “take out” as a hypothetical consequence rather than an operational order, though “small price to pay” remains provocative.",
+      "Center coverage chiefly stresses the wording and backlash, using “slam,” “shocking,” and “tasteless.” All agree the comments named California cities, invoked security, and triggered official outrage, reflecting divides over Trump’s intent, wartime risk, and partisan identity."
     ],
     "bias_bar_text": null,
-    "center_pct": 80.0,
-    "error": null,
-    "left_pct": 14.0,
-    "location": "United States",
-    "right_pct": 6.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, House Democratic Leader Hakeem Jeffries said his party is poised to regain the House majority by targeting conservative districts won by President Donald Trump two years ago.",
-      "Defending the Republican majority, House Speaker Mike Johnson is crisscrossing the country and scheduled to visit more than 40 districts across 20 states before November.",
-      "The House Democrats' campaign arm announced late last week it is adding eight districts to its map, including targets in Kansas, Oklahoma, Virginia, and Washington state.",
-      "Republicans face pressure from high gas prices stemming from the war with Iran, while Trump campaigns in red states promising $5,000 dividends and $90 Medicare payments.",
-      "With the House narrowly split, only a few seats will determine which party controls the chamber in the final month before the November 3 midterm elections."
-    ],
-    "title": "Jeffries says House Democrats reaching to flip Trump districts in attempt to repeat their 2018 sweep",
-    "topic": "Hakeem Jeffries",
-    "topic_full": "Hakeem Jeffries · United States"
-  },
-  {
-    "article_path": "/article/trump-administrations-proposal-could-make-it-easier-to-suspend-or-expel-head-start-students",
-    "article_url": "https://ground.news/article/trump-administrations-proposal-could-make-it-easier-to-suspend-or-expel-head-start-students",
-    "bias": [
-      "Left-Leaning coverage foregrounds the regulatory rollback and repeatedly uses “could make it easier” to “suspend or expel” preschoolers, amplifying “advocates worry” about vulnerable children facing harsher discipline.",
-      "Right-Leaning coverage retains that conditional caution but shifts emphasis toward behavioral complexity through Xavier Rogers’s biting, hitting, and social withdrawal, alongside his preschool’s choice not to remove him; “happy baby” adds a sympathetic, solution-oriented tone.",
-      "Center coverage similarly stresses uncertainty and the personal example.",
-      "The pivotal divide is whether the change signals punitive expansion or practical flexibility, though all perspectives agree it removes federal restrictions and shifts discipline toward state guidelines—reflecting wider tensions over regulation, vulnerability, and local control."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 53.0,
+    "center_pct": 49.0,
     "error": null,
     "left_pct": 29.0,
-    "location": "United States",
-    "right_pct": 18.0,
-    "status": "ok",
-    "summary": [
-      "The Trump administration proposed a rule change for the 61-year-old Head Start program that would eliminate federal discipline guidelines, allowing states to establish their own policies. The public may submit comments through Tuesday, October 6.",
-      "Currently, federal regulations ban expulsion within Head Start, which serves nearly 700,000 predominantly low-income children. Temporary suspensions are limited to extreme circumstances, requiring programs to first attempt interventions like home visits or mental health consultations.",
-      "If the proposal takes effect, 70% of states would be left with fewer guardrails, as only 14 states and Washington, D.C. have policies aligning with Head Start's strict exclusionary discipline standards, according to Children's Equity Project researchers.",
-      "Washington State Association of Head Start executive director Joel Ryan warned that if rejection becomes permissible, \"I think a lot of teachers would, because they're just feeling so much strain,\" amid fears of increased exclusions.",
-      "Walter Gilliam, executive director of the Buffett Early Childhood Institute at the University of Nebraska, warned that excluded preschoolers \"don't just magically vanish or magically get cured.\" They are passed between programs, harming children and providers alike."
-    ],
-    "title": "Trump Administration's Proposal Could Make It Easier to Suspend or Expel Head Start Students",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/5-supreme-court-cases-to-watch-this-fall",
-    "article_url": "https://ground.news/article/5-supreme-court-cases-to-watch-this-fall",
-    "bias": [
-      "Left-Leaning coverage frames the Supreme Court term as “jam-packed with controversy,” emphasizing broad ideological conflict across climate, immigration, guns, and religion, while de-emphasizing precise legal questions and executive authority.",
-      "Right-Leaning coverage instead calls it “high-stakes,” warns of a “collision course,” and highlights presidential power, immigration enforcement, election law, and the Court’s “last word,” portraying institutional stakes as urgent rather than merely contentious.",
-      "The pivotal divide is whether the term chiefly signals social-policy controversy or a struggle over governmental power.",
-      "Center coverage is more granular, stressing climate litigation, parental rights, and citizenship-proof rules.",
-      "All portray the docket as consequential, reflecting wider battles over rights, federalism, and judicial power."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 63.0,
-    "error": null,
-    "left_pct": 21.0,
-    "location": "United States",
-    "right_pct": 16.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, the U.S. Supreme Court formally opens its 2026 October Term with 30 cases scheduled, including major decisions on climate change, gun rights, immigration, and religious liberty.",
-      "Boulder, Colorado sued Suncor Energy Inc. in 2018, alleging the energy company deceived the public about fossil fuel impacts and caused climate-related harm to residents and local infrastructure.",
-      "Justices will hear arguments Monday on whether state bans on semi-automatic weapons like the AR-15 violate the Second Amendment, with lawyer Erin Murphy arguing, \"The single most important question is who gets to decide what guns you have.\"",
-      "The court will review the Trump administration's mandatory detention policy requiring all immigrants arrested inside the U.S. to be held without bond hearings and its third-country deportation practice.",
-      "Georgetown University law professor Stephen Vladeck observes the \"shadow docket\" has transformed operations: \"So now we have twice as many full court rulings on emergency applications as we have on the merits docket. That is a very new phenomenon."
-    ],
-    "title": "A new Supreme Court term begins with cases on climate change, immigration and gun rights",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/trump-heads-to-nebraska-on-monday-where-his-plan-to-import-more-beef-has-angered-ranchers-wtop-news",
-    "article_url": "https://ground.news/article/trump-heads-to-nebraska-on-monday-where-his-plan-to-import-more-beef-has-angered-ranchers-wtop-news",
-    "bias": [
-      "Left-Leaning coverage foregrounds “angered ranchers” and frames Trump’s Nebraska appearance as a “midterm rescue mission,” emphasizing backlash and electoral vulnerability; right-leaning coverage treats it primarily as a campaign stop, de-emphasizing controversy while retaining concerns about “import” and domestic producers.",
-      "The pivotal divide is whether beef imports signal harmful trade policy or merely a political challenge within conservative “ag country.” Center coverage adds local logistics, fuel costs, shifting trade conditions, and overtime spending, portraying broader economic context rather than sharpening partisan conflict.",
-      "Across perspectives, all highlight Trump’s Grand Island rally with Pete Ricketts, rancher unease, and the intersection of agriculture, trade, and Republican electoral strategy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 59.0,
-    "error": null,
-    "left_pct": 24.0,
-    "location": "Nebraska",
-    "right_pct": 17.0,
-    "status": "ok",
-    "summary": [
-      "On Monday, President Donald Trump visits Grand Island, Nebraska, for a campaign rally at the Pinnacle Bank Expo Center, with doors opening at 2:30 p.m. and the event beginning at 4:30 p.m.",
-      "Trump travels to Nebraska to support GOP Sen. Pete Ricketts, who seeks his first full six-year term against independent candidate Dan Osborn in a race now watched by national parties.",
-      "Hall County hosts its first presidential visit in about 20 years, with increased security from the Grand Island Police Department; Nebraska ranchers oppose the administration's plan to increase foreign beef imports.",
-      "Osborn, a former labor union chief, has traveled all 93 counties and refused to disclose his potential caucus affiliation, intensifying national scrutiny of the competitive race.",
-      "The rally is part of a 32-day blitz across ruby-red states ahead of Nov. 3 midterm elections, as similar independent challenges in South Dakota and Idaho complicate Republican Senate efforts."
-    ],
-    "title": "Trump heads to Nebraska on Monday, where his plan to import more beef has angered ranchers",
-    "topic": "Nebraska Politics",
-    "topic_full": "Nebraska Politics · Nebraska"
-  },
-  {
-    "article_path": "/article/us-coast-guard-suspends-search-for-people-on-crashed-medical-aircraft",
-    "article_url": "https://ground.news/article/us-coast-guard-suspends-search-for-people-on-crashed-medical-aircraft",
-    "bias": [
-      "Left-Leaning coverage frames the event as a “missing” medical jet and a suspended Coast Guard search, preserving uncertainty about the six passengers’ fate, while right-leaning coverage intensifies the tragedy with “presumed dead” and “search for survivors,” treating suspension as an implicit end to rescue hopes.",
-      "Center coverage uses “crashed,” adds technical detail such as a Gulfstream aircraft, and notes that Massachusetts State Police might continue searching.",
-      "The pivotal divide is whether debris warrants an unresolved-disappearance frame or a near-certain fatality conclusion; all perspectives emphasize the Bermuda-to-Boston flight, six people, wreckage, and Coast Guard action, reflecting differing thresholds for emotional finality."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": null,
-    "left_pct": 15.0,
-    "location": "United States",
-    "right_pct": 31.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, the United States Coast Guard suspended its search for six people aboard a medical transport jet after discovering a debris field off the coast of Nantucket.",
-      "Early Saturday, the Gulfstream G100, known as Heartbeat, departed Bermuda for Boston Logan International Airport with four Canadian crew members, a Bermudan patient, and an escort before contact was lost.",
-      "Over two and a half days, crews searched nearly 4,445 square miles, eventually locating debris from the aircraft in waters about 80 to 90 feet deep.",
-      "Latitude Air Ambulance stated the six aboard Heartbeat are \"presumed to have died\" and confirmed the company will cooperate fully with recovery and investigation efforts.",
-      "Massachusetts State Police intend to resume the search for the six missing individuals once weather conditions improve and seas calm down, according to local sources."
-    ],
-    "title": "US Coast Guard suspends search for people on crashed medical aircraft",
-    "topic": "Aviation Accidents",
-    "topic_full": "Aviation Accidents · United States"
-  },
-  {
-    "article_path": "/article/cornell-rape-case-accuser-faces-threats-amid-ongoing-investigation",
-    "article_url": "https://ground.news/article/cornell-rape-case-accuser-faces-threats-amid-ongoing-investigation",
-    "bias": [
-      "Left-Leaning coverage foregrounds the woman as an “accuser” allegedly pressured to drop her lawsuit, emphasizing intimidation and retaliation; center coverage sharpens the emotional frame with “targeted” and “gang rape lawsuit,” while highlighting the drugging allegation.",
-      "Right-Leaning coverage stresses threats of “harm,” withdrawal demands, and calls to examine fraternity roles and the legal handling of the 2024 case, shifting attention toward procedural questions.",
-      "Crucially, threat claims are attributed to her attorney, whereas the sexual-assault allegations are attributed to the woman.",
-      "Across perspectives, the shared focus is alleged sexual assault, a lawsuit, and threats—reflecting broader disputes over victim protection, due process, and institutional responsibility."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 27.0,
-    "error": null,
-    "left_pct": 43.0,
-    "location": "United States",
-    "right_pct": 30.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, attorney Thomas Giuffra told CNN that Jane Doe has received multiple threats pressuring her to drop her civil lawsuit alleging sexual assault by Cornell University fraternity members.",
-      "Jane Doe filed a lawsuit last month against Cornell and seven Chi Phi fraternity members, alleging she was drugged with ketamine and sexually assaulted over several hours in 2024.",
-      "Cornell University President Michael Kotlikoff announced Saturday the university will examine fraternities and sororities, stating Cornell \"will not wait for the investigation or the review to be completed before we act.\"",
-      "New York Governor Kathy Hochul named Attorney General Letitia James as special prosecutor to investigate the case, though President Donald Trump criticized the appointment on Friday, saying those James investigates \"won't get a fair shake.\"",
-      "Thousands have used the hashtag #IAmJaneDoe on social media to support the victim and obscure her identity, though Giuffra told CNN that people attempting to unmask his client have targeted at least three women mistakenly identified as her."
-    ],
-    "title": "Woman at center of Cornell rape allegations targeted with threats, lawyer says",
-    "topic": "US Crime",
-    "topic_full": "US Crime · United States"
-  },
-  {
-    "article_path": "/article/openais-altman-says-ai-benefits-warrant-accepting-some-risks",
-    "article_url": "https://ground.news/article/openais-altman-says-ai-benefits-warrant-accepting-some-risks",
-    "bias": [
-      "Left-Leaning coverage foregrounds moral danger, using phrases like “some bad things,” “really catastrophic risks,” and “changed a little bit” to cast Altman’s acceptance of harm as a troubling corporate tradeoff, while highlighting his rejection of truly catastrophic outcomes.",
-      "Center coverage softens the dispute into a practical cost-benefit calculation: preventing every hack is unrealistic, and AI may produce “more good stuff than bad stuff.” Right-leaning coverage treats risk-taking as necessary, using “must take risks,” “attendant threats,” and “side effects” while emphasizing OpenAI ’s lighter-touch stance versus Anthropic’s regulation.",
-      "All agree benefits, accessibility, and governance are central, reflecting wider precaution-versus-innovation divides."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 42.0,
-    "error": null,
-    "left_pct": 25.0,
-    "location": "United States",
-    "right_pct": 33.0,
-    "status": "ok",
-    "summary": [
-      "OpenAI Chief Executive Sam Altman told Decoded that AI benefits justify accepting some risks, distinguishing his firm's regulatory stance from rival Anthropic on the technology's accessibility and control.",
-      "Anthropic CEO Dario Amodei recently advocated that the industry should 'pace the frontier' to mitigate dangers, warning in September that advanced models could exhibit 'self-preserving behaviors' and 'resist shutdown.'",
-      "'I think there's a lot of daylight,' Altman said, rejecting centralized control and calling that model 'a completely unacceptable trade-off' restricting public access to AI benefits.",
-      "Despite Altman's stated philosophy, OpenAI recently endorsed a bipartisan House proposal requiring outside safety evaluators and supported new state laws imposing stricter safety requirements than previously favored.",
-      "President Donald Trump has largely dismissed calls for new restrictions, arguing they would hinder American companies competing against Chinese rivals while maintaining that existing Justice Department agencies provide sufficient safeguards."
-    ],
-    "title": "OpenAI's Altman says AI benefits warrant accepting some risks",
-    "topic": "Sam Altman",
-    "topic_full": "Sam Altman · United States"
-  },
-  {
-    "article_path": "/article/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met-says-reports_b6c705",
-    "article_url": "https://ground.news/article/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met-says-reports_b6c705",
-    "bias": [
-      "Left-Leaning coverage frames Iran ’s position through “ongoing tensions,” faltering diplomacy, and “fears of renewed fighting,” portraying Hormuz’s closure as part of worsening U.S.-Iran relations.",
-      "Right-Leaning coverage foregrounds Iran’s “seven conditions,” reportedly tied to a June interim agreement, emphasizing the strategic pressure of keeping the waterway closed.",
-      "Both attribute the claim to Iranian officials, especially Parliament Speaker Mohammad Baqer Qalibaf, or Nournews.",
-      "Center coverage instead highlights Qalibaf’s “fight and negotiate” posture and rejection of “unilateral demands,” de-emphasizing the seven-condition framework.",
-      "Across perspectives, Hormuz remains closed until Iran’s requests are met, reflecting competing readings of escalation, leverage, and diplomacy."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 24.0,
-    "error": null,
-    "left_pct": 34.0,
-    "location": "Iran",
-    "right_pct": 42.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, Iranian Parliament Speaker Mohammad Baqer Qalibaf declared the Strait of Hormuz will remain closed until Tehran's seven conditions based on the Islamabad Memorandum of Understanding are met.",
-      "Qalibaf rejected recent U.S. proposals delivered via a mediator, asserting that the period of \"dragging out the process and dictating one-sided demands is over\" for the Islamic Republic.",
-      "The UK Maritime Trade Operations centre reported \"unidentified projectiles\" struck two oil tankers in the Strait of Hormuz, while Iranian media claimed another vessel exploded \"in violation\" of the blockade.",
-      "Amid growing economic strain, President Masoud Pezeshkian stated his government adopted new measures to manage the country's \"special conditions\" as the Iranian rial reaches new lows.",
-      "Rising shipping and insurance costs remain a concern as regional violence persists in Yemen and Gaza City, threatening critical global trade corridors amid ongoing tanker attacks."
-    ],
-    "title": "Iran says Strait of Hormuz will not reopen until conditions are met",
-    "topic": "Iran War",
-    "topic_full": "Iran War · Iran"
-  },
-  {
-    "article_path": "/article/kash-patel-and-alexis-wilkins-announce-engagement",
-    "article_url": "https://ground.news/article/kash-patel-and-alexis-wilkins-announce-engagement",
-    "bias": [
-      "Center-Leaning coverage frames Kash Patel and Alexis Wilkins’s engagement as a straightforward personal update, using terms like “longtime girlfriend” and “fiancée,” while right-leaning coverage adds celebratory language such as “exciting life update” and portrays backlash through phrases like “wave of criticism,” “mainstream outlets,” and “mounting scrutiny.” The key dividing line is whether the announcement remains private news or reflects questions about timing, Patel’s FBI leadership, and Wilkins’s identity as a “conservative commentator,” with her age also highlighted on the right.",
-      "Both perspectives identify the engagement, Patel’s role, Wilkins’s country-music career, and the social-media announcement, but their framing reflects broader tensions over partisan scrutiny and media fairness."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 59.0,
-    "error": null,
-    "left_pct": 17.0,
-    "location": "United States",
-    "right_pct": 24.0,
-    "status": "ok",
-    "summary": [
-      "On Sunday, FBI Director Kash Patel and country singer Alexis Wilkins announced their engagement, with Wilkins sharing a black-and-white photograph on social media displaying a diamond ring.",
-      "Patel and Wilkins have been together for more than three years after meeting at a party hosted by country singer John Rich before his FBI directorship began in 2025.",
-      "Reports questioning Patel's travel on government aircraft have occasionally followed the couple; the FBI Director dismissed these allegations as \"fake news\" and defended Wilkins against what he described as baseless attacks.",
-      "In June, Wilkins filed a defamation lawsuit against media company Versant over coverage she claims mischaracterized her behavior, captioning her engagement post, \"Went and got the law involved.\"",
-      "The country singer performed at President Donald Trump's Great American State Fair on the National Mall and writes that she honors country tradition while releasing her debut album in 2023."
-    ],
-    "title": "FBI Director Kash Patel Gets Engaged to Longtime Girlfriend, Country Singer Alexis Wilkins",
-    "topic": "Kash Patel",
-    "topic_full": "Kash Patel · United States"
-  },
-  {
-    "article_path": "/article/the-us-military-struck-a-boat-with-alleged-drug-terrorists-in-the-caribbean-sea-the-southern-command-of-the-us-armed-forces-reported_a2cfb2",
-    "article_url": "https://ground.news/article/the-us-military-struck-a-boat-with-alleged-drug-terrorists-in-the-caribbean-sea-the-southern-command-of-the-us-armed-forces-reported_a2cfb2",
-    "bias": [
-      "Left-Leaning coverage frames the Caribbean strike through “kills,” “alleged,” “extrajudicial execution,” and a reported toll exceeding 235 deaths, stressing unverified identities, absent proof of drugs, and possible crimes; right-leaning coverage foregrounds “narco-terrorists,” “confirmed intelligence,” “dramatic” footage, and a vessel that “blows up,” portraying decisive, effective anti-cartel enforcement.",
-      "Center coverage more explicitly balances the counter-narcotics rationale with legal criticism.",
-      "The pivotal divide is whether military claims establish criminality and justify force, or require independent verification and due process.",
-      "All perspectives acknowledge the strike, four deaths, suspected trafficking, and a broader campaign, reflecting wider tensions over security, state power, and accountability."
-    ],
-    "bias_bar_text": null,
-    "center_pct": 57.0,
-    "error": null,
-    "left_pct": 21.0,
     "location": "United States",
     "right_pct": 22.0,
     "status": "ok",
     "summary": [
-      "On Sunday, the U.S. military attacked a boat in the Caribbean Sea suspected of smuggling drugs, killing four people. Southern Command stated the strike targeted a vessel along a known smuggling route.",
-      "Since September 2025, the U.S. military has killed at least 235 people in 70 boat strikes. The Trump administration continues its campaign against those it calls \"narcoterrorists\" in Latin America.",
-      "While the military identified the target as a \"go-fast vessel\" in a video, the administration offered little evidence the craft was carrying drugs. Southern Command maintained it targeted known smuggling routes.",
-      "President Donald Trump justified the attacks as necessary escalation to stem drug flows and fatal overdoses claiming American lives, stating the United States is in \"armed conflict\" with cartels in Latin America.",
-      "Defense Secretary Pete Hegseth reported from Panama in August that Colombia, Ecuador, and Honduras agreed to joint operations, though Guatemala denied the deal. The Trump administration continues pursuing expanded land-based missions."
+      "On Monday, President Donald Trump held a rally in Grand Island, Nebraska, where he joked that Iran attacking Los Angeles would be a \"small price to pay\" for keeping America safe during the ongoing war.",
+      "Trump launched the war in February, claiming Iran was about to obtain nuclear weapons despite intelligence agencies finding otherwise; he asserted the conflict is \"artificial\" and necessary for global security.",
+      "After deploying the National Guard and Marines to California, Trump said foreign enemies should \"take out\" Los Angeles and San Diego; California Governor Gavin Newsom denounced the remarks while sharing video of Trump's comments.",
+      "Veteran journalist Jim Acosta noted the crowd applauded as Trump fantasized about nuclear attacks on the cities. Actress Carrie Coon questioned, \"Can we take the keys away from Grandpa yet?\"",
+      "While Trump has repeatedly claimed the conflict would end shortly, experts suggest destroyed energy facilities in the Persian Gulf will keep prices elevated as the war has dragged on for over six months."
     ],
-    "title": "US military says latest strike on alleged drug-smuggling boat in the Caribbean kills 4",
-    "topic": "Drug Trafficking",
-    "topic_full": "Drug Trafficking · United States"
+    "title": "Trump suggests allowing Iran to \"take out\" LA and San Diego during campaign rally",
+    "topic": "Iran Politics",
+    "topic_full": "Iran Politics · United States"
   },
   {
-    "article_path": "/article/uae-had-shared-flydubai-flight-details-with-israel-including-info-on-pilots-officials-say_e2bfc1",
-    "article_url": "https://ground.news/article/uae-had-shared-flydubai-flight-details-with-israel-including-info-on-pilots-officials-say_e2bfc1",
+    "article_path": "/article/scientists-identify-two-of-the-worlds-noisiest-birds-and-theyre-as-loud-as-a-jackhammer",
+    "article_url": "https://ground.news/article/scientists-identify-two-of-the-worlds-noisiest-birds-and-theyre-as-loud-as-a-jackhammer",
     "bias": [
-      "Left-Leaning coverage frames the incident as institutional failure—“security lapses,” Israel ’s failure to “flag” the co-pilot, and unresolved ministry responsibility—while right-leaning accounts foreground a premeditated “terrorist” plot, possible mass casualties, and captain-and-passenger “heroes,” even invoking “bloodbath” and “9/11-style.” Both highlight the shared crew list and alleged plan to strike Ben Gurion, but diverge over whether the pivotal issue is Israeli accountability or radicalization and vetting.",
-      "Center coverage softens the divide, asking how the “attacker” “evaded detection” and qualifying claims as reports.",
-      "Across perspectives, the episode underscores common security concerns amid broader disputes over institutional trust and terrorism."
+      "Left-Leaning coverage dramatizes the discovery with phrases like “louder than jackhammers,” “make a racket,” and “serious contenders,” spotlighting two birds above 120 decibels as startling new challengers.",
+      "Right-Leaning coverage emphasizes Brazilian identity and frames the white bellbird as the reigning “champion,” with newcomers as “powerful competitors” seeking its title, even romanticizing its “magnificent stream of voice.” Center coverage tempers both, stressing UMass attribution, 123 measured species , publication context, and uncertainty about the ranking and biological cause.",
+      "The pivotal divide is whether this is a dramatic record upset or an unresolved scientific comparison; all agree the calls rival heavy machinery."
     ],
-    "bias_bar_text": "L 24% Center 45% Right 31%",
-    "center_pct": 45.0,
+    "bias_bar_text": null,
+    "center_pct": 61.0,
     "error": null,
-    "left_pct": 24.0,
+    "left_pct": 20.0,
     "location": null,
-    "right_pct": 31.0,
+    "right_pct": 19.0,
     "status": "ok",
     "summary": [
-      "On Sunday, officials confirmed the United Arab Emirates shared the passenger list for FlyDubai flight FZ1073 with Israel before departure, including crew nationalities as part of standard procedure.",
-      "Hamam al-Hammami, the suspected pilot, had been previously barred from flying by Omani authorities due to radical ideological views, yet the UAE-based carrier FlyDubai hired him despite these concerns.",
-      "During the Wednesday flight with 182 people on board, the co-pilot attacked the captain with a crash ax in what the United Arab Emirates called a \"terrorist attack,\" nearly crashing the aircraft before passengers intervened.",
-      "The Shin Bet and Transportation Ministry traded accusations over vetting responsibilities, while sources told ABC News on Saturday that Hammami is \"cooperating\" with the investigation following his detention in Saudi Arabia.",
-      "Philip Baum, an aviation security expert at Coventry University, noted that cross-border background checks face significant limitations, leaving questions about how FlyDubai failed to identify the Omani pilot as a security risk."
+      "On Tuesday, University of Massachusetts Amherst researchers published a study in the journal Evolution identifying the bare-throated bellbird and red-legged seriema as new contenders for the world's loudest birds, both exceeding 120 decibels.",
+      "Biologist Jeff Podos and his former graduate student João Menezes utilized laser range finders to overcome field measurement challenges that previously limited amplitude data collection on bird vocalizations.",
+      "Researchers discovered a 58-decibel variability in calls, ranging from hummingbirds at 64 decibels to birds exceeding 120 decibels. \"Bigger birds have bulkier muscles,\" Menezes said, noting that broader mouths allow more energy to radiate into the environment.",
+      "The strictly monogamous red-legged seriema confounded theories predicting loudness correlates with polygamy. \"It's a super open-habitat bird,\" Menezes added, indicating evolutionary reasons for such extreme vocalizations remain mysterious.",
+      "Mass Audubon ornithologist Nathan Senner called the findings \"remarkable,\" stating that understanding these evolutionary behaviors could lead to better protections. Researchers anticipate discovering even louder birds as fieldwork continues on a tiny fraction of species ."
     ],
-    "title": "UAE had shared FlyDubai flight details with Israel, including info on pilots, officials say",
+    "title": "Which Bird Is Loudest? Scientists Measured 123 Species to Find Out",
+    "topic": "Elephants",
+    "topic_full": "Elephants"
+  },
+  {
+    "article_path": "/article/exclusive-accenture-contractor-removed-from-fbi-following-damaging-data-breach-sources-say_095666",
+    "article_url": "https://ground.news/article/exclusive-accenture-contractor-removed-from-fbi-following-damaging-data-breach-sources-say_095666",
+    "bias": [
+      "Left-Leaning coverage frames the incident through the “ShinyHunters hacker attack,” an alleged perpetrator’s arrest, and “wider intelligence community” concern, widening it into a national-security warning.",
+      "Center coverage stresses scale—personal details of “thousands” exposed—and calls the breach “damaging” or a “big problem,” while retaining qualifiers such as “alleged” and “sources say.” Right-leaning accounts emphasize contractor “failure,” “oversight,” and the Oracle PeopleSoft flaw, foregrounding accountability and institutional competence.",
+      "The arrest and broader security implications divide portrayals, as does technical specificity.",
+      "Across perspectives, all emphasize contractor removal, the breach, and an uninstalled patch, reflecting shared concern over cybersecurity and government safeguards."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 46.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
+    "right_pct": 27.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, the Federal Bureau of Investigation removed an Accenture contractor following a damaging data breach that exposed sensitive personal information of thousands of bureau employees.",
+      "FBI Cyber Chief Brett Leatherman stated the incident occurred because a contractor failed to implement a security patch explicitly issued to secure the platform managed by a third-party organization.",
+      "Google warned organizations about ShinyHunters-linked hack-and-extort campaigns targeting PeopleSoft software in June, urging immediate updates to address identified security vulnerabilities.",
+      "The breach exposed sensitive details including medical records and street addresses of human intelligence operatives, prompting Accenture to state it is \"proud to support the mission of the FBI.\"",
+      "A key ShinyHunters suspect detained in Jordan last week is cooperating with authorities, potentially helping the FBI understand the full scope of the breach's operational damage."
+    ],
+    "title": "Accenture contractor removed from FBI following damaging data breach: Report",
+    "topic": "US Crime",
+    "topic_full": "US Crime · United States"
+  },
+  {
+    "article_path": "/article/vance-alaska-lng-pipeline-will-happen-but-some-details-need-to-be-worked-out",
+    "article_url": "https://ground.news/article/vance-alaska-lng-pipeline-will-happen-but-some-details-need-to-be-worked-out",
+    "bias": [
+      "Left-Leaning coverage frames the Alaska LNG project as likely to advance, emphasizing “strong Asian demand,” regional partners, and Vance’s desire to see it “move forward.” Center coverage de-emphasizes broader economic implications, narrowly stressing that proposed-pipeline “details” remain unresolved.",
+      "Right-Leaning coverage combines optimism about feasibility and investment—“will eventually happen”—with skepticism toward the administration’s earlier “fait accompli” presentation, portraying South Korean participation as negotiable rather than settled.",
+      "The pivotal divide is whether unresolved terms signal routine diplomacy or a meaningful correction to premature certainty.",
+      "All perspectives acknowledge the project, negotiations, and Vance’s positive outlook, reflecting wider tensions over energy expansion, allied investment, and governmental credibility."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 34.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "Alaska",
+    "right_pct": 33.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Vice President JD Vance stated the United States and South Korea must still \"work out\" details for the Alaska LNG project, while expressing confidence the initiative will move forward.",
+      "President Donald Trump announced last week that South Korea would invest $200 billion in various projects, including the Alaska pipeline, though Seoul officials quickly indicated the project was not yet \"set in stone.\"",
+      "Beyond South Korea, Vance noted that \"a lot of our Asian friends\" desire the pipeline, with the Japanese particularly eager to \"see\" the project come to fruition.",
+      "South Korea's industry ministry maintains the Alaska LNG project remains unfinalized, stressing that commercial viability and other factors require thorough review before any formal investment decision is made.",
+      "East Asian economies facing higher natural gas prices would benefit from increased supplies of American natural gas, according to Vance, who believes strong demand will drive the project's success."
+    ],
+    "title": "Vance says details of proposed Alaska LNG pipeline need to be worked out",
+    "topic": "US Politics",
+    "topic_full": "US Politics · Alaska"
+  },
+  {
+    "article_path": "/article/tennessee-republicans-consider-more-execution-options-after-christa-pike-lethal-injection-fails",
+    "article_url": "https://ground.news/article/tennessee-republicans-consider-more-execution-options-after-christa-pike-lethal-injection-fails",
+    "bias": null,
+    "bias_bar_text": null,
+    "center_pct": 74.0,
+    "error": null,
+    "left_pct": 13.0,
+    "location": "Tennessee",
+    "right_pct": 13.0,
+    "status": "no_change",
+    "summary": [
+      "On Monday, Tennessee Republicans began exploring alternative execution methods following Christa Pike's failed execution last week. Pike, 50, survived a lethal drug dose, prompting state leaders to seek systemic changes.",
+      "After the failed execution, Republican Gov. Bill Lee halted the state's remaining executions this year and ordered an independent investigation. Lee announced the commissioner of the Department of Correction will step down.",
+      "House Speaker Cameron Sexton said lawmakers want to \"broaden it, include more methods.\" The electric chair remains an available option for about two dozen of the 40 people on death row.",
+      "Lamberth expressed openness to making electrocution the primary execution method, stating, \"Whatever we do, I do not want it to delay justice for these victims' families.\" His position prioritizes swift implementation.",
+      "Sen. Marsha Blackburn argued the failed procedure \"should not be grounds to halt carrying out the death penalty,\" emphasizing Tennessee must reevaluate its processes and personnel to ensure successful executions."
+    ],
+    "title": "Tennessee Republicans consider more execution options after Christa Pike lethal injection fails",
+    "topic": "Tennessee Politics",
+    "topic_full": "Tennessee Politics · Tennessee"
+  },
+  {
+    "article_path": "/article/new-york-city-council-ai-hearing-on-monday-to-feature-testimony-from-top-tech-executives_0ecfac",
+    "article_url": "https://ground.news/article/new-york-city-council-ai-hearing-on-monday-to-feature-testimony-from-top-tech-executives_0ecfac",
+    "bias": [
+      "Left-Leaning coverage frames the hearing around “alarms,” “dangers,” corporate recklessness, and the need for stronger oversight, portraying AI as a systemic public-risk problem.",
+      "Right-Leaning coverage intensifies the emotional register with “ whistleblower ,” “doubles down,” “rogue AI,” “gambling with our lives,” and “extinction threat,” casting rapid development as an existential gamble and institutional failure.",
+      "Center coverage is more procedural, emphasizing testimony, proposed legislation, whistleblower protections, local-versus-federal authority, and verification caveats.",
+      "The pivotal divide is whether uncontrollable AI warrants sweeping intervention or catastrophic alarm.",
+      "All perspectives highlight Coxon’s warnings, major companies’ participation, and the broader struggle over technological power and accountability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 44.0,
+    "error": null,
+    "left_pct": 32.0,
+    "location": "New York",
+    "right_pct": 24.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, New York City Council Speaker Julie Menin requested former Anthropic researcher Jacob Coxon to testify at an upcoming hearing on artificial intelligence safety as lawmakers weigh a package of bills establishing safeguards.",
+      "Coxon resigned from Anthropic last month, issuing warnings that \"people building AI earnestly believe that it could kill us all by the end of the decade\" and accusing his former employer and OpenAI of \"gambling with our lives.\"",
+      "Assemblymember Alex Bores, author of New York's frontier AI safety law, recently stated that states must regulate the technology while federal legislative progress remains slow.",
+      "City lawmakers are weighing proposals ranging from mandatory safety evaluations to government-controlled \"kill switches,\" with measures potentially requiring developers to register with agencies and maintain public safety plans.",
+      "While federal policy moves slowly, state and local officials are increasingly stepping in to fill the regulatory void, reflecting a broader effort to direct the AI industry's trajectory."
+    ],
+    "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
+    "topic": "Artificial Intelligence",
+    "topic_full": "Artificial Intelligence · New York"
+  },
+  {
+    "article_path": "/article/us-appeals-court-weighs-trumps-block-on-harvard-research-funding",
+    "article_url": "https://ground.news/article/us-appeals-court-weighs-trumps-block-on-harvard-research-funding",
+    "bias": [
+      "Left-Leaning coverage frames the case around whether a judge can “restore” billions in “funding cuts,” subtly portraying Trump’s action as deprivation and judicial intervention as remedy.",
+      "Center and right perspectives instead stress Trump’s effort to “block” or “terminate” more than $2 billion in research grants, with “broad campaign” casting the dispute as part of a larger confrontation; right-leaning coverage also highlights Harvard as the “richest and oldest” university while de-emphasizing the judge’s authority and opposing arguments.",
+      "The dividing line is remedy versus executive restraint, though all perspectives emphasize the appeals court, Trump’s role, and the high-stakes clash over federal research funding."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 54.0,
+    "error": null,
+    "left_pct": 31.0,
+    "location": "Boston",
+    "right_pct": 15.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, the Trump administration asked the First Circuit Court of Appeals to revive its effort to terminate more than $2.6 billion in federal grants awarded to Harvard University, challenging a district court's previous restoration of the funding.",
+      "Last year, District Judge Allison Burroughs restored the funding, ruling the administration's termination was illegal retaliation against Harvard for rejecting a federal list of 10 policy demands regarding campus governance and diversity programs.",
+      "Justice Department attorney Michael Velchik asserted the case belongs in the Court of Federal Claims, while Harvard attorney Paul Clement argued the lawsuit properly addresses broader issues of government retaliation and discrimination.",
+      "First Circuit Judge Sandra Lynch and other panel members questioned the government's claim that Harvard failed to address campus antisemitism, though the court did not immediately rule on the administration's request.",
+      "This appeal is part of a wider administration campaign to reshape elite universities through civil rights investigations, threats to tax-exempt status, and attempts to restrict international student access, impacting schools across the Ivy League."
+    ],
+    "title": "Appeals court weighs judge’s authority to restore Trump administration funding cuts to Harvard",
+    "topic": "US Politics",
+    "topic_full": "US Politics · Boston"
+  },
+  {
+    "article_path": "/article/mcdonalds-international-faces-collective-demand-for-menu-prices",
+    "article_url": "https://ground.news/article/mcdonalds-international-faces-collective-demand-for-menu-prices",
+    "bias": [
+      "Left-Leaning coverage frames the lawsuit through consumer harm, spotlighting a “21% price difference” for the same Big Mac, customer “willingness to pay,” and concerns about corporate exploitation.",
+      "Right-Leaning coverage foregrounds alleged “price-fixing,” antitrust violations, and “overpricing,” portraying the dispute as a clash over corporate power and technological control, while both acknowledge McDonald’s denial that AI sets prices and that franchisees retain authority.",
+      "Center coverage more explicitly balances allegation and rebuttal, using “alleging” and noting the nationwide case.",
+      "The dividing line is whether AI recommendations signify discriminatory pricing or merely optional tools—reflecting broader disputes over markets, regulation, and accountability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 31.0,
+    "error": null,
+    "left_pct": 15.0,
+    "location": "Chicago",
+    "right_pct": 54.0,
+    "status": "ok",
+    "summary": [
+      "A proposed nationwide class-action lawsuit filed in Chicago federal court accuses McDonald's of using an AI-driven pricing algorithm trained on non-public sales data to illegally coordinate menu prices across nearly 14,000 corporate and franchise locations.",
+      "The complaint alleges that McDonald's violated Section 1 of the Sherman Antitrust Act by deploying machine-learning algorithms to set location-specific price recommendations, inflating costs for items like the Big Mac and Quarter Pounder.",
+      "Plaintiffs argue that franchisees are independent business entities required under federal antitrust law to determine their prices autonomously, asserting that centralizing price recommendations through shared corporate AI constitutes unlawful price coordination.",
+      "McDonald's strongly rejected the suit's claims, calling the allegations speculative and emphasizing that franchisees maintain complete authority over their final menu prices while highlighting that AI analytics are standard practice across the retail sector.",
+      "The legal action reflects a broader wave of antitrust litigation targeting algorithmic pricing across industries, including hotel accommodations, apartment rentals, and gas stations."
+    ],
+    "title": "McDonald's hit with class action alleging AI-powered menu price-fixing",
+    "topic": "McDonald's",
+    "topic_full": "McDonald's · Chicago"
+  },
+  {
+    "article_path": "/article/starbucks-sued-over-sugar-free-claims-for-protein-beverages",
+    "article_url": "https://ground.news/article/starbucks-sued-over-sugar-free-claims-for-protein-beverages",
+    "bias": [
+      "Left-Leaning coverage foregrounds the legal meaning of “sugar-free,” using phrases such as “falsely advertised” and “reasonable consumers” to stress alleged corporate accountability: consumers say they would not expect such labeling alongside 13–21 grams of naturally occurring lactose per serving.",
+      "Right-Leaning coverage broadens the dispute into alleged “consumer-protection” violations and says Starbucks tried to “capitalize” on demand for reduced-sugar products, while center coverage adds Seattle court procedure and allegedly required calorie and weight-control disclaimers.",
+      "All perspectives identify eight beverages, the proposed lawsuit, and the disputed lactose; their framing reflects wider tensions over regulation, marketing, and consumer choice."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 55.0,
+    "error": null,
+    "left_pct": 27.0,
+    "location": "United States",
+    "right_pct": 18.0,
+    "status": "ok",
+    "summary": [
+      "On Friday, a proposed class-action lawsuit filed in Seattle federal court accused Starbucks of falsely advertising eight protein beverages as \"sugar-free\" when they contain 13 to 21 grams of naturally occurring sugar per serving.",
+      "Federal law prohibits labeling beverages \"sugar-free\" if they contain more than 0.5 grams of sugar per 12-ounce serving, yet the complaint alleges Starbucks' drinks exceed this limit due to lactose, a natural sugar in milk.",
+      "Consumers allege Starbucks targeted 75% of Americans seeking to reduce sugar intake with eight items including the Sugar-Free Vanilla Protein Latte, which \"venti\" servings contain 270 to 340 calories.",
+      "Plaintiffs also argue Starbucks violated labeling rules by omitting mandatory disclaimers clarifying the beverages are not low-calorie or meant for weight control; Starbucks had no immediate comment on Monday.",
+      "Food producers are regularly sued for alleged false advertising over \"sugar-free\" or \"zero sugar\" claims, with dozens of recent cases challenging products containing sugar substitutes or lacking required nutritional disclosures."
+    ],
+    "title": "Starbucks sued over 'sugar-free' claims for protein beverages",
+    "topic": "Starbucks",
+    "topic_full": "Starbucks · United States"
+  },
+  {
+    "article_path": "/article/first-on-cnn-cornell-faculty-prepare-no-confidence-vote-against-administration-over-handling-of-alleged-sexual-assault-case",
+    "article_url": "https://ground.news/article/first-on-cnn-cornell-faculty-prepare-no-confidence-vote-against-administration-over-handling-of-alleged-sexual-assault-case",
+    "bias": [
+      "Left-Leaning coverage frames the faculty action through institutional accountability, highlighting protests, “calls for reform,” and an “alleged gang rape” at a fraternity house, while retaining “alleged” as legal caution.",
+      "Right-Leaning coverage sharpens dissatisfaction, portraying authorities as having “failed to punish students … sufficiently” and the vote as an effort to “increase pressure” on the president.",
+      "Center coverage de-emphasizes interpretation, emphasizing a “rare” procedural vote and growing protests.",
+      "All portray faculty challenging the administration over the 2024 allegations, but their emphasis divides reform-oriented concern from punishment, presidential accountability, and institutional pressure."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 92.0,
+    "error": null,
+    "left_pct": 8.0,
+    "location": "Ithaca",
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "On Monday, the Cornell University Faculty Senate introduced a no-confidence resolution against the administration regarding its handling of a 2024 alleged gang rape, with approximately 40 senators expressing support for the measure.",
+      "Student anger intensified Monday night during a campus rally where protesters chanted \"shame\" and \"resign,\" while earlier that day, anonymous activists vandalized the administration building, painting messages including \"smash the patriarchy.\"",
+      "New evidence shows Cornell police drafted letters to Verizon and T-Mobile in 2024 asking them to \"preserve all available data,\" though it remains unclear whether investigators sent the requests or prosecutors received them.",
+      "Attorney General Letitia James will serve as special prosecutor after New York Gov. Kathy Hochul stated she \"lost faith\" in Van Houten's ability to oversee the inquiry, citing investigative failures.",
+      "Groups plan a seven-hour sit-in Wednesday \"in solidarity with Jane Doe,\" while associate professor Sabrina Karim emphasized that trust has been broken and the community must unite to demand changes."
+    ],
+    "title": "Cornell faculty prepare no-confidence vote against administration over handling of alleged sexual assault case",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Ithaca"
+  },
+  {
+    "article_path": "/article/paris-police-ban-large-gaza-demonstration-on-october-7",
+    "article_url": "https://ground.news/article/paris-police-ban-large-gaza-demonstration-on-october-7",
+    "bias": null,
+    "bias_bar_text": "Left 60% Right 40%",
+    "center_pct": null,
+    "error": "Message: \n",
+    "left_pct": 60.0,
+    "location": null,
+    "right_pct": 40.0,
+    "status": "fail",
+    "summary": null,
+    "title": "A Demonstration at the Call of the Collective Urgence Palestine Banned in Paris on the Day of the Commemorations of 7-October",
     "topic": null,
     "topic_full": null
   },
@@ -692,135 +693,207 @@
     "topic_full": null
   },
   {
-    "article_path": "/article/maritime-authority-irans-revolutionary-guard-threatened-to-target-a-tanker-as-it-crossed-the-strait-of-hormuz",
-    "article_url": "https://ground.news/article/maritime-authority-irans-revolutionary-guard-threatened-to-target-a-tanker-as-it-crossed-the-strait-of-hormuz",
+    "article_path": "/article/hegseth-cuts-20-of-generals-and-admirals-calls-it-accountability-over-woke-culture",
+    "article_url": "https://ground.news/article/hegseth-cuts-20-of-generals-and-admirals-calls-it-accountability-over-woke-culture",
     "bias": null,
-    "bias_bar_text": "Left 25% Right 75%",
+    "bias_bar_text": "Left 57% Center 43%",
+    "center_pct": 43.0,
+    "error": null,
+    "left_pct": 57.0,
+    "location": null,
+    "right_pct": null,
+    "status": "no_change",
+    "summary": [
+      "Defense Secretary Pete Hegseth announced a 20 percent reduction in general and admiral positions by early 2027, describing the move as \"long overdue\" during a State of the Force address last week.",
+      "This directive doubles the 10 percent reduction Hegseth announced last year and follows his earlier removal or forced retirement of more than two dozen senior officers, including several high-ranking women.",
+      "The Pentagon asserts the plan will reduce bureaucracy and accelerate decision-making, though critics warn that rapidly stripping experienced leadership during active global conflicts could weaken military readiness.",
+      "Several GOP senators expressed frustration over the lack of advance notice, with Mississippi Senator Roger Wicker stating, \"I wouldn't have made that a priority if I had been asked.\"",
+      "Senate Armed Services Committee ranking Democrat Jack Reed warned that indiscriminate cuts could weaken readiness and remove expertise the military may need during crises, while Hegseth continues restructuring he deems necessary."
+    ],
+    "title": "Hegseth Pushes Deeper Military Leadership Cuts Despite Readiness Concerns",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/flydubai-he-shouldnt-have-been-flying-vance-reacts-to-possible-iran-link-in-flydubai-incident-the-economic-times-video_a15609",
+    "article_url": "https://ground.news/article/flydubai-he-shouldnt-have-been-flying-vance-reacts-to-possible-iran-link-in-flydubai-incident-the-economic-times-video_a15609",
+    "bias": [
+      "Left-Leaning coverage foregrounds Vance’s cautious phrase “no conclusive evidence,” de-emphasizing the cockpit attack and treating an Iran link as unsubstantiated.",
+      "Center coverage broadens the frame to aviation procedures, whether Ben Gurion was a target, and the “possible” connection, while right-leaning coverage adopts a sharper security-and-accountability tone, using “hijacker attack,” “problem,” “troublemaker,” and “radicalized” to portray the co-pilot as a known danger who “should not have been flying.” The pivotal divide is whether to emphasize evidentiary restraint or institutional failure, radicalization, and geopolitical threat.",
+      "All perspectives nevertheless highlight Vance’s rejection of a confirmed Iranian role, reflecting wider tensions over security, culpability, and speculation."
+    ],
+    "bias_bar_text": null,
     "center_pct": null,
-    "error": "Message: \n",
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "Vice President JD Vance said the U.S. administration is reviewing aviation procedures after a Flydubai co-pilot allegedly attacked the captain during a passenger flight.",
+      "Passengers and crew subdued the co-pilot after the Boeing 737 Max 8 descended more than 16,000 feet, and other pilots helped land the aircraft safely in Saudi Arabia.",
+      "Vance said officials are investigating a possible Iranian connection but that he had seen no conclusive evidence."
+    ],
+    "title": "JD Vance Questions FlyDubai Pilot Screening After Co-Pilot Attack on Captain",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/gop-senator-threatens-to-reveal-trumps-phone-number-if-he-doxes-him-i-got-his-number-too",
+    "article_url": "https://ground.news/article/gop-senator-threatens-to-reveal-trumps-phone-number-if-he-doxes-him-i-got-his-number-too",
+    "bias": [
+      "Left-Leaning coverage frames the episode as escalating misconduct, using terms like “Trump foe,” “threatens,” and “doxes,” while stressing Trump’s reported posting of Tom Cotton’s number and Tillis’s broader fallout with him.",
+      "Right-Leaning coverage presents a narrower, more reciprocal warning: Tillis “warned” that he had Trump’s number if Trump disclosed his, emphasizing direct exchange over surrounding context.",
+      "The pivotal divide is whether the remark signals retaliation and political hostility or defensive deterrence.",
+      "Both perspectives identify Tillis, Trump, *The View*, and the phone-number dispute, reflecting broader disagreements over Trump-era confrontation, privacy, and partisan loyalty."
+    ],
+    "bias_bar_text": null,
+    "center_pct": null,
+    "error": null,
+    "left_pct": null,
+    "location": null,
+    "right_pct": null,
+    "status": "ok",
+    "summary": [
+      "Republican Sen. Thom Tillis warned President Donald Trump during an appearance on The View on Monday that he would share the president's phone number if Trump attempted to doxx him, referencing Trump's recent targeting of Arkansas Sen. Tom Cotton .",
+      "Trump shared Cotton's personal cell phone number on TRUTH Social two days prior to pressure the Arkansas senator into supporting the Sunshine Protection Act, legislation aimed at making daylight saving time permanent nationwide.",
+      "Promoting his book How to Lose Friends and Antagonize Presidents, Tillis revealed he previously clashed with Trump over the \"Big, Beautiful Bill\" last year, a conflict that influenced his retirement decision from the Senate.",
+      "Quoting a past message to Trump, Tillis declared, \"I don't take this B.S. from anyone, including you, Mr. President,\" before adding, \"With all due respect, I have his number, too,\" drawing applause from the studio audience.",
+      "Cotton responded to the pressure Saturday on social media, while Tillis continues promoting his book exploring themes of partisan groupthink and sycophants in Washington politics ."
+    ],
+    "title": "GOP Senator Says If Trump Doxes Him, 'I Got His Number Too'",
+    "topic": null,
+    "topic_full": null
+  },
+  {
+    "article_path": "/article/coco-gauff-hits-back-at-critics-after-controversial-china-open-challenge-im-not-a-cheater_8b33bc",
+    "article_url": "https://ground.news/article/coco-gauff-hits-back-at-critics-after-controversial-china-open-challenge-im-not-a-cheater_8b33bc",
+    "bias": [
+      "Left-Leaning coverage foregrounds racial injustice, calling Gauff’s attackers a “racist internet troll” and portraying her as “following rules” while “shutting down” abuse.",
+      "Right-Leaning framing stresses the replay dispute’s escalation, using “claps back” and “turns nasty” to emphasize confrontation and online disorder.",
+      "Center coverage broadens the lens, highlighting Sun Xinran’s “heartbreaking” loss, “Cinderella story,” Gauff’s apology, and her denial that she was a “cheater.” The pivotal divide is whether the episode is primarily racial harassment or a contested sporting decision.",
+      "All perspectives agree Gauff won, abuse followed, and controversy spread, reflecting wider tensions over discrimination, accountability, and competitive fairness."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 40.0,
+    "error": null,
     "left_pct": 25.0,
-    "location": null,
-    "right_pct": 75.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Tanker Ordered by Iran’s IRGC to Turn Back in Hormuz or Risk Being Hit, UKMTO Says",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/rahm-emanuel-says-america-is-ready-for-a-jewish-president-my-faith-is-not-your-problem",
-    "article_url": "https://ground.news/article/rahm-emanuel-says-america-is-ready-for-a-jewish-president-my-faith-is-not-your-problem",
-    "bias": [
-      "Left-Leaning framing presents former Chicago mayor Rahm Emanuel ’s “my faith is not your problem” as a firm appeal for religious tolerance, portraying Jewish identity as personal rather than disqualifying.",
-      "Right-Leaning coverage adopts a more campaign-oriented, culture-war tone, using phrases such as “eyes 2028 run,” “lost faith,” and “deeper national problem” to shift attention toward Democratic positioning and declining confidence in national leadership; religious inclusion is de-emphasized.",
-      "Both note Emanuel’s “ready” claim during a *Meet the Press* interview with Kristen Welker, his Jewish identity, and the broader question of whether faith should shape presidential judgments."
-    ],
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": null,
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
+    "location": "United States",
+    "right_pct": 35.0,
     "status": "ok",
     "summary": [
-      "Former Chicago Mayor Rahm Emanuel told NBC's Meet the Press on Sunday that America is ready to elect its first Jewish president, declaring, 'My faith is not your problem.'",
-      "Weighing a 2028 Democratic presidential bid, Emanuel brings extensive government experience, having served as Chicago mayor, White House Chief of Staff to President Barack Obama, and U.S. ambassador to Japan under President Joe Biden.",
-      "Emanuel attributed his political record to his Jewish faith, citing his overhaul of Chicago schools and battles with insurance companies over children's health coverage as examples of his values in public service.",
-      "He urged Americans to focus on restoring national faith rather than his religion, stating, 'I believe in the goodness and the grace of the American people,' while refusing to alter his religious identity for political gain.",
-      "While former nominees Bernie Sanders and Joe Lieberman have run as Jewish candidates, no Jew has held the presidency, as Emanuel navigates internal Democratic divisions regarding Israel."
+      "Coco Gauff reached the Round of 16 at the China Open after defeating 16-year-old Sun Xinran, though the victory followed a controversial mid-point challenge. The American halted play due to a flickering light while serving at 4-5.",
+      "Gauff explained on Monday that she followed rules allowing players to challenge after a point. She called the incident \"an unfortunate situation\" that was \"out of my control,\" noting Sun had understood and accepted her apology.",
+      "Following the match, Gauff faced a surge of racist comments and direct messages on social media. She wrote, \"You can dislike me or disagree about what happened without being racist,\" denouncing the \"insane\" volume of abuse.",
+      "More than 12,000 abusive social media posts targeted female players in 2025, according to a report. The WTA and World Tennis stated \"collective action\" is required to make \"significant progress\" in tackling the problem.",
+      "Despite the controversy, Gauff advanced in Beijing with a 7-5, 6-1 victory, illustrating persistent challenges regarding online harassment in the women's game. The incident underscores why collective action remains essential for player safety."
     ],
-    "title": "Rahm Emanuel says America is ready for a Jewish president",
-    "topic": null,
-    "topic_full": null
+    "title": "Gauff hits out at racist abuse after replayed point in Beijing sparks backlash",
+    "topic": "Coco Gauf",
+    "topic_full": "Coco Gauf · United States"
   },
   {
-    "article_path": "/article/ken-paxton-says-dc-controls-his-campaign-in-shocking-audio",
-    "article_url": "https://ground.news/article/ken-paxton-says-dc-controls-his-campaign-in-shocking-audio",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": null,
-    "error": "Message: \n",
-    "left_pct": null,
-    "location": null,
-    "right_pct": null,
-    "status": "fail",
-    "summary": null,
-    "title": "Ken Paxton Caught in ANOTHER Leaked Hot Mic Moment",
-    "topic": null,
-    "topic_full": null
-  },
-  {
-    "article_path": "/article/rahm-emanuel-says-democrats-should-focus-on-ethics-reforms-rather-than-impeaching-trump",
-    "article_url": "https://ground.news/article/rahm-emanuel-says-democrats-should-focus-on-ethics-reforms-rather-than-impeaching-trump",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 22.0,
-    "error": "Message: \n",
-    "left_pct": 11.0,
-    "location": "United States",
-    "right_pct": 67.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Emanuel urges Democrats to prioritize ethics reform over potential third Trump impeachment",
-    "topic": "US Politics",
-    "topic_full": "US Politics · United States"
-  },
-  {
-    "article_path": "/article/sharon-stone-exclaims-if-men-got-pregnant-you-could-get-an-abortion-from-a-vending-machine",
-    "article_url": "https://ground.news/article/sharon-stone-exclaims-if-men-got-pregnant-you-could-get-an-abortion-from-a-vending-machine",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 6.0,
-    "error": "Message: \n",
-    "left_pct": 13.0,
-    "location": "United States",
-    "right_pct": 81.0,
-    "status": "fail",
-    "summary": null,
-    "title": "Sharon Stone Says Abortion Would Be More Accessible If Men Could Get Pregnant",
-    "topic": "Abortion",
-    "topic_full": "Abortion · United States"
-  },
-  {
-    "article_path": "/article/fbi-arrests-alleged-chinese-agent-at-lax-after-she-allegedly-surveilled-son-of-taiwanese-president_1c061e",
-    "article_url": "https://ground.news/article/fbi-arrests-alleged-chinese-agent-at-lax-after-she-allegedly-surveilled-son-of-taiwanese-president_1c061e",
-    "bias": null,
-    "bias_bar_text": null,
-    "center_pct": 54.0,
-    "error": "Message: \n",
-    "left_pct": 22.0,
-    "location": "California",
-    "right_pct": 24.0,
-    "status": "fail",
-    "summary": null,
-    "title": "FBI arrests alleged Chinese agent at LAX after she allegedly surveilled son of Taiwanese president",
-    "topic": "FBI",
-    "topic_full": "FBI · California"
-  },
-  {
-    "article_path": "/article/us-attorney-general-says-maduro-and-cilia-flores-do-not-have-immunity-and-asks-the-judge-to-continue-the-trial",
-    "article_url": "https://ground.news/article/us-attorney-general-says-maduro-and-cilia-flores-do-not-have-immunity-and-asks-the-judge-to-continue-the-trial",
+    "article_path": "/article/televangelist-jim-bakker-who-built-a-faith-based-empire-before-resigning-amid-scandal-dies-at-86_882b2a",
+    "article_url": "https://ground.news/article/televangelist-jim-bakker-who-built-a-faith-based-empire-before-resigning-amid-scandal-dies-at-86_882b2a",
     "bias": [
-      "Left-Leaning coverage emphasizes Maduro’s disputed legitimacy, citing the State Department’s refusal to recognize him as president and using phrases such as “rogue officials,” “rogue state,” and “narco-terror.” Right-leaning coverage foregrounds law-and-order momentum, portraying the immunity claim as “immunity pretensions” that a judge “stops,” while stressing Cilia Flores, trial proceedings, and scheduled dates.",
-      "Center-Leaning accounts de-emphasize those political and procedural dimensions, presenting an unsuccessful dismissal effort in restrained legal language.",
-      "The pivotal divide is whether immunity reflects contested sovereignty or improper privilege; all perspectives nevertheless emphasize prosecutors’ allegations, the U.S. case, and movement toward prosecution, reflecting broader geopolitical tensions over Venezuela ."
+      "Left-Leaning coverage casts Bakker chiefly as a “disgraced,” “scandal-plagued” televangelist whose faith-based “empire” collapsed through fraud, imprisonment, and sexual misconduct, while right-leaning coverage balances “scandal-scarred” with “pioneering Christian broadcaster” and portrays his later life as having “finished his race with faith.” The pivotal divide is whether his legacy centers on defrauding followers and the $279,000 settlement or enduring religious influence; right coverage also highlights Jessica Hahn and post-prison ministry.",
+      "Center reports temper both frames with biography and uncertainty about the cause of death.",
+      "All emphasize his 86-year death, PTL prominence, and scandals, reflecting broader tensions over accountability, redemption, and religious authority."
     ],
     "bias_bar_text": null,
-    "center_pct": 20.0,
+    "center_pct": 59.0,
     "error": null,
-    "left_pct": 50.0,
-    "location": "United States",
-    "right_pct": 30.0,
+    "left_pct": 27.0,
+    "location": "Branson",
+    "right_pct": 14.0,
     "status": "ok",
     "summary": [
-      "On Friday, October 2, U.S. prosecutors filed a response in Manhattan federal court asking Judge Alvin Hellerstein to reject immunity claims from former Venezuelan President Nicolás Maduro and his wife, Cilia Flores in their narco-terrorism case.",
-      "Maduro's defense argued he possesses immunity as a head of state, but the government countered that he and Flores are \"former rogue officials of a formerly rogue state with no entitlement to immunity\" under U.S. law.",
-      "Prosecutors cited \"absolute deference\" to the executive branch's decision to withdraw recognition of Maduro in 2019; the U.S. now recognizes interim President Delcy Rodriguez, undermining the couple's sovereign immunity claims.",
-      "Separately, a Manhattan judge will hear Flores' bond request on Thursday, though prosecutors oppose her release, labeling her an \"extreme flight risk\" in a filing submitted last month.",
-      "The case remains on schedule for a jury trial on June 1, 2027, with Judge Hellerstein set to hear oral arguments on November 17, pending defense replies due October 16."
+      "On Monday, televangelist Jim Bakker died at age 86, his wife, Lori Bakker, announced. No cause of death was immediately disclosed.",
+      "Bakker rose to prominence in the 1970s as co-host of \"The PTL Club,\" which he launched with Tammy Faye Bakker, becoming a pioneer of Christian television and developing the PTL Satellite Network.",
+      "Following his 1987 resignation after paying hush money to a church secretary, Bakker was indicted on fraud and conspiracy charges, receiving a 45-year prison sentence before his parole in 1994.",
+      "After his release, Bakker hosted \"The Jim Bakker Show\" alongside Lori from Branson , Missouri. His church paid $156,000 in 2021 to settle a lawsuit over coronavirus supplement claims.",
+      "Lori stated her husband devoted 66 years to preaching the Gospel of Jesus Christ. His life inspired portrayals by actors including Andrew Garfield and Kevin Spacey in theatrical productions."
     ],
-    "title": "Maduro Not Immune to Prosecution in Narco-Terror Case, U.S. Says",
-    "topic": "Nicolás Maduro",
-    "topic_full": "Nicolás Maduro · United States"
+    "title": "Televangelist Jim Bakker, who built a faith-based empire before resigning amid scandal, dies at 86",
+    "topic": "Celebrity",
+    "topic_full": "Celebrity · Branson"
+  },
+  {
+    "article_path": "/article/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises",
+    "article_url": "https://ground.news/article/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises",
+    "bias": [
+      "No left-leaning headlines appear, so the contrast is between center and right framing: center coverage emphasizes testing systems to detect and disable small drones and learning from battlefield innovation in Ukraine, while right-leaning headlines stress an “advanced” response to cartel activity, using “surge,” “incursions,” and “critical” to heighten urgency.",
+      "The right also foregrounds 378 penetrations in 30 days, Brigadier General Brian Filler’s attribution, and commercially available, ready-to-use drones—details de-emphasized by center coverage.",
+      "Both portray Arizona testing as a response to rising cartel-linked drone activity, but differ between military adaptation and border-security alarm."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 64.0,
+    "error": null,
+    "left_pct": null,
+    "location": "United States",
+    "right_pct": 36.0,
+    "status": "ok",
+    "summary": [
+      "The Army is testing counter-drone technology along the US-Mexico border near Yuma, Arizona, evaluating systems designed to detect and disable small unmanned aircraft used by cartels.",
+      "Brigadier General Brian Filler of the Joint Task Force Southern Border reported 378 drone incursions in the previous 30 days, with most carrying surveillance cameras linked to smuggling operations.",
+      "During the September Falcon Peak exercise, defense firms demonstrated Anduril's Ghost drone, Teledyne FLIR detection technology, the Bullfrog machine gun by Allen Control Systems, and interceptor drones from Powerus.",
+      "Military officials reported downed 11 cartel drones using lasers since August, reflecting the Pentagon's growing embrace of venture-backed defense technology to strengthen border operations.",
+      "Brigadier General Matt Ross emphasized the need to \"replicate that process\" from Ukraine's rapid adaptation, though military officials caution that cartel drones lack battlefield sophistication."
+    ],
+    "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
+    "topic": "U.S. Army",
+    "topic_full": "U.S. Army · United States"
+  },
+  {
+    "article_path": "/article/marimar-martinez-to-file-federal-lawsuit-over-shooting-by-border-patrol-agent",
+    "article_url": "https://ground.news/article/marimar-martinez-to-file-federal-lawsuit-over-shooting-by-border-patrol-agent",
+    "bias": [
+      "Left-Leaning coverage foregrounds Martinez being “shot five times,” says she “challenges the feds’ narrative,” and portrays her as “exonerated” after an allegedly unjust “domestic terrorist” label, linking the case to “aggressive deportation efforts.” Right-leaning framing narrows the episode to a nonfatal shooting and negligence dispute, emphasizing federal liability while de-emphasizing ballistics, alleged lack of danger, and potential criminal charges.",
+      "Center coverage stresses procedural details—Federal Tort Claims Act, timing, reconstruction, and possible prosecution—without the left’s broader condemnation or right’s streamlined liability frame.",
+      "The pivotal divide is whether this is evidence of immigration-policy abuse or an isolated use-of-force case; all emphasize five shots, federal involvement, and Martinez’s lawsuit, reflecting wider disputes over enforcement and government accountability."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 62.0,
+    "error": null,
+    "left_pct": 33.0,
+    "location": "Chicago",
+    "right_pct": 5.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Marimar Martinez filed a federal lawsuit against the government for the October 4, 2025, shooting by Border Patrol Agent Charles Exum in Brighton Park, with attorneys presenting an animated reconstruction of the incident.",
+      "During Operation Midway Blitz in 2025, federal agents shot Martinez five times after a traffic altercation; officials initially labeled her a 'domestic terrorist' and claimed she rammed their vehicle, though body-camera footage later contradicted these accounts.",
+      "Forensic analysis shows Exum fired into the rear of Martinez's vehicle, contradicting his claim she drove toward him; Attorney Chris Parente noted, \"Any of your viewers... will clearly see that this agent was not in front.\"",
+      "Federal prosecutors dropped assault charges against Martinez after 46 days when video evidence emerged; her legal team now seeks damages, citing internal text messages where agents praised the shooting.",
+      "The Chicago Police Department is currently investigating whether criminal charges are warranted against Exum, while Martinez's Federal Tort Claims Act lawsuit seeks to establish government liability for the agent's conduct."
+    ],
+    "title": "US citizen who was shot by immigration agent in Chicago files lawsuit alleging he fired from behind",
+    "topic": "Chicago, IL",
+    "topic_full": "Chicago, IL · Chicago"
+  },
+  {
+    "article_path": "/article/cornell-students-stage-anti-rape-rally-in-support-of-jane-doe_94e911",
+    "article_url": "https://ground.news/article/cornell-students-stage-anti-rape-rally-in-support-of-jane-doe_94e911",
+    "bias": [
+      "Left-Leaning coverage frames the protest as survivor solidarity and a challenge to an “elite university,” stressing alleged institutional failure, “nothing happens,” and a possible “nationwide reform movement.” Right-leaning coverage foregrounds more than 1,000 angry demonstrators, demands that the president “resign,” and accusations of “protecting the perpetrators,” while “descend” and “take over” cast protest as confrontational; reports of damage and threats sharpen that tone.",
+      "Center coverage de-emphasizes blame, emphasizing the lawsuit, investigation, and procedural reform.",
+      "The pivotal divide is systemic accountability versus institutional disruption, though all perspectives highlight Jane Doe, sexual-violence allegations, and demands for stronger university action."
+    ],
+    "bias_bar_text": null,
+    "center_pct": 38.0,
+    "error": null,
+    "left_pct": 31.0,
+    "location": "Ithaca",
+    "right_pct": 31.0,
+    "status": "ok",
+    "summary": [
+      "On Monday, Oct. 5, nearly 1,000 Cornell University students marched through Ithaca, New York , to support a classmate known as Jane Doe and demand accountability regarding her gang-rape allegations.",
+      "Doe's September lawsuit alleges she was gang-raped by seven members of the Chi Phi fraternity in 2024 after being drugged, prompting public outrage over why law enforcement originally declined to pursue charges.",
+      "Demonstrators demanded the resignation of Cornell President Michael Kotlikoff, accusing the administration of perpetuating what they called a \"culture of rape\" on campus.",
+      "Last Friday, New York Governor Kathy Hochul appointed New York State Attorney General Letitia James as a special prosecutor to reopen the investigation, saying she was \"deeply disturbed\" by the original handling.",
+      "The Cornell NAACP chapter is organizing an economic boycott and sit-in for Wednesday, Oct. 7, while the university's Board of Trustees plans an independent review by an outside law firm."
+    ],
+    "title": "Cornell students stage anti-rape rally in support of 'Jane Doe'",
+    "topic": "US Crime",
+    "topic_full": "US Crime · Ithaca"
   }
 ]
